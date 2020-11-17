@@ -1,7 +1,7 @@
 import json
 
-# This class reads a TrackWorld dataset folder
-# e.g. trackworld/training_data/emnlp_2020/no_attr/train
+# This class reads an OpenPI dataset folder
+# e.g. data/gold/dev/
 # such folder will always contain 4 jsonl files
 # id_question.jsonl, id_answers.jsonl, id_question_metadata.jsonl, and id_answers_metadata.jsonl
 # This class reads and stores all the information and gives out easy access functions like

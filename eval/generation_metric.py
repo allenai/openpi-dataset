@@ -4,7 +4,6 @@ import re
 import string
 
 from eval.eval_metric.bleu.bleu import Bleu
-from eval.eval_metric.meteor.meteor import Meteor
 from eval.eval_metric.rouge.rouge import Rouge
 from eval.eval_util import normalize_and_stem
 
@@ -70,22 +69,6 @@ class NormStrMetric(GenerationMetric):
 
     def name(self):
         return "NormStrMetric"
-
-
-class MeteorMetric(GenerationMetric):
-    def __init__(self):
-        self.metric = Meteor()
-
-    def compute_score(self, gold: str, predicted: str):
-        # Reference: gold , Hypothesis: predicted
-        score, score_info = self.metric.compute_score(
-            gts={0: [gold]},
-            res={0: [predicted]}
-        )
-        return score / 100.0
-
-    def name(self):
-        return "MeteorMetric"
 
 
 class BLEUMetric(GenerationMetric):

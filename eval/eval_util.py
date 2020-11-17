@@ -5,14 +5,14 @@ from typing import Dict, Any
 
 from nltk import PorterStemmer
 
-from src.eval.tw_specific_eval.spacy_stopwords import STOP_WORDS
+from eval.spacy_stopwords import STOP_WORDS
 
 porter_stemmer = PorterStemmer()
 
 
-def is_stop(cand:str):
-    return cand.lower() in STOP_WORDS or normalize_and_stem(cand) in STOP_WORDS
+def is_stop(cand: str):
     # return nlp.vocab[cand].is_stop
+    return cand.lower() in STOP_WORDS or normalize_and_stem(cand) in STOP_WORDS
 
 
 def sort_map_by_value(dic: Dict[Any, Any], reverse_order: bool):
@@ -51,6 +51,9 @@ def normalize_nostem(s: str) -> str:
 # Phrases are generally not queried and even if they were, they wouldn't blow
 # up computation at eval time.
 cache = dict()
+leads = ["a ", "an ", "the ", "your ", "his ", "their ", "my ", "another ", "other ", "this ", "that "]
+
+
 def stem(w: str):
     if not w or len(w.strip()) == 0:
         return ""
@@ -58,28 +61,10 @@ def stem(w: str):
     if w_lower in cache:
         return cache[w_lower]
     # Remove leading articles from the phrase (e.g., the rays => rays).
-    if w_lower.startswith("a "):
-        w_lower = w_lower[2:]
-    elif w_lower.startswith("an "):
-        w_lower = w_lower[3:]
-    elif w_lower.startswith("the "):
-        w_lower = w_lower[4:]
-    elif w_lower.startswith("your "):
-        w_lower = w_lower[5:]
-    elif w_lower.startswith("his "):
-        w_lower = w_lower[4:]
-    elif w_lower.startswith("their "):
-        w_lower = w_lower[6:]
-    elif w_lower.startswith("my "):
-        w_lower = w_lower[3:]
-    elif w_lower.startswith("another "):
-        w_lower = w_lower[8:]
-    elif w_lower.startswith("other "):
-        w_lower = w_lower[6:]
-    elif w_lower.startswith("this "):
-        w_lower = w_lower[5:]
-    elif w_lower.startswith("that "):
-        w_lower = w_lower[5:]
+    for lead in leads:
+        if w_lower.startswith(lead):
+            w_lower = w_lower[len(lead):]
+            break
     # Porter stemmer: rays => ray
     if not w_lower or len(w_lower.strip()) == 0:
         return ""
@@ -89,15 +74,12 @@ def stem(w: str):
 
 
 def normalize_and_stem(s: str) -> str:
-        def stemmed(text):
-            stemmed_tokens = []
-            for token in text.split():
-                token_stem = stem(token)
-                if token_stem:
-                    stemmed_tokens.append(token_stem)
-            return ' '.join(stemmed_tokens)
+    def stemmed(text):
+        stemmed_tokens = []
+        for token in text.split():
+            token_stem = stem(token)
+            if token_stem:
+                stemmed_tokens.append(token_stem)
+        return ' '.join(stemmed_tokens)
 
-        return stemmed(normalize_nostem(s))
-
-
-
+    return stemmed(normalize_nostem(s))

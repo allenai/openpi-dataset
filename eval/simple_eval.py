@@ -2,6 +2,7 @@ import json
 import os
 import sys
 from typing import List, Callable, Tuple
+import datetime
 
 from tqdm import tqdm
 
@@ -9,7 +10,7 @@ from eval.eval_util import normalize_nostem
 from eval.generation_metric import GenerationMetric, ExactMetric, BLEUMetric, ROUGEMetric
 from eval.tw_eval_dataset_reader import PredictionsFileReader
 
-EFFECT_STOP_WORDS = set(["and", "was", "is", "before", "afterwards", "after", "of"])
+EFFECT_STOP_WORDS = {"and", "was", "is", "before", "afterwards", "after", "of"}
 
 
 def get_content_from_predicted_effect(s):
@@ -78,11 +79,11 @@ def f1_emnlp2020(
 class SizeMismatch(Exception):
     pass
 
+
 def evaluate(predictions_reader: PredictionsFileReader,
              gold_answers_reader: PredictionsFileReader,
              diag: Callable[[str], None],
              generation_metric: GenerationMetric) -> dict:
-
     if len(predictions_reader.get_all_question_ids()) != len(gold_answers_reader.get_all_question_ids()):
         raise SizeMismatch(
             f"Error: Size mismatch: {predictions_reader.in_path} has {len(predictions_reader.get_all_question_ids())} predictions and \n{gold_answers_reader.in_path} has {len(gold_answers_reader.get_all_question_ids())} answers."
@@ -125,12 +126,10 @@ def evaluate(predictions_reader: PredictionsFileReader,
     }
 
 
-
-
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description='Evaluate TrackWorld predictions.')
+    parser = argparse.ArgumentParser(description='Evaluate OpenPI predictions.')
 
     parser.add_argument(
         '--gold-file', '-g',
@@ -143,34 +142,31 @@ def main():
         required=True)
 
     parser.add_argument(
-        '--eval_prefix_name', '-n',
-        help='Evaluation can be given a prefix in the metrics_json e.g., twbench_exactmetric_mainf1 = 0.7 etc.',
-        required=True)
-
-    parser.add_argument(
-        '--quiet', '-q',
-        help='If provided, diagnostic will not be printed.',
-        action='store_true',
+        '--diagnostics_file', '-d',
+        help='If provided, diagnostic will be printed in a file (default: %(default)s)',
+        default=f"/tmp/diagnostics_{str(datetime.datetime.now()).split('.')[0].replace('-', '_').replace(':', '_').replace(' ', '__')}.txt",
         required=False)
 
     parser.add_argument(
-        '--keep_template_words', '-k',
-        help=f"If provided, these template words will not be discarded before evaluation: ({EFFECT_STOP_WORDS}).",
+        '--quiet', '-q',
+        help='If provided, diagnostic will not be printed or written to file.',
         action='store_true',
         required=False)
 
     parser.add_argument(
         '--output', '-o',
-        help='Output metrics to this file in JSON format. If not specified, metrics are printed to stdout as JSON.',
+        help='Output metrics to this file in JSON format. If not specified, metrics are only printed to stdout as JSON.',
         default=None,
         required=False)
 
     args = parser.parse_args()
+    diagnostics_file = open(args.diagnostics_file, 'w')
 
     def diag(msg: str):
         if args.quiet:
             return
-        print(msg)
+        diagnostics_file.write(f"{msg}")
+        diagnostics_file.write("\n")
 
     if not args.gold_file or not os.path.exists(args.gold_file):
         print(f"WARNING: Not performing any evaluation because input gold file does not exist: {args.gold_file}")
@@ -183,9 +179,6 @@ def main():
     predictions = PredictionsFileReader(in_path=args.prediction_file)
     gold_answers = PredictionsFileReader(in_path=args.gold_file)
 
-    eval_prefix_name = "simple_eval__" if not args.eval_prefix_name else args.eval_prefix_name + "__"
-
-    # Reflection to the class name needs must be improved.
     generation_metrics = [
         ExactMetric(),
         BLEUMetric(),
@@ -194,23 +187,38 @@ def main():
     output = open(args.output, "w", encoding="UTF-8") if args.output else sys.stdout
 
     all_metrics = dict()
+    formatted_scores = []
+
     for metric_num, current_metric in enumerate(generation_metrics):
-        print(f"\nEvaluating current metric ({metric_num}/{len(generation_metrics)}) : {current_metric.name()} ...")
+        print(f"\nEvaluating current metric ({1 + metric_num}/{len(generation_metrics)}) : {current_metric.name()} ...")
         current_metric_score = evaluate(predictions_reader=predictions,
                                         gold_answers_reader=gold_answers,
                                         diag=diag,
                                         generation_metric=current_metric
                                         )
         for k, v in current_metric_score.items():
-            # Flatten for beaker.
-            all_metrics[f"{k.replace('main_', eval_prefix_name)}_{current_metric.name()}"] = v
-    json_dump = json.dumps(all_metrics)
+            # prepare all metrics as json entries.
+            all_metrics[f"{k.replace('main_', '')}_{current_metric.name()}"] = v
+        formatted_scores.append(f"{current_metric.name()}"
+                                f"\t{current_metric_score['main_P']}"
+                                f"\t{current_metric_score['main_R']}"
+                                f"\t{current_metric_score['main_F1']}"
+                                )
 
-    # the bash file that uses this output merges multiple metrics.json outputs
-    return_ans = json_dump.replace("{", "").replace("}", "") if not args.output else json_dump
+    if args.output:
+        json.dump(all_metrics, output)
 
-    print(return_ans, file=output)
+    print(f"\n\n================================\n Evaluation results \n================================")
+    print(f"Predictions: {args.prediction_file}")
+    print(f"Gold: {args.gold_file}")
+    if not args.quiet:
+        print(f"Diagnostics: {args.diagnostics_file}")
+    print(f"\n\t\tprec\trecall\tf1")
+    for fs in formatted_scores:
+        print(fs)
+
     output.close()
+    diagnostics_file.close()
 
 
 if __name__ == '__main__':
