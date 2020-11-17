@@ -52,8 +52,8 @@ class SimpleEvalTest(unittest.TestCase):
                            "ham was cold before, and hot afterwards."]
 
         expected_metric_vals = [(0.3333333333333333, 0.25, 0.28571428571428575),
-                                (0.3081907889704669, 0.25197642589753966, 0.2772629723345005),
-                                (0.4382716049382716, 0.3703703703703704, 0.4014701724625389)]
+                                (0.33333334168996315, 0.2500000094949585, 0.2857142949848573),
+                                (0.55555555555555547, 0.49999999999999994, 0.52631578947368407)]
         for metric, expected_metric_val in zip([self.exact_metric,
                                                 self.bleu_metric,
                                                 self.rouge_metric],
