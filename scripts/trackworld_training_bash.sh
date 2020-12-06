@@ -12,19 +12,6 @@ BLOCK_SIZE=${9-512}
 
 set -x  # print the command being executed.
 
-#    --model_name_or_path=gpt2-medium \
-#    --block_size 512 \
-#    --continue_from_dir=/continue_from_dir \
-#    --length 12 or 50 \
-#    --block_size 300 or 512 \
-#    --do_twbench \
-#    --test_twbench_data_file=data/trackworld/tw_bench/tw_bench_propara_npn_ea.jsonl \
-#    --per_gpu_train_batch_size 8 or 4 \
-#    --per_gpu_eval_batch_size 16 \
-#    --do_twbench \
-#    --test_twbench_data_file=data/trackworld/tw_bench/tw_bench_propara_npn_ea.jsonl \
-
-
 # The following is for ea (enable tw_bench if needed).
 #    --do_twbench \
 #    --test_twbench_data_file=data/trackworld/tw_bench/tw_bench_propara_npn_ea.jsonl \
@@ -52,57 +39,3 @@ python training/run_trainer.py \
     --overridden_model_configs "$MODEL_CONFIGS" \
     --weight_decay $WEIGHT_DECAY \
     --num_train_epochs $NUM_EPOCHS
-#    --seed 42
-#    --fp16 \
-
-
-#python run_trackworld.py \
-#    --output_dir=/training_output \
-#    --model_type=gpt2 \
-#    --continue_from_dir=/continue_from_dir \
-#    --model_name_or_path=gpt2-medium \
-#    --do_train \
-#    --train_data_file=/training_input/train.jsonl \
-#    --per_gpu_train_batch_size 1 \
-#    --per_gpu_eval_batch_size 1 \
-#    --overwrite_output_dir \
-#    --length 60 \
-#    --block_size 1024 \
-#    --save_total_limit 3 \
-#    --save_steps 5000 \
-#    --learning_rate $LR \
-#    --overridden_model_configs "$MODEL_CONFIGS" \
-#    --weight_decay $WEIGHT_DECAY \
-#    --num_train_epochs 1 \
-#    --fp16 \
-#    --do_sent_window \
-#    --seed 42
-
-
-# The following is for e2e
-#    --do_eval \
-#    --eval_data_file=data/trackworld/simplified/e2e_random_positive/dev.jsonl \
-#    --do_test \
-#    --test_data_file=data/trackworld/simplified/e2e_random_positive/test.jsonl \
-#    --continue_from_dir=/continue_from_dir \
-#python run_trackworld.py \
-#    --output_dir=/training_output \
-#    --model_type=gpt2 \
-#    --model_name_or_path=gpt2-medium \
-#    --do_train \
-#    --train_data_file=data/trackworld/simplified/e2e_ordered_positive/train.jsonl \
-#    --per_gpu_train_batch_size 4 \
-#    --per_gpu_eval_batch_size 8 \
-#    --overwrite_output_dir \
-#    --length 50 \
-#    --block_size 500 \
-#    --save_total_limit 3 \
-#    --save_steps 5000 \
-#    --fp16 \
-#    --learning_rate $LR \
-#    --overridden_model_configs "$MODEL_CONFIGS" \
-#    --weight_decay $WEIGHT_DECAY \
-#    --num_train_epochs 5 \
-#    --seed 42
-
-
