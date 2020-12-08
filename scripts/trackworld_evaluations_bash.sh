@@ -25,7 +25,7 @@ for i in ${!golds[*]}; do
   fi
 
   curr_output=$(
-    python src/eval/tw_specific_eval/simple_eval.py \
+    python src/eval/simple_eval.py \
       --quiet \
       -g "${golds[i]}" \
       -p "${preds[i]}" \

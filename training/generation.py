@@ -18,7 +18,7 @@ from transformers import (
 )
 
 # probably to avoid "src.xxx" not found?
-from training.predictions_aggregator import aggregate_predictions
+from training.gen_ans_to_list import aggregate_predictions
 
 sys.path.insert(0, '..')
 
@@ -34,9 +34,9 @@ MODEL_CLASSES = {
 }
 
 
-class TWPredictor:
+class OpenPIGPT2Predictor:
 
-    def __init__(self, model_path: str, model_type: str, stop_token: str = '<|endoftext|>'):
+    def __init__(self, model_path: str, stop_token: str = '<|endoftext|>'):
         self.stop_token = stop_token
         self.tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
         self.tokenizer.add_special_tokens({"sep_token": "[SEP]"})
@@ -135,21 +135,6 @@ def main():
         type=str,
         help="path to store model predictions aggregated changes per sentence (i.e. turns answers to an array).",
     )
-    parser.add_argument(
-        "--window_size", "-w",
-        default=None,
-        required=False,
-        type=int,
-        help="Some outputs contain ids like so: wikihow.com/.../1||2||3 with "
-             "state changes for k sentences (here, 1,2,3)"
-    )
-    parser.add_argument(
-        "--model_type",
-        type=str,
-        required=True,
-        help="The model architecture to be trained or fine-tuned. "
-             f"Currently we support one of {MODEL_CLASSES.keys()}",
-    )
 
     args = parser.parse_args()
 
@@ -177,7 +162,7 @@ def main():
 
     print(f"Generation task, input = {args.test_input_file}, output = {args.test_output_file} ...")
 
-    predictor = TWPredictor(model_path=args.model_path, model_type=args.model_type, stop_token=args.stop_token)
+    predictor = OpenPIGPT2Predictor(model_path=args.model_path, stop_token=args.stop_token)
 
     test_input = []
     with open(args.test_input_file, 'r') as open_file:
@@ -189,18 +174,8 @@ def main():
 
     with open(args.test_output_file, 'w') as open_file:
         for item in tqdm(test_input):
-            if not args.window_size or args.window_size < 2:
-                output = predictor.get_predictions(max_len=args.max_len, input_ctxt_and_query=item['question'])
-                output['id'] = item['id']
-            else:
-                input_sentences = [x['sentence'] for x in item['gpt2_answers']]
-                output = predictor.get_predictions_window(max_len=args.max_len, k_sentences=input_sentences)
-                q_idx = [x['id'] for x in item['gpt2_answers']]
-                for i, (idx, op) in enumerate(zip(q_idx, output['window_answers'])):
-                    output['window_answers'][i]['id'] = idx
-                output['window_key'] = item['id']
-                output['window_values'] = output.pop('window_answers')
-
+            output = predictor.get_predictions(max_len=args.max_len, input_ctxt_and_query=item['question'])
+            output['id'] = item['id']
             json.dump(output, open_file)
             open_file.write('\n')
 
@@ -208,8 +183,7 @@ def main():
         if not args.test_output_agg_file else args.test_output_agg_file
     logger.info(f"Done generating. Aggregating and formatting to {aggregated_fp}")
     aggregate_predictions(prediction_fp=args.test_output_file,
-                          out_fp=aggregated_fp,
-                          window_size=args.window_size)
+                          out_fp=aggregated_fp)
 
 
 if __name__ == "__main__":

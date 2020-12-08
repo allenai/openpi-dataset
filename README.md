@@ -20,13 +20,24 @@ Dataset files are available in JSON format. There are four files:
 
 ## Training 
 
-
+You can modify the hyperparameters in this script to train the model.
 ```
 sh scripts/trackworld_training_bash.sh
 ```
 
 ## Run Prediction
 
+To run predictions on a single file:
+```
+python src/model/generation.py \
+      --model_path /path/to/trained_model \
+      --test_input_file /path/to/input_file \
+      --test_output_file /path/to/store/predictions \
+      --test_output_agg_file "${agg_pred_output_files[i]}" \
+      --max_len max_len_say_200
+```
+
+To run predictions on multiple files, you can use this bash script:
 ```
 sh scripts/trackworld_predictions_bash.sh
 ```

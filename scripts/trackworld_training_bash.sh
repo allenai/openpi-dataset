@@ -12,22 +12,12 @@ BLOCK_SIZE=${9-512}
 
 set -x  # print the command being executed.
 
-# The following is for ea (enable tw_bench if needed).
-#    --do_twbench \
-#    --test_twbench_data_file=data/trackworld/tw_bench/tw_bench_propara_npn_ea.jsonl \
-
-#    --do_eval \
-#    --eval_data_file=data/trackworld/simplified/ea_positive/dev.jsonl \
-#    --per_gpu_eval_batch_size 16 \
-
-# This is for upperbound.
-#    --continue_from_dir=/continue_from_dir \
 python training/run_trainer.py \
     --output_dir=/tmp/training_output \
     --model_type="$MODEL_TYPE" \
     --model_name_or_path=gpt2 \
     --do_train \
-    --train_data_file=data/formatted_for_gpt2/dev.jsonl \
+    --train_data_file=data/formatted_for_gpt2/train.jsonl \
     --per_gpu_train_batch_size $BATCH_SIZE_TRAIN \
     --per_gpu_eval_batch_size $BATCH_SIZE_EVAL \
     --overwrite_output_dir \

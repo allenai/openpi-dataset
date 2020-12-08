@@ -95,18 +95,6 @@ def main():
         type=str,
         help="An optional input evaluation data file to evaluate the perplexity on (a text file) and dump the predictions",
     )
-    # parser.add_argument(
-    #     "--test_data_file",
-    #     default=None,
-    #     type=str,
-    #     help="An optional input test data file to dump output predictions.",
-    # )
-    # parser.add_argument(
-    #     "--test_twbench_data_file",
-    #     default=None,
-    #     type=str,
-    #     help="An optional input TrackWorld benchmark test data file to dump output predictions.",
-    # )
     parser.add_argument(
         "--line_by_line",
         action="store_true",
@@ -169,8 +157,6 @@ def main():
 
     parser.add_argument("--do_train", action="store_true", help="Whether to run training.")
     parser.add_argument("--do_eval", action="store_true", help="Whether to run eval on the dev set.")
-    # parser.add_argument("--do_test", action="store_true", help="Whether to run predictions on the test set.")
-    # parser.add_argument("--do_twbench", action="store_true", help="Whether to run predictions on the TrackWorld benchmark test set.")
     parser.add_argument(
         "--evaluate_during_training", action="store_true", help="Run evaluation during training at each logging step."
     )
@@ -276,16 +262,6 @@ def main():
             "Cannot do evaluation without an evaluation data file. Either supply a file to --eval_data_file "
             "or remove the --do_eval argument."
         )
-    # if args.test_data_file is None and args.do_test:
-    #     raise ValueError(
-    #         "Cannot do test predictions without a test data file. Either supply a file to --test_data_file "
-    #         "or remove the --do_test argument."
-    #     )
-    # if args.test_twbench_data_file is None and args.do_twbench:
-    #     raise ValueError(
-    #         "Cannot do test predictions without a TrackWorld benchmark test data file. Either supply a file to --test_twbench_data_file "
-    #         "or remove the --do_twbench argument."
-    #     )
     if args.continue_from_dir and os.path.exists(args.continue_from_dir):
         sorted_checkpoints = _sorted_checkpoints(args)
         if len(sorted_checkpoints) == 0:
@@ -463,26 +439,6 @@ def main():
                 result = dict((k + "_{}".format(global_step), v) for k, v in result.items())
                 results.update(result)
 
-    # Generation (commented because it is a separate script now).
-    # if args.do_train:
-    #     train_predictions_fp = args.output_dir + '/predictions/train/output.jsonl'
-    #     generate(args=args, model=model, tokenizer=tokenizer, input_fp=args.train_data_file, output_fp=train_predictions_fp)
-    #     aggregate_predictions(prediction_fp=train_predictions_fp, out_fp=train_predictions_fp.replace(".jsonl", "_aggregated.jsonl"))
-    #
-    # if args.do_eval:
-    #     eval_predictions_fp = args.output_dir + '/predictions/dev/output.jsonl'
-    #     generate(args=args, model=model, tokenizer=tokenizer, input_fp=args.eval_data_file, output_fp=eval_predictions_fp)
-    #     aggregate_predictions(prediction_fp=eval_predictions_fp, out_fp=eval_predictions_fp.replace(".jsonl", "_aggregated.jsonl"))
-    # if args.do_test:
-    #     test_predictions_fp = args.output_dir + '/predictions/test/output.jsonl'
-    #     generate(args=args, model=model, tokenizer=tokenizer, input_fp=args.test_data_file, output_fp=test_predictions_fp)
-    #     aggregate_predictions(prediction_fp=test_predictions_fp, out_fp=test_predictions_fp.replace(".jsonl", "_aggregated.jsonl"))
-    #
-    # if args.do_twbench:
-    #     test_twbench_predictions_fp = args.output_dir + '/predictions/test_twbench/output.jsonl'
-    #     generate(args=args, model=model, tokenizer=tokenizer, input_fp=args.test_twbench_data_file, output_fp=test_twbench_predictions_fp)
-    #     aggregate_predictions(prediction_fp=test_twbench_predictions_fp, out_fp=test_twbench_predictions_fp.replace(".jsonl", "_aggregated.jsonl"))
-    # print(f"Generation Done ...")
     return
 
 

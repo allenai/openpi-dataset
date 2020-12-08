@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 from eval.eval_util import normalize_nostem
 from eval.generation_metric import GenerationMetric, ExactMetric, BLEUMetric, ROUGEMetric
-from eval.tw_eval_dataset_reader import PredictionsFileReader
+from eval.eval_dataset_reader import PredictionsFileReader
 
 EFFECT_STOP_WORDS = {"and", "was", "is", "before", "afterwards", "after", "of"}
 
