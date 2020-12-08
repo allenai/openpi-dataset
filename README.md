@@ -11,7 +11,7 @@ https://www.aclweb.org/anthology/2020.emnlp-main.520.pdf
 
 ## Dataset
 
-Dataset files are available in JSON format. There are four files:
+OpenPI Dataset files are available in JSON format. There are four files:
   - `id_question.jsonl`: each line is a json with an id, and the input sentence and its past sentences i.e., "x"
   - `id_question_metadata.jsonl`: the metadata corresponding to the question such as topic. Each line is a json with an id, and the metadata
   - `id_answers_metadata.jsonl`: each line is a json with an id, and the a list of answers i.e., "y"
@@ -64,7 +64,7 @@ coming soon...
 
 ## Citation
 
-If you use this dataset in your work, please cite
+If you use this dataset in your work, please cite:
 ```
 @inproceedings{tandon-etal-2020-dataset,
     title = "A Dataset for Tracking Entities in Open Domain Procedural Text",
