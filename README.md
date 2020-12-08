@@ -32,8 +32,8 @@ To run predictions on a single file:
 python src/model/generation.py \
       --model_path /path/to/trained_model \
       --test_input_file /path/to/input_file \
-      --test_output_file /path/to/store/unformatted_predictions \
-      --test_output_agg_file /path/to/store/formatted/predictions \
+      --unformatted_outpath /path/to/store/unformatted_predictions \
+      --formatted_outpath /path/to/store/formatted/predictions \
       --max_len max_len_say_200
 ```
 

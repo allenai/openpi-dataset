@@ -80,11 +80,11 @@ def main():
     # Required parameters
     parser.add_argument(
         "--input_path", "-i", required=True, type=str,
-        help="Path to the unaggregated file e.g. data/predictions.jsonl."
+        help="Path to the unformatted file e.g. data/predictions.jsonl."
     )
     parser.add_argument(
         "--output_path", "-o", required=True, type=str,
-        help="Path to the aggregated file. e.g. data/predictions_as_list.jsonl"
+        help="Path to the formatted file. e.g. data/predictions_as_list.jsonl"
     )
 
     args = parser.parse_args()

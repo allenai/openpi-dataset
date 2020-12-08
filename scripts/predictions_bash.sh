@@ -14,7 +14,7 @@ for i in ${!prediction_input_files[*]}; do
   python training/generation.py \
       --model_path "$TRAINED_MODEL" \
       --test_input_file "${prediction_input_files[i]}" \
-      --test_output_file "${prediction_output_files[i]}" \
-      --test_output_agg_file "${agg_pred_output_files[i]}" \
+      --unformatted_outpath "${prediction_output_files[i]}" \
+      --formatted_outpath "${agg_pred_output_files[i]}" \
       --max_len $MAX_LEN
 done

@@ -117,8 +117,10 @@ class OpenPIGPT2Predictor:
         return answer
 
 
-def generate_outfile_path(input_path, output_dir):
-    return output_dir.replace("/", "") + "/" + input_path.replace("/", "___")
+def generate_outfile_path(input_path, output_dir_path):
+    if output_dir_path.endswith("/"):
+        output_dir_path = output_dir_path[:-1]
+    return output_dir_path.replace("/", "") + "/" + input_path.replace("/", "___")
 
 
 def main():
@@ -128,12 +130,14 @@ def main():
         default=None,
         type=str,
         help="model path",
+        required=True
     )
     parser.add_argument(
         "--max_len",
         default=20,
         type=int,
         help="model path",
+        required=True
     )
     parser.add_argument(
         "--stop_token",
@@ -145,20 +149,21 @@ def main():
         "--test_input_file",
         default=None,
         type=str,
-        help="jsonl file containing id (str) and answer (array) keys",
+        help="jsonl file containing id (str) and question (str) keys",
+        required=True
     )
     parser.add_argument(
-        "--test_output_file",
+        "--unformatted_outpath",
         default=None,
         type=str,
-        help="path to store model predictions",
+        help="path to store unformatted model predictions",
+        required=True
     )
     parser.add_argument(
-        "--test_output_agg_file",
+        "--formatted_outpath",
         default="",
-        required=False,
         type=str,
-        help="path to store model predictions aggregated changes per sentence (i.e. turns answers to an array).",
+        help="path to store formatted model predictions (i.e. turns a string answer to an array of state changes).",
     )
 
     args = parser.parse_args()
@@ -175,17 +180,17 @@ def main():
             f"because generation input file does not exist: {args.test_input_file}")
         return
 
-    if not args.test_output_file:
+    if not args.unformatted_outpath:
         print(
             f"WARNING: Not performing any non_batched generation "
-            f"because generation output file is empty: {args.test_output_file}")
+            f"because generation output file is empty: {args.unformatted_outpath}")
         return
 
     args.model_path = args.model_path.strip()
-    args.test_output_file = args.test_output_file.strip()
+    args.unformatted_outpath = args.unformatted_outpath.strip()
     args.test_input_file = args.test_input_file.strip()
 
-    print(f"Generation task, input = {args.test_input_file}, output = {args.test_output_file} ...")
+    print(f"Generation task, input = {args.test_input_file}, output = {args.unformatted_outpath} ...")
 
     predictor = OpenPIGPT2Predictor(model_path=args.model_path, stop_token=args.stop_token)
 
@@ -194,21 +199,21 @@ def main():
         for line in open_file:
             test_input.append(json.loads(line))
 
-    if os.path.isdir(args.test_output_file):
-        args.test_output_file = generate_outfile_path(input_path=args.test_input_file, output_dir=args.test_output_file)
+    if os.path.isdir(args.unformatted_outpath):
+        args.unformatted_outpath = generate_outfile_path(input_path=args.test_input_file, output_dir_path=args.unformatted_outpath)
 
-    with open(args.test_output_file, 'w') as open_file:
+    with open(args.unformatted_outpath, 'w') as open_file:
         for item in tqdm(test_input):
             output = predictor.get_predictions(max_len=args.max_len, input_ctxt_and_query=item['question'])
             output['id'] = item['id']
             json.dump(output, open_file)
             open_file.write('\n')
 
-    aggregated_fp = args.test_output_file + ".aggregated.jsonl" \
-        if not args.test_output_agg_file else args.test_output_agg_file
-    logger.info(f"Done generating. Aggregating and formatting to {aggregated_fp}")
-    aggregate_predictions(prediction_fp=args.test_output_file,
-                          out_fp=aggregated_fp)
+    formatted_fp = args.unformatted_outpath + ".formatted.jsonl" \
+        if not args.formatted_outpath else args.formatted_outpath
+    logger.info(f"Done generating. Aggregating and formatting to {formatted_fp}")
+    aggregate_predictions(prediction_fp=args.unformatted_outpath,
+                          out_fp=formatted_fp)
 
 
 if __name__ == "__main__":
