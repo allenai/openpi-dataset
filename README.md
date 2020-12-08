@@ -33,7 +33,7 @@ python src/model/generation.py \
       --model_path /path/to/trained_model \
       --test_input_file /path/to/input_file \
       --test_output_file /path/to/store/predictions \
-      --test_output_agg_file "${agg_pred_output_files[i]}" \
+      --test_output_agg_file /path/to/store/formatted/predictions \
       --max_len max_len_say_200
 ```
 
@@ -47,7 +47,7 @@ sh scripts/predictions_bash.sh
 ```
 python eval/simple_eval.py 
     -g data/gold/test/id_answers.jsonl
-    -p /path/to/predictions_file 
+    -p /path/to/formatted/predictions 
     --quiet
 ```
 (no diagnostics file generated when using --quiet)

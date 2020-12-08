@@ -11,7 +11,7 @@ IFS=',' read -ra prediction_output_files <<< "$OUTPUT_FILEPATH_CSV"
 IFS=',' read -ra agg_pred_output_files <<< "$AGG_OUTPUT_FILEPATH_CSV"
 
 for i in ${!prediction_input_files[*]}; do
-  python src/model/generation.py \
+  python training/generation.py \
       --model_path "$TRAINED_MODEL" \
       --test_input_file "${prediction_input_files[i]}" \
       --test_output_file "${prediction_output_files[i]}" \
