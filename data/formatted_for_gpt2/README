@@ -15,7 +15,7 @@ Each record contains following fields:
            "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||3",
     "step": # 3rd step in the procedure
             "Use the eraser to clean the inner side of the windshield.",
-    "modality": # denotes whther turkers looked at WikiHow image to annotate this step, sometimes its a mix of both kinds of annotations
+    "modality": # denotes whether Turkers looked at WikiHow image to annotate this step, sometimes its a mix of both kinds of annotations
             "with_image_9__without_image_0",
     "answers": [ # state changes as a result of step-3
         "cleanness of windshield was dirty before and clean afterwards",

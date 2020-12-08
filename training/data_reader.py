@@ -8,7 +8,7 @@ from torch.utils.data import Dataset
 logger = logging.getLogger(__name__)
 
 
-class TWSentBySentDataset(Dataset):
+class OpenPIDataset(Dataset):
     def __init__(self, tokenizer, file_path='train', block_size=512, skip_answer=False, cache_dir=None):
         assert os.path.isfile(file_path)
         directory, filename = os.path.split(file_path)
@@ -30,10 +30,10 @@ class TWSentBySentDataset(Dataset):
             with open(file_path, encoding="utf-8") as f:
                 for line in f:
                     input_json = json.loads(line)
-                    token_ids, token_labels, one_metadata = TWSentBySentDataset.read_line(input_json=input_json,
-                                                                                          tokenizer=tokenizer,
-                                                                                          block_size=block_size,
-                                                                                          skip_answer=skip_answer)
+                    token_ids, token_labels, one_metadata = OpenPIDataset.read_line(input_json=input_json,
+                                                                                    tokenizer=tokenizer,
+                                                                                    block_size=block_size,
+                                                                                    skip_answer=skip_answer)
 
                     self.examples.append((token_ids, token_labels, one_metadata))
                     self.metadata.append(one_metadata)
@@ -47,7 +47,7 @@ class TWSentBySentDataset(Dataset):
     @staticmethod
     def _truncate_seq_pair(tokens_q, tokens_ans, max_length):
         """Truncates a sequence pair in place to the maximum length."""
-        # In all versions of TrackWorld datasets (even entity+attr),
+        # In all versions of openpi datasets (even entity+attr),
         # the answer part is really short (and important)
         # x was --- before and --- afterwards.
         # while the context keeps growing (more and more previous sentences become context,
@@ -90,7 +90,7 @@ class TWSentBySentDataset(Dataset):
             tokenized_answer = []
 
         metadata['id'] = input_json['id']
-        TWSentBySentDataset._truncate_seq_pair(tokenized_question, tokenized_answer, max_length=block_size - 1)
+        OpenPIDataset._truncate_seq_pair(tokenized_question, tokenized_answer, max_length=block_size - 1)
 
         if not skip_answer:
             token_ids = tokenized_question + tokenized_answer + tokenizer.convert_tokens_to_ids([tokenizer.eos_token])
@@ -114,7 +114,7 @@ class TWSentBySentDataset(Dataset):
 
 
 def load_and_cache_examples(tokenizer, output_dir: str, file_path: str, block_size: int):
-    return TWSentBySentDataset(tokenizer=tokenizer,
-                               file_path=file_path,
-                               block_size=block_size,
-                               cache_dir=output_dir)
+    return OpenPIDataset(tokenizer=tokenizer,
+                         file_path=file_path,
+                         block_size=block_size,
+                         cache_dir=output_dir)
