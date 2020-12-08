@@ -32,7 +32,7 @@ To run predictions on a single file:
 python src/model/generation.py \
       --model_path /path/to/trained_model \
       --test_input_file /path/to/input_file \
-      --test_output_file /path/to/store/predictions \
+      --test_output_file /path/to/store/unformatted_predictions \
       --test_output_agg_file /path/to/store/formatted/predictions \
       --max_len max_len_say_200
 ```
@@ -52,7 +52,7 @@ python eval/simple_eval.py
 ```
 (no diagnostics file generated when using --quiet)
 
-To run predictions on multiple files, you can use this bash script:
+To run evaluation on multiple files, you can use this bash script:
 ```
 sh scripts/evaluations_bash.sh
 ```
