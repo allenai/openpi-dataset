@@ -117,12 +117,6 @@ class OpenPIGPT2Predictor:
         return answer
 
 
-def generate_outfile_path(input_path, output_dir_path):
-    if output_dir_path.endswith("/"):
-        output_dir_path = output_dir_path[:-1]
-    return output_dir_path.replace("/", "") + "/" + input_path.replace("/", "___")
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -198,9 +192,6 @@ def main():
     with open(args.test_input_file, 'r') as open_file:
         for line in open_file:
             test_input.append(json.loads(line))
-
-    if os.path.isdir(args.unformatted_outpath):
-        args.unformatted_outpath = generate_outfile_path(input_path=args.test_input_file, output_dir_path=args.unformatted_outpath)
 
     with open(args.unformatted_outpath, 'w') as open_file:
         for item in tqdm(test_input):
