@@ -22,7 +22,7 @@ Dataset files are available in JSON format. There are four files:
 
 You can modify the hyperparameters in this script to train the model.
 ```
-sh scripts/trackworld_training_bash.sh
+sh scripts/training_bash.sh
 ```
 
 ## Run Prediction
@@ -39,7 +39,7 @@ python src/model/generation.py \
 
 To run predictions on multiple files, you can use this bash script:
 ```
-sh scripts/trackworld_predictions_bash.sh
+sh scripts/predictions_bash.sh
 ```
 
 ## Run Evaluation
@@ -51,6 +51,11 @@ python eval/simple_eval.py
     --quiet
 ```
 (no diagnostics file generated when using --quiet)
+
+To run predictions on multiple files, you can use this bash script:
+```
+sh scripts/evaluations_bash.sh
+```
 
 
 ## Leaderboard
