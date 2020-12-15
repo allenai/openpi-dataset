@@ -102,7 +102,7 @@ def main():
     )
     parser.add_argument(
         "--continue_from_dir",
-        default=None,
+        default="",
         type=str,
         required=False,
         help="Whether to continue from latest checkpoint in this directory"
