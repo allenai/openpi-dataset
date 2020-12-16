@@ -99,7 +99,7 @@ class OpenPIGPT2Predictor:
             out = self.model.generate(
                 # input_ids: `torch.LongTensor` of shape `(batch_size, sequence_length)`
                 input_ids=encoded_prompt,
-                max_length=max_len + encoded_prompt.size(-1),
+                max_length=min(1024,max_len + encoded_prompt.size(-1)),
                 temperature=temperature,
                 top_k=top_k,
                 top_p=top_p,
