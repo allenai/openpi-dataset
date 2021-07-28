@@ -3,12 +3,12 @@ import string
 from collections import OrderedDict
 from typing import Dict, Any
 
-from nltk import PorterStemmer
 
 from eval.spacy_stopwords import STOP_WORDS
 
-porter_stemmer = PorterStemmer()
+from eval.porter import PorterStemmer
 
+porter_stemmer = PorterStemmer()
 
 def is_stop(cand: str):
     # return nlp.vocab[cand].is_stop
