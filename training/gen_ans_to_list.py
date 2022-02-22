@@ -55,7 +55,7 @@ def accept_answer(answer, keywords=['of', 'was', 'afterwards', 'before']):
 def ans_to_list(a, state_change_seps):
     answers = []
     for scsep in state_change_seps:
-        if a.count(scsep) > 1:
+        if a.count(scsep) > 0:
             answers = a.split(scsep)
             return filter_answers(answers)
     # if no separator was found or one sep was found.
