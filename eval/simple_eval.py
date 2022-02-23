@@ -43,7 +43,6 @@ def f1_emnlp2020(
         return (1.0, 0.0, 0.0)
 
     predictions = list(set(predictions))
-    gold = list(set(gold))
     
     # Compute precision score based on best gold match for each prediction
     tp = 0.0  # true positive score
