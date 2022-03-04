@@ -57,10 +57,13 @@ To run evaluation on multiple files, you can use this bash script:
 sh scripts/evaluations_bash.sh
 ```
 
+## Hyperparameters
+To match the results published in the paper, please use the following hyperparameters.
+https://github.com/allenai/openpi-dataset/blob/main/hyperparams.md
 
 ## Leaderboard
 
-coming soon...
+coming soon... (we are now working on openpi v2 which clusters 
 
 ## Citation
 
