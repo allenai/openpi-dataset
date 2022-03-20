@@ -1,0 +1,305 @@
+python openpi-dataset/scratch/merged_data_gen.py
+Skipping wrong answer format: size of mango
+Skipping wrong answer format: location of seeds was in packet before and in pot
+Skipping wrong answer format: soil afterwards
+Skipping wrong answer format: location of the dead
+Skipping wrong answer format: browned
+Skipping wrong answer format: odor of stain was strong and smelly before and weakened
+Skipping wrong answer format: cleaner smelling afterwards
+Skipping wrong answer format: state of the apricots
+Skipping wrong answer format: vinegar
+Skipping wrong answer format: composition of butter
+Skipping wrong answer format: wetness of salt
+Skipping wrong answer format: cornstarch
+Skipping wrong answer format: composition of salt
+Skipping wrong answer format: cornstarch
+Skipping wrong answer format: moisture of cornstarch
+Skipping wrong answer format: state of the baking soda
+Skipping wrong answer format: composition of pot was filled with chicken and ramen before and filled with bacon
+Skipping wrong answer format: chicken and ramen afterwards
+Skipping wrong answer format: location of butter
+Skipping wrong answer format: texture of mixture was loose
+Skipping wrong answer format: watery before and firm afterwards
+Skipping wrong answer format: possession of you was needing sofas
+Skipping wrong answer format: tables
+Skipping wrong answer format: beds
+Skipping wrong answer format: etc before and now in possession of sofas
+Skipping wrong answer format: tables
+Skipping wrong answer format: beds
+Skipping wrong answer format: etc afterwards
+Skipping wrong answer format: elevation of barbells was in workout area before and in hands
+Skipping wrong answer format: testing them afterwards
+Skipping wrong answer format: gaining arms of arms was ungained before and gained by borrow
+Skipping wrong answer format: buy or membership afterwards
+Skipping wrong answer format: orientation of location site was random before and measured
+Skipping wrong answer format: oriented afterwards
+Skipping wrong answer format: availability of sanding machine was unavailable before and purchased
+Skipping wrong answer format: borrowed or rented afterwards
+Skipping wrong answer format: location of make
+Skipping wrong answer format: location of honey
+Skipping wrong answer format: consistency of peanut butter
+Skipping wrong answer format: composition of carob powder
+Skipping wrong answer format: composition of carob powder
+Skipping wrong answer format: nuts
+Skipping wrong answer format: vanilla
+Skipping wrong answer format: temperature of nuts
+Skipping wrong answer format: composition of flour
+Skipping wrong answer format: wetness of flour
+Skipping wrong answer format: odor of odor was strong before and weak
+Skipping wrong answer format: sweet afterwards
+Skipping wrong answer format: temperature of pineapple juice
+Skipping wrong answer format: state of graham crackers
+Skipping wrong answer format: ownership of almonds
+Skipping wrong answer format: cocoa
+Skipping wrong answer format: location of almonds
+Skipping wrong answer format: cocoa
+Skipping wrong answer format: state of almonds
+Skipping wrong answer format: cocoa
+Skipping wrong answer format: decoration of bowl
+Skipping wrong answer format: location of eggs
+Skipping wrong answer format: milk
+Skipping wrong answer format: shape of garlic
+Skipping wrong answer format: location of salt
+Skipping wrong answer format: pepper
+Skipping wrong answer format: location of salt
+Skipping wrong answer format: temperature of coconut milk
+Skipping wrong answer format: color of walls
+Skipping wrong answer format: location of dried grass
+Skipping wrong answer format: leaves
+Skipping wrong answer format: step of buy for 1
+Skipping wrong answer format: composition of vodka
+Skipping wrong answer format: water
+Skipping wrong answer format: cleanness of fish was clean before and coated with sugar
+Skipping wrong answer format: salt afterwards
+Skipping wrong answer format: odor of wood was normal smelling before and fragrant
+Skipping wrong answer format: like fresh cut wood afterwards
+Skipping wrong answer format: orientation of stringers was flat
+Skipping wrong answer format: horizontal before and vertical afterwards
+Skipping wrong answer format: temperature of eggs
+Skipping wrong answer format: sugar
+Skipping wrong answer format: vanilla
+Skipping wrong answer format: location of eggs
+Skipping wrong answer format: sugar
+Skipping wrong answer format: vanilla
+Skipping wrong answer format: composition of eggs
+Skipping wrong answer format: sugar
+Skipping wrong answer format: vanilla
+Skipping wrong answer format: hardness of cookies was loose
+Skipping wrong answer format: soft before and firm afterwards
+Skipping wrong answer format: location of pot was indoors before and in a warm
+Skipping wrong answer format: well-lit spot afterwards
+Skipping wrong answer format: temperature of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: location of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: composition of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: taste of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: odor of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: texture of pulp
+Skipping wrong answer format: sugar
+Skipping wrong answer format: location of laptop
+Skipping wrong answer format: tablet
+Skipping wrong answer format: electric conductivity of laptop
+Skipping wrong answer format: tablet
+Skipping wrong answer format: speed of mixture was still before and roiling
+Skipping wrong answer format: moving afterwards
+Skipping wrong answer format: location of lime
+Skipping wrong answer format: composition of lime
+Skipping wrong answer format: spices
+Skipping wrong answer format: state of mode was yellow(2)
+Skipping wrong answer format: blue
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: blue before and blue
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: orange
+Skipping wrong answer format: blue afterwards
+Skipping wrong answer format: code of code was blue
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: orange
+Skipping wrong answer format: blue before and orange
+Skipping wrong answer format: blue
+Skipping wrong answer format: yellow(2)
+Skipping wrong answer format: orange
+Skipping wrong answer format: blue
+Skipping wrong answer format: yellow afterwards
+Skipping wrong answer format: state of code was blue
+Skipping wrong answer format: orange(2)
+Skipping wrong answer format: blue
+Skipping wrong answer format: orange(2)
+Skipping wrong answer format: blue
+Skipping wrong answer format: orange(2)
+Skipping wrong answer format: blue before and blue
+Skipping wrong answer format: yellow
+Skipping wrong answer format: orange
+Skipping wrong answer format: red
+Skipping wrong answer format: orange
+Skipping wrong answer format: yellow
+Skipping wrong answer format: red
+Skipping wrong answer format: yellow
+Skipping wrong answer format: red afterwards
+Skipping wrong answer format: state of l
+Skipping wrong answer format: r
+Skipping wrong answer format: l
+Skipping wrong answer format: r
+Skipping wrong answer format: x
+Skipping wrong answer format: x
+Skipping wrong answer format: y
+Skipping wrong answer format: mixture of water was in the bowl
+Skipping wrong answer format: unmixed before and in the bowl
+Skipping wrong answer format: mixed with dye afterwards
+Skipping wrong answer format: moisture of lacrosse head was dry
+Skipping wrong answer format: primed before and wet
+Skipping wrong answer format: dyed afterwards
+Skipping wrong answer format: moisture of lacrosse head was dry
+Skipping wrong answer format: painted before and wet
+Skipping wrong answer format: painted afterwards
+Skipping wrong answer format: form of mixture was flat
+Skipping wrong answer format: even before and whipped afterwards
+Skipping wrong answer format: moisture of cornstarch
+Skipping wrong answer format: texture of tomato sauce
+Skipping wrong answer format: state of washing soda
+Skipping wrong answer format: composition of soda
+Skipping wrong answer format: container of the cocoa and margarine mixture was in a separate bowl from the milk and water mixture
+Skipping wrong answer format: before and in the same bowl with the milk and water mixture
+Skipping wrong answer format: afterwards
+Skipping wrong answer format: texture of the mixture was soft
+Skipping wrong answer format: wet and creamy before and is thickened and more solid afterwards
+Skipping wrong answer format: composition of frame was decorated
+Skipping wrong answer format: tagged before and dismantled afterwards
+Skipping wrong answer format: orientation of paper towel roll was on counter horizontal before and on box
+Skipping wrong answer format: angled afterwards
+Skipping wrong answer format: shape of thick paper or cardboard was whole before and cut into a circle
+Skipping wrong answer format: following the drawing afterwards
+Skipping wrong answer format: location of player was at door
+Skipping wrong answer format: start before and on 1st floor afterwards
+Skipping wrong answer format: temperature of peas
+Skipping wrong answer format: location of vegetable
+Skipping wrong answer format: size
+Skipping wrong answer format: location of blender was in storage before and in use
+Skipping wrong answer format: apparent afterwards
+Skipping wrong answer format: location of ice cream container was in the freezer before and out
+Skipping wrong answer format: being used afterwards
+Skipping wrong answer format: state of wheels
+Skipping wrong answer format: location of oil or butter
+Skipping wrong answer format: fullness of oil or butter
+Skipping wrong answer format: location of salmon
+Skipping wrong answer format: whipping cream
+Skipping wrong answer format: salt
+Skipping wrong answer format: ownership of salmon
+Skipping wrong answer format: whipping cream
+Skipping wrong answer format: salt
+Skipping wrong answer format: state of the number sequence was 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 2 t before and 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: down afterwards
+Skipping wrong answer format: state of the number sequence was 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: down before and 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 2
+Skipping wrong answer format: left afterwards
+Skipping wrong answer format: state of number sequence was 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 2
+Skipping wrong answer format: left before and 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 1
+Skipping wrong answer format: 2
+Skipping wrong answer format: 2
+Skipping wrong answer format: +
+Skipping wrong answer format: +
+Skipping wrong answer format: -
+Skipping wrong answer format: -
+Skipping wrong answer format: right afterwards
+Skipping wrong answer format: consumption of information on turn around time for shipping
+Skipping wrong answer format: packing instructions
+train has 202 answers replaced
+Skipping wrong answer format: volume of pot was empty before and filled with water
+Skipping wrong answer format: rhubarb and other ingredients afterwards
+Skipping wrong answer format: blender of blender was empty before and filled with yogurt
+Skipping wrong answer format: bananas
+Skipping wrong answer format: sorbet afterwards
+Skipping wrong answer format: awareness of paint was sloppy before and precise
+Skipping wrong answer format: careful afterwards
+Skipping wrong answer format: location of molds
+Skipping wrong answer format: mug
+dev has 13 answers replaced
+Skipping wrong answer format: composition of cabbage
+Skipping wrong answer format: lettuce
+Skipping wrong answer format: carrots
+Skipping wrong answer format: snow peas
+Skipping wrong answer format: cilantro
+Skipping wrong answer format: color of cucumber was all green before and green on outside
+Skipping wrong answer format: white on inside afterwards
+Skipping wrong answer format: ownership of sink
+Skipping wrong answer format: toothpaste
+Skipping wrong answer format: mouthwash
+Skipping wrong answer format: location of sink
+Skipping wrong answer format: toothpaste
+Skipping wrong answer format: mouthwash
+Skipping wrong answer format: details
+Skipping wrong answer format: spacial relation of left knee was beside right knee before and a foot further back from the right knee
+Skipping wrong answer format: but still to the side of the right knee afterwards
+Skipping wrong answer format: position of upper arms was straight in the air
+Skipping wrong answer format: above the head before and at a 45 degree angle to the torso afterwards
+Skipping wrong answer format: position of elbows was locked in the air
+Skipping wrong answer format: above the head before and pointing out and away from from the torso
+Skipping wrong answer format: creating a 45 degree angle between the upper and lower arms afterwards
+Skipping wrong answer format: position of lower arms was straight in the air
+Skipping wrong answer format: above the head before and behind the torso
+Skipping wrong answer format: in the middle of the back
+Skipping wrong answer format: parallel to the floor and creating a 45 degree angle with the upper arms afterwards
+Skipping wrong answer format: position of hands was separate and above the head before and placed with the palms together
+Skipping wrong answer format: behind your back afterwards
+Skipping wrong answer format: position of hips was straight before and bent
+Skipping wrong answer format: creating an angle between the abdomen and the thighs afterwards
+Skipping wrong answer format: pose of knees was bent before and one bent
+Skipping wrong answer format: one straight afterwards
+Skipping wrong answer format: pose of arm was straight before and upwards
+Skipping wrong answer format: vertical afterwards
+Skipping wrong answer format: form of the person was standing straight
+Skipping wrong answer format: before and doing a mountain pose afterwards
+Skipping wrong answer format: mode of player was on workout mode before and on difficult
+Skipping wrong answer format: expert mode afterwards
+Skipping wrong answer format: composition of baking soda
+Skipping wrong answer format: size of roots
+Skipping wrong answer format: composition of roots
+Skipping wrong answer format: color of paper was white and blue before and white
+Skipping wrong answer format: blue
+Skipping wrong answer format: and green afterwards
+test has 48 answers replaced
