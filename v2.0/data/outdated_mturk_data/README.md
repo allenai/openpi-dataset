@@ -1,0 +1,1 @@
+Data and code pertaining to the outdated mturk data: https://docs.google.com/spreadsheets/d/1ueDfKoFvx1wv8GtMdDAfz0xTN3pI8t6ik3e6j4kbRnM/edit#gid=0&range=AJ2

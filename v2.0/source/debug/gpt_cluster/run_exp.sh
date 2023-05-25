@@ -1,0 +1,10 @@
+python chat_main.py --out_path ./results/entity_chat_result_3_run1.json --api_path ~/harry.key --num_run 3
+python chat_main.py --out_path ./results/entity_chat_result_3_run2.json --api_path ~/harry.key --num_run 3
+python chat_main.py --out_path ./results/entity_chat_result_3_run3.json --api_path ~/harry.key --num_run 3
+python chat_main.py --out_path ./results/entity_chat_result_3_run4.json --api_path ~/harry.key --num_run 3
+python chat_main.py --out_path ./results/entity_chat_result_3_run5.json --api_path ~/harry.key --num_run 3
+python chat_main.py --out_path ./results/entity_chat_result_5_run1.json --api_path ~/harry.key --num_run 5
+python chat_main.py --out_path ./results/entity_chat_result_5_run2.json --api_path ~/harry.key --num_run 5
+python chat_main.py --out_path ./results/entity_chat_result_5_run3.json --api_path ~/harry.key --num_run 5
+python chat_main.py --out_path ./results/entity_chat_result_5_run4.json --api_path ~/harry.key --num_run 5
+python chat_main.py --out_path ./results/entity_chat_result_5_run5.json --api_path ~/harry.key --num_run 5

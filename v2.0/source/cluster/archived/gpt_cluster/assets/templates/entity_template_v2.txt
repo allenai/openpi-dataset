@@ -1,0 +1,10 @@
+Goal: {goal}
+
+Steps:
+{steps}
+
+Objects names:
+{entity_states}
+
+Group objects that are talking about the same entity with parenthesis:
+{clustered_entity_states}

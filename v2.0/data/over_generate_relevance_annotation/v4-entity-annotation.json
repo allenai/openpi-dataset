@@ -1,0 +1,1771 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": "[Step1] Purchase a blackboard eraser.\n[Step2] Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.\n[Step3] Use the eraser to clean the inner side of the windshield.\n[Step4] Replace after use.",
+        "annotation": {
+            "eraser": {
+                "original_cluster": [
+                    "eraser",
+                    "the blackboard eraser"
+                ],
+                "overgenerate_cluster": [
+                    "dustless chalkboard eraser",
+                    "blackboard duster",
+                    "chalkboard eraser"
+                ],
+                "bad_overgenerate": []
+            },
+            "hands": {
+                "original_cluster": [
+                    "hands"
+                ],
+                "overgenerate_cluster": [
+                    "mitts",
+                    "digits",
+                    "fingers",
+                    "paws",
+                    "claws",
+                    "palms"
+                ],
+                "bad_overgenerate": [
+                    "mitts",
+                    "paws",
+                    "claws"
+                ]
+            },
+            "glovebox": {
+                "original_cluster": [
+                    "glove box",
+                    "glovebox"
+                ],
+                "overgenerate_cluster": [
+                    "dashboard compartment",
+                    "dash compartment",
+                    "glove compartment"
+                ],
+                "bad_overgenerate": []
+            },
+            "inside windshield": {
+                "original_cluster": [
+                    "inside windshield",
+                    "windshield"
+                ],
+                "overgenerate_cluster": [
+                    "front glass",
+                    "interior windshield",
+                    "front windshield",
+                    "windscreen"
+                ],
+                "bad_overgenerate": []
+            },
+            "bank account": {
+                "original_cluster": [
+                    "eraser shelf at the store",
+                    "bank account",
+                    "money"
+                ],
+                "overgenerate_cluster": [],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "2": {
+        "goal": "Make Carob Fruit Balls",
+        "steps": "[Step1] Mix all of the ingredients together.\n[Step2] Roll into small balls.\n[Step3] Place in the freezer for half an hour.\n[Step4] Serve.",
+        "annotation": {
+            "mixing bowl": {
+                "original_cluster": [
+                    "mixing bowl",
+                    "bowl"
+                ],
+                "overgenerate_cluster": [
+                    "culinary bowl",
+                    "kitchen bowl",
+                    "cooking bowl",
+                    "prep bowl",
+                    "preparation bowl"
+                ],
+                "bad_overgenerate": []
+            },
+            "plate": {
+                "original_cluster": [
+                    "plate"
+                ],
+                "overgenerate_cluster": [
+                    "saucer",
+                    "charger",
+                    "tray",
+                    "dish",
+                    "platter"
+                ],
+                "bad_overgenerate": []
+            },
+            "spoon": {
+                "original_cluster": [
+                    "spoon",
+                    "hand"
+                ],
+                "overgenerate_cluster": [],
+                "bad_overgenerate": []
+            },
+            "carob fruit balls": {
+                "original_cluster": [
+                    "balls",
+                    "carob fruit balls"
+                ],
+                "overgenerate_cluster": [
+                    "round shapes",
+                    "fruit balls",
+                    "carob balls",
+                    "spheres",
+                    "orbs",
+                    "round bites"
+                ],
+                "bad_overgenerate": [
+                    "round shapes",
+                    "spheres",
+                    "orbs"
+                ]
+            },
+            "mixture": {
+                "original_cluster": [
+                    "dough pieces",
+                    "mixture",
+                    "dough"
+                ],
+                "overgenerate_cluster": [
+                    "cookie dough",
+                    "mixture of ingredients",
+                    "mash",
+                    "dough mixture",
+                    "batter",
+                    "paste",
+                    "pastry dough"
+                ],
+                "bad_overgenerate": [
+                    "mash",
+                    "paste"
+                ]
+            },
+            "carob": {
+                "original_cluster": [
+                    "carob",
+                    "ingredients"
+                ],
+                "overgenerate_cluster": [
+                    "carob fruit powder",
+                    "cooking ingredients",
+                    "carob chips",
+                    "recipe ingredients",
+                    "carob powder",
+                    "food items",
+                    "recipe components",
+                    "components",
+                    "recipe items",
+                    "carob fruit",
+                    "recipe materials"
+                ],
+                "bad_overgenerate": [
+                    "food items",
+                    "components"
+                ]
+            }
+        }
+    },
+    "3": {
+        "goal": "Freeze Baked Cookies or Biscuits",
+        "steps": "[Step1] Place the biscuits or cookies into a rigid, airtight container.\n[Step2] Separate the biscuits and cookies using freezer paper, baking paper, or foil.\n[Step3] Place biscuits in freezer.\n[Step4] Thaw.",
+        "annotation": {
+            "the cookies": {
+                "original_cluster": [
+                    "the cookies",
+                    "biscuits",
+                    "the cookies and biscuits",
+                    "cookies"
+                ],
+                "overgenerate_cluster": [
+                    "sweet treats",
+                    "desserts",
+                    "treats",
+                    "baked goods"
+                ],
+                "bad_overgenerate": []
+            },
+            "the bowl": {
+                "original_cluster": [
+                    "the bowl",
+                    "container"
+                ],
+                "overgenerate_cluster": [
+                    "pan",
+                    "basin",
+                    "pot",
+                    "dish",
+                    "receptacle",
+                    "vessel"
+                ],
+                "bad_overgenerate": [
+                    "basin",
+                    "receptacle",
+                    "vessel"
+                ]
+            },
+            "tray": {
+                "original_cluster": [
+                    "tray"
+                ],
+                "overgenerate_cluster": [
+                    "pan",
+                    "oven tray",
+                    "board",
+                    "baking sheet",
+                    "cookie sheet",
+                    "baking tray",
+                    "dish",
+                    "platter",
+                    "plate",
+                    "sheet",
+                    "sheet pan"
+                ],
+                "bad_overgenerate": [
+                    "board",
+                    "sheet"
+                ]
+            },
+            "freezer": {
+                "original_cluster": [
+                    "freezer"
+                ],
+                "overgenerate_cluster": [
+                    "freezing unit",
+                    "icebox",
+                    "freezer section",
+                    "freezing chamber",
+                    "deep freeze",
+                    "freezer compartment"
+                ],
+                "bad_overgenerate": []
+            },
+            "baking paper": {
+                "original_cluster": [
+                    "foil",
+                    "the aluminum foil",
+                    "freezer paper",
+                    "baking paper",
+                    "aluminum foil"
+                ],
+                "overgenerate_cluster": [
+                    "tin foil",
+                    "aluminium wrap",
+                    "parchment paper",
+                    "wax paper",
+                    "silver foil"
+                ],
+                "bad_overgenerate": [
+                    "parchment paper",
+                    "wax paper",
+                    "silver foil"
+                ]
+            }
+        }
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": "[Step1] Bend one pipe cleaner in half to form the legs.\n[Step2] Shape another pipe cleaner to form the body.\n[Step3] Move 1.5 inches (3.8 cm) from the tip of where the beak should be.\n[Step4] Use 2 pipe cleaners to enlarge the torso.",
+        "annotation": {
+            "pipe cleaner": {
+                "original_cluster": [
+                    "pipe cleaner",
+                    "pipe cleaners"
+                ],
+                "overgenerate_cluster": [
+                    "chenille stem",
+                    "fuzzy sticks",
+                    "chenille sticks",
+                    "chenille stick",
+                    "fuzzy stick",
+                    "craft stems"
+                ],
+                "bad_overgenerate": []
+            },
+            "tip of pipe cleaner": {
+                "original_cluster": [
+                    "your fingers",
+                    "tip of pipe cleaner"
+                ],
+                "overgenerate_cluster": [
+                    "finger tips",
+                    "the part of your fingers that touch the pipe cleaner",
+                    "end of pipe cleaner",
+                    "tip of the fingers",
+                    "tips of pipe cleaners",
+                    "the pointed end of the pipe cleaner",
+                    "tips of your fingers",
+                    "your digits",
+                    "ends of pipe cleaner",
+                    "ends of pipe cleaners"
+                ],
+                "bad_overgenerate": [
+                    "finger tips",
+                    "the part of your fingers that touch the pipe cleaner",
+                    "tip of the fingers",
+                    "tips of your fingers"
+                ]
+            },
+            "the torso": {
+                "original_cluster": [
+                    "the torso"
+                ],
+                "overgenerate_cluster": [
+                    "the body",
+                    "the middle part",
+                    "the main section"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "5": {
+        "goal": "Spool Knit a Winter Hat",
+        "steps": "[Step1] Knit eighty-four inches of flat web.\n[Step2] Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.\n[Step3] Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.\n[Step4] After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel.",
+        "annotation": {
+            "the hat": {
+                "original_cluster": [
+                    "the hat"
+                ],
+                "overgenerate_cluster": [
+                    "winter cap",
+                    "beanie",
+                    "wool hat",
+                    "knitted beanie",
+                    "knit cap",
+                    "knitted cap"
+                ],
+                "bad_overgenerate": []
+            },
+            "the piece of yarn": {
+                "original_cluster": [
+                    "the yarn",
+                    "the piece of yarn"
+                ],
+                "overgenerate_cluster": [
+                    "knitting yarn",
+                    "yarn ball",
+                    "thread",
+                    "wool"
+                ],
+                "bad_overgenerate": []
+            },
+            "the webbing": {
+                "original_cluster": [
+                    "the webbing"
+                ],
+                "overgenerate_cluster": [
+                    "knitted web",
+                    "flat web",
+                    "spool knitting webbing",
+                    "knitting web",
+                    "spool knitted web"
+                ],
+                "bad_overgenerate": []
+            },
+            "the ends": {
+                "original_cluster": [
+                    "the ends"
+                ],
+                "overgenerate_cluster": [
+                    "the edges",
+                    "terminations",
+                    "tips",
+                    "edges",
+                    "extremities"
+                ],
+                "bad_overgenerate": [
+                    "terminations",
+                    "extremities"
+                ]
+            }
+        }
+    },
+    "6": {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": "[Step1] Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.\n[Step2] Shotgun \u2014 The aim on the shotgun is almost like a rectangle.\n[Step3] Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.\n[Step4] BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one.",
+        "annotation": {
+            "weapon": {
+                "original_cluster": [
+                    "gun",
+                    "weapon"
+                ],
+                "overgenerate_cluster": [
+                    "sidearm",
+                    "revolver",
+                    "firearm",
+                    "rifle",
+                    "piece",
+                    "handgun",
+                    "pistol",
+                    "shotgun"
+                ],
+                "bad_overgenerate": [
+                    "piece"
+                ]
+            },
+            "you": {
+                "original_cluster": [
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "shooter",
+                    "player",
+                    "user",
+                    "character",
+                    "gamer"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": "[Step1] Plug in your HDMI cord to the cable.\n[Step2] Plug it into your TV's HDMI input.\n[Step3] Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.\n[Step4] Plug your HDMI cord (assuming you have one) into the converter and your TV.",
+        "annotation": {
+            "tv": {
+                "original_cluster": [
+                    "tv",
+                    "tv's hdmi input"
+                ],
+                "overgenerate_cluster": [
+                    "display",
+                    "television",
+                    "monitor",
+                    "TV set",
+                    "screen"
+                ],
+                "bad_overgenerate": []
+            },
+            "converter": {
+                "original_cluster": [
+                    "converter"
+                ],
+                "overgenerate_cluster": [
+                    "HDMI converter",
+                    "AV to HDMI converter",
+                    "HDMI to Composite converter",
+                    "encoder",
+                    "transcoder",
+                    "transmitter",
+                    "adapter",
+                    "AV converter",
+                    "composite to HDMI converter",
+                    "Composite converter",
+                    "HDMI to AV converter"
+                ],
+                "bad_overgenerate": [
+                    "encoder",
+                    "transcoder",
+                    "transmitter"
+                ]
+            },
+            "wii's av composite output": {
+                "original_cluster": [
+                    "wii's av composite output"
+                ],
+                "overgenerate_cluster": [
+                    "AV output",
+                    "analog video output",
+                    "RCA jack",
+                    "composite video output"
+                ],
+                "bad_overgenerate": [
+                    "RCA jack"
+                ]
+            },
+            "wii": {
+                "original_cluster": [
+                    "wii"
+                ],
+                "overgenerate_cluster": [
+                    "Nintendo gaming console",
+                    "Wii console",
+                    "Nintendo Wii"
+                ],
+                "bad_overgenerate": []
+            },
+            "the cord": {
+                "original_cluster": [
+                    "the cord",
+                    "cord",
+                    "plug"
+                ],
+                "overgenerate_cluster": [
+                    "lead",
+                    "wire",
+                    "cable",
+                    "connector"
+                ],
+                "bad_overgenerate": [
+                    "lead"
+                ]
+            },
+            "hdmi cord": {
+                "original_cluster": [
+                    "hdmi converter cable",
+                    "hdmi cord",
+                    "the hdmi",
+                    "the hdmi cord"
+                ],
+                "overgenerate_cluster": [
+                    "HDMI converter",
+                    "HDMI adapter",
+                    "HDMI cable",
+                    "HDMI cord",
+                    "HDMI cord converter",
+                    "HDMI connector",
+                    "HDMI to composite converter",
+                    "HDMI to AV converter",
+                    "HDMI cable converter"
+                ],
+                "bad_overgenerate": [
+                    "HDMI converter",
+                    "HDMI adapter",
+                    "HDMI cord converter",
+                    "HDMI connector",
+                    "HDMI to composite converter",
+                    "HDMI to AV converter",
+                    "HDMI cable converter"
+                ]
+            }
+        }
+    },
+    "8": {
+        "goal": "Fold Bath Towels for Quick Hanging at Home",
+        "steps": "[Step1] Fold the towel in thirds lengthwise.\n[Step2] Fold in half, and then in half again.\n[Step3] Store the towel in the linen closet.\n[Step4] To go from the closet for hanging, simply unfold the final fold and hang on the towel rack.",
+        "annotation": {
+            "the towels": {
+                "original_cluster": [
+                    "hand muscles",
+                    "height of towel",
+                    "towel",
+                    "hand",
+                    "closet",
+                    "towel rack",
+                    "final fold",
+                    "the towels"
+                ],
+                "overgenerate_cluster": [
+                    "unfolded towel",
+                    "hanger",
+                    "bath towel",
+                    "linen closet"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "9": {
+        "goal": "Be a Spy With Friends",
+        "steps": "[Step1] Set-up your spy group You will need a trustworthy 2-5 person group.\n[Step2] It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.\n[Step3] Get some gear To be a good spy, you and your friends must have gear that will help with missions.\n[Step4] Find your first \"victim\" The victim is the person you will be watching and spying on.",
+        "annotation": {
+            "you": {
+                "original_cluster": [
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "covert agent",
+                    "spy",
+                    "undercover agent",
+                    "I",
+                    "agent",
+                    "one",
+                    "the spy",
+                    "we",
+                    "someone",
+                    "operative",
+                    "a person"
+                ],
+                "bad_overgenerate": []
+            },
+            "co-conspirators": {
+                "original_cluster": [
+                    "co-conspirators",
+                    "your spy group"
+                ],
+                "overgenerate_cluster": [
+                    "partners in crime",
+                    "team",
+                    "secret agents",
+                    "team members",
+                    "collaborators",
+                    "allies",
+                    "spy team",
+                    "fellow spies"
+                ],
+                "bad_overgenerate": [
+                    "partners in crime"
+                ]
+            },
+            "gear": {
+                "original_cluster": [
+                    "gear"
+                ],
+                "overgenerate_cluster": [
+                    "apparatus",
+                    "materials",
+                    "equipment",
+                    "supplies",
+                    "tools"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "10": {
+        "goal": "Defeat a Thug on Dead Island",
+        "steps": "[Step1] There is no chance in hell you will kill a Thug using just your bear hands and feet.\n[Step2] Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.\n[Step3] Make sure your guns have enough ammo, and your knives are up to scratch.\n[Step4] Attack!",
+        "annotation": {
+            "you": {
+                "original_cluster": [
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "player",
+                    "avatar",
+                    "player character",
+                    "character",
+                    "protagonist"
+                ],
+                "bad_overgenerate": []
+            },
+            "weapons": {
+                "original_cluster": [
+                    "weapons",
+                    "molotov cocktails",
+                    "grenades"
+                ],
+                "overgenerate_cluster": [
+                    "ordnance",
+                    "arms",
+                    "explosives",
+                    "bombs",
+                    "firearms"
+                ],
+                "bad_overgenerate": []
+            },
+            "zombies": {
+                "original_cluster": [
+                    "zombies"
+                ],
+                "overgenerate_cluster": [
+                    "zeds",
+                    "infected",
+                    "monsters",
+                    "undead",
+                    "the undead",
+                    "ghouls",
+                    "corpses",
+                    "walkers",
+                    "creepers"
+                ],
+                "bad_overgenerate": [
+                    "zeds",
+                    "infected",
+                    "corpses"
+                ]
+            },
+            "enough ammo": {
+                "original_cluster": [
+                    "enough ammo"
+                ],
+                "overgenerate_cluster": [
+                    "sufficient ammunition",
+                    "adequate bullets",
+                    "required bullets",
+                    "enough rounds",
+                    "necessary ammo",
+                    "sufficient shells",
+                    "satisfactory firepower"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "11": {
+        "goal": "Make Rhubarb Cordial",
+        "steps": "[Step1] Simmer the rhubarb with the sugar, cloves and water.\n[Step2] Simmer until the rhubarb becomes soft.\n[Step3] Remove from the heat.\n[Step4] Add the mint leaves for decoration.",
+        "annotation": {
+            "water": {
+                "original_cluster": [
+                    "water"
+                ],
+                "overgenerate_cluster": [
+                    "aquaeous solution",
+                    "hydration fluid",
+                    "aqua",
+                    "H2O",
+                    "liquid"
+                ],
+                "bad_overgenerate": [
+                    "H2O",
+                    "liquid"
+                ]
+            },
+            "stove": {
+                "original_cluster": [
+                    "stove",
+                    "pot"
+                ],
+                "overgenerate_cluster": [
+                    "cooking vessel",
+                    "range",
+                    "boiler",
+                    "saucepan",
+                    "kettle",
+                    "cauldron",
+                    "cooking pot",
+                    "cooktop"
+                ],
+                "bad_overgenerate": [
+                    "kettle"
+                ]
+            },
+            "mint leaves": {
+                "original_cluster": [
+                    "mint leaves"
+                ],
+                "overgenerate_cluster": [
+                    "peppermint leaves",
+                    "spearmint",
+                    "spearmint leaves",
+                    "mint sprigs"
+                ],
+                "bad_overgenerate": []
+            },
+            "cordial": {
+                "original_cluster": [
+                    "cordial",
+                    "rhubarb cordial"
+                ],
+                "overgenerate_cluster": [
+                    "rhubarb syrup",
+                    "flavored syrup",
+                    "rhubarb drink",
+                    "fruit syrup",
+                    "rhubarb juice",
+                    "fruit concentrate",
+                    "fruit cordial"
+                ],
+                "bad_overgenerate": [
+                    "fruit syrup",
+                    "fruit concentrate",
+                    "fruit cordial"
+                ]
+            },
+            "rhubarb": {
+                "original_cluster": [
+                    "rhubarb"
+                ],
+                "overgenerate_cluster": [
+                    "garden rhubarb",
+                    "wine plant",
+                    "pie plant"
+                ],
+                "bad_overgenerate": []
+            },
+            "cloves": {
+                "original_cluster": [
+                    "sugar",
+                    "cloves"
+                ],
+                "overgenerate_cluster": [],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "12": {
+        "goal": "Get Under the Stage in Dragonball Z Budokai Tenkaichi 2",
+        "steps": "[Step1] Choose VS Duel, 2 players.\n[Step2] Choose Goku as player one, as well as player two.\n[Step3] Choose Mountain Road as the stage.\n[Step4] Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage.",
+        "annotation": {
+            "character": {
+                "original_cluster": [
+                    "character",
+                    "goku",
+                    "companion",
+                    "player two"
+                ],
+                "overgenerate_cluster": [
+                    "opponent",
+                    "fighter",
+                    "avatar",
+                    "hero",
+                    "warrior",
+                    "protagonist"
+                ],
+                "bad_overgenerate": []
+            },
+            "players": {
+                "original_cluster": [
+                    "player",
+                    "players",
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "users",
+                    "fighter",
+                    "participant",
+                    "competitors",
+                    "avatar",
+                    "participants",
+                    "character",
+                    "game piece",
+                    "gamers"
+                ],
+                "bad_overgenerate": []
+            },
+            "vs duel": {
+                "original_cluster": [
+                    "vs duel",
+                    "mode"
+                ],
+                "overgenerate_cluster": [
+                    "player versus player mode",
+                    "battle mode",
+                    "multiplayer mode",
+                    "versus mode",
+                    "PvP mode"
+                ],
+                "bad_overgenerate": []
+            },
+            "stage": {
+                "original_cluster": [
+                    "stage"
+                ],
+                "overgenerate_cluster": [
+                    "battlefield",
+                    "field",
+                    "pitch",
+                    "playfield",
+                    "platform",
+                    "arena",
+                    "playing field",
+                    "court",
+                    "ring"
+                ],
+                "bad_overgenerate": [
+                    "pitch",
+                    "platform",
+                    "court"
+                ]
+            }
+        }
+    },
+    "13": {
+        "goal": "Make Slow Cooker Hot Cocoa",
+        "steps": "[Step1] Make the initial cocoa mixture.\n[Step2] Add all the ingredients in a slow cooker.\n[Step3] Allow the mixture to heat for 3 hours on a low setting.\n[Step4] Serve immediately or keep the slow cooker on a \"Keep Warm\" setting.",
+        "annotation": {
+            "smell": {
+                "original_cluster": [
+                    "smell"
+                ],
+                "overgenerate_cluster": [],
+                "bad_overgenerate": []
+            },
+            "mixture ingredients": {
+                "original_cluster": [
+                    "the ingredients",
+                    "ingredients",
+                    "mixture ingredients"
+                ],
+                "overgenerate_cluster": [
+                    "required ingredients",
+                    "necessary components",
+                    "recipe ingredients",
+                    "required components",
+                    "necessary ingredients",
+                    "cooking elements",
+                    "recipe components"
+                ],
+                "bad_overgenerate": [
+                    "necessary components",
+                    "required components",
+                    "cooking elements"
+                ]
+            },
+            "cocoa mixture": {
+                "original_cluster": [
+                    "liquid",
+                    "mixture",
+                    "the mixture",
+                    "water",
+                    "cocoa mixture",
+                    "cocoa powder"
+                ],
+                "overgenerate_cluster": [
+                    "hot cocoa",
+                    "hot chocolate",
+                    "chocolate mixture",
+                    "chocolate liquid"
+                ],
+                "bad_overgenerate": []
+            },
+            "mug": {
+                "original_cluster": [
+                    "mug"
+                ],
+                "overgenerate_cluster": [
+                    "cup",
+                    "beverage container",
+                    "coffee cup",
+                    "tankard",
+                    "stein",
+                    "tea cup",
+                    "tumbler"
+                ],
+                "bad_overgenerate": [
+                    "tankard",
+                    "stein",
+                    "tumbler"
+                ]
+            },
+            "bowl": {
+                "original_cluster": [
+                    "whisk",
+                    "bowl"
+                ],
+                "overgenerate_cluster": [
+                    "mixer",
+                    "mixing bowl",
+                    "beater"
+                ],
+                "bad_overgenerate": []
+            },
+            "cooker": {
+                "original_cluster": [
+                    "the outside of the slow cooker",
+                    "the knob",
+                    "lid",
+                    "slow cooker",
+                    "the slow cooker",
+                    "cooker"
+                ],
+                "overgenerate_cluster": [
+                    "pot",
+                    "electric crockpot",
+                    "crock",
+                    "crockpot"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": "[Step1] Prepare the pot or area in your yard where you plan to plant your clipping.\n[Step2] Take a cutting from the rose bush you would like to grow your new bush from.\n[Step3] Moisten the part of the clipping that you just scraped and dip it into rooting hormone.\n[Step4] Immediately plant the cutting.",
+        "annotation": {
+            "rooting hormone": {
+                "original_cluster": [
+                    "rooting hormone"
+                ],
+                "overgenerate_cluster": [
+                    "rooting solution",
+                    "root hormone",
+                    "rooting powder",
+                    "rooting compound",
+                    "rooting gel"
+                ],
+                "bad_overgenerate": []
+            },
+            "water": {
+                "original_cluster": [
+                    "water"
+                ],
+                "overgenerate_cluster": [
+                    "hydration",
+                    "aqua",
+                    "H2O",
+                    "moisture",
+                    "liquid"
+                ],
+                "bad_overgenerate": [
+                    "hydration",
+                    "H2O",
+                    "moisture",
+                    "liquid"
+                ]
+            },
+            "the clipping": {
+                "original_cluster": [
+                    "the cutting",
+                    "cutting",
+                    "the clipping",
+                    "clipping"
+                ],
+                "overgenerate_cluster": [
+                    "twig",
+                    "plant stem",
+                    "slip",
+                    "plant cutting",
+                    "scion",
+                    "shoot"
+                ],
+                "bad_overgenerate": []
+            },
+            "the shovel": {
+                "original_cluster": [
+                    "the shovel"
+                ],
+                "overgenerate_cluster": [
+                    "spade",
+                    "digging shovel",
+                    "digging tool",
+                    "scoop shovel",
+                    "entrenching tool",
+                    "garden shovel"
+                ],
+                "bad_overgenerate": []
+            },
+            "pruning shears": {
+                "original_cluster": [
+                    "the pruning shears",
+                    "pruning shears"
+                ],
+                "overgenerate_cluster": [
+                    "secateurs",
+                    "garden shears",
+                    "pruners",
+                    "hand pruners",
+                    "clippers"
+                ],
+                "bad_overgenerate": []
+            },
+            "the rose bush": {
+                "original_cluster": [
+                    "rose bush",
+                    "the rose bush"
+                ],
+                "overgenerate_cluster": [
+                    "rose plant",
+                    "roses",
+                    "the rose plant"
+                ],
+                "bad_overgenerate": []
+            },
+            "soil": {
+                "original_cluster": [
+                    "soil"
+                ],
+                "overgenerate_cluster": [
+                    "dirt",
+                    "earth",
+                    "ground"
+                ],
+                "bad_overgenerate": []
+            },
+            "roots": {
+                "original_cluster": [
+                    "roots"
+                ],
+                "overgenerate_cluster": [
+                    "root system",
+                    "root network",
+                    "root structure"
+                ],
+                "bad_overgenerate": []
+            },
+            "pot": {
+                "original_cluster": [
+                    "pot"
+                ],
+                "overgenerate_cluster": [
+                    "urn",
+                    "planter",
+                    "vase",
+                    "container",
+                    "flowerpot",
+                    "potted plant"
+                ],
+                "bad_overgenerate": [
+                    "potted plant"
+                ]
+            },
+            "ground": {
+                "original_cluster": [
+                    "yard",
+                    "area",
+                    "ground"
+                ],
+                "overgenerate_cluster": [
+                    "soil",
+                    "terrain",
+                    "earth"
+                ],
+                "bad_overgenerate": [
+                    "terrain"
+                ]
+            },
+            "hole in ground": {
+                "original_cluster": [
+                    "hole in ground"
+                ],
+                "overgenerate_cluster": [
+                    "excavation",
+                    "pit",
+                    "dugout",
+                    "trench"
+                ],
+                "bad_overgenerate": [
+                    "excavation",
+                    "trench"
+                ]
+            }
+        }
+    },
+    "15": {
+        "goal": "Evolve Vulpix in Pok\u00e9mon",
+        "steps": "[Step1] ######Catch or trade for a Vulpix.\n[Step2] ######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).\n[Step3] Go to your bag and select the stone required.\n[Step4] ######Wait for the evolution animation to pop up.",
+        "annotation": {
+            "fire stone": {
+                "original_cluster": [
+                    "fire or ice stone",
+                    "fire stone"
+                ],
+                "overgenerate_cluster": [
+                    "flame stone",
+                    "icy rock",
+                    "heat rock",
+                    "Ice Rock",
+                    "frost stone",
+                    "flare stone",
+                    "Flame Stone",
+                    "Heat Rock",
+                    "Frost Stone"
+                ],
+                "bad_overgenerate": []
+            },
+            "vulpix": {
+                "original_cluster": [
+                    "vulpix"
+                ],
+                "overgenerate_cluster": [
+                    "#037",
+                    "Pok\u00e9mon",
+                    "Ninetales (after evolution)"
+                ],
+                "bad_overgenerate": [
+                    "#037"
+                ]
+            },
+            "stone": {
+                "original_cluster": [
+                    "the stone",
+                    "stone"
+                ],
+                "overgenerate_cluster": [
+                    "elemental stone",
+                    "evolution stone",
+                    "type stone",
+                    "special stone"
+                ],
+                "bad_overgenerate": []
+            },
+            "bag": {
+                "original_cluster": [
+                    "bag"
+                ],
+                "overgenerate_cluster": [
+                    "knapsack",
+                    "carryall",
+                    "backpack",
+                    "holdall",
+                    "satchel",
+                    "pack",
+                    "purse",
+                    "rucksack",
+                    "kit"
+                ],
+                "bad_overgenerate": [
+                    "pack",
+                    "kit"
+                ]
+            }
+        }
+    },
+    "16": {
+        "goal": "Polish a Faucet With a Lemon",
+        "steps": "[Step1] ######Cut a lemon in half.\n[Step2] ######Squeeze out the juice.\n[Step3] ######Take the squeezed out lemon half and rub vigorously over the faucets.\n[Step4] ######Wash the tap after scouring with the lemon half.",
+        "annotation": {
+            "faucets": {
+                "original_cluster": [
+                    "tap",
+                    "faucet",
+                    "facuets",
+                    "faucets"
+                ],
+                "overgenerate_cluster": [
+                    "cock",
+                    "water faucet",
+                    "spigot",
+                    "valve",
+                    "water tap",
+                    "fixture",
+                    "water spout",
+                    "tapware"
+                ],
+                "bad_overgenerate": [
+                    "cock",
+                    "fixture"
+                ]
+            },
+            "lemon": {
+                "original_cluster": [
+                    "lemon",
+                    "cutting board",
+                    "knife"
+                ],
+                "overgenerate_cluster": [
+                    "fruit",
+                    "paring knife",
+                    "citrus fruit",
+                    "chopping board"
+                ],
+                "bad_overgenerate": []
+            },
+            "juice": {
+                "original_cluster": [
+                    "juice",
+                    "lemon juice"
+                ],
+                "overgenerate_cluster": [
+                    "citrus juice"
+                ],
+                "bad_overgenerate": []
+            },
+            "water": {
+                "original_cluster": [
+                    "water"
+                ],
+                "overgenerate_cluster": [
+                    "hydration fluid",
+                    "aqua",
+                    "H20",
+                    "aqueous solution",
+                    "H2O",
+                    "aquatic solution",
+                    "liquid"
+                ],
+                "bad_overgenerate": [
+                    "H20",
+                    "liquid"
+                ]
+            }
+        }
+    },
+    "17": {
+        "goal": "Make Taco Filling",
+        "steps": "[Step1] Brown the meat and the onion in a medium sized frying pan.\n[Step2] Drain the excess fat.\n[Step3] Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.\n[Step4] Finished.",
+        "annotation": {
+            "frying pan": {
+                "original_cluster": [
+                    "frying pan",
+                    "skillet",
+                    "pan"
+                ],
+                "overgenerate_cluster": [
+                    "saut\u00e9 pan",
+                    "cooking pan",
+                    "fry pan",
+                    "omelet pan",
+                    "griddle"
+                ],
+                "bad_overgenerate": []
+            },
+            "grease": {
+                "original_cluster": [
+                    "grease",
+                    "fat"
+                ],
+                "overgenerate_cluster": [
+                    "oil",
+                    "suet",
+                    "tallow",
+                    "butter",
+                    "lard"
+                ],
+                "bad_overgenerate": []
+            },
+            "recipe": {
+                "original_cluster": [
+                    "recipe"
+                ],
+                "overgenerate_cluster": [
+                    "dish preparation",
+                    "method",
+                    "cooking instructions",
+                    "directions",
+                    "preparation instructions",
+                    "preparation steps",
+                    "food formula"
+                ],
+                "bad_overgenerate": [
+                    "dish preparation",
+                    "method",
+                    "directions"
+                ]
+            },
+            "serving bowl": {
+                "original_cluster": [
+                    "serving bowl",
+                    "bowl"
+                ],
+                "overgenerate_cluster": [
+                    "server",
+                    "salad bowl",
+                    "dish",
+                    "platter",
+                    "serving dish",
+                    "container"
+                ],
+                "bad_overgenerate": [
+                    "server"
+                ]
+            },
+            "grease container": {
+                "original_cluster": [
+                    "grease container"
+                ],
+                "overgenerate_cluster": [
+                    "grease can",
+                    "used oil container",
+                    "oil can",
+                    "fat container",
+                    "oil canister",
+                    "drippings container",
+                    "oil container"
+                ],
+                "bad_overgenerate": []
+            },
+            "spatula": {
+                "original_cluster": [
+                    "knife",
+                    "spatula"
+                ],
+                "overgenerate_cluster": [
+                    "flipper",
+                    "turner",
+                    "blade"
+                ],
+                "bad_overgenerate": [
+                    "blade"
+                ]
+            },
+            "stove": {
+                "original_cluster": [
+                    "stove"
+                ],
+                "overgenerate_cluster": [
+                    "range",
+                    "cooktop",
+                    "burner",
+                    "oven"
+                ],
+                "bad_overgenerate": []
+            },
+            "tomato": {
+                "original_cluster": [
+                    "onion",
+                    "liquids",
+                    "spices",
+                    "food",
+                    "tomato",
+                    "beef",
+                    "ingredients"
+                ],
+                "overgenerate_cluster": [
+                    "cooking ingredients",
+                    "recipe ingredients",
+                    "cooking components",
+                    "cooking elements",
+                    "recipe components"
+                ],
+                "bad_overgenerate": [
+                    "cooking components",
+                    "cooking elements"
+                ]
+            },
+            "hot sauce": {
+                "original_cluster": [
+                    "hot sauce",
+                    "flavor"
+                ],
+                "overgenerate_cluster": [
+                    "sauce",
+                    "flavoring",
+                    "seasoning",
+                    "spice",
+                    "condiment"
+                ],
+                "bad_overgenerate": []
+            },
+            "cheese": {
+                "original_cluster": [
+                    "cheese"
+                ],
+                "overgenerate_cluster": [
+                    "mozarella",
+                    "blue cheese",
+                    "colby jack",
+                    "gouda",
+                    "colby",
+                    "fromage",
+                    "swiss",
+                    "monterey jack",
+                    "cheddar",
+                    "cottage cheese",
+                    "parmesan",
+                    "brie",
+                    "goat cheese",
+                    "queso cotija",
+                    "ricotta",
+                    "feta",
+                    "edam",
+                    "pepper jack",
+                    "camembert",
+                    "manchego",
+                    "queso fresco",
+                    "cream cheese",
+                    "romano",
+                    "asiago",
+                    "queso",
+                    "gorgonzola",
+                    "formaggio",
+                    "provolone",
+                    "queso blanco"
+                ],
+                "bad_overgenerate": []
+            },
+            "sink": {
+                "original_cluster": [
+                    "sink",
+                    "meat",
+                    "grease c ontainer"
+                ],
+                "overgenerate_cluster": [
+                    "ground beef",
+                    "fat separator",
+                    "drain"
+                ],
+                "bad_overgenerate": [
+                    "ground beef",
+                    "fat separator"
+                ]
+            }
+        }
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": "[Step1] Obtain a decent sized eraser that you can hold comfortable in your fingers.\n[Step2] Kneel down next to the linoleum and use the eraser to rub along the skid mark.\n[Step3] Continue rubbing until the black mark lifts.\n[Step4] Wash and dry as usual.",
+        "annotation": {
+            "person": {
+                "original_cluster": [
+                    "body",
+                    "person",
+                    "hands",
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "doer",
+                    "user",
+                    "performer",
+                    "individual",
+                    "operator"
+                ],
+                "bad_overgenerate": []
+            },
+            "eraser": {
+                "original_cluster": [
+                    "eraser"
+                ],
+                "overgenerate_cluster": [
+                    "pencil eraser",
+                    "rubber eraser",
+                    "rubber"
+                ],
+                "bad_overgenerate": [
+                    "pencil eraser"
+                ]
+            },
+            "linoleum": {
+                "original_cluster": [
+                    "linoleum",
+                    "lineoleum"
+                ],
+                "overgenerate_cluster": [
+                    "vinyl flooring",
+                    "sheet flooring",
+                    "congoleum",
+                    "resilient flooring",
+                    "lino"
+                ],
+                "bad_overgenerate": [
+                    "congoleum",
+                    "resilient flooring"
+                ]
+            },
+            "water": {
+                "original_cluster": [
+                    "water"
+                ],
+                "overgenerate_cluster": [
+                    "aquaeous solution",
+                    "hydration",
+                    "aqua",
+                    "H2O",
+                    "moisture",
+                    "liquid"
+                ],
+                "bad_overgenerate": [
+                    "hydration",
+                    "moisture",
+                    "liquid"
+                ]
+            },
+            "skid mark": {
+                "original_cluster": [
+                    "skid mark"
+                ],
+                "overgenerate_cluster": [
+                    "black mark",
+                    "scuff mark",
+                    "mark left by shoes"
+                ],
+                "bad_overgenerate": []
+            },
+            "hand muscles": {
+                "original_cluster": [
+                    "hand muscles"
+                ],
+                "overgenerate_cluster": [
+                    "hand power",
+                    "hand strength",
+                    "hand dexterity",
+                    "hand grip"
+                ],
+                "bad_overgenerate": [
+                    "hand dexterity"
+                ]
+            },
+            "floor": {
+                "original_cluster": [
+                    "floor"
+                ],
+                "overgenerate_cluster": [
+                    "surface",
+                    "platform",
+                    "deck",
+                    "ground",
+                    "flooring"
+                ],
+                "bad_overgenerate": [
+                    "platform"
+                ]
+            }
+        }
+    },
+    "19": {
+        "goal": "Create a Character in Lego Star Wars",
+        "steps": "[Step1] When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.\n[Step2] Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.\n[Step3] Press \"triangle\" to name it, and \"O\" to save and exit.\n[Step4] Now enter a completed level and turn on free play.",
+        "annotation": {
+            "game": {
+                "original_cluster": [
+                    "game"
+                ],
+                "overgenerate_cluster": [
+                    "computer game",
+                    "video game",
+                    "console game",
+                    "gaming software"
+                ],
+                "bad_overgenerate": []
+            },
+            "completed level": {
+                "original_cluster": [
+                    "free play",
+                    "completed level"
+                ],
+                "overgenerate_cluster": [
+                    "unlocked level",
+                    "unlocked gameplay mode",
+                    "open play",
+                    "unrestricted play"
+                ],
+                "bad_overgenerate": []
+            },
+            "you": {
+                "original_cluster": [
+                    "you"
+                ],
+                "overgenerate_cluster": [
+                    "I",
+                    "player",
+                    "user",
+                    "avatar",
+                    "character",
+                    "gamer"
+                ],
+                "bad_overgenerate": []
+            },
+            "up/down and left/right arrows": {
+                "original_cluster": [
+                    "up/down and left/right arrows"
+                ],
+                "overgenerate_cluster": [
+                    "D-pad",
+                    "directional arrows",
+                    "navigation arrows",
+                    "arrow keys",
+                    "directional buttons",
+                    "joystick",
+                    "control pad",
+                    "directional pad"
+                ],
+                "bad_overgenerate": [
+                    "joystick",
+                    "control pad"
+                ]
+            },
+            "character": {
+                "original_cluster": [
+                    "character",
+                    "character parts"
+                ],
+                "overgenerate_cluster": [
+                    "LEGO character",
+                    "minifigure",
+                    "avatar",
+                    "player character",
+                    "figure parts",
+                    "custom character",
+                    "Lego character"
+                ],
+                "bad_overgenerate": []
+            }
+        }
+    },
+    "20": {
+        "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+        "steps": "[Step1] Blend the cream cheese and marshmallow cream until combined.\n[Step2] Pour the mixture into a clean bowl.\n[Step3] Serve with fruit or whatever else you like.\n[Step4] Finished.",
+        "annotation": {
+            "fruit": {
+                "original_cluster": [
+                    "fruit",
+                    "the fruit"
+                ],
+                "overgenerate_cluster": [
+                    "fruits",
+                    "fruit slices",
+                    "seasonal produce",
+                    "fruit salad",
+                    "fresh produce",
+                    "fruits and berries",
+                    "fruit platter"
+                ],
+                "bad_overgenerate": [
+                    "fruit salad",
+                    "fruit platter"
+                ]
+            },
+            "the mixing bowl": {
+                "original_cluster": [
+                    "the bowl",
+                    "bowl",
+                    "the mixing bowl",
+                    "the clean bowl"
+                ],
+                "overgenerate_cluster": [
+                    "mixing dish",
+                    "dish",
+                    "preparation bowl",
+                    "food bowl",
+                    "mixing container"
+                ],
+                "bad_overgenerate": []
+            },
+            "blender": {
+                "original_cluster": [
+                    "blender",
+                    "the knife"
+                ],
+                "overgenerate_cluster": [
+                    "blender appliance",
+                    "blender machine",
+                    "blending machine",
+                    "food processor",
+                    "mixer"
+                ],
+                "bad_overgenerate": [
+                    "food processor"
+                ]
+            },
+            "cream cheese": {
+                "original_cluster": [
+                    "cream cheese",
+                    "the cream cheese"
+                ],
+                "overgenerate_cluster": [
+                    "soft cheese"
+                ],
+                "bad_overgenerate": []
+            },
+            "the marshmallow cream": {
+                "original_cluster": [
+                    "marshmallow cream",
+                    "the marshmallow cream",
+                    "marshmallow"
+                ],
+                "overgenerate_cluster": [
+                    "marshmallow creme",
+                    "marshmallow fluff",
+                    "whipped marshmallow",
+                    "marshmallow spread"
+                ],
+                "bad_overgenerate": []
+            },
+            "mixture": {
+                "original_cluster": [
+                    "the mixture",
+                    "cream cheese and marshmallow",
+                    "mixtre",
+                    "mixture"
+                ],
+                "overgenerate_cluster": [
+                    "fruit dip",
+                    "cream cheese and marshmallow dip",
+                    "dip mixture",
+                    "marshmallow cream cheese mixture",
+                    "dip",
+                    "blended mixture"
+                ],
+                "bad_overgenerate": []
+            },
+            "ingredients": {
+                "original_cluster": [
+                    "ingredients"
+                ],
+                "overgenerate_cluster": [
+                    "recipe elements",
+                    "food items",
+                    "cooking materials",
+                    "necessary food items",
+                    "components",
+                    "recipe items",
+                    "recipe components",
+                    "recipe materials"
+                ],
+                "bad_overgenerate": [
+                    "recipe elements",
+                    "components",
+                    "recipe components"
+                ]
+            }
+        }
+    }
+}

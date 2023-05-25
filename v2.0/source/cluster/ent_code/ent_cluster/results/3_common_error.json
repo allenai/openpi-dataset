@@ -1,0 +1,257 @@
+{
+    "0": {
+        "gt": [
+            "glovebox",
+            "glvoe box"
+        ],
+        "pred": [
+            "glovebox"
+        ],
+        "count": 5
+    },
+    "1": {
+        "gt": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ],
+        "pred": [
+            "sorber"
+        ],
+        "count": 3
+    },
+    "2": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "both feet",
+            "feet"
+        ],
+        "count": 2
+    },
+    "3": {
+        "gt": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ],
+        "pred": [
+            "pillow case",
+            "bundle of old underwear"
+        ],
+        "count": 2
+    },
+    "4": {
+        "gt": [
+            "floor",
+            "lineoleum"
+        ],
+        "pred": [
+            "lineoleum"
+        ],
+        "count": 2
+    },
+    "5": {
+        "gt": [
+            "floor",
+            "lineoleum"
+        ],
+        "pred": [
+            "floor"
+        ],
+        "count": 2
+    },
+    "6": {
+        "gt": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ],
+        "pred": [
+            "cord",
+            "the cord",
+            "hdmi converter cable",
+            "hdmi cord"
+        ],
+        "count": 1
+    },
+    "7": {
+        "gt": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ],
+        "pred": [
+            "plug",
+            "wii",
+            "the hdmi",
+            "wii's av composite output",
+            "converter"
+        ],
+        "count": 1
+    },
+    "8": {
+        "gt": [
+            "the clipping",
+            "clipping"
+        ],
+        "pred": [
+            "the clipping",
+            "rose bush",
+            "the rose bush",
+            "cutting"
+        ],
+        "count": 1
+    },
+    "9": {
+        "gt": [
+            "cutting",
+            "the cutting"
+        ],
+        "pred": [
+            "the clipping",
+            "rose bush",
+            "the rose bush",
+            "cutting"
+        ],
+        "count": 1
+    },
+    "10": {
+        "gt": [
+            "yard",
+            "area"
+        ],
+        "pred": [
+            "ground",
+            "area",
+            "hole in ground",
+            "pot"
+        ],
+        "count": 1
+    },
+    "11": {
+        "gt": [
+            "yard",
+            "area"
+        ],
+        "pred": [
+            "yard",
+            "soil",
+            "water"
+        ],
+        "count": 1
+    },
+    "12": {
+        "gt": [
+            "body",
+            "person",
+            "you"
+        ],
+        "pred": [
+            "body",
+            "water"
+        ],
+        "count": 1
+    },
+    "13": {
+        "gt": [
+            "body",
+            "person",
+            "you"
+        ],
+        "pred": [
+            "you",
+            "person"
+        ],
+        "count": 1
+    },
+    "14": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "your foot",
+            "dominant foot"
+        ],
+        "count": 1
+    },
+    "15": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "you",
+            "ability to identify dominant foot",
+            "foot"
+        ],
+        "count": 1
+    },
+    "16": {
+        "gt": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ],
+        "pred": [
+            "banana",
+            "fruit",
+            "sorbet",
+            "fruit and sorbet"
+        ],
+        "count": 1
+    },
+    "17": {
+        "gt": [
+            "banana",
+            "bananas"
+        ],
+        "pred": [
+            "banana",
+            "fruit",
+            "sorbet",
+            "fruit and sorbet"
+        ],
+        "count": 1
+    },
+    "18": {
+        "gt": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ],
+        "pred": [
+            "mixture",
+            "ingredients"
+        ],
+        "count": 1
+    },
+    "19": {
+        "gt": [
+            "rum",
+            "liquid"
+        ],
+        "pred": [
+            "liquid",
+            "smoothie"
+        ],
+        "count": 1
+    }
+}

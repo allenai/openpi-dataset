@@ -1,0 +1,47 @@
+Event
+"finely chop the garlic and onions."
+
+Resolved Entities
+('garlic and onions', 'ingredients'), ('air', 'smell'), ('garlic', 'knife')
+
+Corrected Resolution
+('garlic and onions', 'ingredients'), ('air', 'smell'), 'garlic', 'knife'
+
+
+Event
+"remove the shoelaces from the shoe and rinse the shoelaces in cold water."
+
+Resolved Entities
+('shoelaces', 'shoe laces'), ('water', 'cold water', 'tap water'), ('sink', 'basin')
+
+Corrected Resolution
+('shoelaces', 'shoe laces'), ('water', 'cold water', 'tap water'), ('sink', 'basin')
+
+
+Event
+"fill out the online application form and use it to make an appointment at the embassy's official website."
+
+Resolved Entities
+('website', 'official website', 'website of the embassy', 'embassy'), ('appointment', 'schedule'), ('application', 'form', 'application form', 'online form', 'application')
+
+Corrected Resolution
+('website', 'official website', 'website of the embassy'), ('appointment', 'schedule'), ('application', 'form', 'application form', 'online form'), 'embassy', 'application'
+
+
+Event
+"brush oil on the surface of the wooden desk to prevent it from erosion"
+
+Resolved Entities
+('oil', 'protective oil', 'wood wax oil'，'wax', 'wax oil', 'wood oil', 'olive oil'), ('wooden desk', 'desk', 'furniture', 'chair', 'cellphone')
+
+Corrected Resolution
+('oil', 'protective oil', 'wood wax oil'，'wax', 'wax oil', 'wood oil'), ('wooden desk', 'desk', 'furniture'), 'olive oil', 'chair', 'cellphone'
+
+
+Event
+{event}
+
+Resolved Entities
+{resolved_entities}
+
+Corrected Resolution

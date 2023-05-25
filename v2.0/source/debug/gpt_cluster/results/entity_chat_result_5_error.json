@@ -1,0 +1,268 @@
+{
+    "0": {
+        "generation": [
+            "glovebox",
+            "eraser shelf at the store"
+        ],
+        "gold": [
+            "glovebox",
+            "glvoe box"
+        ]
+    },
+    "1": {
+        "generation": [
+            "the hdmi cord",
+            "cord",
+            "hdmi converter cable",
+            "converter",
+            "hdmi cord"
+        ],
+        "gold": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ]
+    },
+    "2": {
+        "generation": [
+            "the hdmi"
+        ],
+        "gold": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ]
+    },
+    "3": {
+        "generation": [
+            "the pruning shears",
+            "pruning shears",
+            "the cutting",
+            "the clipping"
+        ],
+        "gold": [
+            "the clipping",
+            "clipping"
+        ]
+    },
+    "4": {
+        "generation": [
+            "the pruning shears",
+            "pruning shears",
+            "the cutting",
+            "the clipping"
+        ],
+        "gold": [
+            "cutting",
+            "the cutting"
+        ]
+    },
+    "5": {
+        "generation": [
+            "handbrakes",
+            "the chain",
+            "bicycle",
+            "grip on bike",
+            "the tires",
+            "ability to identify handlebars",
+            "ability to identify bike shaft"
+        ],
+        "gold": [
+            "bike",
+            "bicycle"
+        ]
+    },
+    "6": {
+        "generation": [
+            "foot",
+            "your foot",
+            "non-dominant foot",
+            "ability to identify dominant foot",
+            "pedals",
+            "both feet",
+            "ability to identify non-dominant leg",
+            "dominant foot"
+        ],
+        "gold": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ]
+    },
+    "7": {
+        "generation": [
+            "feet"
+        ],
+        "gold": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ]
+    },
+    "8": {
+        "generation": [
+            "bike"
+        ],
+        "gold": [
+            "bike",
+            "bicycle"
+        ]
+    },
+    "9": {
+        "generation": [
+            "bottle",
+            "rum"
+        ],
+        "gold": [
+            "rum",
+            "liquid"
+        ]
+    },
+    "10": {
+        "generation": [
+            "ingredients",
+            "fruit and sorbet",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "gold": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ]
+    },
+    "11": {
+        "generation": [
+            "ingredients",
+            "fruit and sorbet",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "gold": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ]
+    },
+    "12": {
+        "generation": [
+            "ingredients",
+            "fruit and sorbet",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "gold": [
+            "banana",
+            "bananas"
+        ]
+    },
+    "13": {
+        "generation": [
+            "smoothie",
+            "blender",
+            "mixture",
+            "liquid"
+        ],
+        "gold": [
+            "rum",
+            "liquid"
+        ]
+    },
+    "14": {
+        "generation": [
+            "smoothie",
+            "blender",
+            "mixture",
+            "liquid"
+        ],
+        "gold": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ]
+    },
+    "15": {
+        "generation": [
+            "sorber"
+        ],
+        "gold": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ]
+    },
+    "16": {
+        "generation": [
+            "old bolt",
+            "bolt"
+        ],
+        "gold": [
+            "new bolt",
+            "old bolt"
+        ]
+    },
+    "17": {
+        "generation": [
+            "new bolt"
+        ],
+        "gold": [
+            "new bolt",
+            "old bolt"
+        ]
+    },
+    "18": {
+        "generation": [
+            "quality undies"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    },
+    "19": {
+        "generation": [
+            "underpants",
+            "underwears"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    },
+    "20": {
+        "generation": [
+            "bundle of old underwear",
+            "pillow case"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    }
+}

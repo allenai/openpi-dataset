@@ -1,0 +1,4 @@
+[
+    {"role": "user", "content": "We have the following object states: {attributes}. Group those that are describing the same object states."},
+    {"role": "assistant", "content": "The grouped object states are:\n{grouped_attr}"},
+]

@@ -1,0 +1,5 @@
+[
+{"role": "user", "content": "{procedure_context}"},
+{"role": "assistant", "content": "Yes."},
+{"role": "user", "content": "{entity_context} What are the alternative ways to describe this object state change?"}
+]

@@ -1,0 +1,38 @@
+# narrative of current event
+event = "finely chop the garlic and onions."
+# provided entities grouped by coreference resolution
+resolved_entities = [('garlic and onions', 'ingredients'), ('air', 'smell'), ('garlic', 'knife')]
+# corrected entity group where incorrect grouping is seperated
+corrected_resolution = [('garlic and onions', 'ingredients'), ('air', 'smell'), 'garlic', 'knife']
+
+
+# narrative of current event
+event = "remove the shoelaces from the shoe and rinse the shoelaces in cold water."
+# provided entities grouped by coreference resolution
+resolved_entities = [('shoelaces', 'shoe laces'), ('water', 'cold water', 'tap water'), ('sink', 'basin')]
+# corrected entity group where incorrect grouping is seperated
+corrected_resolution = [('shoelaces', 'shoe laces'), ('water', 'cold water', 'tap water'), ('sink', 'basin')]
+
+
+# narrative of current event
+event = "fill out the online application form and use it to make an appointment at the embassy's official website."
+# provided entities grouped by coreference resolution
+resolved_entities = [('website', 'official website', 'website of the embassy', 'embassy'), ('appointment', 'schedule'), ('application', 'form', 'application form', 'online form', 'application')]
+# corrected entity group where incorrect grouping is seperated
+corrected_resolution = [('website', 'official website', 'website of the embassy'), ('appointment', 'schedule'), ('application', 'form', 'application form', 'online form'), 'embassy', 'application']
+
+
+# narrative of current event
+event = "brush oil on the surface of the wooden desk to prevent it from erosion"
+# provided entities grouped by coreference resolution
+resolved_entities = [('oil', 'protective oil', 'wood wax oil'，'wax', 'wax oil', 'wood oil', 'olive oil'), ('wooden desk', 'desk', 'furniture', 'chair', 'cellphone')]
+# corrected entity group where incorrect grouping is seperated
+corrected_resolution = [('oil', 'protective oil', 'wood wax oil'，'wax', 'wax oil', 'wood oil'), ('wooden desk', 'desk', 'furniture'), 'olive oil', 'chair', 'cellphone']
+
+
+# narrative of current event
+event = {event}
+# provided entities grouped by coreference resolution
+resolved_entities = {resolved_entities}
+# corrected entity group where incorrect grouping is seperated
+corrected_resolution =

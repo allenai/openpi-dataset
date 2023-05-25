@@ -1,0 +1,92 @@
+{
+    "626": {
+        "goal": "Build a Campfire Pit",
+        "steps": [
+            "Survey your camping site for a place that is safe to build your fire pit that is safe for you and for your surroundings:",
+            "Dig a pit with a shovel to a depth of at least 12\u201d (304.8 mm).",
+            "Place rocks around the perimeter of your fire pit.",
+            "Fill the pit 2/3 full with dry kindling and firewood.",
+            "Have a bucket of water and a shovel nearby so that you can quickly extinguish the fire should it threaten to get out of control.",
+            "Pour water on the fire when you are ready to leave."
+        ],
+        "clustered_entities": [
+            "pit | fire pit area | fire pit"
+        ],
+        "annotation": [
+            "pit | fire pit area | fire pit"
+        ]
+    },
+    "127": {
+        "goal": "Make Salt Glaze",
+        "steps": [
+            "Put the water into a small saucepan.",
+            "Pour in the salt and cook over gentle heat until the salt dissolves.",
+            "Remove from heat and allow to cool.",
+            "Use a pastry brush to coat the savoury baked items with the cooled salt glaze."
+        ],
+        "clustered_entities": [
+            "water | towel",
+            "brush | pasty brush",
+            "measuring cup | pot | mixture"
+        ],
+        "annotation": [
+            "water, towel",
+            "brush | pasty brush",
+            "measuring cup, pot, mixture"
+        ]
+    },
+    "13": {
+        "goal": "Remove Copper Stains from Baths and Showers",
+        "steps": [
+            "Make up a paste.",
+            "Spread the paste across the blue-green stain.",
+            "Leave the paste to work on the stain.",
+            "Rinse off the paste."
+        ],
+        "clustered_entities": [
+            "baking powder and cream of tartar | baking soda"
+        ],
+        "annotation": [
+            "baking powder and cream of tartar | baking soda"
+        ]
+    },
+    "315": {
+        "goal": "Make an Avocado Dessert",
+        "steps": [
+            "To easily scoop out the meat of the avocado, slice across the avocado until your knife hits the pit.",
+            "Scoop out the meat into the bowl.",
+            "Drizzle the avocado with the condensed milk.",
+            "Chill in the fridge or in the freezer.",
+            "Serve."
+        ],
+        "clustered_entities": [
+            "bowl | mixture",
+            "flesh | meat"
+        ],
+        "annotation": [
+            "bowl, mixture",
+            "flesh | meat"
+        ]
+    },
+    "121": {
+        "goal": "Make Ramen Chicken Salad",
+        "steps": [
+            "Prepare ramen noodles as directed on package, but discard the soup base.",
+            "Cook the chicken pieces until thoroughly cooked or browned.",
+            "Layer the bacon on top of the chicken.",
+            "Dress and finish the salad with a generous helping of croutons and salad dressing."
+        ],
+        "clustered_entities": [
+            "chicken | chicken pieces",
+            "dressing, croutons | crouton",
+            "ramen, pot",
+            "salad | salad dressing"
+        ],
+        "annotation": [
+            "chicken | chicken pieces",
+            "dressing, croutons | crouton",
+            "ramen, pot",
+            "salad | salad dressing"
+        ]
+    }
+}

@@ -1,0 +1,3 @@
+python parse_result.py --data_path ../../data/gpt-gen-data/dev-ranked-text-result.json --out_path ../../data/gpt-gen-data/dev-ranked-text-parsed.json 
+python parse_result.py --data_path ../../data/gpt-gen-data/dev-ranked-chat-result.json --out_path ../../data/gpt-gen-data/dev-ranked-chat-parsed.json
+python parse_result.py --data_path ../../data/gpt-gen-data/dev-ranked-chat-zeroshot-result.json --out_path ../../data/gpt-gen-data/dev-ranked-chat-zeroshot-parsed.json

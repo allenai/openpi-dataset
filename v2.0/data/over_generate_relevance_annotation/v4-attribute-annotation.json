@@ -1,0 +1,4299 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": "[Step1] Purchase a blackboard eraser.\n[Step2] Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.\n[Step3] Use the eraser to clean the inner side of the windshield.\n[Step4] Replace after use.",
+        "annotation": {
+            "eraser": {
+                "original_entity": [
+                    "eraser",
+                    "the blackboard eraser"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "ownership",
+                            "possession"
+                        ],
+                        "attribute_overgenerate": [
+                            "holding",
+                            "custody"
+                        ],
+                        "bad_overgenerate": [
+                            "custody"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "placement",
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "storage",
+                            "positioning"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "condition",
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "state",
+                            "quality",
+                            "hygiene",
+                            "state of the eraser"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "movement"
+                        ],
+                        "attribute_overgenerate": [
+                            "flexibility",
+                            "maneuverability",
+                            "mobility"
+                        ],
+                        "bad_overgenerate": [
+                            "flexibility",
+                            "maneuverability"
+                        ]
+                    }
+                ]
+            },
+            "hands": {
+                "original_entity": [
+                    "hands"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "activity"
+                        ],
+                        "attribute_overgenerate": [
+                            "action",
+                            "employment",
+                            "movement",
+                            "motion"
+                        ],
+                        "bad_overgenerate": [
+                            "employment"
+                        ]
+                    }
+                ]
+            },
+            "glovebox": {
+                "original_entity": [
+                    "glove box",
+                    "glovebox"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "positioning",
+                            "position",
+                            "placement",
+                            "storage area"
+                        ],
+                        "bad_overgenerate": [
+                            "storage area"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "volume"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "inside windshield": {
+                "original_entity": [
+                    "inside windshield",
+                    "windshield"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "clearness",
+                            "neatness",
+                            "transparency",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "neatness",
+                            "transparency"
+                        ]
+                    }
+                ]
+            },
+            "bank account": {
+                "original_entity": [
+                    "eraser shelf at the store",
+                    "bank account",
+                    "money"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "monetary value",
+                            "funds",
+                            "financial resources",
+                            "money",
+                            "amount",
+                            "available funds",
+                            "balance"
+                        ],
+                        "bad_overgenerate": [
+                            "money",
+                            "amount"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "address",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "address"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        "goal": "Make Carob Fruit Balls",
+        "steps": "[Step1] Mix all of the ingredients together.\n[Step2] Roll into small balls.\n[Step3] Place in the freezer for half an hour.\n[Step4] Serve.",
+        "annotation": {
+            "mixing bowl": {
+                "original_entity": [
+                    "mixing bowl",
+                    "bowl"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size"
+                        ],
+                        "bad_overgenerate": [
+                            "size"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "spot",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "spot"
+                        ]
+                    }
+                ]
+            },
+            "plate": {
+                "original_entity": [
+                    "plate"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "placement",
+                            "positioning",
+                            "position",
+                            "arrangement",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "arrangement",
+                            "orientation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "platter",
+                            "saucer",
+                            "tray",
+                            "dish"
+                        ],
+                        "bad_overgenerate": [
+                            "platter",
+                            "saucer",
+                            "tray",
+                            "dish"
+                        ]
+                    }
+                ]
+            },
+            "spoon": {
+                "original_entity": [
+                    "spoon",
+                    "hand"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "position",
+                            "placement",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "orientation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "depth",
+                            "capacity",
+                            "volume"
+                        ],
+                        "bad_overgenerate": [
+                            "depth"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "stickiness"
+                        ],
+                        "attribute_overgenerate": [
+                            "adhesiveness",
+                            "viscosity"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "carob fruit balls": {
+                "original_entity": [
+                    "balls",
+                    "carob fruit balls"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "readiness"
+                        ],
+                        "attribute_overgenerate": [
+                            "completion",
+                            "prepared",
+                            "done",
+                            "finished"
+                        ],
+                        "bad_overgenerate": [
+                            "prepared",
+                            "done",
+                            "finished"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "hardness"
+                        ],
+                        "attribute_overgenerate": [
+                            "firmness",
+                            "density",
+                            "consistency",
+                            "texture"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "frozen",
+                            "coldness",
+                            "chilled"
+                        ],
+                        "bad_overgenerate": [
+                            "frozen",
+                            "chilled"
+                        ]
+                    }
+                ]
+            },
+            "mixture": {
+                "original_entity": [
+                    "dough pieces",
+                    "mixture",
+                    "dough"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "shape",
+                            "size"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "dimension",
+                            "dimensions",
+                            "mass",
+                            "proportions"
+                        ],
+                        "bad_overgenerate": [
+                            "proportions"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "number"
+                        ],
+                        "attribute_overgenerate": [
+                            "amount",
+                            "quantity",
+                            "volume"
+                        ],
+                        "bad_overgenerate": [
+                            "volume"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "density"
+                        ],
+                        "attribute_overgenerate": [
+                            "consistency",
+                            "thickness",
+                            "viscosity"
+                        ],
+                        "bad_overgenerate": [
+                            "consistency",
+                            "thickness",
+                            "viscosity"
+                        ]
+                    }
+                ]
+            },
+            "carob": {
+                "original_entity": [
+                    "carob",
+                    "ingredients"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "content",
+                            "makeup",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "structure"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "configuration",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "configuration"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "mixed"
+                        ],
+                        "attribute_overgenerate": [
+                            "intermixed",
+                            "blended",
+                            "combined",
+                            "homogenized",
+                            "mixed together",
+                            "integrated",
+                            "stirred",
+                            "unified"
+                        ],
+                        "bad_overgenerate": [
+                            "intermixed",
+                            "combined",
+                            "homogenized",
+                            "mixed together",
+                            "integrated",
+                            "stirred",
+                            "unified"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "3": {
+        "goal": "Freeze Baked Cookies or Biscuits",
+        "steps": "[Step1] Place the biscuits or cookies into a rigid, airtight container.\n[Step2] Separate the biscuits and cookies using freezer paper, baking paper, or foil.\n[Step3] Place biscuits in freezer.\n[Step4] Thaw.",
+        "annotation": {
+            "the cookies": {
+                "original_entity": [
+                    "the cookies",
+                    "biscuits",
+                    "the cookies and biscuits",
+                    "cookies"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "placement"
+                        ],
+                        "attribute_overgenerate": [
+                            "positioning",
+                            "arrangement",
+                            "organization"
+                        ],
+                        "bad_overgenerate": [
+                            "arrangement",
+                            "organization"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "recipe"
+                        ],
+                        "bad_overgenerate": [
+                            "recipe"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "organization"
+                        ],
+                        "attribute_overgenerate": [
+                            "packing",
+                            "order",
+                            "arrangement"
+                        ],
+                        "bad_overgenerate": [
+                            "packing",
+                            "order"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "coldness",
+                            "thermal level",
+                            "heat"
+                        ],
+                        "bad_overgenerate": [
+                            "heat"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "position",
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "arrangement",
+                            "placement",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "orientation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "texture"
+                        ],
+                        "attribute_overgenerate": [
+                            "smoothness",
+                            "roughness",
+                            "chewiness",
+                            "consistency",
+                            "mouthfeel",
+                            "crispiness",
+                            "softness"
+                        ],
+                        "bad_overgenerate": [
+                            "smoothness",
+                            "chewiness",
+                            "consistency",
+                            "mouthfeel",
+                            "crispiness"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "flexibility"
+                        ],
+                        "attribute_overgenerate": [
+                            "elasticity",
+                            "malleability",
+                            "pliability",
+                            "bendability"
+                        ],
+                        "bad_overgenerate": [
+                            "elasticity",
+                            "malleability"
+                        ]
+                    }
+                ]
+            },
+            "the bowl": {
+                "original_entity": [
+                    "the bowl",
+                    "container"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "placement"
+                        ],
+                        "attribute_overgenerate": [
+                            "location",
+                            "position",
+                            "arrangement",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "arrangement",
+                            "orientation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heaviness",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "tidiness",
+                            "sanitation",
+                            "neatness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "neatness",
+                            "hygiene"
+                        ]
+                    }
+                ]
+            },
+            "tray": {
+                "original_entity": [
+                    "tray"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "freezer": {
+                "original_entity": [
+                    "freezer"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size"
+                        ],
+                        "bad_overgenerate": [
+                            "size"
+                        ]
+                    }
+                ]
+            },
+            "baking paper": {
+                "original_entity": [
+                    "foil",
+                    "the aluminum foil",
+                    "freezer paper",
+                    "baking paper",
+                    "aluminum foil"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "movement"
+                        ],
+                        "attribute_overgenerate": [
+                            "action",
+                            "mobility",
+                            "flow",
+                            "motion"
+                        ],
+                        "bad_overgenerate": [
+                            "action",
+                            "mobility"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "placement"
+                        ],
+                        "attribute_overgenerate": [
+                            "configuration",
+                            "positioning",
+                            "position",
+                            "arrangement",
+                            "orientation",
+                            "location"
+                        ],
+                        "bad_overgenerate": [
+                            "configuration",
+                            "orientation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "purity",
+                            "tidiness",
+                            "hygiene"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "purity",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "size"
+                        ],
+                        "attribute_overgenerate": [
+                            "width",
+                            "dimension",
+                            "dimensions",
+                            "length",
+                            "measurement"
+                        ],
+                        "bad_overgenerate": [
+                            "width",
+                            "dimension",
+                            "dimensions",
+                            "length",
+                            "measurement"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": "[Step1] Bend one pipe cleaner in half to form the legs.\n[Step2] Shape another pipe cleaner to form the body.\n[Step3] Move 1.5 inches (3.8 cm) from the tip of where the beak should be.\n[Step4] Use 2 pipe cleaners to enlarge the torso.",
+        "annotation": {
+            "pipe cleaner": {
+                "original_entity": [
+                    "pipe cleaner",
+                    "pipe cleaners"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "position"
+                        ],
+                        "attribute_overgenerate": [
+                            "location",
+                            "placement",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "location",
+                            "placement"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "tip of pipe cleaner": {
+                "original_entity": [
+                    "your fingers",
+                    "tip of pipe cleaner"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "configuration",
+                            "contour",
+                            "outline"
+                        ],
+                        "bad_overgenerate": [
+                            "configuration",
+                            "contour",
+                            "outline"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "the torso": {
+                "original_entity": [
+                    "the torso"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "width"
+                        ],
+                        "attribute_overgenerate": [
+                            "breadth",
+                            "girth",
+                            "diameter"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heft",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "5": {
+        "goal": "Spool Knit a Winter Hat",
+        "steps": "[Step1] Knit eighty-four inches of flat web.\n[Step2] Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.\n[Step3] Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.\n[Step4] After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel.",
+        "annotation": {
+            "the hat": {
+                "original_entity": [
+                    "the hat"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heaviness",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "the piece of yarn": {
+                "original_entity": [
+                    "the yarn",
+                    "the piece of yarn"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "configuration",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "form"
+                        ]
+                    }
+                ]
+            },
+            "the webbing": {
+                "original_entity": [
+                    "the webbing"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "fiber",
+                            "fiber content",
+                            "fabric",
+                            "material"
+                        ],
+                        "bad_overgenerate": [
+                            "fiber",
+                            "fiber content",
+                            "fabric"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "shape",
+                            "width"
+                        ],
+                        "attribute_overgenerate": [
+                            "dimension",
+                            "dimensions",
+                            "gauge",
+                            "diameter",
+                            "size",
+                            "thickness"
+                        ],
+                        "bad_overgenerate": [
+                            "dimension",
+                            "dimensions",
+                            "gauge",
+                            "diameter",
+                            "size",
+                            "thickness"
+                        ]
+                    }
+                ]
+            },
+            "the ends": {
+                "original_entity": [
+                    "the ends"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "connection"
+                        ],
+                        "attribute_overgenerate": [
+                            "attachment",
+                            "joining",
+                            "fastening"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "6": {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": "[Step1] Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.\n[Step2] Shotgun \u2014 The aim on the shotgun is almost like a rectangle.\n[Step3] Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.\n[Step4] BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one.",
+        "annotation": {
+            "weapon": {
+                "original_entity": [
+                    "gun",
+                    "weapon"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "positioning",
+                            "position",
+                            "coordinates",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "coordinates"
+                        ]
+                    }
+                ]
+            },
+            "you": {
+                "original_entity": [
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "awareness",
+                            "information",
+                            "wisdom",
+                            "familiarity",
+                            "intelligence",
+                            "understanding",
+                            "comprehension",
+                            "know-how"
+                        ],
+                        "bad_overgenerate": [
+                            "expertise",
+                            "wisdom",
+                            "familiarity",
+                            "comprehension"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "body type",
+                            "figure",
+                            "physique",
+                            "build"
+                        ],
+                        "bad_overgenerate": [
+                            "form",
+                            "body type",
+                            "figure",
+                            "physique",
+                            "build"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": "[Step1] Plug in your HDMI cord to the cable.\n[Step2] Plug it into your TV's HDMI input.\n[Step3] Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.\n[Step4] Plug your HDMI cord (assuming you have one) into the converter and your TV.",
+        "annotation": {
+            "tv": {
+                "original_entity": [
+                    "tv",
+                    "tv's hdmi input"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "chassis",
+                            "body",
+                            "case",
+                            "enclosure",
+                            "housing"
+                        ],
+                        "bad_overgenerate": [
+                            "housing"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "wattage",
+                            "electricity",
+                            "energy consumption",
+                            "electricity consumption",
+                            "voltage",
+                            "electrical output",
+                            "energy"
+                        ],
+                        "bad_overgenerate": [
+                            "wattage",
+                            "voltage",
+                            "electrical output",
+                            "energy"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "attachment"
+                        ],
+                        "attribute_overgenerate": [
+                            "connection",
+                            "port",
+                            "interface",
+                            "linkage"
+                        ],
+                        "bad_overgenerate": [
+                            "port",
+                            "interface"
+                        ]
+                    }
+                ]
+            },
+            "converter": {
+                "original_entity": [
+                    "converter"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "attachment"
+                        ],
+                        "attribute_overgenerate": [
+                            "connection",
+                            "interface",
+                            "linkage"
+                        ],
+                        "bad_overgenerate": [
+                            "interface"
+                        ]
+                    }
+                ]
+            },
+            "wii's av composite output": {
+                "original_entity": [
+                    "wii's av composite output"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "housing",
+                            "encasing"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "wii": {
+                "original_entity": [
+                    "wii"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "connection"
+                        ],
+                        "attribute_overgenerate": [
+                            "attachment",
+                            "link",
+                            "joining",
+                            "hookup",
+                            "linkage"
+                        ],
+                        "bad_overgenerate": [
+                            "joining",
+                            "hookup"
+                        ]
+                    }
+                ]
+            },
+            "the cord": {
+                "original_entity": [
+                    "the cord",
+                    "cord",
+                    "plug"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "current",
+                            "amperage",
+                            "voltage",
+                            "electrical current"
+                        ],
+                        "bad_overgenerate": [
+                            "current",
+                            "amperage",
+                            "voltage",
+                            "electrical current"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "hdmi cord": {
+                "original_entity": [
+                    "hdmi converter cable",
+                    "hdmi cord",
+                    "the hdmi",
+                    "the hdmi cord"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "organization"
+                        ],
+                        "attribute_overgenerate": [
+                            "order",
+                            "arrangement"
+                        ],
+                        "bad_overgenerate": [
+                            "order"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "current",
+                            "wattage",
+                            "electric current",
+                            "electrical rating",
+                            "voltage"
+                        ],
+                        "bad_overgenerate": [
+                            "current",
+                            "wattage",
+                            "electrical rating",
+                            "voltage"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "connection"
+                        ],
+                        "attribute_overgenerate": [
+                            "attachment",
+                            "link",
+                            "plug",
+                            "interface"
+                        ],
+                        "bad_overgenerate": [
+                            "interface"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "attachment"
+                        ],
+                        "attribute_overgenerate": [
+                            "connection",
+                            "link",
+                            "plug",
+                            "interface"
+                        ],
+                        "bad_overgenerate": [
+                            "interface"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "8": {
+        "goal": "Fold Bath Towels for Quick Hanging at Home",
+        "steps": "[Step1] Fold the towel in thirds lengthwise.\n[Step2] Fold in half, and then in half again.\n[Step3] Store the towel in the linen closet.\n[Step4] To go from the closet for hanging, simply unfold the final fold and hang on the towel rack.",
+        "annotation": {
+            "the towels": {
+                "original_entity": [
+                    "hand muscles",
+                    "height of towel",
+                    "towel",
+                    "hand",
+                    "closet",
+                    "towel rack",
+                    "final fold",
+                    "the towels"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "configuration",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "configuration"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "length",
+                            "thickness",
+                            "width",
+                            "size"
+                        ],
+                        "attribute_overgenerate": [
+                            "measurements",
+                            "dimensions"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "emptiness"
+                        ],
+                        "attribute_overgenerate": [
+                            "absorbency",
+                            "non-absorbent",
+                            "dryness"
+                        ],
+                        "bad_overgenerate": [
+                            "absorbency",
+                            "non-absorbent",
+                            "dryness"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "height"
+                        ],
+                        "attribute_overgenerate": [
+                            "length",
+                            "width"
+                        ],
+                        "bad_overgenerate": [
+                            "width"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "absorbency",
+                            "drying capacity",
+                            "softness",
+                            "thickness"
+                        ],
+                        "bad_overgenerate": [
+                            "absorbency",
+                            "drying capacity",
+                            "softness",
+                            "thickness"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "openness"
+                        ],
+                        "attribute_overgenerate": [
+                            "fluffiness",
+                            "spread",
+                            "flatness",
+                            "unfolded state",
+                            "exposed surface area",
+                            "loftiness"
+                        ],
+                        "bad_overgenerate": [
+                            "fluffiness",
+                            "flatness",
+                            "exposed surface area",
+                            "loftiness"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "9": {
+        "goal": "Be a Spy With Friends",
+        "steps": "[Step1] Set-up your spy group You will need a trustworthy 2-5 person group.\n[Step2] It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.\n[Step3] Get some gear To be a good spy, you and your friends must have gear that will help with missions.\n[Step4] Find your first \"victim\" The victim is the person you will be watching and spying on.",
+        "annotation": {
+            "you": {
+                "original_entity": [
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "position",
+                            "coordinates",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "coordinates",
+                            "place"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "possession"
+                        ],
+                        "attribute_overgenerate": [
+                            "custody",
+                            "hold",
+                            "control",
+                            "ownership",
+                            "belonging"
+                        ],
+                        "bad_overgenerate": [
+                            "custody",
+                            "hold",
+                            "control"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "awareness",
+                            "wisdom",
+                            "perception",
+                            "acumen",
+                            "intelligence",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": [
+                            "expertise",
+                            "wisdom",
+                            "acumen",
+                            "understanding"
+                        ]
+                    }
+                ]
+            },
+            "co-conspirators": {
+                "original_entity": [
+                    "co-conspirators",
+                    "your spy group"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "awareness",
+                            "insight",
+                            "information",
+                            "intelligence",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": [
+                            "understanding"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "forming"
+                        ],
+                        "attribute_overgenerate": [
+                            "grouping",
+                            "recruiting",
+                            "collaboration",
+                            "organization",
+                            "assembling"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "gear": {
+                "original_entity": [
+                    "gear"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "availability"
+                        ],
+                        "attribute_overgenerate": [
+                            "accessibility",
+                            "readily available",
+                            "readiness"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "10": {
+        "goal": "Defeat a Thug on Dead Island",
+        "steps": "[Step1] There is no chance in hell you will kill a Thug using just your bear hands and feet.\n[Step2] Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.\n[Step3] Make sure your guns have enough ammo, and your knives are up to scratch.\n[Step4] Attack!",
+        "annotation": {
+            "you": {
+                "original_entity": [
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "skill",
+                            "mastery",
+                            "information",
+                            "wisdom",
+                            "proficiency",
+                            "intelligence",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": [
+                            "wisdom",
+                            "understanding"
+                        ]
+                    }
+                ]
+            },
+            "weapons": {
+                "original_entity": [
+                    "weapons",
+                    "molotov cocktails",
+                    "grenades"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "positioning",
+                            "storage",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "storage"
+                        ]
+                    }
+                ]
+            },
+            "zombies": {
+                "original_entity": [
+                    "zombies"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "gait",
+                            "stride",
+                            "pace",
+                            "movement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "enough ammo": {
+                "original_entity": [
+                    "enough ammo"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "count"
+                        ],
+                        "attribute_overgenerate": [
+                            "quantity",
+                            "amount",
+                            "number",
+                            "supply",
+                            "stock"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "11": {
+        "goal": "Make Rhubarb Cordial",
+        "steps": "[Step1] Simmer the rhubarb with the sugar, cloves and water.\n[Step2] Simmer until the rhubarb becomes soft.\n[Step3] Remove from the heat.\n[Step4] Add the mint leaves for decoration.",
+        "annotation": {
+            "water": {
+                "original_entity": [
+                    "water"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "heat",
+                            "degree"
+                        ],
+                        "bad_overgenerate": [
+                            "degree"
+                        ]
+                    }
+                ]
+            },
+            "stove": {
+                "original_entity": [
+                    "stove",
+                    "pot"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size"
+                        ],
+                        "bad_overgenerate": [
+                            "size"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "situation",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "situation",
+                            "position",
+                            "placement"
+                        ]
+                    }
+                ]
+            },
+            "mint leaves": {
+                "original_entity": [
+                    "mint leaves"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "cordial": {
+                "original_entity": [
+                    "cordial",
+                    "rhubarb cordial"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "recipe"
+                        ],
+                        "bad_overgenerate": [
+                            "ingredients",
+                            "recipe"
+                        ]
+                    }
+                ]
+            },
+            "rhubarb": {
+                "original_entity": [
+                    "rhubarb"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "dampness",
+                            "moisture level"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "structure",
+                            "components"
+                        ],
+                        "bad_overgenerate": [
+                            "makeup",
+                            "structure"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "appearance"
+                        ],
+                        "attribute_overgenerate": [
+                            "shape",
+                            "color",
+                            "texture"
+                        ],
+                        "bad_overgenerate": [
+                            "shape",
+                            "color",
+                            "texture"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "consistency"
+                        ],
+                        "attribute_overgenerate": [
+                            "viscosity",
+                            "thickness",
+                            "texture"
+                        ],
+                        "bad_overgenerate": [
+                            "viscosity",
+                            "thickness"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "texture"
+                        ],
+                        "attribute_overgenerate": [
+                            "mouthfeel",
+                            "consistency"
+                        ],
+                        "bad_overgenerate": [
+                            "mouthfeel"
+                        ]
+                    }
+                ]
+            },
+            "cloves": {
+                "original_entity": [
+                    "sugar",
+                    "cloves"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "12": {
+        "goal": "Get Under the Stage in Dragonball Z Budokai Tenkaichi 2",
+        "steps": "[Step1] Choose VS Duel, 2 players.\n[Step2] Choose Goku as player one, as well as player two.\n[Step3] Choose Mountain Road as the stage.\n[Step4] Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage.",
+        "annotation": {
+            "character": {
+                "original_entity": [
+                    "character",
+                    "goku",
+                    "companion",
+                    "player two"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "availability"
+                        ],
+                        "attribute_overgenerate": [
+                            "readiness",
+                            "accessibility",
+                            "unlocked status",
+                            "presence",
+                            "obtainability",
+                            "playability",
+                            "attainability"
+                        ],
+                        "bad_overgenerate": [
+                            "presence",
+                            "obtainability",
+                            "attainability"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "count"
+                        ],
+                        "attribute_overgenerate": [
+                            "amount",
+                            "number",
+                            "total",
+                            "quantity"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "awareness",
+                            "information",
+                            "wisdom",
+                            "education",
+                            "intelligence",
+                            "cognition",
+                            "understanding",
+                            "comprehension"
+                        ],
+                        "bad_overgenerate": [
+                            "expertise",
+                            "awareness",
+                            "wisdom",
+                            "education",
+                            "intelligence",
+                            "cognition",
+                            "understanding",
+                            "comprehension"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "placement",
+                            "spot",
+                            "position",
+                            "coordinates",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "spot",
+                            "coordinates",
+                            "place"
+                        ]
+                    }
+                ]
+            },
+            "players": {
+                "original_entity": [
+                    "player",
+                    "players",
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "coordinates",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "coordinates"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "division"
+                        ],
+                        "attribute_overgenerate": [
+                            "categorization",
+                            "allocation",
+                            "separation"
+                        ],
+                        "bad_overgenerate": [
+                            "categorization",
+                            "allocation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "competence",
+                            "experience",
+                            "skill level",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": [
+                            "expertise",
+                            "competence",
+                            "experience",
+                            "skill level",
+                            "understanding"
+                        ]
+                    }
+                ]
+            },
+            "vs duel": {
+                "original_entity": [
+                    "vs duel",
+                    "mode"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "option"
+                        ],
+                        "attribute_overgenerate": [
+                            "type",
+                            "setting",
+                            "type of gameplay",
+                            "mode"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "population"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "stage": {
+                "original_entity": [
+                    "stage"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "setting",
+                            "venue",
+                            "place"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "13": {
+        "goal": "Make Slow Cooker Hot Cocoa",
+        "steps": "[Step1] Make the initial cocoa mixture.\n[Step2] Add all the ingredients in a slow cooker.\n[Step3] Allow the mixture to heat for 3 hours on a low setting.\n[Step4] Serve immediately or keep the slow cooker on a \"Keep Warm\" setting.",
+        "annotation": {
+            "smell": {
+                "original_entity": [
+                    "smell"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "odor"
+                        ],
+                        "attribute_overgenerate": [
+                            "aroma",
+                            "scent",
+                            "fragrance"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "mixture ingredients": {
+                "original_entity": [
+                    "the ingredients",
+                    "ingredients",
+                    "mixture ingredients"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "recipe",
+                            "formula"
+                        ],
+                        "bad_overgenerate": [
+                            "ingredients",
+                            "recipe",
+                            "formula"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "utensil",
+                            "receptacle",
+                            "holder",
+                            "vessel",
+                            "bowl"
+                        ],
+                        "bad_overgenerate": [
+                            "bowl"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "degree of warmth",
+                            "heat level"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "cocoa mixture": {
+                "original_entity": [
+                    "liquid",
+                    "mixture",
+                    "the mixture",
+                    "water",
+                    "cocoa mixture",
+                    "cocoa powder"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "pot",
+                            "pitcher",
+                            "jar",
+                            "vase",
+                            "receptacle",
+                            "holder",
+                            "vessel"
+                        ],
+                        "bad_overgenerate": [
+                            "pot",
+                            "pitcher",
+                            "jar",
+                            "vase"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "position"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "sound"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "availability"
+                        ],
+                        "attribute_overgenerate": [
+                            "readiness",
+                            "accessibility"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "mug": {
+                "original_entity": [
+                    "mug"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "dampness"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "warmth",
+                            "heat"
+                        ],
+                        "bad_overgenerate": [
+                            "heat"
+                        ]
+                    }
+                ]
+            },
+            "bowl": {
+                "original_entity": [
+                    "whisk",
+                    "bowl"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "tidiness",
+                            "sanitation",
+                            "neatness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "neatness",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "dampness",
+                            "moisture level"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "cooker": {
+                "original_entity": [
+                    "the outside of the slow cooker",
+                    "the knob",
+                    "lid",
+                    "slow cooker",
+                    "the slow cooker",
+                    "cooker"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size"
+                        ],
+                        "bad_overgenerate": [
+                            "size"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture level"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "cooking temperature",
+                            "heat",
+                            "heat level"
+                        ],
+                        "bad_overgenerate": [
+                            "heat"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "tidiness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "tidiness",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "wattage",
+                            "energy consumption",
+                            "electrical rating",
+                            "electricity consumption"
+                        ],
+                        "bad_overgenerate": [
+                            "wattage",
+                            "electrical rating"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "thermal conductivity"
+                        ],
+                        "attribute_overgenerate": [
+                            "heat distribution",
+                            "heat conductivity",
+                            "heat retention",
+                            "thermal efficiency"
+                        ],
+                        "bad_overgenerate": [
+                            "heat retention",
+                            "thermal efficiency"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "direction"
+                        ],
+                        "attribute_overgenerate": [
+                            "positioning",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": "[Step1] Prepare the pot or area in your yard where you plan to plant your clipping.\n[Step2] Take a cutting from the rose bush you would like to grow your new bush from.\n[Step3] Moisten the part of the clipping that you just scraped and dip it into rooting hormone.\n[Step4] Immediately plant the cutting.",
+        "annotation": {
+            "rooting hormone": {
+                "original_entity": [
+                    "rooting hormone"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "placement"
+                        ]
+                    }
+                ]
+            },
+            "water": {
+                "original_entity": [
+                    "water"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "situation",
+                            "site",
+                            "placement",
+                            "position"
+                        ],
+                        "bad_overgenerate": [
+                            "situation",
+                            "site",
+                            "placement"
+                        ]
+                    }
+                ]
+            },
+            "the clipping": {
+                "original_entity": [
+                    "the cutting",
+                    "cutting",
+                    "the clipping",
+                    "clipping"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "moisture",
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "water content",
+                            "dampness",
+                            "hydration"
+                        ],
+                        "bad_overgenerate": [
+                            "hydration"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "situation",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "situation"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "makeup",
+                            "material",
+                            "molecular structure",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "material",
+                            "molecular structure",
+                            "structure"
+                        ]
+                    }
+                ]
+            },
+            "the shovel": {
+                "original_entity": [
+                    "the shovel"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "neatness",
+                            "sanitation",
+                            "tidiness",
+                            "hygiene"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "hygiene"
+                        ]
+                    }
+                ]
+            },
+            "pruning shears": {
+                "original_entity": [
+                    "the pruning shears",
+                    "pruning shears"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "sterilization",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sterilization",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "dampness"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "the rose bush": {
+                "original_entity": [
+                    "rose bush",
+                    "the rose bush"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heft",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "shape"
+                        ],
+                        "attribute_overgenerate": [
+                            "form",
+                            "configuration",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "configuration"
+                        ]
+                    }
+                ]
+            },
+            "soil": {
+                "original_entity": [
+                    "soil"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "situation",
+                            "position",
+                            "site",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "situation",
+                            "site"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "wetness",
+                            "dampness",
+                            "humidity"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "roots": {
+                "original_entity": [
+                    "roots"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "water content",
+                            "wetness",
+                            "dampness",
+                            "hydration"
+                        ],
+                        "bad_overgenerate": [
+                            "hydration"
+                        ]
+                    }
+                ]
+            },
+            "pot": {
+                "original_entity": [
+                    "pot"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size",
+                            "dimension"
+                        ],
+                        "bad_overgenerate": [
+                            "size",
+                            "dimension"
+                        ]
+                    }
+                ]
+            },
+            "ground": {
+                "original_entity": [
+                    "yard",
+                    "area",
+                    "ground"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "amount",
+                            "quantity",
+                            "capacity",
+                            "mass"
+                        ],
+                        "bad_overgenerate": [
+                            "amount",
+                            "quantity",
+                            "mass"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "readiness"
+                        ],
+                        "attribute_overgenerate": [
+                            "suitability",
+                            "condition",
+                            "fertility"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "hole in ground": {
+                "original_entity": [
+                    "hole in ground"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "depression",
+                            "pit",
+                            "receptacle",
+                            "cavity",
+                            "holder",
+                            "vessel"
+                        ],
+                        "bad_overgenerate": [
+                            "depression",
+                            "holder"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "15": {
+        "goal": "Evolve Vulpix in Pok\u00e9mon",
+        "steps": "[Step1] ######Catch or trade for a Vulpix.\n[Step2] ######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).\n[Step3] Go to your bag and select the stone required.\n[Step4] ######Wait for the evolution animation to pop up.",
+        "annotation": {
+            "fire stone": {
+                "original_entity": [
+                    "fire or ice stone",
+                    "fire stone"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "stone type",
+                            "evolution stone"
+                        ],
+                        "bad_overgenerate": [
+                            "stone type",
+                            "evolution stone"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "availability"
+                        ],
+                        "attribute_overgenerate": [
+                            "accessibility",
+                            "obtainability",
+                            "presence"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "vulpix": {
+                "original_entity": [
+                    "vulpix"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "evolution level",
+                            "evolution process",
+                            "evolution stage"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "availability"
+                        ],
+                        "attribute_overgenerate": [
+                            "accessibility",
+                            "obtainability",
+                            "acquisition",
+                            "acquirability"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "ownership"
+                        ],
+                        "attribute_overgenerate": [
+                            "possession",
+                            "belonging",
+                            "custody"
+                        ],
+                        "bad_overgenerate": [
+                            "custody"
+                        ]
+                    }
+                ]
+            },
+            "stone": {
+                "original_entity": [
+                    "the stone",
+                    "stone"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge",
+                            "choice"
+                        ],
+                        "attribute_overgenerate": [
+                            "type",
+                            "evolution trigger"
+                        ],
+                        "bad_overgenerate": [
+                            "type",
+                            "evolution trigger"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "awareness",
+                            "information",
+                            "wisdom",
+                            "understanding",
+                            "comprehension"
+                        ],
+                        "bad_overgenerate": [
+                            "awareness",
+                            "wisdom",
+                            "understanding",
+                            "comprehension"
+                        ]
+                    }
+                ]
+            },
+            "bag": {
+                "original_entity": [
+                    "bag"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "phase",
+                            "level",
+                            "stage"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "16": {
+        "goal": "Polish a Faucet With a Lemon",
+        "steps": "[Step1] ######Cut a lemon in half.\n[Step2] ######Squeeze out the juice.\n[Step3] ######Take the squeezed out lemon half and rub vigorously over the faucets.\n[Step4] ######Wash the tap after scouring with the lemon half.",
+        "annotation": {
+            "faucets": {
+                "original_entity": [
+                    "tap",
+                    "faucet",
+                    "facuets",
+                    "faucets"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "tidiness",
+                            "sanitation",
+                            "neatness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sanitation",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "odor"
+                        ],
+                        "attribute_overgenerate": [
+                            "smell",
+                            "aroma"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "appearance"
+                        ],
+                        "attribute_overgenerate": [
+                            "lustre",
+                            "condition",
+                            "shine",
+                            "gloss",
+                            "finish",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "finish"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture",
+                            "dryness",
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "humidity",
+                            "dampness",
+                            "hydration"
+                        ],
+                        "bad_overgenerate": [
+                            "hydration"
+                        ]
+                    }
+                ]
+            },
+            "lemon": {
+                "original_entity": [
+                    "lemon",
+                    "cutting board",
+                    "knife"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "size"
+                        ],
+                        "attribute_overgenerate": [
+                            "dimension",
+                            "dimensions",
+                            "measurements",
+                            "mass",
+                            "volume",
+                            "weight"
+                        ],
+                        "bad_overgenerate": [
+                            "dimension",
+                            "dimensions",
+                            "measurements",
+                            "mass",
+                            "volume",
+                            "weight"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "juiciness",
+                            "wetness"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heaviness",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "purity",
+                            "freshness",
+                            "hygiene"
+                        ],
+                        "bad_overgenerate": [
+                            "purity",
+                            "hygiene"
+                        ]
+                    }
+                ]
+            },
+            "juice": {
+                "original_entity": [
+                    "juice",
+                    "lemon juice"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "water": {
+                "original_entity": [
+                    "water"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "site",
+                            "placement",
+                            "spot",
+                            "position",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "site",
+                            "placement",
+                            "spot",
+                            "place"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "17": {
+        "goal": "Make Taco Filling",
+        "steps": "[Step1] Brown the meat and the onion in a medium sized frying pan.\n[Step2] Drain the excess fat.\n[Step3] Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.\n[Step4] Finished.",
+        "annotation": {
+            "frying pan": {
+                "original_entity": [
+                    "frying pan",
+                    "skillet",
+                    "pan"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heft",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "level",
+                            "capacity",
+                            "volume"
+                        ],
+                        "bad_overgenerate": [
+                            "level"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "stovetop temperature",
+                            "heat level",
+                            "cooking temperature"
+                        ],
+                        "bad_overgenerate": [
+                            "stovetop temperature"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "sound"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "grease": {
+                "original_entity": [
+                    "grease",
+                    "fat"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "placement",
+                            "spot",
+                            "position",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "spot",
+                            "place"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "hotness",
+                            "heat level",
+                            "heat"
+                        ],
+                        "bad_overgenerate": [
+                            "hotness",
+                            "heat"
+                        ]
+                    }
+                ]
+            },
+            "recipe": {
+                "original_entity": [
+                    "recipe"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "recipe proficiency",
+                            "cuisine",
+                            "method",
+                            "instructions",
+                            "cooking expertise",
+                            "culinary skills",
+                            "know-how"
+                        ],
+                        "bad_overgenerate": [
+                            "cuisine",
+                            "cooking expertise"
+                        ]
+                    }
+                ]
+            },
+            "serving bowl": {
+                "original_entity": [
+                    "serving bowl",
+                    "bowl"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "tidiness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "level",
+                            "capacity",
+                            "volume"
+                        ],
+                        "bad_overgenerate": [
+                            "level"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "grease container": {
+                "original_entity": [
+                    "grease container"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "spatula": {
+                "original_entity": [
+                    "knife",
+                    "spatula"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "cleanliness level",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    }
+                ]
+            },
+            "stove": {
+                "original_entity": [
+                    "stove"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "burner strength",
+                            "cooking strength",
+                            "burner output",
+                            "heat output"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "tomato": {
+                "original_entity": [
+                    "onion",
+                    "liquids",
+                    "spices",
+                    "food",
+                    "tomato",
+                    "beef",
+                    "ingredients"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "form"
+                        ],
+                        "attribute_overgenerate": [
+                            "shape",
+                            "state",
+                            "consistency",
+                            "texture"
+                        ],
+                        "bad_overgenerate": [
+                            "consistency"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "spot",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": [
+                            "spot"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "cooked or not"
+                        ],
+                        "attribute_overgenerate": [
+                            "ripeness",
+                            "freshness",
+                            "maturity"
+                        ],
+                        "bad_overgenerate": [
+                            "ripeness",
+                            "freshness",
+                            "maturity"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "movement"
+                        ],
+                        "attribute_overgenerate": [
+                            "transfer",
+                            "displacement",
+                            "flow",
+                            "motion"
+                        ],
+                        "bad_overgenerate": [
+                            "transfer",
+                            "displacement",
+                            "flow"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "hydration level",
+                            "juiciness",
+                            "wetness"
+                        ],
+                        "bad_overgenerate": [
+                            "hydration level"
+                        ]
+                    }
+                ]
+            },
+            "hot sauce": {
+                "original_entity": [
+                    "hot sauce",
+                    "flavor"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "taste"
+                        ],
+                        "attribute_overgenerate": [
+                            "flavor",
+                            "spiciness"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "cheese": {
+                "original_entity": [
+                    "cheese"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "form"
+                        ],
+                        "attribute_overgenerate": [
+                            "state",
+                            "consistency",
+                            "texture"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "sink": {
+                "original_entity": [
+                    "sink",
+                    "meat",
+                    "grease c ontainer"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "depth",
+                            "capacity"
+                        ],
+                        "bad_overgenerate": [
+                            "depth"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "tidiness",
+                            "hygiene"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "how cooked",
+                            "cooked or not"
+                        ],
+                        "attribute_overgenerate": [
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "cleanliness"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "color"
+                        ],
+                        "attribute_overgenerate": [
+                            "tone",
+                            "hue",
+                            "tint",
+                            "shade"
+                        ],
+                        "bad_overgenerate": [
+                            "hue",
+                            "tint",
+                            "shade"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "fullness"
+                        ],
+                        "attribute_overgenerate": [
+                            "depth",
+                            "capacity",
+                            "water level",
+                            "level"
+                        ],
+                        "bad_overgenerate": [
+                            "depth",
+                            "water level"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "construction",
+                            "makeup",
+                            "structure",
+                            "material"
+                        ],
+                        "bad_overgenerate": [
+                            "construction",
+                            "structure"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "temperature"
+                        ],
+                        "attribute_overgenerate": [
+                            "hotness",
+                            "coolness",
+                            "cold water temperature",
+                            "water temperature",
+                            "warmth",
+                            "hot water temperature"
+                        ],
+                        "bad_overgenerate": [
+                            "cold water temperature",
+                            "water temperature",
+                            "hot water temperature"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": "[Step1] Obtain a decent sized eraser that you can hold comfortable in your fingers.\n[Step2] Kneel down next to the linoleum and use the eraser to rub along the skid mark.\n[Step3] Continue rubbing until the black mark lifts.\n[Step4] Wash and dry as usual.",
+        "annotation": {
+            "person": {
+                "original_entity": [
+                    "body",
+                    "person",
+                    "hands",
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "motion"
+                        ],
+                        "attribute_overgenerate": [
+                            "action",
+                            "activity",
+                            "mobility",
+                            "movement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "form"
+                        ],
+                        "attribute_overgenerate": [
+                            "structure",
+                            "figure",
+                            "shape",
+                            "physique",
+                            "build"
+                        ],
+                        "bad_overgenerate": [
+                            "structure",
+                            "figure",
+                            "shape",
+                            "build"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "position",
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "situation",
+                            "placement",
+                            "spot",
+                            "coordinates",
+                            "locale"
+                        ],
+                        "bad_overgenerate": [
+                            "spot",
+                            "coordinates",
+                            "locale"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "orientation"
+                        ],
+                        "attribute_overgenerate": [
+                            "posture",
+                            "position",
+                            "attitude",
+                            "bearing",
+                            "stance"
+                        ],
+                        "bad_overgenerate": [
+                            "attitude",
+                            "bearing"
+                        ]
+                    }
+                ]
+            },
+            "eraser": {
+                "original_entity": [
+                    "eraser"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "cost"
+                        ],
+                        "attribute_overgenerate": [
+                            "price",
+                            "value",
+                            "expense"
+                        ],
+                        "bad_overgenerate": [
+                            "value"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "size"
+                        ],
+                        "attribute_overgenerate": [
+                            "measurement",
+                            "scale",
+                            "dimensions"
+                        ],
+                        "bad_overgenerate": [
+                            "measurement",
+                            "scale",
+                            "dimensions"
+                        ]
+                    }
+                ]
+            },
+            "linoleum": {
+                "original_entity": [
+                    "linoleum",
+                    "lineoleum"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "wetness",
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "sanitary condition",
+                            "hygiene",
+                            "moisture level"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    }
+                ]
+            },
+            "water": {
+                "original_entity": [
+                    "water"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "site",
+                            "placement",
+                            "spot",
+                            "position",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "site",
+                            "placement",
+                            "spot",
+                            "place"
+                        ]
+                    }
+                ]
+            },
+            "skid mark": {
+                "original_entity": [
+                    "skid mark"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "dampness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "wetness"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "site",
+                            "placement",
+                            "spot",
+                            "position",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "site",
+                            "placement",
+                            "spot",
+                            "position",
+                            "place"
+                        ]
+                    }
+                ]
+            },
+            "hand muscles": {
+                "original_entity": [
+                    "hand muscles"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "force",
+                            "capacity",
+                            "strength",
+                            "grip"
+                        ],
+                        "bad_overgenerate": [
+                            "capacity"
+                        ]
+                    }
+                ]
+            },
+            "floor": {
+                "original_entity": [
+                    "floor"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "tidiness",
+                            "sanitation",
+                            "spotlessness",
+                            "neatness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "color"
+                        ],
+                        "attribute_overgenerate": [
+                            "tint",
+                            "hue",
+                            "shade",
+                            "tone",
+                            "pigmentation"
+                        ],
+                        "bad_overgenerate": [
+                            "hue",
+                            "shade"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture",
+                            "wetness"
+                        ],
+                        "attribute_overgenerate": [
+                            "water content",
+                            "dampness",
+                            "humidity"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "19": {
+        "goal": "Create a Character in Lego Star Wars",
+        "steps": "[Step1] When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.\n[Step2] Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.\n[Step3] Press \"triangle\" to name it, and \"O\" to save and exit.\n[Step4] Now enter a completed level and turn on free play.",
+        "annotation": {
+            "game": {
+                "original_entity": [
+                    "game"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "skill",
+                            "mastery",
+                            "familiarity",
+                            "proficiency",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "completed level": {
+                "original_entity": [
+                    "free play",
+                    "completed level"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "phase",
+                            "level",
+                            "stage"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "power"
+                        ],
+                        "attribute_overgenerate": [
+                            "strength",
+                            "capability",
+                            "ability",
+                            "potency",
+                            "force",
+                            "energy"
+                        ],
+                        "bad_overgenerate": [
+                            "strength",
+                            "force",
+                            "energy"
+                        ]
+                    }
+                ]
+            },
+            "you": {
+                "original_entity": [
+                    "you"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "knowledge"
+                        ],
+                        "attribute_overgenerate": [
+                            "expertise",
+                            "awareness",
+                            "information",
+                            "wisdom",
+                            "education",
+                            "intelligence",
+                            "understanding"
+                        ],
+                        "bad_overgenerate": [
+                            "wisdom",
+                            "education",
+                            "intelligence"
+                        ]
+                    }
+                ]
+            },
+            "up/down and left/right arrows": {
+                "original_entity": [
+                    "up/down and left/right arrows"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "movement"
+                        ],
+                        "attribute_overgenerate": [
+                            "navigation",
+                            "direction",
+                            "orientation"
+                        ],
+                        "bad_overgenerate": [
+                            "orientation"
+                        ]
+                    }
+                ]
+            },
+            "character": {
+                "original_entity": [
+                    "character",
+                    "character parts"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "step"
+                        ],
+                        "attribute_overgenerate": [
+                            "phase",
+                            "stage",
+                            "progress",
+                            "progression",
+                            "level"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "choice"
+                        ],
+                        "attribute_overgenerate": [
+                            "selection",
+                            "pick",
+                            "option"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            }
+        }
+    },
+    "20": {
+        "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+        "steps": "[Step1] Blend the cream cheese and marshmallow cream until combined.\n[Step2] Pour the mixture into a clean bowl.\n[Step3] Serve with fruit or whatever else you like.\n[Step4] Finished.",
+        "annotation": {
+            "fruit": {
+                "original_entity": [
+                    "fruit",
+                    "the fruit"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "structure"
+                        ],
+                        "bad_overgenerate": [
+                            "ingredients"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "heaviness",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "the mixing bowl": {
+                "original_entity": [
+                    "the bowl",
+                    "bowl",
+                    "the mixing bowl",
+                    "the clean bowl"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "wetness",
+                            "dampness",
+                            "humidity"
+                        ],
+                        "bad_overgenerate": [
+                            "humidity"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "sterilization",
+                            "neatness",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sterilization",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size"
+                        ],
+                        "bad_overgenerate": [
+                            "size"
+                        ]
+                    }
+                ]
+            },
+            "blender": {
+                "original_entity": [
+                    "blender",
+                    "the knife"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "wetness",
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "moisture",
+                            "hygiene"
+                        ],
+                        "bad_overgenerate": [
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "cleanness"
+                        ],
+                        "attribute_overgenerate": [
+                            "sanitation",
+                            "sterility",
+                            "hygiene",
+                            "cleanliness"
+                        ],
+                        "bad_overgenerate": [
+                            "sterility",
+                            "hygiene"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "volume"
+                        ],
+                        "attribute_overgenerate": [
+                            "capacity",
+                            "size",
+                            "dimensions"
+                        ],
+                        "bad_overgenerate": [
+                            "size",
+                            "dimensions"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "load",
+                            "heft",
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "electric conductivity"
+                        ],
+                        "attribute_overgenerate": [
+                            "electrical conductivity",
+                            "conductance",
+                            "electrical conductance",
+                            "conductivity",
+                            "electrical conductivity rate",
+                            "electricity conducting ability"
+                        ],
+                        "bad_overgenerate": [
+                            "electrical conductivity rate",
+                            "electricity conducting ability"
+                        ]
+                    }
+                ]
+            },
+            "cream cheese": {
+                "original_entity": [
+                    "cream cheese",
+                    "the cream cheese"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "constitution",
+                            "makeup"
+                        ],
+                        "bad_overgenerate": [
+                            "ingredients"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "whereabouts",
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "the marshmallow cream": {
+                "original_entity": [
+                    "marshmallow cream",
+                    "the marshmallow cream",
+                    "marshmallow"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "spot",
+                            "position",
+                            "placement",
+                            "place"
+                        ],
+                        "bad_overgenerate": [
+                            "spot",
+                            "place"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "composition"
+                        ],
+                        "attribute_overgenerate": [
+                            "ingredients",
+                            "makeup",
+                            "structure"
+                        ],
+                        "bad_overgenerate": []
+                    }
+                ]
+            },
+            "mixture": {
+                "original_entity": [
+                    "the mixture",
+                    "cream cheese and marshmallow",
+                    "mixtre",
+                    "mixture"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "location"
+                        ],
+                        "attribute_overgenerate": [
+                            "position",
+                            "placement"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "weight"
+                        ],
+                        "attribute_overgenerate": [
+                            "mass"
+                        ],
+                        "bad_overgenerate": []
+                    },
+                    {
+                        "original_attribute": [
+                            "container"
+                        ],
+                        "attribute_overgenerate": [
+                            "receptacle",
+                            "holder",
+                            "vessel",
+                            "bowl",
+                            "dish"
+                        ],
+                        "bad_overgenerate": [
+                            "bowl",
+                            "dish"
+                        ]
+                    },
+                    {
+                        "original_attribute": [
+                            "moisture"
+                        ],
+                        "attribute_overgenerate": [
+                            "wetness",
+                            "humidity"
+                        ],
+                        "bad_overgenerate": [
+                            "humidity"
+                        ]
+                    }
+                ]
+            },
+            "ingredients": {
+                "original_entity": [
+                    "ingredients"
+                ],
+                "attribute_annotation": [
+                    {
+                        "original_attribute": [
+                            "organization"
+                        ],
+                        "attribute_overgenerate": [
+                            "preparation",
+                            "order",
+                            "arrangement"
+                        ],
+                        "bad_overgenerate": [
+                            "order"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+narratives,chat,chatzeroshot,text
+The location of battle frontier location is unattained before and now attained afterwards.,['location'],['accessibility'],['availability | accessibility']
+The full of wailmer is hungry before and full afterwards.,['fullness | hunger | satiety'],['hunger level'],['fullness | appetite | hunger']
+The action of ball is unused before and used afterwards.,['state'],"[""'status'""]",['activity | use']
+The knowledge of wailmer is untrained before and trained afterwards.,['skill set | ability | proficiency | capacity | knowledge | knowledge'],['level | knowledge | skill level'],['knowledge | skill | knowledge | understanding']
+The going of wailmer is still before and going afterwards.,['movement | mobility | position'],['size'],['going | progress | progression']
+The change of wailmer is unevolved before and evolved afterwards.,['change | state | development | growth | maturity | progression | developmental stage | transformation'],['size | appearance | level of experience | strength | change'],['form | change | state | change | development | transformation | evolution']
+The evolution of wailmer is wailmer before and wailord afterwards.,['evolution | status'],['appearance | evolution'],['transformation | evolution | evolution | development | transformation | evolution']
+The items of candy is uncopied before and copied afterwards.,['quantity'],"[""'availability'""]",['items']
+The action of wailmer is without rare candies before and now holder of rare candy afterwards.,['state | possession'],"['""item"" attribute | ""evolution"" attribute']",['possession | action']

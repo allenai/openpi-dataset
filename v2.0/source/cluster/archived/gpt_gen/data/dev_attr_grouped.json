@@ -1,0 +1,1512 @@
+[
+    {
+        "canonical_name": "temperature",
+        "other_names": [
+            "heat",
+            "state",
+            "length",
+            "warmth",
+            "composition",
+            "condition",
+            "size",
+            "heat intensity",
+            "form",
+            "level",
+            "heat level",
+            "texture",
+            "hardness"
+        ]
+    },
+    {
+        "canonical_name": "awareness",
+        "other_names": [
+            "application",
+            "accuracy",
+            "level"
+        ]
+    },
+    {
+        "canonical_name": "knowledge",
+        "other_names": [
+            "awareness",
+            "familiarity",
+            "familiarity with the process",
+            "experience level",
+            "understanding",
+            "avatar selection",
+            "selection status",
+            "estimation",
+            "skill level",
+            "identification",
+            "status",
+            "awareness level",
+            "recognition",
+            "accuracy",
+            "directionality",
+            "character selection",
+            "realization",
+            "state or selection",
+            "choice",
+            "enlistment",
+            "knowledge of the number",
+            "completion",
+            "state",
+            "involvement",
+            "visibility",
+            "selection",
+            "perception",
+            "comprehension",
+            "participation",
+            "consciousness",
+            "level",
+            "availability",
+            "experience",
+            "proficiency"
+        ]
+    },
+    {
+        "canonical_name": "direction",
+        "other_names": [
+            "flow",
+            "position",
+            "setting",
+            "movement",
+            "orientation"
+        ]
+    },
+    {
+        "canonical_name": "going",
+        "other_names": [
+            "location",
+            "movement"
+        ]
+    },
+    {
+        "canonical_name": "time",
+        "other_names": [
+            "duration"
+        ]
+    },
+    {
+        "canonical_name": "cohesiveness",
+        "other_names": [
+            "texture",
+            "consistency",
+            "cohesion",
+            "granularity"
+        ]
+    },
+    {
+        "canonical_name": "change",
+        "other_names": [
+            "state",
+            "growth",
+            "metamorphosis",
+            "transformation",
+            "development"
+        ]
+    },
+    {
+        "canonical_name": "division",
+        "other_names": [
+            "arrangement",
+            "position"
+        ]
+    },
+    {
+        "canonical_name": "thickness",
+        "other_names": [
+            "amount",
+            "coverage",
+            "diameter",
+            "size",
+            "depth",
+            "width",
+            "consistency",
+            "density",
+            "layer",
+            "volume"
+        ]
+    },
+    {
+        "canonical_name": "action",
+        "other_names": [
+            "availability",
+            "utilization",
+            "movement",
+            "function",
+            "status",
+            "motion",
+            "activity"
+        ]
+    },
+    {
+        "canonical_name": "moisture",
+        "other_names": [
+            "humidity",
+            "amount",
+            "state",
+            "wetness",
+            "moisture level",
+            "condition",
+            "aroma",
+            "moisture content",
+            "scent",
+            "level of wetness",
+            "dryness",
+            "consistency",
+            "humidity level",
+            "level",
+            "freshness",
+            "dampness"
+        ]
+    },
+    {
+        "canonical_name": "focus",
+        "other_names": [
+            "state",
+            "condition",
+            "concentration",
+            "state of alertness",
+            "action",
+            "attention",
+            "activity"
+        ]
+    },
+    {
+        "canonical_name": "openness",
+        "other_names": [
+            "state",
+            "level of closure",
+            "seal",
+            "closure",
+            "lid",
+            "accessibility",
+            "position",
+            "opening",
+            "cap",
+            "package",
+            "closed position",
+            "degree of openness",
+            "status"
+        ]
+    },
+    {
+        "canonical_name": "container",
+        "other_names": [
+            "organization",
+            "connectivity",
+            "volume",
+            "location",
+            "port",
+            "capacity",
+            "measurement",
+            "storage",
+            "level",
+            "content",
+            "quantity",
+            "connectivity slot"
+        ]
+    },
+    {
+        "canonical_name": "accessibility",
+        "other_names": []
+    },
+    {
+        "canonical_name": "consistency",
+        "other_names": [
+            "texture",
+            "state",
+            "condition"
+        ]
+    },
+    {
+        "canonical_name": "mass",
+        "other_names": [
+            "space",
+            "contents",
+            "content",
+            "capacity"
+        ]
+    },
+    {
+        "canonical_name": "fullness",
+        "other_names": [
+            "amount",
+            "stock",
+            "volume",
+            "occupancy",
+            "capacity",
+            "space",
+            "appearance",
+            "holding",
+            "mass",
+            "level",
+            "quantity",
+            "number"
+        ]
+    },
+    {
+        "canonical_name": "organization",
+        "other_names": [
+            "arrangement",
+            "connection",
+            "composition",
+            "mixture",
+            "placement",
+            "configuration",
+            "orderliness",
+            "position",
+            "positioning",
+            "orientation"
+        ]
+    },
+    {
+        "canonical_name": "selection",
+        "other_names": [
+            "adjustment",
+            "setting",
+            "configuration",
+            "positioning"
+        ]
+    },
+    {
+        "canonical_name": "mixture",
+        "other_names": [
+            "solution",
+            "combination",
+            "composition"
+        ]
+    },
+    {
+        "canonical_name": "vehicle",
+        "other_names": []
+    },
+    {
+        "canonical_name": "balance",
+        "other_names": []
+    },
+    {
+        "canonical_name": "rum",
+        "other_names": [
+            "storage"
+        ]
+    },
+    {
+        "canonical_name": "volume",
+        "other_names": [
+            "amount",
+            "usage",
+            "occupancy",
+            "capacity",
+            "container",
+            "occupation",
+            "size",
+            "interior",
+            "space",
+            "filled volume",
+            "containment",
+            "level",
+            "content",
+            "audio",
+            "quantity",
+            "sound"
+        ]
+    },
+    {
+        "canonical_name": "taste",
+        "other_names": [
+            "visual appeal",
+            "spiciness",
+            "presentation",
+            "flavor",
+            "seasoning",
+            "heat level"
+        ]
+    },
+    {
+        "canonical_name": "readiness",
+        "other_names": [
+            "state",
+            "organization"
+        ]
+    },
+    {
+        "canonical_name": "condition",
+        "other_names": [
+            "state",
+            "status"
+        ]
+    },
+    {
+        "canonical_name": "value",
+        "other_names": [
+            "amount",
+            "sum",
+            "quantity"
+        ]
+    },
+    {
+        "canonical_name": "strength",
+        "other_names": [
+            "stability",
+            "tightness",
+            "hold",
+            "firmness"
+        ]
+    },
+    {
+        "canonical_name": "newness",
+        "other_names": [
+            "state",
+            "level of freshness",
+            "condition",
+            "quality",
+            "freshness"
+        ]
+    },
+    {
+        "canonical_name": "contents",
+        "other_names": [
+            "amount",
+            "presence",
+            "level",
+            "content"
+        ]
+    },
+    {
+        "canonical_name": "stickiness",
+        "other_names": [
+            "tackiness",
+            "condition"
+        ]
+    },
+    {
+        "canonical_name": "decoration",
+        "other_names": [
+            "adornment",
+            "rim",
+            "garnishing",
+            "design",
+            "appearance",
+            "embellishment",
+            "surface",
+            "visual"
+        ]
+    },
+    {
+        "canonical_name": "location of center",
+        "other_names": [
+            "position of the center",
+            "location",
+            "center",
+            "positioning of center",
+            "height of the center",
+            "altitude of the center"
+        ]
+    },
+    {
+        "canonical_name": "hardness",
+        "other_names": [
+            "state",
+            "solidity",
+            "firmness",
+            "consistency",
+            "texture",
+            "tenderness"
+        ]
+    },
+    {
+        "canonical_name": "amount",
+        "other_names": [
+            "sum",
+            "intensity",
+            "brightness",
+            "harshness",
+            "quantity"
+        ]
+    },
+    {
+        "canonical_name": "weight",
+        "other_names": [
+            "weightiness",
+            "capacity",
+            "quantity",
+            "heaviness",
+            "amount",
+            "length of the strip",
+            "weight of the half",
+            "heft",
+            "pressure",
+            "slackness of the strip",
+            "mass",
+            "occupancy",
+            "storage space",
+            "distribution",
+            "position",
+            "load",
+            "level",
+            "content",
+            "volume"
+        ]
+    },
+    {
+        "canonical_name": "use",
+        "other_names": [
+            "usage",
+            "utilization",
+            "function of bundle",
+            "usage of bundle",
+            "function",
+            "purpose",
+            "wearing"
+        ]
+    },
+    {
+        "canonical_name": "mechanical movement",
+        "other_names": [
+            "mechanical motion"
+        ]
+    },
+    {
+        "canonical_name": "ease of release",
+        "other_names": [
+            "difficulty of release"
+        ]
+    },
+    {
+        "canonical_name": "compostion",
+        "other_names": [
+            "condition",
+            "surface",
+            "material",
+            "moisture level"
+        ]
+    },
+    {
+        "canonical_name": "seasoning",
+        "other_names": [
+            "flavor",
+            "palate",
+            "taste"
+        ]
+    },
+    {
+        "canonical_name": "age",
+        "other_names": [
+            "quality",
+            "usability",
+            "functionality",
+            "condition"
+        ]
+    },
+    {
+        "canonical_name": "step",
+        "other_names": [
+            "state",
+            "selection",
+            "action",
+            "evolution",
+            "choice",
+            "progress",
+            "status"
+        ]
+    },
+    {
+        "canonical_name": "locaion",
+        "other_names": [
+            "position",
+            "storage",
+            "location"
+        ]
+    },
+    {
+        "canonical_name": "composition",
+        "other_names": [
+            "packaging",
+            "integrity",
+            "condition",
+            "makeup",
+            "placement",
+            "constituency",
+            "contents",
+            "structure",
+            "connection",
+            "presentation",
+            "moisture content",
+            "appearance",
+            "seasoning",
+            "saturation",
+            "attachment",
+            "texture",
+            "quality",
+            "surface",
+            "nature",
+            "preparation",
+            "granularity",
+            "presence",
+            "consistency",
+            "arrangement",
+            "state",
+            "organization",
+            "construction",
+            "material",
+            "formation",
+            "integration",
+            "mixture",
+            "form",
+            "combination",
+            "content",
+            "dampness"
+        ]
+    },
+    {
+        "canonical_name": "pressure",
+        "other_names": [
+            "temperature",
+            "heat",
+            "energy",
+            "pressure level",
+            "internal pressure"
+        ]
+    },
+    {
+        "canonical_name": "glasses",
+        "other_names": []
+    },
+    {
+        "canonical_name": "cost",
+        "other_names": [
+            "ownership",
+            "availability",
+            "possession",
+            "price"
+        ]
+    },
+    {
+        "canonical_name": "cleanness",
+        "other_names": [
+            "cleanliness of the side",
+            "dirtiness",
+            "wetness",
+            "condition",
+            "degree",
+            "sanitation",
+            "interior",
+            "moisture content",
+            "appearance",
+            "moisture",
+            "saturation",
+            "cleanliness",
+            "surface",
+            "cleanliness of the inner side",
+            "presence",
+            "consistency",
+            "neatness",
+            "shininess",
+            "cleaning or appearance",
+            "degree of cleanness",
+            "state",
+            "organization",
+            "level of cleanliness",
+            "transparency",
+            "hygiene",
+            "hygienic state",
+            "dampness",
+            "clarity"
+        ]
+    },
+    {
+        "canonical_name": "cooking",
+        "other_names": [
+            "texture",
+            "status",
+            "doneness",
+            "preparation"
+        ]
+    },
+    {
+        "canonical_name": "completion",
+        "other_names": [
+            "state"
+        ]
+    },
+    {
+        "canonical_name": "blender",
+        "other_names": [
+            "jar"
+        ]
+    },
+    {
+        "canonical_name": "sharpness",
+        "other_names": []
+    },
+    {
+        "canonical_name": "flavor",
+        "other_names": [
+            "taste",
+            "quality",
+            "seasoning",
+            "palatability"
+        ]
+    },
+    {
+        "canonical_name": "forming",
+        "other_names": [
+            "creation",
+            "establishment",
+            "assembly",
+            "gathering"
+        ]
+    },
+    {
+        "canonical_name": "shape",
+        "other_names": [
+            "form of the strip",
+            "role",
+            "usage",
+            "condition",
+            "size",
+            "direction",
+            "placement",
+            "geometry",
+            "physical state",
+            "completeness",
+            "physical appearance",
+            "texture/consistency",
+            "structure",
+            "familiarity with the shape",
+            "length of the strip",
+            "appearance",
+            "storage",
+            "function",
+            "texture",
+            "orientation",
+            "elasticity",
+            "location",
+            "solidity",
+            "configuration",
+            "consistency",
+            "arrangement",
+            "alignment",
+            "state",
+            "organization",
+            "conformation",
+            "shape of the tip",
+            "knowledge of the shape",
+            "growth",
+            "form",
+            "position",
+            "grouping"
+        ]
+    },
+    {
+        "canonical_name": "content",
+        "other_names": []
+    },
+    {
+        "canonical_name": "dampness",
+        "other_names": [
+            "hydrousness",
+            "wetness",
+            "moisture"
+        ]
+    },
+    {
+        "canonical_name": "number",
+        "other_names": [
+            "amount",
+            "quantity",
+            "unit"
+        ]
+    },
+    {
+        "canonical_name": "activity",
+        "other_names": [
+            "activity level"
+        ]
+    },
+    {
+        "canonical_name": "clarity",
+        "other_names": []
+    },
+    {
+        "canonical_name": "wetness",
+        "other_names": [
+            "condition",
+            "transfer",
+            "physical state",
+            "amount",
+            "interior",
+            "moisture content",
+            "collection",
+            "appearance",
+            "moisture",
+            "level of oiliness",
+            "hydration level",
+            "saturation",
+            "cleanliness",
+            "texture",
+            "surface",
+            "humidity",
+            "location",
+            "lid",
+            "presence",
+            "consistency",
+            "cleanness",
+            "state",
+            "dry state",
+            "moisture level",
+            "visibility",
+            "dryness",
+            "level",
+            "dampness",
+            "clarity"
+        ]
+    },
+    {
+        "canonical_name": "size",
+        "other_names": [
+            "shape and size",
+            "length",
+            "state",
+            "organization",
+            "conformation",
+            "amount",
+            "measurement",
+            "condition",
+            "surface area",
+            "form",
+            "dimension",
+            "consistency",
+            "mass",
+            "shape",
+            "texture",
+            "quantity",
+            "volume"
+        ]
+    },
+    {
+        "canonical_name": "color",
+        "other_names": [
+            "taste",
+            "basic flavor",
+            "smell",
+            "fragrance",
+            "condition",
+            "scent",
+            "coating",
+            "appearance",
+            "odor",
+            "flavor",
+            "surface"
+        ]
+    },
+    {
+        "canonical_name": "how cooked",
+        "other_names": []
+    },
+    {
+        "canonical_name": "length",
+        "other_names": [
+            "length of the strip",
+            "size",
+            "physical size",
+            "stretchiness",
+            "width"
+        ]
+    },
+    {
+        "canonical_name": "coverage",
+        "other_names": [
+            "amount",
+            "visibility",
+            "spread",
+            "exposure",
+            "surface"
+        ]
+    },
+    {
+        "canonical_name": "appearance",
+        "other_names": [
+            "surface",
+            "visibility",
+            "presentation",
+            "neatness",
+            "look",
+            "decoration"
+        ]
+    },
+    {
+        "canonical_name": "wholeness",
+        "other_names": [
+            "state",
+            "cohesion",
+            "integrity",
+            "formation",
+            "entirety",
+            "consistency",
+            "completeness",
+            "texture"
+        ]
+    },
+    {
+        "canonical_name": "population",
+        "other_names": [
+            "number"
+        ]
+    },
+    {
+        "canonical_name": "option",
+        "other_names": []
+    },
+    {
+        "canonical_name": "watered",
+        "other_names": [
+            "humidity",
+            "hydration",
+            "moisture level"
+        ]
+    },
+    {
+        "canonical_name": "contentment",
+        "other_names": [
+            "level",
+            "moisture level"
+        ]
+    },
+    {
+        "canonical_name": "attachment",
+        "other_names": [
+            "connection"
+        ]
+    },
+    {
+        "canonical_name": "texture",
+        "other_names": [
+            "state",
+            "location",
+            "organization",
+            "condition",
+            "disposition",
+            "physical form",
+            "form",
+            "appearance",
+            "consistency",
+            "shape",
+            "covering",
+            "surface"
+        ]
+    },
+    {
+        "canonical_name": "width",
+        "other_names": [
+            "thickness",
+            "diameter",
+            "gauge"
+        ]
+    },
+    {
+        "canonical_name": "teture",
+        "other_names": [
+            "texture",
+            "consistency"
+        ]
+    },
+    {
+        "canonical_name": "smell",
+        "other_names": [
+            "aroma",
+            "fragrance",
+            "odor"
+        ]
+    },
+    {
+        "canonical_name": "cleaness",
+        "other_names": [
+            "cleanliness",
+            "condition"
+        ]
+    },
+    {
+        "canonical_name": "power",
+        "other_names": [
+            "capacity",
+            "adhesion",
+            "flow",
+            "strength",
+            "connection",
+            "power connection",
+            "activity state",
+            "power source",
+            "attachment",
+            "function",
+            "functionality",
+            "connectivity",
+            "energy source",
+            "stream",
+            "mode",
+            "bond",
+            "supply",
+            "state",
+            "energy",
+            "power supply",
+            "electricity",
+            "power cable",
+            "energy supply"
+        ]
+    },
+    {
+        "canonical_name": "flexibility",
+        "other_names": [
+            "texture",
+            "consistency"
+        ]
+    },
+    {
+        "canonical_name": "look",
+        "other_names": [
+            "outfit",
+            "impression",
+            "demeanor",
+            "appearance"
+        ]
+    },
+    {
+        "canonical_name": "covering",
+        "other_names": [
+            "level of opacity",
+            "level of opaqueness",
+            "degree of transparency",
+            "opacity"
+        ]
+    },
+    {
+        "canonical_name": "thermal conductivity",
+        "other_names": [
+            "temperature",
+            "temperature of the surface",
+            "level of doneness",
+            "consistency",
+            "texture",
+            "preparation",
+            "conductive heat of the surface"
+        ]
+    },
+    {
+        "canonical_name": "area",
+        "other_names": [
+            "state",
+            "shape",
+            "condition"
+        ]
+    },
+    {
+        "canonical_name": "visibility",
+        "other_names": [
+            "presence",
+            "concealment",
+            "display",
+            "appearance"
+        ]
+    },
+    {
+        "canonical_name": "position",
+        "other_names": [
+            "arrangement",
+            "posture",
+            "location",
+            "placement",
+            "form",
+            "shape",
+            "orientation"
+        ]
+    },
+    {
+        "canonical_name": "tightness",
+        "other_names": []
+    },
+    {
+        "canonical_name": "operation",
+        "other_names": [
+            "performance",
+            "status",
+            "functionality"
+        ]
+    },
+    {
+        "canonical_name": "cooked or not",
+        "other_names": [
+            "state",
+            "wetness",
+            "condition",
+            "consistency",
+            "doneness",
+            "quality"
+        ]
+    },
+    {
+        "canonical_name": "messiness",
+        "other_names": [
+            "clutteredness",
+            "clutter",
+            "untidiness",
+            "disorder",
+            "cleanliness",
+            "disorderliness"
+        ]
+    },
+    {
+        "canonical_name": "oiliness",
+        "other_names": [
+            "grease",
+            "oil content"
+        ]
+    },
+    {
+        "canonical_name": "items",
+        "other_names": [
+            "quantity",
+            "state"
+        ]
+    },
+    {
+        "canonical_name": "sealing",
+        "other_names": [
+            "cap",
+            "closing"
+        ]
+    },
+    {
+        "canonical_name": "availability",
+        "other_names": [
+            "readiness",
+            "possibility",
+            "resource",
+            "quantity",
+            "amount",
+            "use",
+            "capability",
+            "option",
+            "status",
+            "functionality",
+            "location",
+            "presence",
+            "accessibility",
+            "usability",
+            "possession",
+            "obtainability",
+            "activation",
+            "absence",
+            "state",
+            "organization",
+            "visibility",
+            "existence",
+            "distribution",
+            "property",
+            "level"
+        ]
+    },
+    {
+        "canonical_name": "height",
+        "other_names": [
+            "elevation",
+            "level"
+        ]
+    },
+    {
+        "canonical_name": "ownership",
+        "other_names": [
+            "location",
+            "control",
+            "position",
+            "possession",
+            "custody"
+        ]
+    },
+    {
+        "canonical_name": "count",
+        "other_names": [
+            "quantity",
+            "availability",
+            "stock",
+            "number"
+        ]
+    },
+    {
+        "canonical_name": "full",
+        "other_names": [
+            "satiety",
+            "fullness"
+        ]
+    },
+    {
+        "canonical_name": "knob",
+        "other_names": [
+            "faucet handle",
+            "flow",
+            "spigot"
+        ]
+    },
+    {
+        "canonical_name": "placement",
+        "other_names": [
+            "position",
+            "location",
+            "storage",
+            "distribution"
+        ]
+    },
+    {
+        "canonical_name": "emptiness",
+        "other_names": [
+            "capacity",
+            "occupancy",
+            "cavity",
+            "storage",
+            "availability",
+            "volume"
+        ]
+    },
+    {
+        "canonical_name": "contact",
+        "other_names": [
+            "position",
+            "placement"
+        ]
+    },
+    {
+        "canonical_name": "density",
+        "other_names": [
+            "texture",
+            "consistency",
+            "composition"
+        ]
+    },
+    {
+        "canonical_name": "connection",
+        "other_names": [
+            "alignment",
+            "organization",
+            "connectivity",
+            "attachment",
+            "fit"
+        ]
+    },
+    {
+        "canonical_name": "locatio",
+        "other_names": [
+            "state",
+            "location",
+            "organization",
+            "placement",
+            "form",
+            "consistency",
+            "physical state",
+            "texture"
+        ]
+    },
+    {
+        "canonical_name": "complexity",
+        "other_names": [
+            "composition",
+            "simplicity",
+            "flavor profile"
+        ]
+    },
+    {
+        "canonical_name": "stated",
+        "other_names": [
+            "arrangement",
+            "alignment",
+            "state",
+            "form",
+            "shape"
+        ]
+    },
+    {
+        "canonical_name": "status",
+        "other_names": [
+            "state"
+        ]
+    },
+    {
+        "canonical_name": "electric conductivity",
+        "other_names": [
+            "electricity flow",
+            "state",
+            "electrical function",
+            "electric current",
+            "electric circuit",
+            "energy flow"
+        ]
+    },
+    {
+        "canonical_name": "granularity",
+        "other_names": [
+            "state",
+            "form",
+            "physical form",
+            "consistency",
+            "texture"
+        ]
+    },
+    {
+        "canonical_name": "orientation",
+        "other_names": [
+            "arrangement",
+            "posture",
+            "location",
+            "presence",
+            "placement",
+            "direction",
+            "physical position",
+            "configuration",
+            "position",
+            "disposition",
+            "setting",
+            "positioning"
+        ]
+    },
+    {
+        "canonical_name": "location",
+        "other_names": [
+            "temperature",
+            "characteristic",
+            "ownership",
+            "usage",
+            "hiding place",
+            "condition",
+            "placement",
+            "act",
+            "flow",
+            "storing",
+            "liquid mixture",
+            "quantity",
+            "amount",
+            "connection",
+            "use",
+            "place",
+            "physical form",
+            "appearance",
+            "location or position",
+            "application",
+            "contained location",
+            "storage",
+            "holding",
+            "action",
+            "non-usage",
+            "attachment",
+            "function",
+            "quality",
+            "texture",
+            "status",
+            "positioning",
+            "orientation",
+            "container",
+            "containment",
+            "presence",
+            "whereabouts",
+            "consistency",
+            "possession",
+            "absence",
+            "arrangement",
+            "occurrence",
+            "state",
+            "organization",
+            "existence",
+            "visibility",
+            "coating",
+            "serving",
+            "form",
+            "distribution",
+            "position",
+            "operation",
+            "addition",
+            "grouping",
+            "availability",
+            "activity",
+            "volume"
+        ]
+    },
+    {
+        "canonical_name": "inside a freezer",
+        "other_names": [
+            "position",
+            "location",
+            "placement"
+        ]
+    },
+    {
+        "canonical_name": "evolution",
+        "other_names": [
+            "progression",
+            "metamorphosis",
+            "transformation"
+        ]
+    },
+    {
+        "canonical_name": "magnitude",
+        "other_names": [
+            "degree",
+            "level"
+        ]
+    },
+    {
+        "canonical_name": "choice",
+        "other_names": [
+            "selection"
+        ]
+    },
+    {
+        "canonical_name": "speed",
+        "other_names": [
+            "velocity",
+            "motion",
+            "pace"
+        ]
+    },
+    {
+        "canonical_name": "possession",
+        "other_names": [
+            "ownership"
+        ]
+    },
+    {
+        "canonical_name": "accompaniment",
+        "other_names": []
+    },
+    {
+        "canonical_name": "skill",
+        "other_names": [
+            "state",
+            "quality",
+            "knowledge",
+            "level",
+            "attribute",
+            "degree",
+            "activation"
+        ]
+    },
+    {
+        "canonical_name": "smoothie",
+        "other_names": []
+    },
+    {
+        "canonical_name": "mixed",
+        "other_names": [
+            "mixture"
+        ]
+    },
+    {
+        "canonical_name": "sound",
+        "other_names": [
+            "auditory environment",
+            "level"
+        ]
+    },
+    {
+        "canonical_name": "equipment",
+        "other_names": [
+            "arrangement"
+        ]
+    },
+    {
+        "canonical_name": "strawberry",
+        "other_names": [
+            "location",
+            "storage",
+            "presence"
+        ]
+    },
+    {
+        "canonical_name": "form",
+        "other_names": [
+            "arrangement",
+            "state",
+            "organization",
+            "composition",
+            "container",
+            "size",
+            "appearance",
+            "position",
+            "consistency",
+            "shape",
+            "texture",
+            "structure"
+        ]
+    },
+    {
+        "canonical_name": "odor",
+        "other_names": [
+            "taste",
+            "smell",
+            "fragrance",
+            "aroma",
+            "scent",
+            "flavor",
+            "quality"
+        ]
+    },
+    {
+        "canonical_name": "proximity",
+        "other_names": [
+            "distance between the ends"
+        ]
+    },
+    {
+        "canonical_name": "dryness",
+        "other_names": [
+            "dampness",
+            "state",
+            "wetness",
+            "moisture level"
+        ]
+    },
+    {
+        "canonical_name": "attention",
+        "other_names": [
+            "organization or haphazardness",
+            "arrangement"
+        ]
+    },
+    {
+        "canonical_name": "transparency",
+        "other_names": [
+            "opaqueness",
+            "obstruction",
+            "clarity"
+        ]
+    },
+    {
+        "canonical_name": "stability",
+        "other_names": [
+            "effectiveness",
+            "coordination",
+            "quality",
+            "motion",
+            "movement"
+        ]
+    },
+    {
+        "canonical_name": "motion",
+        "other_names": [
+            "state",
+            "rotation",
+            "action",
+            "status",
+            "movement"
+        ]
+    },
+    {
+        "canonical_name": "movement",
+        "other_names": [
+            "rotation",
+            "selection",
+            "action",
+            "position",
+            "immobility",
+            "motion"
+        ]
+    }
+]

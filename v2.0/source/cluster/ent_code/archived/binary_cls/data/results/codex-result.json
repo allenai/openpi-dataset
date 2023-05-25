@@ -1,0 +1,1975 @@
+{
+    "1": {
+        "step2": {
+            "step": "Turn around, stepping away from them, pulling them towards you (this throws off their balance), and grab their arm.",
+            "original_coref": [
+                [
+                    "they",
+                    "person"
+                ],
+                [
+                    "opponents body",
+                    "opponent"
+                ]
+            ],
+            "gpt3_coref": " [('they', 'person'), 'opponents body', 'opponent']"
+        },
+        "step3": {
+            "step": "Roll them off of your hip.",
+            "original_coref": [
+                [
+                    "they",
+                    "person"
+                ],
+                [
+                    "opponents body",
+                    "opponent"
+                ]
+            ],
+            "gpt3_coref": " [('they', 'person'), ('opponents body', 'opponent')]"
+        },
+        "step4": {
+            "step": "Once they are on the ground make sure they slap the floor as they hit to prevent friction.",
+            "original_coref": [
+                [
+                    "they",
+                    "person"
+                ],
+                [
+                    "opponents body",
+                    "opponent"
+                ]
+            ],
+            "gpt3_coref": " [('they', 'person'), 'opponents body', 'opponent']"
+        }
+    },
+    "2": {
+        "step1": {
+            "step": "Examine the trash bag you place in the garbage.",
+            "original_coref": [
+                [
+                    "trash can",
+                    "trash bag"
+                ]
+            ],
+            "gpt3_coref": " [('trash can', 'trash bag')]"
+        },
+        "step2": {
+            "step": "Lay one layer (or section) of newspaper along the bottom of a clean, empty trash can.",
+            "original_coref": [
+                [
+                    "trash can",
+                    "trash bag"
+                ]
+            ],
+            "gpt3_coref": " [('trash can', 'trash bag')]"
+        },
+        "step3": {
+            "step": "Place plastic trash bag in the trash can.",
+            "original_coref": [
+                [
+                    "trash can",
+                    "trash bag"
+                ]
+            ],
+            "gpt3_coref": " [('trash can', 'trash bag')]\n```"
+        },
+        "step4": {
+            "step": "Add a layer of newspaper to the bottom of the trash bag.",
+            "original_coref": [
+                [
+                    "trash can",
+                    "trash bag"
+                ]
+            ],
+            "gpt3_coref": " [('trash can', 'trash bag')]\n```"
+        }
+    },
+    "3": {
+        "step2": {
+            "step": "Remove any belts with large buckles.",
+            "original_coref": [
+                [
+                    "belt",
+                    "belts"
+                ]
+            ],
+            "gpt3_coref": " [('belt', 'belts')]"
+        },
+        "step4": {
+            "step": "Remove any extra layers of clothing, such as jackets and sweaters.",
+            "original_coref": [
+                [
+                    "jacket",
+                    "sweater"
+                ]
+            ],
+            "gpt3_coref": " [('jacket', 'sweater')]"
+        }
+    },
+    "5": {
+        "step1": {
+            "step": "Take the Groovehoop and place it on the small of your back.",
+            "original_coref": [
+                [
+                    "groovehoop",
+                    "groovehop"
+                ]
+            ],
+            "gpt3_coref": " [('groovehoop', 'groovehop')]"
+        },
+        "step2": {
+            "step": "Try the walking trick.",
+            "original_coref": [
+                [
+                    "groovehoop",
+                    "groovehop"
+                ]
+            ],
+            "gpt3_coref": " ['groovehoop', 'groovehop']"
+        },
+        "step3": {
+            "step": "Try the turning trick.",
+            "original_coref": [
+                [
+                    "groovehoop",
+                    "groovehop"
+                ]
+            ],
+            "gpt3_coref": " [('groovehoop', 'groovehop')]"
+        },
+        "step4": {
+            "step": "Keep practicing.",
+            "original_coref": [
+                [
+                    "groovehoop",
+                    "groovehop"
+                ]
+            ],
+            "gpt3_coref": " [('groovehoop', 'groovehop')]"
+        }
+    },
+    "9": {
+        "step2": {
+            "step": "Paint a little on the spindle that holds the foot just behind the eye of the needle.",
+            "original_coref": [
+                [
+                    "spindle",
+                    "the spindle"
+                ]
+            ],
+            "gpt3_coref": " [('spindle', 'the spindle')]"
+        },
+        "step3": {
+            "step": "Allow to dry before use.",
+            "original_coref": [
+                [
+                    "spindle",
+                    "the spindle"
+                ]
+            ],
+            "gpt3_coref": " [('spindle', 'the spindle')]"
+        },
+        "step4": {
+            "step": "Shift the metal plate that slides in and covers the shuttle and hold it at the back of the needle.",
+            "original_coref": [
+                [
+                    "metal plate",
+                    "the metal plates"
+                ]
+            ],
+            "gpt3_coref": " [('metal plate', 'the metal plates')]"
+        }
+    },
+    "11": {
+        "step1": {
+            "step": "Prepare and measure all ingredients.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "the ingredients"
+                ]
+            ],
+            "gpt3_coref": " [('ingredients', 'the ingredients')]"
+        },
+        "step2": {
+            "step": "Add all the ingredients to a food processor.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "the ingredients"
+                ]
+            ],
+            "gpt3_coref": " [('ingredients', 'the ingredients')]"
+        },
+        "step3": {
+            "step": "Blend thoroughly until you achieve a smooth texture.",
+            "original_coref": [
+                [
+                    "mixture",
+                    "the texture of the ingredients"
+                ],
+                [
+                    "ingredients",
+                    "the ingredients"
+                ]
+            ],
+            "gpt3_coref": " [('mixture', 'the texture of the ingredients'), ('ingredients', 'the ingredients')]"
+        }
+    },
+    "13": {
+        "step1": {
+            "step": "Make up a paste.",
+            "original_coref": [
+                [
+                    "baking powder and cream of tartar",
+                    "baking soda"
+                ]
+            ],
+            "gpt3_coref": " [('baking powder and cream of tartar', 'baking soda')]"
+        }
+    },
+    "14": {
+        "step1": {
+            "step": "Wash and dry the laundry caps with hot water and soap really good.",
+            "original_coref": [
+                [
+                    "the laundry caps",
+                    "the laundry cap rim",
+                    "the laundry cap",
+                    "laundry caps"
+                ]
+            ],
+            "gpt3_coref": " [('the laundry caps', 'the laundry cap rim', 'laundry caps'), 'the laundry cap']"
+        },
+        "step2": {
+            "step": "Measure and pour the rice or kernels into one cap.",
+            "original_coref": [
+                [
+                    "the laundry caps",
+                    "the laundry cap rim",
+                    "the laundry cap",
+                    "laundry caps"
+                ],
+                [
+                    "the rice or kernels",
+                    "the rice"
+                ],
+                [
+                    "the cap",
+                    "cap"
+                ]
+            ],
+            "gpt3_coref": " [('the laundry caps', 'the laundry cap rim', 'the laundry cap'), ('the rice or kernels', 'the rice'), 'the cap', 'cap']"
+        },
+        "step3": {
+            "step": "Place glue on both cap rims.",
+            "original_coref": [
+                [
+                    "the laundry caps",
+                    "the laundry cap rim",
+                    "the laundry cap",
+                    "laundry caps"
+                ],
+                [
+                    "the cap",
+                    "cap"
+                ],
+                [
+                    "the rims",
+                    "rims"
+                ]
+            ],
+            "gpt3_coref": " [('the laundry caps', 'the laundry cap rim', 'the laundry cap'), 'rims', 'cap']"
+        },
+        "step4": {
+            "step": "Shake the cap shaker for enjoyment and fun.",
+            "original_coref": [
+                [
+                    "the laundry caps",
+                    "the laundry cap rim",
+                    "the laundry cap",
+                    "laundry caps"
+                ]
+            ],
+            "gpt3_coref": " [('the laundry caps', 'the laundry cap rim', 'the laundry cap'), 'laundry caps']"
+        }
+    },
+    "15": {
+        "step1": {
+            "step": "Hold the rope at arm level in front of your chest.",
+            "original_coref": [
+                [
+                    "hands",
+                    "arms",
+                    "hand",
+                    "arm"
+                ]
+            ],
+            "gpt3_coref": " [('hands', 'arms', 'hand', 'arm')]"
+        },
+        "step2": {
+            "step": "Place one hand at about chin-nose height.",
+            "original_coref": [
+                [
+                    "hands",
+                    "arms",
+                    "hand",
+                    "arm"
+                ]
+            ],
+            "gpt3_coref": " [('hands', 'arms', 'hand', 'arm')]"
+        },
+        "step3": {
+            "step": "Pull your arm down so that your hand is around nipple height.",
+            "original_coref": [
+                [
+                    "hands",
+                    "arms",
+                    "hand",
+                    "arm"
+                ]
+            ],
+            "gpt3_coref": " [('hands', 'arms', 'hand', 'arm')]"
+        },
+        "step4": {
+            "step": "Once your highest hand is at step 3, repeat steps 2-3 with your other arm, \"walking\" up the rope.",
+            "original_coref": [
+                [
+                    "hands",
+                    "arms",
+                    "hand",
+                    "arm"
+                ]
+            ],
+            "gpt3_coref": " [('hands', 'arms'), 'hand', 'arm']"
+        }
+    },
+    "16": {
+        "step1": {
+            "step": "Purchase PVC pipe to make a set of parallettes:",
+            "original_coref": [
+                [
+                    "straight section of pvc pipe",
+                    "pvc pipe"
+                ]
+            ],
+            "gpt3_coref": " [('straight section of pvc pipe', 'pvc pipe')]"
+        },
+        "step2": {
+            "step": "Cut the PVC into sections using a hacksaw:",
+            "original_coref": [
+                [
+                    "straight section of pvc pipe",
+                    "pvc pipe"
+                ]
+            ],
+            "gpt3_coref": " [('straight section of pvc pipe', 'pvc pipe')]"
+        }
+    },
+    "17": {
+        "step1": {
+            "step": "Tamarillos should be fresh, with no green skin around the calyx.",
+            "original_coref": [
+                [
+                    "the tamarillos",
+                    "tamarillos",
+                    "the tamarillo"
+                ]
+            ],
+            "gpt3_coref": " [('the tamarillos', 'tamarillos'), 'the tamarillo']"
+        },
+        "step2": {
+            "step": "Tamarillos can be stored at room temperature or in the refrigerator.",
+            "original_coref": [
+                [
+                    "the tamarillos",
+                    "tamarillos",
+                    "the tamarillo"
+                ]
+            ],
+            "gpt3_coref": " [('the tamarillos', 'tamarillos'), 'the tamarillo']"
+        },
+        "step3": {
+            "step": "When using tamarillos, wash first.",
+            "original_coref": [
+                [
+                    "the tamarillos",
+                    "tamarillos",
+                    "the tamarillo"
+                ]
+            ],
+            "gpt3_coref": " [('the tamarillos', 'tamarillos')]"
+        },
+        "step4": {
+            "step": "Use the tamarillo.",
+            "original_coref": [
+                [
+                    "the tamarillos",
+                    "tamarillos",
+                    "the tamarillo"
+                ]
+            ],
+            "gpt3_coref": " [('the tamarillos', 'tamarillos', 'the tamarillo')]"
+        }
+    },
+    "18": {
+        "step1": {
+            "step": "Before you start hanging ten on a 12 foot (3.7\u00a0m) wave in Hawaii, try riding your first few waves lying down.",
+            "original_coref": [
+                [
+                    "board",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('board', 'person')]"
+        },
+        "step2": {
+            "step": "Choose the right wave.",
+            "original_coref": [
+                [
+                    "board",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " ['board', 'person']"
+        },
+        "step3": {
+            "step": "Once again, before you start trying to surf a wave standing up, have a practice on the beach.",
+            "original_coref": [
+                [
+                    "board",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('board', 'person')]"
+        },
+        "step4": {
+            "step": "Wipe out.",
+            "original_coref": [
+                [
+                    "board",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('board', 'person')]"
+        }
+    },
+    "19": {
+        "step1": {
+            "step": "Stand with your feet shoulder-width apart.",
+            "original_coref": [
+                [
+                    "body",
+                    "ankles"
+                ]
+            ],
+            "gpt3_coref": " [('body', 'ankles')]"
+        },
+        "step2": {
+            "step": "Lift up on your toes and hold for 10 seconds.",
+            "original_coref": [
+                [
+                    "body",
+                    "ankles"
+                ]
+            ],
+            "gpt3_coref": " ['body', 'ankles']"
+        }
+    },
+    "20": {
+        "step2": {
+            "step": "If there are stains on any of the pillows or cushions, these should be treated with spot cleaning focused just on the stain:",
+            "original_coref": [
+                [
+                    "pillows",
+                    "cushions",
+                    "cushion",
+                    "pillow",
+                    "pillow case",
+                    "pillowcases"
+                ]
+            ],
+            "gpt3_coref": " [('pillows', 'cushions', 'cushion', 'pillow'), ('pillow case', 'pillowcases')]"
+        },
+        "step3": {
+            "step": "If you cannot remove a stain using the method suggested previously, you could try laundering a cushion or pillow that has a removable cover.",
+            "original_coref": [
+                [
+                    "pillows",
+                    "cushions",
+                    "cushion",
+                    "pillow",
+                    "pillow case",
+                    "pillowcases"
+                ],
+                [
+                    "pillowcase",
+                    "pillowcases"
+                ],
+                [
+                    "pillow cover",
+                    "cushion cover"
+                ]
+            ],
+            "gpt3_coref": " [('pillows', 'cushions', 'cushion', 'pillow'), ('pillowcase', 'pillowcases', 'pillow cover', 'cushion cover')]"
+        },
+        "step4": {
+            "step": "Finished.",
+            "original_coref": [
+                [
+                    "pillows",
+                    "cushions",
+                    "cushion",
+                    "pillow",
+                    "pillow case",
+                    "pillowcases"
+                ],
+                [
+                    "pillowcase",
+                    "pillowcases"
+                ]
+            ],
+            "gpt3_coref": " [('pillows', 'cushions', 'cushion', 'pillow', 'pillow case', 'pillowcases'), 'pillowcase', 'pillowcases']"
+        }
+    },
+    "21": {
+        "step2": {
+            "step": "Bring the top loop down over the bottom loop, folding it at the junction between the two loops.",
+            "original_coref": [
+                [
+                    "loop",
+                    "top loop"
+                ]
+            ],
+            "gpt3_coref": " [('loop', 'top loop'), 'bottom loop']"
+        },
+        "step3": {
+            "step": "Take the farthest edge of the bottom loop from the first loop and bring that through the second (smaller) loop.",
+            "original_coref": [
+                [
+                    "loop",
+                    "top loop"
+                ]
+            ],
+            "gpt3_coref": " [('loop', 'top loop')]"
+        }
+    },
+    "23": {
+        "step1": {
+            "step": "Bend over slightly and hold frisbee in your hand, horizontal to the ground, at the height of the dog&#x27;s mouth.",
+            "original_coref": [
+                [
+                    "frisbee",
+                    "the frisbee"
+                ],
+                [
+                    "dog",
+                    "you",
+                    "the dog",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('frisbee', 'the frisbee'), ('dog', 'you', 'the dog'), 'person']"
+        },
+        "step2": {
+            "step": "Teach running and grabbing.",
+            "original_coref": [
+                [
+                    "frisbee",
+                    "the frisbee"
+                ],
+                [
+                    "dog",
+                    "you",
+                    "the dog",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('frisbee', 'the frisbee'), ('dog', 'you', 'the dog'), 'person']"
+        },
+        "step3": {
+            "step": "Teach jumping and grabbing.",
+            "original_coref": [
+                [
+                    "frisbee",
+                    "the frisbee"
+                ],
+                [
+                    "dog",
+                    "you",
+                    "the dog",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('frisbee', 'the frisbee'), ('dog', 'you', 'the dog', 'person')]"
+        }
+    },
+    "25": {
+        "step1": {
+            "step": "First, you will need to gather all of the required supplies.",
+            "original_coref": [
+                [
+                    "rope",
+                    "pole",
+                    "the rope"
+                ],
+                [
+                    "ball",
+                    "bat"
+                ]
+            ],
+            "gpt3_coref": " [('rope', 'pole', 'the rope'), 'ball', 'bat']"
+        },
+        "step2": {
+            "step": "Next you will string the balls through the rope so that they are able to slide easily across the rope.",
+            "original_coref": [
+                [
+                    "rope",
+                    "pole",
+                    "the rope"
+                ],
+                [
+                    "ball",
+                    "bat"
+                ]
+            ],
+            "gpt3_coref": " [('rope', 'pole', 'the rope'), ('ball', 'bat')]"
+        },
+        "step3": {
+            "step": "Tie both ends of the rope around a tree or pole and make sure the line is pulled tight.",
+            "original_coref": [
+                [
+                    "rope",
+                    "pole",
+                    "the rope"
+                ],
+                [
+                    "ball",
+                    "bat"
+                ]
+            ],
+            "gpt3_coref": " [('rope', 'pole'), ('ball', 'bat'), 'the rope']"
+        },
+        "step4": {
+            "step": "Practice batting.",
+            "original_coref": [
+                [
+                    "ball",
+                    "bat"
+                ]
+            ],
+            "gpt3_coref": " [('ball', 'bat')]"
+        }
+    },
+    "26": {
+        "step1": {
+            "step": "Use your non-dominant hand to grab the bottom of the stick, while grabbing the other end of the stick with your dominant hand somewhere near the middle of the shaft.",
+            "original_coref": [
+                [
+                    "non-dominant hand",
+                    "hand"
+                ],
+                [
+                    "stick",
+                    "lacrosse stick"
+                ]
+            ],
+            "gpt3_coref": " [('non-dominant hand', 'hand'), ('stick', 'lacrosse stick')]"
+        },
+        "step2": {
+            "step": "Place a ball in your Lacrosse stick as you set the shaft of the stick over your right shoulder.",
+            "original_coref": [
+                [
+                    "ball",
+                    "basket of lacrosse stick"
+                ],
+                [
+                    "non-dominant hand",
+                    "hand"
+                ],
+                [
+                    "stick",
+                    "lacrosse stick"
+                ]
+            ],
+            "gpt3_coref": " [('ball', 'basket of lacrosse stick'), ('non-dominant hand', 'hand'), ('stick', 'lacrosse stick')]"
+        },
+        "step3": {
+            "step": "Grab the middle of the shaft of your Lacrosse stick with your dominant hand, but keep it at the same angle, now that the stick is balanced.",
+            "original_coref": [
+                [
+                    "stick",
+                    "lacrosse stick"
+                ]
+            ],
+            "gpt3_coref": " [('stick', 'lacrosse stick')]"
+        },
+        "step4": {
+            "step": "Give a long enough push/pull to toss the ball to the other player on your team.Pull the stick with your non-dominant hand and push with your dominant hand.",
+            "original_coref": [
+                [
+                    "ball",
+                    "basket of lacrosse stick"
+                ],
+                [
+                    "non-dominant hand",
+                    "hand"
+                ],
+                [
+                    "stick",
+                    "lacrosse stick"
+                ]
+            ],
+            "gpt3_coref": " [('ball', 'basket of lacrosse stick'), ('non-dominant hand', 'hand'), 'stick', 'lacrosse stick']"
+        }
+    },
+    "27": {
+        "step1": {
+            "step": "Have a watch on news.",
+            "original_coref": [
+                [
+                    "tv",
+                    "news channel",
+                    "radio"
+                ]
+            ],
+            "gpt3_coref": " [('tv', 'news channel'), 'radio']"
+        },
+        "step4": {
+            "step": "Have emergency numbers.",
+            "original_coref": [
+                [
+                    "notebook",
+                    "pen"
+                ]
+            ],
+            "gpt3_coref": " [('notebook', 'pen')]"
+        }
+    },
+    "28": {
+        "step1": {
+            "step": "Select your favourite herbs and flowers.",
+            "original_coref": [
+                [
+                    "flowers",
+                    "flower"
+                ],
+                [
+                    "your herbs",
+                    "your flowers"
+                ]
+            ],
+            "gpt3_coref": " ['herbs', ('flowers', 'flower')]"
+        },
+        "step2": {
+            "step": "Place the flower or flowers in the centre of the arrangement.",
+            "original_coref": [
+                [
+                    "flowers",
+                    "flower"
+                ]
+            ],
+            "gpt3_coref": " [('flowers', 'flower')]"
+        },
+        "step4": {
+            "step": "Tie a ribbon bow around the stem.",
+            "original_coref": [
+                [
+                    "ribbon",
+                    "the bow"
+                ]
+            ],
+            "gpt3_coref": " [('ribbon', 'the bow')]"
+        }
+    },
+    "29": {
+        "step1": {
+            "step": "Set your water to a boil in a large saucepan.",
+            "original_coref": [
+                [
+                    "water",
+                    "sugar/cream/water"
+                ],
+                [
+                    "stove",
+                    "pan"
+                ]
+            ],
+            "gpt3_coref": " [('water', 'sugar/cream/water'), 'stove', 'pan']"
+        },
+        "step2": {
+            "step": "Then trow the water away and place it to the large saucepan and add the sugar and cream.",
+            "original_coref": [
+                [
+                    "cream and sugar",
+                    "sugar",
+                    "cream"
+                ],
+                [
+                    "water",
+                    "sugar/cream/water"
+                ]
+            ],
+            "gpt3_coref": " [('cream and sugar', 'sugar', 'cream'), ('water', 'sugar/cream/water')]"
+        },
+        "step3": {
+            "step": "Then place your softened ice cream and place it to the pastry bag with your star tip then swirl it to a serving cup.",
+            "original_coref": [
+                [
+                    "pastry bag",
+                    "serving cup"
+                ],
+                [
+                    "stove",
+                    "pan"
+                ]
+            ],
+            "gpt3_coref": " [('pastry bag', 'serving cup'), 'stove', 'pan']"
+        }
+    },
+    "30": {
+        "step1": {
+            "step": "Use the teabags for making tea.",
+            "original_coref": [
+                [
+                    "tea bags",
+                    "tea",
+                    "teabag",
+                    "teabags",
+                    "tea bag",
+                    "tea cup"
+                ]
+            ],
+            "gpt3_coref": " [('tea bags', 'tea', 'teabag', 'teabags', 'tea bag', 'tea cup')]"
+        },
+        "step2": {
+            "step": "Squeeze the excess liquid out of the teabags after they have cooled down.",
+            "original_coref": [
+                [
+                    "tea bags",
+                    "tea",
+                    "teabag",
+                    "teabags",
+                    "tea bag",
+                    "tea cup"
+                ]
+            ],
+            "gpt3_coref": " [('tea bags', 'tea', 'teabag', 'teabags', 'tea bag'), 'tea cup']"
+        },
+        "step3": {
+            "step": "Lay the teabags next to the campfire.",
+            "original_coref": [
+                [
+                    "tea bags",
+                    "tea",
+                    "teabag",
+                    "teabags",
+                    "tea bag",
+                    "tea cup"
+                ]
+            ],
+            "gpt3_coref": " [('tea bags', 'tea', 'teabag', 'teabags'), 'tea bag', 'tea cup']"
+        },
+        "step4": {
+            "step": "In the morning, take the teabags and throw them into the coals to help start a new fire.",
+            "original_coref": [
+                [
+                    "tea bags",
+                    "tea",
+                    "teabag",
+                    "teabags",
+                    "tea bag",
+                    "tea cup"
+                ]
+            ],
+            "gpt3_coref": " [('tea bags', 'tea', 'teabag', 'teabags', 'tea bag', 'tea cup')]"
+        }
+    },
+    "32": {
+        "step1": {
+            "step": "Take your kite out of the bag, unwrap it and lay it out flat on the ground.",
+            "original_coref": [
+                [
+                    "kite-surfing technique",
+                    "kite surfing locations"
+                ],
+                [
+                    "kit",
+                    "kite"
+                ]
+            ],
+            "gpt3_coref": " [('kite-surfing technique', 'kite surfing locations'), ('kit', 'kite')]"
+        },
+        "step4": {
+            "step": "Launch.",
+            "original_coref": [
+                [
+                    "kit",
+                    "kite"
+                ]
+            ],
+            "gpt3_coref": " [('kit', 'kite')]"
+        }
+    },
+    "34": {
+        "step1": {
+            "step": "When executing a forward slip to lose altitude, power to idle, and slow the plane to 80 knots before starting the slip.",
+            "original_coref": [
+                [
+                    "momentum",
+                    "speed"
+                ]
+            ],
+            "gpt3_coref": " [('momentum', 'speed')]"
+        },
+        "step4": {
+            "step": "To recover from the slip, simultaneously release the rudder pedal and level the plane with the ailerons.",
+            "original_coref": [
+                [
+                    "rubber pedal",
+                    "rudder pedal"
+                ]
+            ],
+            "gpt3_coref": " [('rubber pedal', 'rudder pedal')]"
+        }
+    },
+    "35": {
+        "step1": {
+            "step": "Push open the quick release lever.",
+            "original_coref": [
+                [
+                    "lever",
+                    "release lever"
+                ]
+            ],
+            "gpt3_coref": " [('lever', 'release lever')]"
+        },
+        "step3": {
+            "step": "Lube the shaft and threads of the skewer with bearing grease.",
+            "original_coref": [
+                [
+                    "shaft and threads",
+                    "threads"
+                ]
+            ],
+            "gpt3_coref": " [('shaft and threads', 'threads')]"
+        },
+        "step4": {
+            "step": "Insert the skewer into the wheel with the quick release lever facing in the proper direction, which is usually the left side of the bicycle.",
+            "original_coref": [
+                [
+                    "lever",
+                    "release lever"
+                ]
+            ],
+            "gpt3_coref": " [('lever', 'release lever')]"
+        }
+    },
+    "36": {
+        "step1": {
+            "step": "Cut a thick piece of cardboard about 6 by 6 inches (15.24 cm by 15.24 cm).",
+            "original_coref": [
+                [
+                    "carboard",
+                    "cardboard"
+                ]
+            ],
+            "gpt3_coref": " [('carboard', 'cardboard')]"
+        },
+        "step2": {
+            "step": "Open the can and mix the Bondo with a stir stick if there is a layer of liquid on top.",
+            "original_coref": [
+                [
+                    "stick",
+                    "spreader"
+                ],
+                [
+                    "can",
+                    "container"
+                ]
+            ],
+            "gpt3_coref": " [('stick', 'spreader'), ('can', 'container')]"
+        },
+        "step3": {
+            "step": "Add 1 line of hardener--also known as a catalyst or fixing agent--by squeezing it out of the tube across the top of the Bondo filler.",
+            "original_coref": [
+                [
+                    "hardener",
+                    "catalyst"
+                ]
+            ],
+            "gpt3_coref": " [('hardener', 'catalyst')]"
+        },
+        "step4": {
+            "step": "Use an ice cream novelty stick or a plastic spreader to quickly mix the two substances together.",
+            "original_coref": [
+                [
+                    "stick",
+                    "spreader"
+                ]
+            ],
+            "gpt3_coref": " [('stick', 'spreader')]"
+        }
+    },
+    "37": {
+        "step1": {
+            "step": "Find an online load board.",
+            "original_coref": [
+                [
+                    "computer",
+                    "screen"
+                ]
+            ],
+            "gpt3_coref": " [('computer', 'screen')]"
+        }
+    },
+    "38": {
+        "step1": {
+            "step": "Cut a raw potato in half.",
+            "original_coref": [
+                [
+                    "window",
+                    "potato"
+                ]
+            ],
+            "gpt3_coref": " [('window', 'potato')]"
+        },
+        "step2": {
+            "step": "Rub the cut side of one half potato on the window.",
+            "original_coref": [
+                [
+                    "window",
+                    "potato"
+                ]
+            ],
+            "gpt3_coref": " [('window', 'potato')]"
+        },
+        "step3": {
+            "step": "Use the other half of the potato if needed.",
+            "original_coref": [
+                [
+                    "window",
+                    "potato"
+                ]
+            ],
+            "gpt3_coref": " [('window', 'potato')]"
+        },
+        "step4": {
+            "step": "Leave to dry without touching.",
+            "original_coref": [
+                [
+                    "window",
+                    "potato"
+                ]
+            ],
+            "gpt3_coref": " ['window', 'potato']"
+        }
+    },
+    "39": {
+        "step1": {
+            "step": "Assemble the items needed.",
+            "original_coref": [
+                [
+                    "items needed",
+                    "items"
+                ]
+            ],
+            "gpt3_coref": " [('items needed', 'items')]"
+        },
+        "step2": {
+            "step": "Slacken the centre nut first by backing it off by a few turns but leaving it in place.",
+            "original_coref": [
+                [
+                    "centre nut",
+                    "nut"
+                ]
+            ],
+            "gpt3_coref": " [('centre nut', 'nut')]"
+        },
+        "step3": {
+            "step": "Insert the ratchet as shown in the image.",
+            "original_coref": [
+                [
+                    "rachet",
+                    "ratchet"
+                ]
+            ],
+            "gpt3_coref": " [('rachet', 'ratchet')]"
+        }
+    },
+    "41": {
+        "step1": {
+            "step": "######Choose a suitable location.",
+            "original_coref": [
+                [
+                    "seeds",
+                    "soil"
+                ]
+            ],
+            "gpt3_coref": " [('seeds', 'soil')]"
+        },
+        "step2": {
+            "step": "All coral peas require good draining soil.",
+            "original_coref": [
+                [
+                    "seeds",
+                    "soil"
+                ]
+            ],
+            "gpt3_coref": " [('seeds', 'soil')]"
+        },
+        "step4": {
+            "step": "######Water well while establishing.",
+            "original_coref": [
+                [
+                    "seeds",
+                    "soil"
+                ]
+            ],
+            "gpt3_coref": " [('seeds', 'soil')]"
+        }
+    },
+    "42": {
+        "step1": {
+            "step": "Draw a line down the middle of the playing space.",
+            "original_coref": [
+                [
+                    "space",
+                    "playing space"
+                ]
+            ],
+            "gpt3_coref": " [('space', 'playing space')]"
+        }
+    },
+    "43": {
+        "step1": {
+            "step": "Using a wet cloth, clean up the urine spot and make sure the area is thoroughly damp without being wet.",
+            "original_coref": [
+                [
+                    "urine",
+                    "baking soda"
+                ]
+            ],
+            "gpt3_coref": " [('urine', 'baking soda')]"
+        },
+        "step2": {
+            "step": "Sprinkle a thick layer of baking soda over the location.",
+            "original_coref": [
+                [
+                    "urine",
+                    "baking soda"
+                ],
+                [
+                    "bed",
+                    "mattress"
+                ]
+            ],
+            "gpt3_coref": " [('baking soda', 'urine'), 'bed', 'mattress']"
+        },
+        "step4": {
+            "step": "Once dry, vacuum it off of the bed.",
+            "original_coref": [
+                [
+                    "urine",
+                    "baking soda"
+                ],
+                [
+                    "bed",
+                    "mattress"
+                ]
+            ],
+            "gpt3_coref": " [('urine', 'baking soda'), ('bed', 'mattress')]"
+        }
+    },
+    "45": {
+        "step1": {
+            "step": "Turn on oven to 375\u00a0\u00b0F (191\u00a0\u00b0C).",
+            "original_coref": [
+                [
+                    "oven heating element",
+                    "oven",
+                    "oven interior",
+                    "oven knob"
+                ]
+            ],
+            "gpt3_coref": " ['oven heating element', ('oven', 'oven knob'), 'oven interior']"
+        },
+        "step2": {
+            "step": "Add the egg whites and vanilla.",
+            "original_coref": [
+                [
+                    "spoon",
+                    "mixing spoon"
+                ]
+            ],
+            "gpt3_coref": " [('spoon', 'mixing spoon')]"
+        },
+        "step3": {
+            "step": "Drop dough by rounded teaspoons 2 inches (5.1\u00a0cm) apart on ungreased cookie sheet.",
+            "original_coref": [
+                [
+                    "cookie sheet",
+                    "cookie dough"
+                ]
+            ],
+            "gpt3_coref": " [('cookie sheet', 'cookie dough')]"
+        },
+        "step4": {
+            "step": "Finished.",
+            "original_coref": [
+                [
+                    "cookie sheet",
+                    "cookie dough"
+                ]
+            ],
+            "gpt3_coref": " [('cookie sheet', 'cookie dough')]"
+        }
+    },
+    "47": {
+        "step1": {
+            "step": "Name your character something cool.",
+            "original_coref": [
+                [
+                    "character",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('character', 'person')]"
+        },
+        "step2": {
+            "step": "Make your character look awesome.",
+            "original_coref": [
+                [
+                    "character",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('character', 'person')]"
+        },
+        "step3": {
+            "step": "Be interesting and informative in chat.",
+            "original_coref": [
+                [
+                    "character",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('character', 'person')]"
+        },
+        "step4": {
+            "step": "Be nice.",
+            "original_coref": [
+                [
+                    "character",
+                    "person"
+                ]
+            ],
+            "gpt3_coref": " [('character', 'person')]"
+        }
+    },
+    "48": {
+        "step1": {
+            "step": "Gather all the 5 ingredients.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "cooking pan"
+                ]
+            ],
+            "gpt3_coref": " ['ingredients', 'cooking pan']"
+        },
+        "step2": {
+            "step": "Combine all of them in a bowl and mix well.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "cooking pan"
+                ],
+                [
+                    "bowl",
+                    "spoon"
+                ]
+            ],
+            "gpt3_coref": " [('ingredients', 'cooking pan'), ('bowl', 'spoon')]"
+        },
+        "step3": {
+            "step": "Store in an airtight container.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "cooking pan"
+                ],
+                [
+                    "bowl",
+                    "spoon"
+                ]
+            ],
+            "gpt3_coref": " [('ingredients', 'cooking pan'), ('bowl', 'spoon')]"
+        },
+        "step4": {
+            "step": "Use.",
+            "original_coref": [
+                [
+                    "ingredients",
+                    "cooking pan"
+                ]
+            ],
+            "gpt3_coref": " ['ingredients', ('cooking pan')]"
+        }
+    },
+    "51": {
+        "step1": {
+            "step": "Wipe Wipe away any loose dirt, toothpaste, food particles, etc, with a rag or wet paper towel.",
+            "original_coref": [
+                [
+                    "rag",
+                    "paper towel"
+                ]
+            ],
+            "gpt3_coref": " [('rag', 'paper towel')]"
+        },
+        "step2": {
+            "step": "Scrub Scrub off any stuck on gook with a cleaning toothbrush, sponge, or rag.",
+            "original_coref": [
+                [
+                    "rag",
+                    "paper towel"
+                ],
+                [
+                    "stuck on gook",
+                    "gook"
+                ]
+            ],
+            "gpt3_coref": " ['stuck on gook', ('rag', 'paper towel'), 'gook']"
+        },
+        "step3": {
+            "step": "Wipe off all the grime you just scrubbed off.",
+            "original_coref": [
+                [
+                    "rag",
+                    "paper towel"
+                ]
+            ],
+            "gpt3_coref": " [('rag', 'paper towel')]"
+        },
+        "step4": {
+            "step": "Polish Wet the faucet with a quick splash of water, then take a dry paper towel and wipe until dry and spotless.",
+            "original_coref": [
+                [
+                    "rag",
+                    "paper towel"
+                ]
+            ],
+            "gpt3_coref": " [('rag', 'paper towel')]"
+        }
+    },
+    "52": {
+        "step1": {
+            "step": "In your best handwriting, write the letters \"d\" and \"o.\"",
+            "original_coref": [
+                [
+                    "letter d",
+                    "letter o",
+                    "letter j",
+                    "letter b"
+                ],
+                [
+                    "the paper",
+                    "paper"
+                ]
+            ],
+            "gpt3_coref": " [('letter d', 'letter o', 'letter j', 'letter b'), 'the paper', 'paper']"
+        },
+        "step2": {
+            "step": "Draw in your \"J.\"",
+            "original_coref": [
+                [
+                    "letter d",
+                    "letter o",
+                    "letter j",
+                    "letter b"
+                ],
+                [
+                    "the paper",
+                    "paper"
+                ]
+            ],
+            "gpt3_coref": " [('letter d', 'letter o', 'letter j', 'letter b'), ('the paper', 'paper')]\n# narrative of current event\nevent = \"make a cut in the middle of the T-shirt with a pair of scissors\"\n# provided entities grouped by coreference resolution\nresolved_entities = [('shirt', 'T shirt', 'tshirt', 'Tshirt', 'Tshirt'), ('pair of scissors', 'scissors', 'scissors', 'scissors', 'scissors')]\n# corrected entity group where incorrect grouping is seperated\ncorrected_resolution = [('shirt', 'T shirt', 'tshirt', 'Tshirt'), ('pair of scissors', 'scissors', 'scissors', 'scissors', 'scissors')]"
+        },
+        "step3": {
+            "step": "Finish with the \"ob,\" in lowercase, spaced just as evenly and the \"do\" was.",
+            "original_coref": [
+                [
+                    "letter d",
+                    "letter o",
+                    "letter j",
+                    "letter b"
+                ],
+                [
+                    "the paper",
+                    "paper"
+                ]
+            ],
+            "gpt3_coref": " [('letter d', 'letter o', 'letter j', 'letter b'), ('the paper', 'paper')]"
+        },
+        "step4": {
+            "step": "Flesh out your do-Job man.",
+            "original_coref": [
+                [
+                    "the paper",
+                    "paper"
+                ]
+            ],
+            "gpt3_coref": " [('the paper', 'paper')]"
+        }
+    },
+    "53": {
+        "step1": {
+            "step": "Fill the teapot with very hot water.",
+            "original_coref": [
+                [
+                    "water",
+                    "tea"
+                ]
+            ],
+            "gpt3_coref": " [('water', 'tea')]"
+        },
+        "step2": {
+            "step": "Swirl the water around the teapot to ensure that all surfaces have been warmed.",
+            "original_coref": [
+                [
+                    "water",
+                    "tea"
+                ]
+            ],
+            "gpt3_coref": " [('water', 'tea')]"
+        },
+        "step3": {
+            "step": "Pour it out just before you intend pouring in the tea.",
+            "original_coref": [
+                [
+                    "water",
+                    "tea"
+                ]
+            ],
+            "gpt3_coref": " [('water', 'tea')]"
+        },
+        "step4": {
+            "step": "Relax and enjoy your tea.",
+            "original_coref": [
+                [
+                    "water",
+                    "tea"
+                ]
+            ],
+            "gpt3_coref": " [('water', 'tea')]"
+        }
+    },
+    "54": {
+        "step2": {
+            "step": "Plant in a container pot.",
+            "original_coref": [
+                [
+                    "seeds",
+                    "roots"
+                ]
+            ],
+            "gpt3_coref": " [('seeds', 'roots')]"
+        },
+        "step3": {
+            "step": "Water frequently during hot weather.",
+            "original_coref": [
+                [
+                    "seeds",
+                    "roots"
+                ]
+            ],
+            "gpt3_coref": " ['seeds', 'roots']"
+        },
+        "step4": {
+            "step": "Nourish using liquid fertiliser every month during the warm months.",
+            "original_coref": [
+                [
+                    "fertilizer",
+                    "liquid fertilizer"
+                ]
+            ],
+            "gpt3_coref": " [('fertilizer', 'liquid fertilizer')]"
+        }
+    },
+    "55": {
+        "step1": {
+            "step": "Purchase a large postal/poster tube.",
+            "original_coref": [
+                [
+                    "tube",
+                    "poster tube"
+                ]
+            ],
+            "gpt3_coref": " [('tube', 'poster tube')]"
+        },
+        "step2": {
+            "step": "Roll the fusible webbing to slightly smaller size than the mouth of the postal/poster tube.",
+            "original_coref": [
+                [
+                    "webbing",
+                    "fusible webbing"
+                ]
+            ],
+            "gpt3_coref": " [('webbing', 'fusible webbing'), 'postal/poster tube']"
+        },
+        "step3": {
+            "step": "Pop the fusible webbing into the tube.",
+            "original_coref": [
+                [
+                    "webbing",
+                    "fusible webbing"
+                ],
+                [
+                    "tube",
+                    "poster tube"
+                ]
+            ],
+            "gpt3_coref": " [('webbing', 'fusible webbing'), ('tube', 'poster tube')]"
+        },
+        "step4": {
+            "step": "Label the tube and put away with your other sewing supplies.",
+            "original_coref": [
+                [
+                    "webbing",
+                    "fusible webbing"
+                ],
+                [
+                    "tube",
+                    "poster tube"
+                ]
+            ],
+            "gpt3_coref": " [('webbing', 'fusible webbing'), ('tube', 'poster tube')]"
+        }
+    },
+    "56": {
+        "step1": {
+            "step": "Fill the hurricane glass with ice cubes.",
+            "original_coref": [
+                [
+                    "ice cubes",
+                    "ice"
+                ]
+            ],
+            "gpt3_coref": " [('ice cubes', 'ice')]"
+        }
+    },
+    "57": {
+        "step1": {
+            "step": "Dissolve a packet of Epsom salts into a tub of cold water.",
+            "original_coref": [
+                [
+                    "epsom salt",
+                    "epsom salts"
+                ],
+                [
+                    "item",
+                    "water"
+                ]
+            ],
+            "gpt3_coref": " [('epsom salt', 'epsom salts'), 'item']"
+        },
+        "step2": {
+            "step": "Rinse the silk item in the Epsom salts and water mixture.",
+            "original_coref": [
+                [
+                    "epsom salt",
+                    "epsom salts"
+                ],
+                [
+                    "silk item",
+                    "silk"
+                ],
+                [
+                    "item",
+                    "water"
+                ]
+            ],
+            "gpt3_coref": " [('epsom salt', 'epsom salts'), ('silk item', 'silk'), 'item', 'water']"
+        },
+        "step3": {
+            "step": "Wash the item separately in warm water for its first wash.",
+            "original_coref": [
+                [
+                    "silk item",
+                    "silk"
+                ],
+                [
+                    "item",
+                    "water"
+                ]
+            ],
+            "gpt3_coref": " [('silk item', 'silk'), 'item', 'water']\n \n \n# narrative of current event\nevent = \"fill the kettle with water and water the cactus with water.\"\n# provided entities grouped by coreference resolution\nresolved_entities = [('water', 'water', 'tap water'), ('cactus', 'plant', 'plant pot', 'flower pot'), ('kettle', 'kettle')]\n# corrected entity group where incorrect grouping is seperated\ncorrected_resolution = [('water', 'water'), ('cactus', 'plant', 'plant pot', 'flower pot'), 'tap water', ('kettle', 'kettle')]\n \n \n# narrative of current event\nevent = \"drain the water from the noodles and put the noodles into the boiling water.\"\n# provided entities grouped by coreference resolution\nresolved_entities = [('water', 'water"
+        },
+        "step4": {
+            "step": "Finished.",
+            "original_coref": [
+                [
+                    "item",
+                    "water"
+                ]
+            ],
+            "gpt3_coref": " [('item', 'water')]"
+        }
+    },
+    "58": {
+        "step1": {
+            "step": "Find yourself a sturdy piece of bamboo.",
+            "original_coref": [
+                [
+                    "bamboo",
+                    "bamboo edges"
+                ]
+            ],
+            "gpt3_coref": " [('bamboo', 'bamboo edges')]"
+        },
+        "step2": {
+            "step": "Once you have your bamboo, sand or cut off any twigs or bumps.",
+            "original_coref": [
+                [
+                    "bamboo",
+                    "bamboo edges"
+                ],
+                [
+                    "twig",
+                    "twigs"
+                ]
+            ],
+            "gpt3_coref": " [('bamboo', 'bamboo edges'), 'twigs', 'twig']"
+        },
+        "step3": {
+            "step": "Try walking around with the piece of bamboo.",
+            "original_coref": [
+                [
+                    "bamboo",
+                    "bamboo edges"
+                ]
+            ],
+            "gpt3_coref": " [('bamboo', 'bamboo edges')]"
+        },
+        "step4": {
+            "step": "Decorate.",
+            "original_coref": [
+                [
+                    "bamboo",
+                    "bamboo edges"
+                ]
+            ],
+            "gpt3_coref": " [('bamboo', 'bamboo edges')]"
+        }
+    },
+    "59": {
+        "step1": {
+            "step": "Spread peanut butter all over one side of a pretzel.",
+            "original_coref": [
+                [
+                    "peanut butter",
+                    "pretzel"
+                ]
+            ],
+            "gpt3_coref": " [('peanut butter', 'pretzel')]"
+        },
+        "step2": {
+            "step": "Hold the peanut butter-covered pretzel in one hand by its sides, and stick your choice of a very small food item (raisins, chocolate chips, etc.",
+            "original_coref": [
+                [
+                    "peanut butter",
+                    "pretzel"
+                ]
+            ],
+            "gpt3_coref": " ['peanut butter', 'pretzel']"
+        },
+        "step3": {
+            "step": "Repeat spreading peanut butter and adding raisins, etc.",
+            "original_coref": [
+                [
+                    "peanut butter",
+                    "pretzel"
+                ]
+            ],
+            "gpt3_coref": " [('peanut butter', 'pretzel')]"
+        }
+    },
+    "61": {
+        "step1": {
+            "step": "Clean your fossils thoroughly.",
+            "original_coref": [
+                [
+                    "your fossils",
+                    "fossils"
+                ]
+            ],
+            "gpt3_coref": " [('your fossils', 'fossils')]"
+        }
+    },
+    "62": {
+        "step1": {
+            "step": "Gather all ingredients listed above.",
+            "original_coref": [
+                [
+                    "graham cracker",
+                    "cracker"
+                ]
+            ],
+            "gpt3_coref": " [('graham cracker', 'cracker')]"
+        },
+        "step2": {
+            "step": "Break or slice the Graham cracker in half.",
+            "original_coref": [
+                [
+                    "graham cracker",
+                    "cracker"
+                ]
+            ],
+            "gpt3_coref": " [('graham cracker', 'cracker')]"
+        },
+        "step3": {
+            "step": "Spread the peanut butter on the Graham cracker with a plastic knife.",
+            "original_coref": [
+                [
+                    "graham cracker",
+                    "cracker"
+                ],
+                [
+                    "knife",
+                    "plastic knife"
+                ]
+            ],
+            "gpt3_coref": " [('graham cracker', 'cracker'), ('knife', 'plastic knife')]"
+        },
+        "step4": {
+            "step": "Carefully drop or place some mini chocolate chips on the Graham cracker.",
+            "original_coref": [
+                [
+                    "graham cracker",
+                    "cracker"
+                ]
+            ],
+            "gpt3_coref": " [('graham cracker', 'cracker')]"
+        }
+    },
+    "63": {
+        "step1": {
+            "step": "Locate the stained item and lay it out in readiness.",
+            "original_coref": [
+                [
+                    "stained item",
+                    "item"
+                ],
+                [
+                    "shirt",
+                    "garment"
+                ],
+                [
+                    "stain",
+                    "cloth"
+                ]
+            ],
+            "gpt3_coref": " [('stained item', 'item'), 'shirt', 'garment', 'stain', 'cloth']"
+        },
+        "step2": {
+            "step": "Dab or spray undiluted white vinegar to the area of the cola stain.",
+            "original_coref": [
+                [
+                    "stain",
+                    "cloth"
+                ]
+            ],
+            "gpt3_coref": " [('stain', 'cloth')]"
+        },
+        "step3": {
+            "step": "Leave the item to sit for 24 hours.",
+            "original_coref": [
+                [
+                    "stained item",
+                    "item"
+                ],
+                [
+                    "stain",
+                    "cloth"
+                ]
+            ],
+            "gpt3_coref": " [('stained item', 'item'), ('stain', 'cloth')]"
+        },
+        "step4": {
+            "step": "Wash the garment as usual.",
+            "original_coref": [
+                [
+                    "shirt",
+                    "garment"
+                ]
+            ],
+            "gpt3_coref": " [('shirt', 'garment')]"
+        }
+    },
+    "64": {
+        "step1": {
+            "step": "Lay a thin piece of paper or a clean handkerchief over the stamps.",
+            "original_coref": [
+                [
+                    "stamp",
+                    "stamps"
+                ]
+            ],
+            "gpt3_coref": " [('stamp', 'stamps')]"
+        },
+        "step2": {
+            "step": "Set the iron to hot.",
+            "original_coref": [
+                [
+                    "stamp",
+                    "stamps"
+                ]
+            ],
+            "gpt3_coref": " [('stamp', 'stamps')]"
+        },
+        "step3": {
+            "step": "Remove the paper and carefully tease apart the stamps using stamp tweezers.",
+            "original_coref": [
+                [
+                    "stamp",
+                    "stamps"
+                ]
+            ],
+            "gpt3_coref": " [('stamp', 'stamps')]"
+        },
+        "step4": {
+            "step": "Add the separated stamps to your collection.",
+            "original_coref": [
+                [
+                    "stamp",
+                    "stamps"
+                ]
+            ],
+            "gpt3_coref": " [('stamp', 'stamps')]"
+        }
+    },
+    "65": {
+        "step2": {
+            "step": "Make a lemon simple syrup for the beer punch.",
+            "original_coref": [
+                [
+                    "lemon juice",
+                    "lemon"
+                ],
+                [
+                    "pot",
+                    "pan"
+                ]
+            ],
+            "gpt3_coref": " [('lemon juice', 'lemon'), ('pot', 'pan')]"
+        },
+        "step3": {
+            "step": "Add the simple syrup and some fresh citrus juice to a punch bowl.",
+            "original_coref": [
+                [
+                    "citrus juice",
+                    "juice"
+                ],
+                [
+                    "bowl",
+                    "punch bowl"
+                ],
+                [
+                    "jar",
+                    "can"
+                ]
+            ],
+            "gpt3_coref": " [('citrus juice', 'juice'), ('bowl', 'punch bowl'), 'jar']"
+        },
+        "step4": {
+            "step": "Add the beer to the punch bowl just before serving.",
+            "original_coref": [
+                [
+                    "bowl",
+                    "punch bowl"
+                ],
+                [
+                    "jar",
+                    "can"
+                ]
+            ],
+            "gpt3_coref": " [('bowl', 'punch bowl'), ('jar', 'can')]"
+        }
+    },
+    "70": {
+        "step1": {
+            "step": "First, mix together the orange juice and the pineapple juice in a large glass bowl.",
+            "original_coref": [
+                [
+                    "juices",
+                    "the pineapple and orange juice",
+                    "juice",
+                    "juice mixture"
+                ],
+                [
+                    "glass bowl",
+                    "bowl",
+                    "the bowl"
+                ]
+            ],
+            "gpt3_coref": " [('juices', 'the pineapple and orange juice', 'juice'), ('glass bowl', 'bowl'), 'juice mixture', 'the bowl']"
+        },
+        "step2": {
+            "step": "Carefully pour the ginger ale into the juice.",
+            "original_coref": [
+                [
+                    "juices",
+                    "the pineapple and orange juice",
+                    "juice",
+                    "juice mixture"
+                ],
+                [
+                    "ginger ale",
+                    "the ginger ale"
+                ],
+                [
+                    "glass bowl",
+                    "bowl",
+                    "the bowl"
+                ]
+            ],
+            "gpt3_coref": " [('juices', 'the pineapple and orange juice', 'juice', 'juice mixture'), ('ginger ale', 'the ginger ale'), ('glass bowl', 'bowl', 'the bowl')]"
+        },
+        "step3": {
+            "step": "Place the bowl in the refrigerator.",
+            "original_coref": [
+                [
+                    "juices",
+                    "the pineapple and orange juice",
+                    "juice",
+                    "juice mixture"
+                ],
+                [
+                    "glass bowl",
+                    "bowl",
+                    "the bowl"
+                ]
+            ],
+            "gpt3_coref": " [('juices', 'the pineapple and orange juice', 'juice', 'juice mixture'), ('glass bowl', 'bowl'), 'the bowl']"
+        },
+        "step4": {
+            "step": "Add several scoops of rainbow sherbet to the bowl of punch, or add some to each individual cup.",
+            "original_coref": [
+                [
+                    "juices",
+                    "the pineapple and orange juice",
+                    "juice",
+                    "juice mixture"
+                ],
+                [
+                    "glass bowl",
+                    "bowl",
+                    "the bowl"
+                ]
+            ],
+            "gpt3_coref": " [('juices', 'the pineapple and orange juice', 'juice', 'juice mixture'), ('glass bowl', 'bowl'), 'each individual cup']"
+        }
+    }
+}

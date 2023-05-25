@@ -1,0 +1,110 @@
+A person's goal is to make a simple inside windshield cleaner.
+For each of the steps, what are the involved entities and attributes? 
+Step: Purchase a blackboard eraser.
+Entities and attributes: blackboard eraser (type,location,price,quality),
+Step: Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.
+Entities and attributes: blackboard eraser (location,weight), glove box (size,location), car (location,make,model), door (location),
+Step: Use the eraser to clean the inner side of the windshield.
+Entities and attributes: eraser (location,wetness,pressure), windshield (cleanness,location), car (location),
+Step: Replace after use.
+Entities and attributes: eraser (location,cleanness), replacement eraser (location,price),
+
+A person's goal is to make carob fruit balls.
+For each of the steps, what are the involved entities and attributes? 
+Step: Mix all of the ingredients together.
+Entities and attributes: ingredients (composition,location), bowl (location,cleanness), spoon (cleanness), carob (composition,location), fruit (location
+Step: Roll into small balls.
+Entities and attributes: balls (size,shape), carob (firmness), fruit (texture), hands (pressure),
+Step: Place in the freezer for half an hour.
+Entities and attributes: balls (location), freezer (temperature,location), container (location,weight),
+Step: Serve.
+Entities and attributes: balls (location,temperature), plate (cleanness), table (location),
+
+A person's goal is to freeze baked cookies or biscuits.
+For each of the steps, what are the involved entities and attributes? 
+Step: Place the biscuits or cookies into a rigid, airtight container.
+Entities and attributes: container (location,cleanness,airtightness,rigidity), cookies (location,temperature), biscuit (location,temperature),
+Step: Separate the biscuits and cookies using freezer paper, baking paper, or foil.
+Entities and attributes: freezer paper (location,thickness), baking paper (location,thickness), foil (location,thickness), cookies (location,
+Step: Place biscuits in freezer.
+Entities and attributes: biscuits (location,temperature), freezer (temperature,location),
+Step: Thaw.
+Entities and attributes: cookies (temperature), biscuits (temperature),
+
+A person's goal is to make a pipe cleaner bird.
+For each of the steps, what are the involved entities and attributes? 
+Step: Bend one pipe cleaner in half to form the legs.
+Entities and attributes: pipe cleaner (length,shape,color), legs (shape,location),
+Step: Shape another pipe cleaner to form the body.
+Entities and attributes: pipe cleaner (length,shape,color), body (size,shape),
+Step: Move 1.5 inches (3.8 cm) from the tip of where the beak should be.
+Entities and attributes: pipe cleaner (length,shape,color), beak (size,shape,location),
+Step: Use 2 pipe cleaners to enlarge the torso.
+Entities and attributes: pipe cleaners (length,shape,color), torso (size,shape),
+
+A person's goal is to spool knit a winter hat.
+For each of the steps, what are the involved entities and attributes? 
+Step: Knit eighty-four inches of flat web.
+Entities and attributes: yarn (length,location), web (length,width), knitting needles (size,type),
+Step: Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.
+Entities and attributes: web (length,width), yarn (length,location), needle (type,length), thread (length,location), rectangular form (width,length
+Step: Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.
+Entities and attributes: web (width,length), needle (type,length), thread (length,location), material (composition), cap (shape,size),
+Step: After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel.
+Entities and attributes: yarn (length,location), cord (length,location), strand (length,location), loop (location,shape), tassel (length,
+
+A person's goal is to get a headshot in gears of war.
+For each of the steps, what are the involved entities and attributes? 
+Step: Sniper — Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.
+Entities and attributes: sniper (accuracy,location), head (location), trigger (pressure), host (location),
+Step: Shotgun — The aim on the shotgun is almost like a rectangle.
+Entities and attributes: shotgun (accuracy,location), rectangle (shape,size,location),
+Step: Pistol — I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.
+Entities and attributes: pistol (accuracy,location), head (location), shots (number,location),
+Step: BoomShot — BoomShot headshots are possible — don't let anyone tell you they're not but the chance of one happening is about a million to one.
+Entities and attributes: BoomShot (accuracy,location), headshots (chance,location), million (number),
+
+A person's goal is to connect a wii to hd tv.
+For each of the steps, what are the involved entities and attributes? 
+Step: Plug in your HDMI cord to the cable.
+Entities and attributes: HDMI cord (location,length), cable (location,length),
+Step: Plug it into your TV's HDMI input.
+Entities and attributes: HDMI cord (location), TV (location,power), HDMI input (cleanness),
+Step: Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.
+Entities and attributes: wii (location), AV Composite Output (location), Composite cord (length),
+Step: Plug your HDMI cord (assuming you have one) into the converter and your TV.
+Entities and attributes: HDMI cord (location,length), converter (location,power), TV (location,power),
+
+A person's goal is to fold bath towels for quick hanging at home.
+For each of the steps, what are the involved entities and attributes? 
+Step: Fold the towel in thirds lengthwise.
+Entities and attributes: towel (length,width), arms (motion),
+Step: Fold in half, and then in half again.
+Entities and attributes: towel (width,length), arms (motion),
+Step: Store the towel in the linen closet.
+Entities and attributes: towel (location,cleanness,fold), linen closet (location,cleanness),
+Step: To go from the closet for hanging, simply unfold the final fold and hang on the towel rack.
+Entities and attributes: towel (location,cleanness,fold), linen closet (location,cleanness), towel rack (location,cleanness), arms (motion).
+
+A person's goal is to be a spy with friends.
+For each of the steps, what are the involved entities and attributes? 
+Step: Set-up your spy group You will need a trustworthy 2-5 person group.
+Entities and attributes: group (size,trustworthiness), person (trustworthiness),
+Step: It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.
+Entities and attributes: gear (location,use), meetings (location), people (nosiness), place (privacy,location),
+Step: Get some gear To be a good spy, you and your friends must have gear that will help with missions.
+Entities and attributes: gear (type,function,location), mission (type),
+Step: Find your first "victim" The victim is the person you will be watching and spying on.
+Entities and attributes: victim (location,trustworthiness), person (trustworthiness),
+
+A person's goal is to defeat a thug on dead island.
+For each of the steps, what are the involved entities and attributes? 
+Step: There is no chance in hell you will kill a Thug using just your bear hands and feet.
+Entities and attributes: Thug (strength,location), bear hands and feet (location,power),
+Step: Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.
+Entities and attributes: weapons (power,location), grenades (location,power), molotov cocktails (location,power), Thug (health,location),
+Step: Make sure your guns have enough ammo, and your knives are up to scratch.
+Entities and attributes: guns (location,ammo), knives (location,sharpness), Thug (location),
+Step: Attack!
+Entities and attributes: Thug (location,health), player (location,strength), weapons (power,location),
+

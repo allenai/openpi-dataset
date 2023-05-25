@@ -1,0 +1,6 @@
+Goal: "{goal}"
+Steps:
+{steps}
+Entities:
+{entities}
+Are the entities referring to the same object?

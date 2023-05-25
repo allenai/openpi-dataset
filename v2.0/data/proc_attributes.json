@@ -1,0 +1,2920 @@
+{
+    "How to Make a Simple Inside Windshield Cleaner": {
+        "fullness": [
+            11,
+            1
+        ],
+        "location": [
+            35,
+            0
+        ],
+        "sound": [
+            1,
+            0
+        ],
+        "ownership": [
+            6,
+            0
+        ],
+        "shape": [
+            1,
+            0
+        ],
+        "possession": [
+            2,
+            1
+        ],
+        "capacity": [
+            1,
+            0
+        ],
+        "placement": [
+            3,
+            0
+        ],
+        "movement": [
+            5,
+            1
+        ],
+        "state": [
+            14,
+            0
+        ],
+        "cleanness": [
+            6,
+            0
+        ],
+        "condition": [
+            3,
+            0
+        ],
+        "activity": [
+            6,
+            0
+        ],
+        "volume": [
+            1,
+            0
+        ]
+    },
+    "How to Make Carob Fruit Balls": {
+        "location": [
+            25,
+            2
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "consistency": [
+            6,
+            0
+        ],
+        "mixed": [
+            1,
+            2
+        ],
+        "weight": [
+            2,
+            1
+        ],
+        "shape": [
+            9,
+            0
+        ],
+        "cleanness": [
+            1,
+            0
+        ],
+        "size": [
+            3,
+            0
+        ],
+        "stickiness": [
+            3,
+            0
+        ],
+        "fullness": [
+            3,
+            0
+        ],
+        "state": [
+            7,
+            0
+        ],
+        "temperature": [
+            6,
+            0
+        ],
+        "time": [
+            1,
+            0
+        ],
+        "container": [
+            3,
+            0
+        ],
+        "hardness": [
+            2,
+            1
+        ]
+    },
+    "How to Freeze Baked Cookies or Biscuits": {
+        "location": [
+            19,
+            2
+        ],
+        "density": [
+            1,
+            0
+        ],
+        "volume": [
+            10,
+            1
+        ],
+        "weight": [
+            6,
+            1
+        ],
+        "temperature": [
+            19,
+            0
+        ],
+        "placement": [
+            12,
+            0
+        ],
+        "cleanness": [
+            10,
+            0
+        ],
+        "fullness": [
+            3,
+            0
+        ],
+        "state": [
+            11,
+            0
+        ],
+        "organization": [
+            3,
+            0
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "shape": [
+            1,
+            0
+        ],
+        "position": [
+            3,
+            0
+        ],
+        "texture": [
+            5,
+            1
+        ],
+        "flexibility": [
+            6,
+            0
+        ],
+        "hardness": [
+            1,
+            0
+        ],
+        "movement": [
+            3,
+            0
+        ]
+    },
+    "How to Make a Pipe Cleaner Bird": {
+        "position": [
+            8,
+            1
+        ],
+        "state": [
+            3,
+            0
+        ],
+        "Form": [
+            1,
+            0
+        ],
+        "shape": [
+            11,
+            1
+        ],
+        "length": [
+            1,
+            0
+        ],
+        "location": [
+            11,
+            1
+        ],
+        "weight": [
+            2,
+            1
+        ],
+        "width": [
+            3,
+            0
+        ]
+    },
+    "How to Spool Knit a Winter Hat": {
+        "state": [
+            13,
+            5
+        ],
+        "composition": [
+            1,
+            2
+        ],
+        "shape": [
+            8,
+            1
+        ],
+        "width": [
+            3,
+            0
+        ],
+        "connection": [
+            2,
+            1
+        ],
+        "weight": [
+            2,
+            1
+        ]
+    },
+    "How to Get a Headshot in Gears of War": {
+        "position": [
+            7,
+            0
+        ],
+        "temperature": [
+            3,
+            0
+        ],
+        "state": [
+            16,
+            6
+        ],
+        "location": [
+            1,
+            0
+        ],
+        "capacity": [
+            3,
+            0
+        ],
+        "stability": [
+            1,
+            0
+        ],
+        "Sound": [
+            1,
+            0
+        ],
+        "knowledge": [
+            8,
+            1
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "weight": [
+            1,
+            0
+        ]
+    },
+    "How to Connect a Wii to HD TV": {
+        "organization": [
+            3,
+            0
+        ],
+        "length": [
+            1,
+            0
+        ],
+        "state": [
+            26,
+            1
+        ],
+        "connection": [
+            11,
+            1
+        ],
+        "container": [
+            6,
+            0
+        ],
+        "attachment": [
+            9,
+            0
+        ],
+        "location": [
+            1,
+            0
+        ]
+    },
+    "How to Fold Bath Towels for Quick Hanging at Home": {
+        "emptiness": [
+            7,
+            2
+        ],
+        "stated": [
+            3,
+            0
+        ],
+        "thickness": [
+            5,
+            0
+        ],
+        "state": [
+            12,
+            3
+        ],
+        "space": [
+            1,
+            0
+        ],
+        "width": [
+            4,
+            2
+        ],
+        "size": [
+            3,
+            0
+        ],
+        "power": [
+            2,
+            1
+        ],
+        "length": [
+            3,
+            0
+        ],
+        "area": [
+            1,
+            0
+        ],
+        "height": [
+            2,
+            1
+        ],
+        "location": [
+            14,
+            3
+        ],
+        "content": [
+            1,
+            0
+        ]
+    },
+    "How to Be a Spy With Friends": {
+        "forming": [
+            1,
+            2
+        ],
+        "state": [
+            9,
+            4
+        ],
+        "knowledge": [
+            3,
+            3
+        ],
+        "location": [
+            2,
+            2
+        ],
+        "availability": [
+            1,
+            2
+        ],
+        "possession": [
+            2,
+            1
+        ]
+    },
+    "How to Defeat a Thug on Dead Island": {
+        "knowledge": [
+            10,
+            2
+        ],
+        "location": [
+            9,
+            0
+        ],
+        "state": [
+            15,
+            3
+        ],
+        "preparation": [
+            1,
+            0
+        ],
+        "count": [
+            2,
+            1
+        ],
+        "sharpness": [
+            1,
+            0
+        ],
+        "fullness": [
+            1,
+            0
+        ],
+        "use": [
+            1,
+            0
+        ],
+        "step": [
+            2,
+            1
+        ]
+    },
+    "How to Make Rhubarb Cordial": {
+        "composition": [
+            4,
+            2
+        ],
+        "temperature": [
+            22,
+            13
+        ],
+        "wetness": [
+            5,
+            2
+        ],
+        "volume": [
+            3,
+            0
+        ],
+        "state": [
+            7,
+            3
+        ],
+        "consistency": [
+            2,
+            1
+        ],
+        "texture": [
+            2,
+            1
+        ],
+        "hardness": [
+            1,
+            2
+        ],
+        "location": [
+            8,
+            7
+        ],
+        "appearance": [
+            2,
+            1
+        ],
+        "taste": [
+            1,
+            2
+        ]
+    },
+    "How to Get Under the Stage in Dragonball Z Budokai Tenkaichi 2": {
+        "knowledge": [
+            6,
+            0
+        ],
+        "option": [
+            3,
+            0
+        ],
+        "state": [
+            9,
+            3
+        ],
+        "population": [
+            3,
+            0
+        ],
+        "availability": [
+            5,
+            1
+        ],
+        "count": [
+            3,
+            0
+        ],
+        "location": [
+            11,
+            1
+        ],
+        "division": [
+            3,
+            0
+        ]
+    },
+    "How to Make Slow Cooker Hot Cocoa": {
+        "cleanness": [
+            6,
+            0
+        ],
+        "wetness": [
+            8,
+            1
+        ],
+        "location": [
+            14,
+            1
+        ],
+        "weight": [
+            15,
+            0
+        ],
+        "state": [
+            10,
+            2
+        ],
+        "composition": [
+            5,
+            1
+        ],
+        "availability": [
+            2,
+            1
+        ],
+        "container": [
+            8,
+            1
+        ],
+        "temperature": [
+            24,
+            1
+        ],
+        "volume": [
+            3,
+            0
+        ],
+        "thermal conductivity": [
+            3,
+            0
+        ],
+        "pressure": [
+            3,
+            0
+        ],
+        "time": [
+            1,
+            0
+        ],
+        "odor": [
+            2,
+            1
+        ],
+        "power": [
+            3,
+            0
+        ],
+        "sound": [
+            2,
+            1
+        ],
+        "direction": [
+            2,
+            1
+        ]
+    },
+    "How to Grow a Rose Bush from Rose Bush Cuttings": {
+        "volume": [
+            7,
+            2
+        ],
+        "cleanness": [
+            3,
+            0
+        ],
+        "readiness": [
+            1,
+            2
+        ],
+        "knowledge": [
+            1,
+            0
+        ],
+        "state": [
+            21,
+            3
+        ],
+        "location": [
+            22,
+            8
+        ],
+        "wetness": [
+            8,
+            1
+        ],
+        "moisture": [
+            7,
+            2
+        ],
+        "shape": [
+            5,
+            1
+        ],
+        "weight": [
+            3,
+            0
+        ],
+        "composition": [
+            1,
+            2
+        ]
+    },
+    "How to Evolve Vulpix in Pok\u00e9mon": {
+        "state": [
+            29,
+            3
+        ],
+        "availability": [
+            6,
+            0
+        ],
+        "ownership": [
+            2,
+            1
+        ],
+        "step": [
+            8,
+            1
+        ],
+        "choice": [
+            2,
+            1
+        ],
+        "knowledge": [
+            3,
+            0
+        ],
+        "form": [
+            1,
+            0
+        ],
+        "location": [
+            1,
+            0
+        ],
+        "strength": [
+            1,
+            0
+        ]
+    },
+    "How to Polish a Faucet With a Lemon": {
+        "shape": [
+            6,
+            1
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "state": [
+            8,
+            1
+        ],
+        "moisture": [
+            7,
+            2
+        ],
+        "location": [
+            14,
+            7
+        ],
+        "odor": [
+            8,
+            1
+        ],
+        "cleanness": [
+            15,
+            1
+        ],
+        "weight": [
+            2,
+            1
+        ],
+        "MASS": [
+            1,
+            0
+        ],
+        "dryness": [
+            3,
+            0
+        ],
+        "wetness": [
+            4,
+            2
+        ],
+        "color": [
+            2,
+            1
+        ],
+        "appearance": [
+            2,
+            1
+        ]
+    },
+    "How to Make Taco Filling": {
+        "cleanness": [
+            16,
+            0
+        ],
+        "moisture": [
+            5,
+            0
+        ],
+        "state": [
+            12,
+            1
+        ],
+        "temperature": [
+            28,
+            0
+        ],
+        "color": [
+            6,
+            0
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "status": [
+            1,
+            0
+        ],
+        "composition": [
+            10,
+            0
+        ],
+        "form": [
+            7,
+            2
+        ],
+        "cooked or not": [
+            6,
+            0
+        ],
+        "location": [
+            33,
+            0
+        ],
+        "power": [
+            5,
+            1
+        ],
+        "fullness": [
+            9,
+            0
+        ],
+        "weight": [
+            9,
+            0
+        ],
+        "texture": [
+            1,
+            0
+        ],
+        "volume": [
+            3,
+            0
+        ],
+        "wetness": [
+            3,
+            0
+        ],
+        "mass": [
+            1,
+            0
+        ],
+        "how cooked": [
+            3,
+            0
+        ],
+        "taste": [
+            3,
+            0
+        ]
+    },
+    "How to Remove Black Skid Marks from Linoleum": {
+        "ownership": [
+            2,
+            1
+        ],
+        "location": [
+            12,
+            6
+        ],
+        "state": [
+            13,
+            6
+        ],
+        "cost": [
+            1,
+            2
+        ],
+        "power": [
+            2,
+            1
+        ],
+        "dampness": [
+            2,
+            1
+        ],
+        "position": [
+            2,
+            1
+        ],
+        "cleanness": [
+            11,
+            7
+        ],
+        "color": [
+            4,
+            2
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "form": [
+            1,
+            2
+        ],
+        "orientation": [
+            2,
+            1
+        ],
+        "odor": [
+            2,
+            1
+        ],
+        "moisture": [
+            4,
+            2
+        ],
+        "wetness": [
+            3,
+            3
+        ]
+    },
+    "How to Create a Character in Lego Star Wars": {
+        "Selection": [
+            1,
+            0
+        ],
+        "knowledge": [
+            6,
+            3
+        ],
+        "state": [
+            13,
+            8
+        ],
+        "movement": [
+            2,
+            1
+        ],
+        "step": [
+            6,
+            0
+        ],
+        "choice": [
+            3,
+            0
+        ]
+    },
+    "How to Make Marshmallow Cream Cheese Fruit Dip": {
+        "location": [
+            27,
+            0
+        ],
+        "composition": [
+            12,
+            0
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "cleanness": [
+            12,
+            0
+        ],
+        "volume": [
+            9,
+            0
+        ],
+        "weight": [
+            16,
+            2
+        ],
+        "state": [
+            6,
+            0
+        ],
+        "container": [
+            3,
+            0
+        ],
+        "wetness": [
+            3,
+            0
+        ],
+        "size": [
+            3,
+            0
+        ],
+        "preparation": [
+            1,
+            0
+        ],
+        "completion": [
+            1,
+            0
+        ]
+    },
+    "How to Clean Synthetic Hiking Gear": {
+        "knowledge": [
+            4,
+            0
+        ],
+        "state": [
+            9,
+            0
+        ],
+        "weight": [
+            2,
+            0
+        ],
+        "location": [
+            6,
+            0
+        ],
+        "cleanness": [
+            13,
+            0
+        ],
+        "position": [
+            1,
+            0
+        ],
+        "temperature": [
+            1,
+            0
+        ],
+        "fullness": [
+            3,
+            0
+        ],
+        "electric conductivity": [
+            3,
+            0
+        ]
+    },
+    "How to Get on a Bike": {
+        "location": [
+            26,
+            7
+        ],
+        "skill": [
+            2,
+            1
+        ],
+        "knowledge": [
+            10,
+            5
+        ],
+        "weight": [
+            9,
+            3
+        ],
+        "position": [
+            3,
+            0
+        ],
+        "stability": [
+            2,
+            1
+        ],
+        "placement": [
+            9,
+            3
+        ],
+        "state": [
+            25,
+            8
+        ],
+        "strength": [
+            2,
+            1
+        ],
+        "orientation": [
+            1,
+            2
+        ],
+        "motion": [
+            6,
+            0
+        ],
+        "mechanical movement": [
+            4,
+            2
+        ],
+        "balance": [
+            3,
+            0
+        ],
+        "movement": [
+            10,
+            2
+        ],
+        "action": [
+            2,
+            1
+        ],
+        "speed": [
+            3,
+            0
+        ]
+    },
+    "How to Board a Small Boat": {
+        "state": [
+            12,
+            9
+        ],
+        "location": [
+            34,
+            10
+        ],
+        "texture": [
+            1,
+            2
+        ],
+        "availability": [
+            0,
+            9
+        ],
+        "weight": [
+            7,
+            1
+        ],
+        "placement": [
+            3,
+            0
+        ],
+        "stability": [
+            10,
+            1
+        ],
+        "motion": [
+            5,
+            1
+        ],
+        "speed": [
+            1,
+            2
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "action": [
+            1,
+            2
+        ],
+        "orientation": [
+            0,
+            3
+        ]
+    },
+    "How to Make a Banana Strawberry Rum Smoothie": {
+        "location": [
+            24,
+            13
+        ],
+        "organization": [
+            2,
+            1
+        ],
+        "weight": [
+            12,
+            5
+        ],
+        "state": [
+            10,
+            3
+        ],
+        "blender": [
+            2,
+            1
+        ],
+        "temperature": [
+            5,
+            3
+        ],
+        "cleanness": [
+            6,
+            4
+        ],
+        "composition": [
+            9,
+            4
+        ],
+        "volume": [
+            10,
+            5
+        ],
+        "electric conductivity": [
+            4,
+            2
+        ],
+        "texture": [
+            8,
+            4
+        ],
+        "rum": [
+            2,
+            1
+        ],
+        "smoothie": [
+            2,
+            1
+        ],
+        "glasses": [
+            2,
+            1
+        ],
+        "appearance": [
+            4,
+            2
+        ],
+        "decoration": [
+            2,
+            1
+        ],
+        "color": [
+            1,
+            0
+        ],
+        "strawberry": [
+            2,
+            1
+        ]
+    },
+    "How to Make a Pinwheel Wreath": {
+        "choice": [
+            2,
+            1
+        ],
+        "state": [
+            12,
+            1
+        ],
+        "knowledge": [
+            3,
+            0
+        ],
+        "orientation": [
+            2,
+            1
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "availability": [
+            3,
+            0
+        ],
+        "step": [
+            3,
+            0
+        ],
+        "location": [
+            8,
+            0
+        ],
+        "weight": [
+            4,
+            0
+        ],
+        "organization": [
+            6,
+            0
+        ],
+        "completion": [
+            1,
+            0
+        ]
+    },
+    "How to Make a Wreath with Clothes Hangers": {
+        "location": [
+            25,
+            1
+        ],
+        "shape": [
+            37,
+            0
+        ],
+        "capacity": [
+            1,
+            0
+        ],
+        "volume": [
+            5,
+            1
+        ],
+        "pressure": [
+            5,
+            1
+        ],
+        "texture": [
+            3,
+            0
+        ],
+        "motion": [
+            2,
+            1
+        ],
+        "cleanness": [
+            3,
+            0
+        ],
+        "state": [
+            6,
+            0
+        ],
+        "proximity": [
+            3,
+            0
+        ],
+        "position": [
+            6,
+            0
+        ],
+        "weight": [
+            3,
+            0
+        ],
+        "mass": [
+            2,
+            0
+        ],
+        "orientation": [
+            3,
+            0
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "status": [
+            2,
+            1
+        ]
+    },
+    "How to Make Potato Ribbons": {
+        "cleanness": [
+            27,
+            0
+        ],
+        "weight": [
+            10,
+            0
+        ],
+        "location": [
+            30,
+            0
+        ],
+        "wetness": [
+            16,
+            0
+        ],
+        "state": [
+            25,
+            0
+        ],
+        "composition": [
+            6,
+            0
+        ],
+        "mass": [
+            2,
+            0
+        ],
+        "width": [
+            1,
+            0
+        ],
+        "thickness": [
+            3,
+            0
+        ],
+        "length": [
+            3,
+            0
+        ],
+        "fullness": [
+            6,
+            0
+        ],
+        "dryness": [
+            3,
+            0
+        ],
+        "temperature": [
+            15,
+            0
+        ],
+        "teture": [
+            3,
+            0
+        ],
+        "electric conductivity": [
+            3,
+            0
+        ],
+        "texture": [
+            3,
+            0
+        ],
+        "taste": [
+            3,
+            0
+        ]
+    },
+    "How to Open a Rusty Bolt": {
+        "fullness": [
+            3,
+            0
+        ],
+        "cleanness": [
+            14,
+            1
+        ],
+        "sealing": [
+            3,
+            0
+        ],
+        "availability": [
+            7,
+            2
+        ],
+        "cost": [
+            2,
+            1
+        ],
+        "state": [
+            26,
+            1
+        ],
+        "moisture": [
+            15,
+            0
+        ],
+        "weight": [
+            10,
+            1
+        ],
+        "wetness": [
+            10,
+            0
+        ],
+        "location": [
+            13,
+            2
+        ],
+        "texture": [
+            11,
+            1
+        ],
+        "State": [
+            1,
+            0
+        ],
+        "altitude": [
+            1,
+            0
+        ],
+        "color": [
+            2,
+            1
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "movement": [
+            3,
+            0
+        ],
+        "age": [
+            3,
+            1
+        ],
+        "orientation": [
+            5,
+            1
+        ]
+    },
+    "How to Make Asparagus in Serrano Ham": {
+        "temperature": [
+            39,
+            2
+        ],
+        "state": [
+            25,
+            3
+        ],
+        "power": [
+            9,
+            3
+        ],
+        "color": [
+            2,
+            1
+        ],
+        "moisture": [
+            3,
+            1
+        ],
+        "location": [
+            26,
+            4
+        ],
+        "cleanness": [
+            7,
+            2
+        ],
+        "texture": [
+            10,
+            2
+        ],
+        "volume": [
+            5,
+            1
+        ],
+        "weight": [
+            5,
+            1
+        ],
+        "position": [
+            2,
+            0
+        ],
+        "length": [
+            2,
+            1
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "coverage": [
+            2,
+            1
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "sound": [
+            5,
+            1
+        ],
+        "hardness": [
+            2,
+            1
+        ],
+        "accompaniment": [
+            2,
+            1
+        ],
+        "cleanliness": [
+            1,
+            0
+        ]
+    },
+    "How to Prevent a Wick Lamp or Stove from Smoking": {
+        "location": [
+            13,
+            2
+        ],
+        "state": [
+            12,
+            2
+        ],
+        "weight": [
+            9,
+            0
+        ],
+        "volume": [
+            5,
+            1
+        ],
+        "capacity": [
+            1,
+            0
+        ],
+        "moisture": [
+            8,
+            1
+        ],
+        "orientation": [
+            3,
+            0
+        ],
+        "cost": [
+            1,
+            2
+        ],
+        "composition": [
+            5,
+            1
+        ],
+        "width": [
+            2,
+            0
+        ],
+        "wetness": [
+            3,
+            0
+        ],
+        "dryness": [
+            3,
+            0
+        ],
+        "length": [
+            1,
+            0
+        ],
+        "temperature": [
+            4,
+            1
+        ]
+    },
+    "How to Learn Photography by Shooting Macro": {
+        "state": [
+            16,
+            1
+        ],
+        "organization": [
+            1,
+            0
+        ],
+        "availability": [
+            5,
+            0
+        ],
+        "location": [
+            2,
+            0
+        ],
+        "size": [
+            1,
+            0
+        ],
+        "ownership": [
+            1,
+            0
+        ],
+        "amount": [
+            2,
+            1
+        ],
+        "direction": [
+            1,
+            0
+        ],
+        "electric conductivity": [
+            1,
+            0
+        ]
+    },
+    "How to Make Cheese Sauce with Jalape\u00f1o Peppers": {
+        "weight": [
+            5,
+            0
+        ],
+        "location": [
+            72,
+            0
+        ],
+        "shape": [
+            6,
+            0
+        ],
+        "cleanness": [
+            8,
+            1
+        ],
+        "size": [
+            6,
+            0
+        ],
+        "state": [
+            33,
+            1
+        ],
+        "temperature": [
+            52,
+            3
+        ],
+        "granularity": [
+            3,
+            0
+        ],
+        "moisture": [
+            2,
+            1
+        ],
+        "orientation": [
+            3,
+            0
+        ],
+        "electric conductivity": [
+            3,
+            0
+        ],
+        "texture": [
+            3,
+            0
+        ],
+        "taste": [
+            3,
+            0
+        ]
+    },
+    "How to Get Wailord in Pok\u00e9mon Emerald": {
+        "action": [
+            4,
+            2
+        ],
+        "knowledge": [
+            5,
+            3
+        ],
+        "attitude": [
+            1,
+            0
+        ],
+        "going": [
+            1,
+            2
+        ],
+        "state": [
+            13,
+            3
+        ],
+        "change": [
+            6,
+            0
+        ],
+        "strength": [
+            1,
+            0
+        ],
+        "evolution": [
+            8,
+            1
+        ],
+        "items": [
+            3,
+            0
+        ],
+        "location": [
+            3,
+            0
+        ],
+        "full": [
+            1,
+            2
+        ]
+    },
+    "How to Ninja Defuse in Call of Duty": {
+        "availability": [
+            3,
+            1
+        ],
+        "state": [
+            22,
+            5
+        ],
+        "place": [
+            3,
+            0
+        ],
+        "location": [
+            17,
+            1
+        ],
+        "appearance": [
+            3,
+            0
+        ],
+        "knowledge": [
+            3,
+            1
+        ],
+        "focus": [
+            7,
+            2
+        ],
+        "skill": [
+            3,
+            0
+        ]
+    },
+    "How to Paint Bare Wood": {
+        "state": [
+            49,
+            9
+        ],
+        "moisture": [
+            14,
+            7
+        ],
+        "location": [
+            22,
+            5
+        ],
+        "texture": [
+            8,
+            1
+        ],
+        "ownership": [
+            3,
+            0
+        ],
+        "knowledge": [
+            3,
+            0
+        ],
+        "cleanness": [
+            9,
+            3
+        ],
+        "color": [
+            6,
+            0
+        ],
+        "weight": [
+            8,
+            2
+        ],
+        "direction": [
+            3,
+            0
+        ],
+        "wetness": [
+            6,
+            0
+        ],
+        "size": [
+            3,
+            0
+        ],
+        "thickness": [
+            6,
+            0
+        ],
+        "orientation": [
+            3,
+            0
+        ],
+        "coverage": [
+            3,
+            0
+        ],
+        "magnitude": [
+            3,
+            0
+        ],
+        "availability": [
+            1,
+            0
+        ],
+        "awareness": [
+            2,
+            1
+        ],
+        "skill": [
+            2,
+            1
+        ]
+    },
+    "How to Make Seasoned Salt": {
+        "composition": [
+            6,
+            0
+        ],
+        "organization": [
+            3,
+            0
+        ],
+        "availability": [
+            1,
+            0
+        ],
+        "state": [
+            12,
+            1
+        ],
+        "location": [
+            78,
+            0
+        ],
+        "fullness": [
+            18,
+            0
+        ],
+        "weight": [
+            9,
+            0
+        ],
+        "contents": [
+            9,
+            0
+        ],
+        "capacity": [
+            2,
+            0
+        ],
+        "complexity": [
+            3,
+            0
+        ],
+        "cohesiveness": [
+            3,
+            0
+        ],
+        "cleanness": [
+            7,
+            0
+        ],
+        "accessibility": [
+            3,
+            0
+        ],
+        "taste": [
+            4,
+            0
+        ],
+        "flavor": [
+            12,
+            0
+        ],
+        "seasoning": [
+            3,
+            0
+        ],
+        "status": [
+            3,
+            0
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "wholeness": [
+            3,
+            0
+        ],
+        "cleaness": [
+            3,
+            0
+        ]
+    },
+    "How to Camouflage Equipment": {
+        "fullness": [
+            2,
+            1
+        ],
+        "location": [
+            18,
+            24
+        ],
+        "equipment": [
+            1,
+            2
+        ],
+        "organization": [
+            2,
+            1
+        ],
+        "state": [
+            7,
+            14
+        ],
+        "decoration": [
+            5,
+            4
+        ],
+        "visibility": [
+            4,
+            11
+        ],
+        "attention": [
+            3,
+            3
+        ],
+        "coverage": [
+            2,
+            1
+        ],
+        "vehicle": [
+            0,
+            3
+        ]
+    },
+    "How to Change the Oil on a Yamaha Virago XV250": {
+        "position": [
+            8,
+            4
+        ],
+        "state": [
+            33,
+            6
+        ],
+        "location": [
+            26,
+            10
+        ],
+        "volume": [
+            10,
+            2
+        ],
+        "composition": [
+            6,
+            0
+        ],
+        "fullness": [
+            2,
+            1
+        ],
+        "cleanness": [
+            4,
+            2
+        ]
+    },
+    "How to Make a Duct Tape Necklace": {
+        "length": [
+            12,
+            6
+        ],
+        "size": [
+            6,
+            8
+        ],
+        "state": [
+            4,
+            1
+        ],
+        "location": [
+            2,
+            1
+        ],
+        "appearance": [
+            4,
+            2
+        ],
+        "shape": [
+            8,
+            4
+        ],
+        "texture": [
+            2,
+            1
+        ],
+        "orientation": [
+            1,
+            2
+        ],
+        "form": [
+            3,
+            0
+        ],
+        "organization": [
+            3,
+            0
+        ],
+        "composition": [
+            2,
+            1
+        ],
+        "Creation": [
+            1,
+            0
+        ]
+    },
+    "How to Grow Dwarf Balsam Fir": {
+        "location": [
+            25,
+            14
+        ],
+        "plant": [
+            1,
+            0
+        ],
+        "weight": [
+            9,
+            3
+        ],
+        "state": [
+            2,
+            4
+        ],
+        "value": [
+            2,
+            1
+        ],
+        "cost": [
+            2,
+            1
+        ],
+        "container": [
+            3,
+            1
+        ],
+        "amount": [
+            3,
+            3
+        ],
+        "cleanness": [
+            4,
+            2
+        ],
+        "growth": [
+            1,
+            0
+        ],
+        "watered": [
+            2,
+            1
+        ],
+        "wetness": [
+            4,
+            2
+        ],
+        "knob": [
+            2,
+            1
+        ],
+        "contentment": [
+            2,
+            1
+        ],
+        "volume": [
+            1,
+            2
+        ],
+        "growth medium": [
+            1,
+            0
+        ],
+        "contents": [
+            2,
+            1
+        ]
+    },
+    "How to Make a Fairy House in the Woods": {
+        "knowledge": [
+            3,
+            0
+        ],
+        "state": [
+            19,
+            5
+        ],
+        "organization": [
+            6,
+            6
+        ],
+        "availability": [
+            3,
+            0
+        ],
+        "location": [
+            3,
+            0
+        ],
+        "composition": [
+            5,
+            1
+        ],
+        "tightness": [
+            2,
+            1
+        ],
+        "beauty": [
+            1,
+            0
+        ]
+    },
+    "How to Make Whole Wheat Pastry With Canola": {
+        "location": [
+            16,
+            17
+        ],
+        "state": [
+            8,
+            6
+        ],
+        "volume": [
+            3,
+            3
+        ],
+        "cleanness": [
+            3,
+            3
+        ],
+        "composition": [
+            3,
+            6
+        ],
+        "weight": [
+            4,
+            5
+        ],
+        "wetness": [
+            1,
+            2
+        ],
+        "area": [
+            1,
+            2
+        ],
+        "shape": [
+            5,
+            4
+        ],
+        "electric conductivity": [
+            1,
+            2
+        ],
+        "temperature": [
+            4,
+            5
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "texture": [
+            3,
+            3
+        ]
+    },
+    "How to Grow Fairy Moss Indoors": {
+        "location": [
+            12,
+            2
+        ],
+        "ownership": [
+            1,
+            0
+        ],
+        "cost": [
+            3,
+            0
+        ],
+        "state": [
+            14,
+            1
+        ],
+        "weight": [
+            3,
+            0
+        ],
+        "wetness": [
+            4,
+            2
+        ],
+        "volume": [
+            1,
+            2
+        ],
+        "container": [
+            3,
+            0
+        ],
+        "position": [
+            6,
+            0
+        ],
+        "composition": [
+            2,
+            1
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "shape": [
+            2,
+            1
+        ]
+    },
+    "How to Make Chocolate Hearts for Valentine&#x27;s Day": {
+        "location": [
+            21,
+            5
+        ],
+        "temperature": [
+            16,
+            4
+        ],
+        "cost": [
+            3,
+            0
+        ],
+        "state": [
+            5,
+            2
+        ],
+        "form": [
+            2,
+            1
+        ],
+        "cleanness": [
+            5,
+            1
+        ],
+        "texture": [
+            9,
+            3
+        ],
+        "power": [
+            2,
+            1
+        ],
+        "weight": [
+            5,
+            1
+        ],
+        "volume": [
+            2,
+            1
+        ],
+        "container": [
+            2,
+            1
+        ],
+        "fullness": [
+            4,
+            2
+        ],
+        "hardness": [
+            5,
+            1
+        ],
+        "ease": [
+            2,
+            1
+        ],
+        "capacity": [
+            1,
+            0
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "locatio": [
+            3,
+            0
+        ]
+    },
+    "How to Make Soap Bubbles for Your Children": {
+        "state": [
+            19,
+            9
+        ],
+        "location": [
+            19,
+            11
+        ],
+        "fullness": [
+            1,
+            2
+        ],
+        "size": [
+            1,
+            0
+        ],
+        "weight": [
+            1,
+            2
+        ],
+        "sight": [
+            1,
+            0
+        ],
+        "composition": [
+            3,
+            3
+        ],
+        "moisture": [
+            1,
+            2
+        ],
+        "shape": [
+            5,
+            7
+        ],
+        "use": [
+            2,
+            1
+        ],
+        "change": [
+            1,
+            0
+        ],
+        "wetness": [
+            1,
+            2
+        ]
+    },
+    "How to Clean Your Home Efficiently": {
+        "location": [
+            25,
+            3
+        ],
+        "messiness": [
+            9,
+            0
+        ],
+        "container": [
+            12,
+            0
+        ],
+        "cleanness": [
+            32,
+            6
+        ],
+        "mass": [
+            5,
+            1
+        ],
+        "weight": [
+            2,
+            1
+        ],
+        "shape": [
+            2,
+            1
+        ],
+        "volume": [
+            6,
+            0
+        ],
+        "wetness": [
+            4,
+            2
+        ]
+    },
+    "How to Make Your Den Look Like a Home on Animal Jam (Non Members)": {
+        "ownership": [
+            1,
+            0
+        ],
+        "state": [
+            3,
+            3
+        ],
+        "availability": [
+            20,
+            7
+        ],
+        "location": [
+            4,
+            2
+        ],
+        "step": [
+            2,
+            1
+        ],
+        "safety": [
+            1,
+            0
+        ]
+    },
+    "How to Make a Pitcher of Melon Pina Coladas": {
+        "locaion": [
+            3,
+            0
+        ],
+        "container": [
+            6,
+            0
+        ],
+        "location": [
+            20,
+            4
+        ],
+        "cleanness": [
+            11,
+            7
+        ],
+        "weight": [
+            11,
+            7
+        ],
+        "wetness": [
+            8,
+            4
+        ],
+        "volume": [
+            1,
+            2
+        ],
+        "composition": [
+            6,
+            3
+        ],
+        "state": [
+            5,
+            4
+        ],
+        "temperature": [
+            8,
+            4
+        ],
+        "fullness": [
+            2,
+            1
+        ],
+        "taste": [
+            3,
+            0
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "shape": [
+            3,
+            0
+        ],
+        "completion": [
+            3,
+            0
+        ]
+    },
+    "How to Make Pineapple Sherbet": {
+        "temperature": [
+            21,
+            2
+        ],
+        "wetness": [
+            11,
+            1
+        ],
+        "cleanness": [
+            17,
+            1
+        ],
+        "size": [
+            8,
+            4
+        ],
+        "shape": [
+            5,
+            1
+        ],
+        "location": [
+            47,
+            4
+        ],
+        "volume": [
+            18,
+            0
+        ],
+        "container": [
+            13,
+            2
+        ],
+        "state": [
+            4,
+            0
+        ],
+        "hardness": [
+            1,
+            0
+        ],
+        "weight": [
+            27,
+            0
+        ],
+        "smell": [
+            1,
+            2
+        ],
+        "granularity": [
+            1,
+            0
+        ],
+        "power": [
+            3,
+            0
+        ],
+        "movement": [
+            3,
+            0
+        ],
+        "composition": [
+            5,
+            1
+        ],
+        "texture": [
+            9,
+            0
+        ],
+        "density": [
+            1,
+            0
+        ],
+        "inside a freezer": [
+            3,
+            0
+        ]
+    },
+    "How to Make a Pancake Mix Container from a Recycled Ketchup Bottle": {
+        "state": [
+            9,
+            2
+        ],
+        "wetness": [
+            13,
+            6
+        ],
+        "cleanness": [
+            14,
+            6
+        ],
+        "location": [
+            27,
+            9
+        ],
+        "emptiness": [
+            8,
+            1
+        ],
+        "container": [
+            1,
+            2
+        ],
+        "weight": [
+            2,
+            1
+        ],
+        "orientation": [
+            2,
+            1
+        ],
+        "clarity": [
+            2,
+            1
+        ],
+        "volume": [
+            2,
+            1
+        ],
+        "temperature": [
+            10,
+            3
+        ]
+    },
+    "How to Remove Paint from Windows": {
+        "fullness": [
+            19,
+            2
+        ],
+        "location": [
+            42,
+            9
+        ],
+        "temperature": [
+            8,
+            4
+        ],
+        "mixture": [
+            3,
+            0
+        ],
+        "weight": [
+            16,
+            2
+        ],
+        "moisture": [
+            10,
+            5
+        ],
+        "wetness": [
+            5,
+            4
+        ],
+        "composition": [
+            5,
+            1
+        ],
+        "position": [
+            5,
+            1
+        ],
+        "contact": [
+            2,
+            1
+        ],
+        "openness": [
+            3,
+            0
+        ],
+        "wholeness": [
+            5,
+            1
+        ],
+        "state": [
+            2,
+            1
+        ],
+        "covering": [
+            6,
+            0
+        ],
+        "sharpness": [
+            2,
+            1
+        ],
+        "cleanness": [
+            22,
+            5
+        ],
+        "transparency": [
+            5,
+            1
+        ],
+        "compostion": [
+            2,
+            1
+        ],
+        "texture": [
+            2,
+            1
+        ],
+        "color": [
+            2,
+            1
+        ]
+    },
+    "How to Use a Mic in Team Fortress 2": {
+        "state": [
+            24,
+            4
+        ],
+        "electric conductivity": [
+            4,
+            2
+        ],
+        "availability": [
+            15,
+            3
+        ],
+        "connection": [
+            3,
+            0
+        ],
+        "operation": [
+            3,
+            0
+        ],
+        "selection": [
+            1,
+            2
+        ],
+        "sound": [
+            4,
+            3
+        ],
+        "volume": [
+            2,
+            1
+        ],
+        "stability": [
+            4,
+            2
+        ],
+        "ownership": [
+            1,
+            2
+        ]
+    },
+    "How to Make Chinese Macaroni in Just 20 Minutes": {
+        "cooking": [
+            6,
+            0
+        ],
+        "mixture": [
+            12,
+            0
+        ],
+        "fullness": [
+            15,
+            0
+        ],
+        "location": [
+            118,
+            5
+        ],
+        "temperature": [
+            42,
+            0
+        ],
+        "texture": [
+            5,
+            1
+        ],
+        "thermal conductivity": [
+            3,
+            0
+        ],
+        "composition": [
+            9,
+            0
+        ],
+        "state": [
+            17,
+            1
+        ],
+        "power": [
+            3,
+            0
+        ],
+        "taste": [
+            6,
+            0
+        ],
+        "age": [
+            6,
+            0
+        ],
+        "wetness": [
+            6,
+            0
+        ],
+        "cleanness": [
+            21,
+            0
+        ],
+        "time": [
+            5,
+            1
+        ],
+        "speed": [
+            3,
+            0
+        ],
+        "weight": [
+            3,
+            0
+        ],
+        "oiliness": [
+            3,
+            0
+        ],
+        "color": [
+            3,
+            0
+        ],
+        "odor": [
+            3,
+            0
+        ],
+        "completion": [
+            6,
+            0
+        ]
+    },
+    "How to Make a Bead Ring": {
+        "length": [
+            7,
+            2
+        ],
+        "state": [
+            15,
+            3
+        ],
+        "weight": [
+            15,
+            1
+        ],
+        "size": [
+            2,
+            1
+        ],
+        "location": [
+            20,
+            4
+        ],
+        "color": [
+            9,
+            1
+        ],
+        "organization": [
+            1,
+            2
+        ],
+        "shape": [
+            6,
+            3
+        ],
+        "orientation": [
+            9,
+            0
+        ],
+        "composition": [
+            3,
+            0
+        ],
+        "focus": [
+            3,
+            0
+        ]
+    },
+    "How to Recycle Underpants": {
+        "use": [
+            12,
+            4
+        ],
+        "newness": [
+            8,
+            10
+        ],
+        "age": [
+            1,
+            0
+        ],
+        "state": [
+            15,
+            14
+        ],
+        "shape": [
+            4,
+            5
+        ],
+        "cleanness": [
+            2,
+            4
+        ],
+        "location": [
+            12,
+            20
+        ],
+        "size": [
+            8,
+            7
+        ],
+        "position": [
+            2,
+            0
+        ],
+        "content": [
+            2,
+            1
+        ],
+        "covering": [
+            1,
+            2
+        ],
+        "look": [
+            1,
+            2
+        ],
+        "availability": [
+            3,
+            0
+        ],
+        "ownership": [
+            3,
+            0
+        ]
+    }
+}

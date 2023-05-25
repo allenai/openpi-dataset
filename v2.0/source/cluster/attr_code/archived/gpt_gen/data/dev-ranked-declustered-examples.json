@@ -1,0 +1,407 @@
+{
+    "41": {
+        "goal": "Make a Fairy House in the Woods",
+        "steps": [
+            "Find a small area with slightly damp dirt.",
+            "Collect many twigs and sticks.",
+            "Using the sticks, create either a square formation, circle formation, or a Teepee formation.",
+            "Build your exterior walls.",
+            "You can use either a leaf or a wide strip of bark.",
+            "Decorate."
+        ],
+        "entity_states": [
+            {
+                "entity": "fairy house frame",
+                "openpi_narrative": [
+                    "The composition of fairy house frame is stand-alone before and fortified afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "composition",
+                        "precondition": "stand-alone",
+                        "postcondition": "fortified"
+                    }
+                ]
+            },
+            {
+                "entity": "twigs",
+                "openpi_narrative": [
+                    "The organization of twigs is scattered before and bundled afterwards.",
+                    "The location of twigs is bunched up before and in formation afterwards.",
+                    "The organization of twigs is bundled before and stacked afterwards.",
+                    "The tightness of twigs is untied before and tired with bark afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "organization",
+                        "precondition": "scattered",
+                        "postcondition": "bundled"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "bunched up",
+                        "postcondition": "in formation"
+                    },
+                    {
+                        "attribute": "organization",
+                        "precondition": "bundled",
+                        "postcondition": "stacked"
+                    },
+                    {
+                        "attribute": "tightness",
+                        "precondition": "untied",
+                        "postcondition": "tired with bark"
+                    }
+                ]
+            },
+            {
+                "entity": "twigs",
+                "openpi_narrative": [
+                    "The availability of twigs is all over place before and collected afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "availability",
+                        "precondition": "all over place",
+                        "postcondition": "collected"
+                    }
+                ]
+            },
+            {
+                "entity": "fairy house",
+                "openpi_narrative": [
+                    "The composition of fairy house is bare before and decorated afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "composition",
+                        "precondition": "bare",
+                        "postcondition": "decorated"
+                    }
+                ]
+            },
+            {
+                "entity": "walls",
+                "openpi_narrative": [
+                    "The location of walls is down before and up afterwards.",
+                    "The location of walls is bare before and decorated afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "down",
+                        "postcondition": "up"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "bare",
+                        "postcondition": "decorated"
+                    }
+                ]
+            },
+            {
+                "entity": "bundle",
+                "openpi_narrative": [
+                    "The organization of bundle is loose before and gathered afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "organization",
+                        "precondition": "loose",
+                        "postcondition": "gathered"
+                    }
+                ]
+            },
+            {
+                "entity": "area",
+                "openpi_narrative": [
+                    "The knowledge of area is unselected before and selected afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "unselected",
+                        "postcondition": "selected"
+                    }
+                ]
+            }
+        ]
+    },
+    "50": {
+        "goal": "Make a Pancake Mix Container from a Recycled Ketchup Bottle",
+        "steps": [
+            "Scrub the ketchup bottle thoroughly.",
+            "Place the funnel over the mouth of the bottle.",
+            "Pour pancake batter through the funnel into the empty ketchup bottle.",
+            "Replace the lid and label the bottle.",
+            "Place the bottle in refrigerator.",
+            "Finished."
+        ],
+        "entity_states": [
+            {
+                "entity": "pancake batter",
+                "openpi_narrative": [
+                    "The container of pancake batter is in bowl before and in bottle afterwards.",
+                    "The location of pancake batter is in bowl before and in bottle afterwards.",
+                    "The temperature of pancake batter is warm before and colder afterwards.",
+                    "The container of pancake batter is in bottle before and in pan afterwards.",
+                    "The location of pancake batter is in bottle before and in pan afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "container",
+                        "precondition": "in bowl",
+                        "postcondition": "in bottle"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in bowl",
+                        "postcondition": "in bottle"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "warm",
+                        "postcondition": "colder"
+                    },
+                    {
+                        "attribute": "container",
+                        "precondition": "in bottle",
+                        "postcondition": "in pan"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in bottle",
+                        "postcondition": "in pan"
+                    }
+                ]
+            },
+            {
+                "entity": "ketchup bottle",
+                "openpi_narrative": [
+                    "The cleanness of ketchup bottle is dirty before and clean afterwards.",
+                    "The wetness of ketchup bottle is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "dirty",
+                        "postcondition": "clean"
+                    },
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "funnel",
+                "openpi_narrative": [
+                    "The location of funnel is in drawer before and on bottle afterwards.",
+                    "The cleanness of funnel is clean before and dirty afterwards.",
+                    "The wetness of funnel is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in drawer",
+                        "postcondition": "on bottle"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "lid",
+                "openpi_narrative": [
+                    "The cleanness of lid is dirty before and clean afterwards.",
+                    "The wetness of lid is dirty before and clean afterwards.",
+                    "The cleanness of lid is clean before and dirty afterwards.",
+                    "The wetness of lid is clean before and dirty afterwards.",
+                    "The weight of lid is light before and heavy afterwards.",
+                    "The emptiness of lid is empty before and full afterwards.",
+                    "The orientation of lid is open before and closed with lid afterwards.",
+                    "The location of lid is open before and closed with lid afterwards.",
+                    "The clarity of lid is blank before and written on afterwards.",
+                    "The location of lid is on counter before and refrigerator afterwards.",
+                    "The temperature of lid is warm before and cold afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "dirty",
+                        "postcondition": "clean"
+                    },
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dirty",
+                        "postcondition": "clean"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "wetness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "weight",
+                        "precondition": "light",
+                        "postcondition": "heavy"
+                    },
+                    {
+                        "attribute": "emptiness",
+                        "precondition": "empty",
+                        "postcondition": "full"
+                    },
+                    {
+                        "attribute": "orientation",
+                        "precondition": "open",
+                        "postcondition": "closed with lid"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "open",
+                        "postcondition": "closed with lid"
+                    },
+                    {
+                        "attribute": "clarity",
+                        "precondition": "blank",
+                        "postcondition": "written on"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "on counter",
+                        "postcondition": "refrigerator"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "warm",
+                        "postcondition": "cold"
+                    }
+                ]
+            },
+            {
+                "entity": "sink",
+                "openpi_narrative": [
+                    "The wetness of sink is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "pen",
+                "openpi_narrative": [
+                    "The location of pen is on counter before and in hand afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "on counter",
+                        "postcondition": "in hand"
+                    }
+                ]
+            },
+            {
+                "entity": "pan",
+                "openpi_narrative": [
+                    "The cleanness of pan is clean before and dirty afterwards.",
+                    "The emptiness of pan is empty before and holding batter afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "emptiness",
+                        "precondition": "empty",
+                        "postcondition": "holding batter"
+                    }
+                ]
+            },
+            {
+                "entity": "scrubber",
+                "openpi_narrative": [
+                    "The cleanness of scrubber is clean before and dirty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    }
+                ]
+            },
+            {
+                "entity": "fridge",
+                "openpi_narrative": [
+                    "The volume of fridge is empty before and filled afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "filled"
+                    }
+                ]
+            },
+            {
+                "entity": "faucet",
+                "openpi_narrative": [
+                    "The power of faucet is off before and on afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "power",
+                        "precondition": "off",
+                        "postcondition": "on"
+                    }
+                ]
+            },
+            {
+                "entity": "hands",
+                "openpi_narrative": [
+                    "The wetness of hands is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "bowl",
+                "openpi_narrative": [
+                    "The emptiness of bowl is full before and empty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "emptiness",
+                        "precondition": "full",
+                        "postcondition": "empty"
+                    }
+                ]
+            }
+        ]
+    }
+}

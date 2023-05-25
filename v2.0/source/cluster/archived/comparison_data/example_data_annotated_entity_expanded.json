@@ -1,0 +1,348 @@
+{
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entities": [
+            [
+                "plant",
+                "fairy moss"
+            ],
+            [
+                "moss",
+                "fairy moss",
+                "plant"
+            ],
+            [
+                "fairy moss",
+                "plant",
+                "moss"
+            ],
+            [
+                "container",
+                "vessel",
+                "vase"
+            ],
+            [
+                "continer",
+                "container",
+                "vessel",
+                "vase"
+            ],
+            [
+                "containter",
+                "container",
+                "vessel",
+                "vase"
+            ],
+            [
+                "bowl",
+                "container",
+                "vase",
+                "vessel"
+            ],
+            [
+                "water"
+            ],
+            [
+                "bowl",
+                "container",
+                "vessel",
+                "vase"
+            ]
+        ],
+        "entities_flattened": [
+            "plant",
+            "fairy moss",
+            "moss",
+            "fairy moss",
+            "plant",
+            "fairy moss",
+            "plant",
+            "moss",
+            "container",
+            "vessel",
+            "vase",
+            "continer",
+            "container",
+            "vessel",
+            "vase",
+            "containter",
+            "container",
+            "vessel",
+            "vase",
+            "bowl",
+            "container",
+            "vase",
+            "vessel",
+            "water",
+            "bowl",
+            "container",
+            "vessel",
+            "vase"
+        ]
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entities": [
+            [
+                "window"
+            ],
+            [
+                "glass cleaner bottle",
+                "spray bottle",
+                "spray can",
+                "spray container",
+                "spray dispenser"
+            ],
+            [
+                "razor blade package",
+                "razor blade container",
+                "razor blade box"
+            ],
+            [
+                "solvent container",
+                "solvent bottle",
+                "solvent can",
+                "solvent dispenser"
+            ],
+            [
+                "soap bottle",
+                "soap container",
+                "soap dispenser"
+            ],
+            [
+                "paint",
+                "paint stain",
+                "paint spot",
+                "paint mark"
+            ],
+            [
+                "blade",
+                "razor blade",
+                "razor",
+                "scraper",
+                "window scraper"
+            ],
+            [
+                "soap"
+            ],
+            [
+                "chemicals",
+                "chemical solvents",
+                "solvent",
+                "cleaning chemicals"
+            ],
+            [
+                "splatters",
+                "paint splatters",
+                "paint stains",
+                "paint spots",
+                "paint marks"
+            ],
+            [
+                "solvent",
+                "chemical solvents",
+                "cleaning chemicals",
+                "chemicals"
+            ],
+            [
+                "sponge",
+                "scrubber",
+                "scrubbing sponge",
+                "scrubbing pad",
+                "scrubbing tool"
+            ],
+            [
+                "razor blade",
+                "blade",
+                "razor",
+                "scraper",
+                "window scraper"
+            ],
+            [
+                "glass cleaner",
+                "cleaning solution",
+                "cleaning chemical",
+                "solvent",
+                "chemical solvent",
+                "chemical"
+            ],
+            [
+                "bucket",
+                "container",
+                "water bucket"
+            ],
+            [
+                "small paint splatters",
+                "paint splatter",
+                "paint",
+                "paint droplet",
+                "paint drop",
+                "paint spot"
+            ],
+            [
+                "water and dish soap",
+                "water and soap",
+                "water and detergent",
+                "water and cleaning solution",
+                "water and cleaning chemical",
+                "water and solvent",
+                "water and chemical solvent",
+                "water and chemical"
+            ],
+            [
+                "all of the paint",
+                "paint",
+                "paint splatter",
+                "paint splatters",
+                "paint droplet",
+                "paint drop",
+                "paint spot"
+            ],
+            [
+                "paint splatter",
+                "paint droplet",
+                "paint drop",
+                "paint spot"
+            ],
+            [
+                "items needed",
+                "items",
+                "items required",
+                "items required for cleaning",
+                "items required for cleaning window",
+                "items required for cleaning windows",
+                "items required for cleaning a window",
+                "items required for cleaning the window",
+                "items required for cleaning the windows",
+                "cleaning equipments",
+                "cleaning tools",
+                "cleaning supplies",
+                "cleaning materials",
+                "cleaning products"
+            ],
+            [
+                "cloth",
+                "towel",
+                "rag"
+            ]
+        ],
+        "entities_flattened": [
+            "window",
+            "glass cleaner bottle",
+            "spray bottle",
+            "spray can",
+            "spray container",
+            "spray dispenser",
+            "razor blade package",
+            "razor blade container",
+            "razor blade box",
+            "solvent container",
+            "solvent bottle",
+            "solvent can",
+            "solvent dispenser",
+            "soap bottle",
+            "soap container",
+            "soap dispenser",
+            "paint",
+            "paint stain",
+            "paint spot",
+            "paint mark",
+            "blade",
+            "razor blade",
+            "razor",
+            "scraper",
+            "window scraper",
+            "soap",
+            "chemicals",
+            "chemical solvents",
+            "solvent",
+            "cleaning chemicals",
+            "splatters",
+            "paint splatters",
+            "paint stains",
+            "paint spots",
+            "paint marks",
+            "solvent",
+            "chemical solvents",
+            "cleaning chemicals",
+            "chemicals",
+            "sponge",
+            "scrubber",
+            "scrubbing sponge",
+            "scrubbing pad",
+            "scrubbing tool",
+            "razor blade",
+            "blade",
+            "razor",
+            "scraper",
+            "window scraper",
+            "glass cleaner",
+            "cleaning solution",
+            "cleaning chemical",
+            "solvent",
+            "chemical solvent",
+            "chemical",
+            "bucket",
+            "container",
+            "water bucket",
+            "small paint splatters",
+            "paint splatter",
+            "paint",
+            "paint droplet",
+            "paint drop",
+            "paint spot",
+            "water and dish soap",
+            "water and soap",
+            "water and detergent",
+            "water and cleaning solution",
+            "water and cleaning chemical",
+            "water and solvent",
+            "water and chemical solvent",
+            "water and chemical",
+            "all of the paint",
+            "paint",
+            "paint splatter",
+            "paint splatters",
+            "paint droplet",
+            "paint drop",
+            "paint spot",
+            "paint splatter",
+            "paint droplet",
+            "paint drop",
+            "paint spot",
+            "items needed",
+            "items",
+            "items required",
+            "items required for cleaning",
+            "items required for cleaning window",
+            "items required for cleaning windows",
+            "items required for cleaning a window",
+            "items required for cleaning the window",
+            "items required for cleaning the windows",
+            "cleaning equipments",
+            "cleaning tools",
+            "cleaning supplies",
+            "cleaning materials",
+            "cleaning products",
+            "cloth",
+            "towel",
+            "rag"
+        ]
+    }
+}

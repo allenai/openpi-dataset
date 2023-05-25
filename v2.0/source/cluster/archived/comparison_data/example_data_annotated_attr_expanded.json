@@ -1,0 +1,142 @@
+{
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entity_attr_dict": {
+            "plant | fairy moss": [
+                "possession | availability"
+            ],
+            "moss | fairy moss | plant": [
+                "size"
+            ],
+            "fairy moss | plant | moss": [
+                "wetness | moisture | dryness",
+                "position | location | placement",
+                "shape | appearance"
+            ],
+            "container | vessel | vase": [
+                "location | placement"
+            ],
+            "continer | container | vessel | vase": [
+                "volume"
+            ],
+            "containter | container | vessel | vase": [
+                "volume | fullness | emptiness | capacity | occupancy"
+            ],
+            "bowl | container | vase | vessel": [
+                "composition | contents"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl | container | vessel | vase": [
+                "wetness | dryness | moisture | dampness",
+                "volume | fullness | emptiness | capacity | occupancy",
+                "position | placement"
+            ]
+        }
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entity_attr_dict": {
+            "window": [
+                "wetness | moisture | dryness | dampness",
+                "temperature",
+                "cleanness | dirtiness",
+                "transparency | covering | opaqueness",
+                "weight",
+                "cleanness"
+            ],
+            "glass cleaner bottle | spray bottle | spray can | spray container | spray dispenser": [
+                "weight | fullness | emptiness | capacity"
+            ],
+            "razor blade package | razor blade container | razor blade box": [
+                "openness | accessibility"
+            ],
+            "solvent container | solvent bottle | solvent can | solvent dispenser": [
+                "fullness | weight | capacity | emptiness"
+            ],
+            "soap bottle | soap container | soap dispenser": [
+                "fullness | weight | capacity | emptiness"
+            ],
+            "paint | paint stain | paint spot | paint mark": [
+                "moisture | wetness | dryness | dampness",
+                "power | strength | adhesiveness | stickiness",
+                "location",
+                "wholeness | completeness | brokenness"
+            ],
+            "blade | razor blade | razor | scraper | window scraper": [
+                "location",
+                "sharpness | dullness | bluntness"
+            ],
+            "soap": [
+                "location"
+            ],
+            "chemicals | chemical solvents | solvent | cleaning chemicals": [
+                "location"
+            ],
+            "splatters | paint splatters | paint stains | paint spots | paint marks": [
+                "color"
+            ],
+            "solvent | chemical solvents | cleaning chemicals | chemicals": [
+                "location"
+            ],
+            "sponge | scrubber | scrubbing sponge | scrubbing pad | scrubbing tool": [
+                "moisture | wetness | dryness | dampness",
+                "location | placement",
+                "cleanness | dirtiness"
+            ],
+            "razor blade | blade | razor | scraper | window scraper": [
+                "location",
+                "position | orientation",
+                "contact",
+                "cleanness | dirtiness"
+            ],
+            "glass cleaner | cleaning solution | cleaning chemical | solvent | chemical solvent | chemical": [
+                "location"
+            ],
+            "bucket | container | water bucket": [
+                "temperature",
+                "moisture | wetness | dryness | dampness",
+                "weight",
+                "fullness | emptiness",
+                "fullness"
+            ],
+            "small paint splatters | paint splatter | paint | paint droplet | paint drop | paint spot": [
+                "location"
+            ],
+            "water and dish soap | water and soap | water and detergent | water and cleaning solution | water and cleaning chemical | water and solvent | water and chemical solvent | water and chemical": [
+                "mixture | separation",
+                "location"
+            ],
+            "all of the paint | paint | paint splatter | paint splatters | paint droplet | paint drop | paint spot": [
+                "location",
+                "wholeness | completeness"
+            ],
+            "paint splatter | paint droplet | paint drop | paint spot": [
+                "texture"
+            ],
+            "items needed | items | items required | items required for cleaning | items required for cleaning window | items required for cleaning windows | items required for cleaning a window | items required for cleaning the window | items required for cleaning the windows | cleaning equipments | cleaning tools | cleaning supplies | cleaning materials | cleaning products": [
+                "location"
+            ],
+            "cloth | towel | rag": [
+                "wetness | dryness | dampness | moisture"
+            ]
+        }
+    }
+}

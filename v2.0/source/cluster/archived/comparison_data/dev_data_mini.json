@@ -1,0 +1,2919 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": [
+            "Purchase a blackboard eraser.",
+            "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+            "Use the eraser to clean the inner side of the windshield.",
+            "Replace after use."
+        ],
+        "topics": "Cars & Other Vehicles",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/a/ab/Make-a-Simple-Inside-Windshield-Cleaner-Step-1.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/c/cc/Make-a-Simple-Inside-Windshield-Cleaner-Step-2.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/4/42/Make-a-Simple-Inside-Windshield-Cleaner-Step-3.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/e/e0/Make-a-Simple-Inside-Windshield-Cleaner-Step-4.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-4.jpg"
+        ],
+        "states": [
+            {
+                "entity": "the blackboard eraser | eraser",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "possession | ownership",
+                            "before": "at store | in store",
+                            "after": "now owned by you | owned | purchased",
+                            "saliency": 0.6376811594202899
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in store | on shelf",
+                            "after": "at customer's house | in home",
+                            "saliency": 0.37888198757763975
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "placement",
+                            "before": "outside of car",
+                            "after": "now stored in car",
+                            "saliency": 0.474120082815735
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in house | on table",
+                            "after": "in glovebox | in glove box",
+                            "saliency": 0.37888198757763975
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "condition",
+                            "before": "new",
+                            "after": "used",
+                            "saliency": 0.39648033126293997
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in glovebox | in glove box",
+                            "after": "on windshield | on dash",
+                            "saliency": 0.37888198757763975
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.19530710835058662
+                        },
+                        {
+                            "attribute": "movement",
+                            "before": "sitting",
+                            "after": "rubbing",
+                            "saliency": 0.17236024844720496
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "on windshield | on glass",
+                            "after": "in glovebox | in glove box",
+                            "saliency": 0.32712215320910976
+                        },
+                        {
+                            "attribute": "movement",
+                            "before": "rubbing",
+                            "after": "resting",
+                            "saliency": 0.12060041407867494
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "glovebox",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "away from car",
+                            "after": "inside car",
+                            "saliency": 0.49965493443754305
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "eraser shelf at the store",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "fullness",
+                            "before": "more full",
+                            "after": "more empty",
+                            "saliency": 0.4910282953761215
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "windshield",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirty",
+                            "after": "clean",
+                            "saliency": 0.4133885438233264
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "inside windshield",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirty",
+                            "after": "cleaned with eraser",
+                            "saliency": 0.393719806763285
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "bank account",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "fullness",
+                            "before": "full",
+                            "after": "depleted",
+                            "saliency": 0.37888198757763975
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "glove box",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "fullness",
+                            "before": "less full | empty",
+                            "after": "more full | full",
+                            "saliency": 0.3530020703933748
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "money",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in customer's hand",
+                            "after": "in cashier's hand",
+                            "saliency": 0.31849551414768806
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "hands",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "activity",
+                            "before": "relaxed",
+                            "after": "active",
+                            "saliency": 0.1808143547273982
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "activity",
+                            "before": "working on windshield",
+                            "after": "relaxed",
+                            "saliency": 0.1808143547273982
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": [
+            "Bend one pipe cleaner in half to form the legs.",
+            "Shape another pipe cleaner to form the body.",
+            "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+            "Use 2 pipe cleaners to enlarge the torso."
+        ],
+        "topics": "Hobbies and Crafts",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/9/97/Make-a-Pipe-Cleaner-Bird-Step-1.jpg/aid198256-v4-728px-Make-a-Pipe-Cleaner-Bird-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/9/9b/Make-a-Pipe-Cleaner-Bird-Step-2.jpg/aid198256-v4-728px-Make-a-Pipe-Cleaner-Bird-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/c/c9/Make-a-Pipe-Cleaner-Bird-Step-3.jpg/aid198256-v4-728px-Make-a-Pipe-Cleaner-Bird-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/7/71/Make-a-Pipe-Cleaner-Bird-Step-4.jpg/aid198256-v4-728px-Make-a-Pipe-Cleaner-Bird-Step-4.jpg"
+        ],
+        "states": [
+            {
+                "entity": "tip of pipe cleaner",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "shape",
+                            "before": "straight",
+                            "after": "shaped to form beak",
+                            "saliency": 0.544994944388271
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "pipe cleaner | pipe cleaners",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "position | shape",
+                            "before": "straight",
+                            "after": "bent",
+                            "saliency": 0.6376811594202899
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "completely on ground",
+                            "after": "partially in air",
+                            "saliency": 0.46148105349318697
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "position | shape",
+                            "before": "straight",
+                            "after": "bent | now body",
+                            "saliency": 0.6376811594202899
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on ground",
+                            "after": "on pipe cleaner",
+                            "saliency": 0.46148105349318697
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "position | shape",
+                            "before": "straight",
+                            "after": "bent",
+                            "saliency": 0.6894409937888198
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on ground",
+                            "after": "on pipe cleaner",
+                            "saliency": 0.46148105349318697
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "your fingers",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "closer to tip",
+                            "after": "now away from tip",
+                            "saliency": 0.34758534354085413
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "the torso",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "width",
+                            "before": "thinner",
+                            "after": "now wider",
+                            "saliency": 0.3295295873657856
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.1918484279454957
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": [
+            "Plug in your HDMI cord to the cable.",
+            "Plug it into your TV's HDMI input.",
+            "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+            "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+        ],
+        "topics": "Hobbies and Crafts",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/4/4c/Connect-a-Wii-to-HD-TV-Step-2.jpg/aid2836110-v4-728px-Connect-a-Wii-to-HD-TV-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/6/62/Connect-a-Wii-to-HD-TV-Step-3.jpg/aid2836110-v4-728px-Connect-a-Wii-to-HD-TV-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/f/fe/Connect-a-Wii-to-HD-TV-Step-4.jpg/aid2836110-v4-728px-Connect-a-Wii-to-HD-TV-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/4/47/Connect-a-Wii-to-HD-TV-Step-5.jpg/aid2836110-v4-728px-Connect-a-Wii-to-HD-TV-Step-5.jpg"
+        ],
+        "states": [
+            {
+                "entity": "hdmi cord | hdmi converter cable | the hdmi cord",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "organization | power",
+                            "before": "unplugged",
+                            "after": "plugged in | plugged into cable",
+                            "saliency": 0.5551889233954451
+                        },
+                        {
+                            "attribute": "connection",
+                            "before": "loose",
+                            "after": "attached",
+                            "saliency": 0.3657479296066253
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "power | connection",
+                            "before": "unplugged | unpligged",
+                            "after": "plugged in | connected to tv's hdmi input",
+                            "saliency": 0.6894409937888198
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "power | connection",
+                            "before": "unattached",
+                            "after": "plugged in",
+                            "saliency": 0.6894409937888198
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "organization | power",
+                            "before": "unplugged",
+                            "after": "plugged into converter and tv",
+                            "saliency": 0.4775491718426501
+                        },
+                        {
+                            "attribute": "attachment",
+                            "before": "loose",
+                            "after": "plugged in",
+                            "saliency": 0.31985420979986195
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "wii's av composite output",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "container",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.6328286749482401
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "cord",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "power",
+                            "before": "unplugged",
+                            "after": "plugged in",
+                            "saliency": 0.5018115942028986
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "power",
+                            "before": "unplugged",
+                            "after": "plugged in",
+                            "saliency": 0.5018115942028986
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "tv's hdmi input",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "container",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.551953933747412
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "converter",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "attachment",
+                            "before": "unattached",
+                            "after": "connected",
+                            "saliency": 0.5422489648033126
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "tv",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "power",
+                            "before": "unplugged",
+                            "after": "plugged in",
+                            "saliency": 0.4468167701863354
+                        },
+                        {
+                            "attribute": "attachment",
+                            "before": "unattached",
+                            "after": "connected",
+                            "saliency": 0.30913561076604557
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "plug",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.3465320910973085
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "wii",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "connection",
+                            "before": "loose",
+                            "after": "attached",
+                            "saliency": 0.45490424430641824
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "the hdmi",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "power",
+                            "before": "unplugged",
+                            "after": "plugged",
+                            "saliency": 0.34006211180124224
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "the cord",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "power",
+                            "before": "unplugged",
+                            "after": "now plugged into wii's av composite output",
+                            "saliency": 0.34006211180124224
+                        }
+                    ],
+                    "step4": []
+                }
+            }
+        ]
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "topics": "Home and Garden",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/d/d9/Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-1.jpg/aid663847-v4-728px-Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/9/9b/Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-2.jpg/aid663847-v4-728px-Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/1/14/Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-3.jpg/aid663847-v4-728px-Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/c/c6/Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-4.jpg/aid663847-v4-560px-Grow-a-Rose-Bush-from-Rose-Bush-Cuttings-Step-4.jpg"
+        ],
+        "states": [
+            {
+                "entity": "the pruning shears | pruning shears",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "wetness | moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.6118012422360248
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.2412008281573499
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "the clipping | clipping",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "moisture | wetness",
+                            "before": "drier | dry",
+                            "after": "wetter | moister | moistened",
+                            "saliency": 0.548950014788524
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "attached",
+                            "after": "removed",
+                            "saliency": 0.4121561668145519
+                        },
+                        {
+                            "attribute": "composition",
+                            "before": "pure",
+                            "after": "dipped into rooting hormone",
+                            "saliency": 0.274475007394262
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "hole in ground",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "container",
+                            "before": "empty",
+                            "after": "filled",
+                            "saliency": 0.5341614906832298
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "the rose bush",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.5267672286305827
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "the shovel",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.5045844424726412
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "cutting",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "attached",
+                            "after": "cut",
+                            "saliency": 0.32712215320910976
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "attached",
+                            "after": "removed",
+                            "saliency": 0.40476190476190477
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "attached",
+                            "after": "removed",
+                            "saliency": 0.40476190476190477
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "ground",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "volume",
+                            "before": "filled",
+                            "after": "empty",
+                            "saliency": 0.4750073942620527
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "rose bush",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "shape",
+                            "before": "fuller | intact",
+                            "after": "thinner | cut",
+                            "saliency": 0.419550428867199
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "rooting hormone",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "in bottle",
+                            "after": "on roots",
+                            "saliency": 0.3862762496302869
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "yard",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "readiness",
+                            "before": "unprepared",
+                            "after": "prepared",
+                            "saliency": 0.3825791186039633
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "area",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "readiness",
+                            "before": "bare",
+                            "after": "prepared for planting",
+                            "saliency": 0.3825791186039633
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "pot",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.3751848565513162
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.29754510499852116
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "the cutting",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "on rose bush",
+                            "after": "now in ground",
+                            "saliency": 0.3742975451049985
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "water",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "in hose",
+                            "after": "in soil",
+                            "saliency": 0.31233362910381546
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "roots",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.31233362910381546
+                        }
+                    ],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "soil",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in bag",
+                            "after": "in pot",
+                            "saliency": 0.3049393670511683
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in bag",
+                            "after": "in pot",
+                            "saliency": 0.3049393670511683
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "moisture",
+                            "before": "dry",
+                            "after": "damp",
+                            "saliency": 0.16725820763087842
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "in bag",
+                            "after": "in pot",
+                            "saliency": 0.3049393670511683
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": [
+            "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+            "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+            "Continue rubbing until the black mark lifts.",
+            "Wash and dry as usual."
+        ],
+        "topics": "Home and Garden",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/b/b1/Remove-Black-Skid-Marks-from-Linoleum-Step-1.jpg/aid374766-v4-728px-Remove-Black-Skid-Marks-from-Linoleum-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/0/00/Remove-Black-Skid-Marks-from-Linoleum-Step-2.jpg/aid374766-v4-728px-Remove-Black-Skid-Marks-from-Linoleum-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/d/d6/Remove-Black-Skid-Marks-from-Linoleum-Step-3.jpg/aid374766-v4-728px-Remove-Black-Skid-Marks-from-Linoleum-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/4/4f/Remove-Black-Skid-Marks-from-Linoleum-Step-4.jpg/aid374766-v4-728px-Remove-Black-Skid-Marks-from-Linoleum-Step-4.jpg"
+        ],
+        "states": [
+            {
+                "entity": "eraser",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location | ownership",
+                            "before": "in store | absent | at shop/in drawer | owned by store",
+                            "after": "in home | present | in hand | bought by you",
+                            "saliency": 0.6349569576114199
+                        },
+                        {
+                            "attribute": "cost",
+                            "before": "for sale at store",
+                            "after": "purchased fro store",
+                            "saliency": 0.3697177726926011
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location | ownership",
+                            "before": "in hand",
+                            "after": "on linoleum",
+                            "saliency": 0.5573172060586249
+                        },
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "getting smaller",
+                            "saliency": 0.20525952562565836
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "floor | lineoleum",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "marked",
+                            "after": "clean",
+                            "saliency": 0.5845592241473248
+                        },
+                        {
+                            "attribute": "color | odor",
+                            "before": "black smudged",
+                            "after": "yellow",
+                            "saliency": 0.47003378010242997
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirty",
+                            "after": "clean",
+                            "saliency": 0.6621989757001199
+                        },
+                        {
+                            "attribute": "color | odor",
+                            "before": "black marked",
+                            "after": "yellow",
+                            "saliency": 0.47003378010242997
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirty",
+                            "after": "clean",
+                            "saliency": 0.6621989757001199
+                        },
+                        {
+                            "attribute": "color | odor",
+                            "before": "foul smelling",
+                            "after": "clean smelling",
+                            "saliency": 0.47003378010242997
+                        },
+                        {
+                            "attribute": "wetness | moisture",
+                            "before": "dry | wet",
+                            "after": "wet | dry",
+                            "saliency": 0.37238022592713665
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "linoleum",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "cleanness | wetness",
+                            "before": "stained",
+                            "after": "clean",
+                            "saliency": 0.5341614906832298
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "cleanness | wetness",
+                            "before": "dirty | dry",
+                            "after": "clean | wet",
+                            "saliency": 0.5341614906832298
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "skid mark",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "dampness",
+                            "before": "dry",
+                            "after": "moister",
+                            "saliency": 0.5532309033453198
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "present",
+                            "after": "removed",
+                            "saliency": 0.2602702408194399
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "hands",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "motion",
+                            "before": "still",
+                            "after": "moving/rubbing",
+                            "saliency": 0.36986487959028
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "hand muscles",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "power",
+                            "before": "relaxed",
+                            "after": "being used",
+                            "saliency": 0.4388144273727798
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "body | person",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "form | position",
+                            "before": "upright | standing up",
+                            "after": "kneeled down",
+                            "saliency": 0.39239402854963495
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "away from linoleum",
+                            "after": "near linoleum",
+                            "saliency": 0.3570883731066798
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "you",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "orientation",
+                            "before": "standing",
+                            "after": "kneeling",
+                            "saliency": 0.2354800043587229
+                        }
+                    ],
+                    "step3": [],
+                    "step4": []
+                }
+            },
+            {
+                "entity": "water",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "in faucet",
+                            "after": "on lineoleum",
+                            "saliency": 0.34346736406232975
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "22": {
+        "goal": "Get on a Bike",
+        "steps": [
+            "To get on the bike, swing your non-dominant leg over the shaft of the bike.",
+            "Put your dominant foot on the pedal.",
+            "Hold on to the handlebars for support and to keep the bike straight.",
+            "Keeping your weight center and even, pedal with your feet.",
+            "Stopping."
+        ],
+        "topics": "Sports and Fitness",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/b/ba/Get-on-a-Bike-Step-1.jpg/aid160804-v4-728px-Get-on-a-Bike-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/5/5b/Get-on-a-Bike-Step-2.jpg/aid160804-v4-728px-Get-on-a-Bike-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/5/5e/Get-on-a-Bike-Step-3.jpg/aid160804-v4-728px-Get-on-a-Bike-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/e/ed/Get-on-a-Bike-Step-4.jpg/aid160804-v4-728px-Get-on-a-Bike-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/b/b3/Get-on-a-Bike-Step-5.jpg/aid160804-v4-637px-Get-on-a-Bike-Step-5.jpg"
+        ],
+        "states": [
+            {
+                "entity": "your weight",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "mainly on both feet",
+                            "after": "mainly on least dominant foot",
+                            "saliency": 0.5097193466758685
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "weight",
+                            "before": "placed on seat and pedals",
+                            "after": "now placed on seat and ground",
+                            "saliency": 0.5097193466758685
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "ability to identify non-dominant leg",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "knowledge",
+                            "before": "absent",
+                            "after": "present",
+                            "saliency": 0.5341614906832298
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "ability to identify dominant foot",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "knowledge",
+                            "before": "absent",
+                            "after": "present",
+                            "saliency": 0.5125948930296755
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "weight",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "placement",
+                            "before": "uncentered",
+                            "after": "centered",
+                            "saliency": 0.5125948930296755
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "foot | dominant foot | feet",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "on ground",
+                            "after": "in air",
+                            "saliency": 0.4694616977225673
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in air | on ground",
+                            "after": "on pedal",
+                            "saliency": 0.5082815734989649
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "on bike",
+                            "after": "on ground",
+                            "saliency": 0.4694616977225673
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "your foot",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "placement",
+                            "before": "on ground",
+                            "after": "now off ground",
+                            "saliency": 0.4953416149068323
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "placement",
+                            "before": "on pedal",
+                            "after": "now on ground",
+                            "saliency": 0.4953416149068323
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "both feet",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "placement",
+                            "before": "on ground",
+                            "after": "places than ground",
+                            "saliency": 0.4953416149068323
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "the tires",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "movement",
+                            "before": "at rest",
+                            "after": "now moving",
+                            "saliency": 0.4953416149068323
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "movement",
+                            "before": "rolling",
+                            "after": "now stopped",
+                            "saliency": 0.4953416149068323
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "the chain",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "mechanical movement",
+                            "before": "at rest on sprocket",
+                            "after": "now moving tire",
+                            "saliency": 0.4953416149068323
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "mechanical movement",
+                            "before": "moving",
+                            "after": "now at rest on sprocket",
+                            "saliency": 0.4953416149068323
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "ability to identify bike shaft",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "knowledge",
+                            "before": "absent",
+                            "after": "present",
+                            "saliency": 0.4910282953761215
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "ability to identify handlebars",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "knowledge",
+                            "before": "absent",
+                            "after": "present",
+                            "saliency": 0.4910282953761215
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "ability to ride a bike",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "skill",
+                            "before": "absent",
+                            "after": "present",
+                            "saliency": 0.433517368299977
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "you | hands",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "position | location",
+                            "before": "off bike",
+                            "after": "now on bike | on bike",
+                            "saliency": 0.22995744191396364
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "motion",
+                            "before": "resting on bike",
+                            "after": "now using handle bars for support",
+                            "saliency": 0.2686335403726708
+                        },
+                        {
+                            "attribute": "position | location",
+                            "before": "in air | off handlebars",
+                            "after": "on handlebars",
+                            "saliency": 0.1134978145847711
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "motion",
+                            "before": "sitting still on bike",
+                            "after": "now moving",
+                            "saliency": 0.3462732919254658
+                        },
+                        {
+                            "attribute": "action",
+                            "before": "resting on pedals",
+                            "after": "now pedaling",
+                            "saliency": 0.2850816655164481
+                        },
+                        {
+                            "attribute": "balance",
+                            "before": "using foot to maintain balance",
+                            "after": "now using body weight to maintain balance",
+                            "saliency": 0.2820220841959972
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "motion",
+                            "before": "moving",
+                            "after": "now still",
+                            "saliency": 0.2686335403726708
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "bike | bicycle",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "stability",
+                            "before": "unstable",
+                            "after": "stable",
+                            "saliency": 0.30411778237865195
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "balance | movement",
+                            "before": "unbalanced",
+                            "after": "balanced",
+                            "saliency": 0.23125143777317692
+                        },
+                        {
+                            "attribute": "orientation",
+                            "before": "crooked",
+                            "after": "straight",
+                            "saliency": 0.2052564987347596
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "movement | motion",
+                            "before": "still",
+                            "after": "moving",
+                            "saliency": 0.22555785599263858
+                        },
+                        {
+                            "attribute": "balance | movement",
+                            "before": "stationary",
+                            "after": "in motion",
+                            "saliency": 0.1924315619967794
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "balance | movement",
+                            "before": "in motion | moving",
+                            "after": "stopped | stationary",
+                            "saliency": 0.24419139636530943
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "bicycle",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "beside person's body | absent",
+                            "after": "now between person's legs | present",
+                            "saliency": 0.4033241315850012
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.34328272371750634
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "non-dominant foot",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "on ground",
+                            "after": "on pedal",
+                            "saliency": 0.3975730388773867
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "center of gravity",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "forward",
+                            "after": "centered",
+                            "saliency": 0.3975730388773867
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "pedals",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "motion",
+                            "before": "still",
+                            "after": "moving",
+                            "saliency": 0.35731538992408557
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "grip on bike",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "strength",
+                            "before": "loose",
+                            "after": "tight",
+                            "saliency": 0.3616287094547964
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "handbrakes",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "knowledge",
+                            "before": "unlocated",
+                            "after": "located",
+                            "saliency": 0.3472509776857603
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "speed",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "speed",
+                            "before": "constant",
+                            "after": "slowing",
+                            "saliency": 0.31130664826317
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "24": {
+        "goal": "Make a Banana Strawberry Rum Smoothie",
+        "steps": [
+            "Place the yogurt, bananas, and sorbet in a blender.",
+            "Blend the mixture until it's smooth in texture.",
+            "Pour the rum in and quickly blend again.",
+            "Pour the smoothie into chilled glasses.",
+            "Garnish each glass with a strawberry."
+        ],
+        "topics": "Food and Entertaining",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/7/77/Make-a-Banana-Strawberry-Rum-Smoothie-Step-1.jpg/aid467603-v4-728px-Make-a-Banana-Strawberry-Rum-Smoothie-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/e/e2/Make-a-Banana-Strawberry-Rum-Smoothie-Step-2.jpg/aid467603-v4-728px-Make-a-Banana-Strawberry-Rum-Smoothie-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/8/88/Make-a-Banana-Strawberry-Rum-Smoothie-Step-3.jpg/aid467603-v4-728px-Make-a-Banana-Strawberry-Rum-Smoothie-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/9/91/Make-a-Banana-Strawberry-Rum-Smoothie-Step-4.jpg/aid467603-v4-728px-Make-a-Banana-Strawberry-Rum-Smoothie-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/4/49/Make-a-Banana-Strawberry-Rum-Smoothie-Step-5.jpg/aid467603-v4-728px-Make-a-Banana-Strawberry-Rum-Smoothie-Step-5.jpg"
+        ],
+        "states": [
+            {
+                "entity": "rum",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location | rum",
+                            "before": "in bottle | in liquor cabinet",
+                            "after": "in blender | poured in blender",
+                            "saliency": 0.757946656923639
+                        },
+                        {
+                            "attribute": "composition",
+                            "before": "separate",
+                            "after": "mixed with ingredients",
+                            "saliency": 0.4710753866764097
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "strawberry",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location | strawberry",
+                            "before": "inside refrigerator | in container",
+                            "after": "on glass | garnished on glass",
+                            "saliency": 0.6833516015101693
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "smoothie | mixture | ingredients",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "organization",
+                            "before": "seperate",
+                            "after": "combined",
+                            "saliency": 0.33079608655056225
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "texture",
+                            "before": "chunky | separate | whole",
+                            "after": "smooth | blended/chopped | blended",
+                            "saliency": 0.44783826574107904
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "smoothie",
+                            "before": "in blender",
+                            "after": "in glasses",
+                            "saliency": 0.6468152478382657
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in blender",
+                            "after": "in glass | in glasses",
+                            "saliency": 0.490013396663013
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "blender",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.6392035074899525
+                        },
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.45562862826289935
+                        },
+                        {
+                            "attribute": "blender",
+                            "before": "empty",
+                            "after": "filled with yogurt, bananas, sorbet",
+                            "saliency": 0.41891365241748874
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "light",
+                            "after": "heavy",
+                            "saliency": 0.3462428449640726
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.48392400438436245
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "light",
+                            "after": "heavy",
+                            "saliency": 0.3462428449640726
+                        },
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.30034912515730927
+                        },
+                        {
+                            "attribute": "electric conductivity",
+                            "before": "turned off",
+                            "after": "turned on",
+                            "saliency": 0.27740226525392764
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "electric conductivity",
+                            "before": "turned off",
+                            "after": "turned on",
+                            "saliency": 0.12212276214833759
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavy",
+                            "after": "light",
+                            "saliency": 0.3462428449640726
+                        },
+                        {
+                            "attribute": "volume",
+                            "before": "full",
+                            "after": "empty",
+                            "saliency": 0.30034912515730927
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "glasses | glass",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.6392035074899525
+                        },
+                        {
+                            "attribute": "temperature | glasses",
+                            "before": "warm | warme",
+                            "after": "chilled",
+                            "saliency": 0.5726708074534161
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "light",
+                            "after": "heavy",
+                            "saliency": 0.5015223480696627
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.45562862826289935
+                        },
+                        {
+                            "attribute": "moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.4326817683595177
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "appearance",
+                            "before": "plain",
+                            "after": "garnished | decorated",
+                            "saliency": 0.2377095765842569
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "sorber | fruit and sorbet | sorbet",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in tub | in refrigerator/freezer | in container",
+                            "after": "in blender",
+                            "saliency": 0.6376811594202899
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "glass",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "decoration",
+                            "before": "bare rimmed",
+                            "after": "decorated/garnished",
+                            "saliency": 0.623980026793326
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "yogurt",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in tub | in container",
+                            "after": "in blender",
+                            "saliency": 0.5539520155888442
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "ingredients",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "composition",
+                            "before": "separate",
+                            "after": "mixed/blended",
+                            "saliency": 0.5143709657776154
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "bottle",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavy",
+                            "after": "light",
+                            "saliency": 0.4763122640360492
+                        },
+                        {
+                            "attribute": "volume",
+                            "before": "full",
+                            "after": "empty",
+                            "saliency": 0.33863110461575935
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "banana | bananas",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in peel",
+                            "after": "in blender",
+                            "saliency": 0.4747899159663866
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "fruit",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "temperature",
+                            "before": "45 degrees",
+                            "after": "32 degrees",
+                            "saliency": 0.4687005236877359
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "items",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "composition",
+                            "before": "whole",
+                            "after": "mixed",
+                            "saliency": 0.4687005236877359
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "liquid",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "composition",
+                            "before": "non-alcoholic",
+                            "after": "alcoholic",
+                            "saliency": 0.1833516015101693
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            }
+        ]
+    },
+    "28": {
+        "goal": "Open a Rusty Bolt",
+        "steps": [
+            "Obtain some fizzy drink.",
+            "Pour the fizzy drink over the bolt.",
+            "Wipe it clean with kitchen towel.",
+            "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.",
+            "Replace the rusty bolt."
+        ],
+        "topics": "Home and Garden",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/a/a3/Fizzy-drink-Step-1.jpg/aid306122-v4-728px-Fizzy-drink-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/8/88/Pour-Step-2-1.jpg/aid306122-v4-728px-Pour-Step-2-1.jpg",
+            "https://www.wikihow.com/images/thumb/1/13/Wipe-Step-3-1.jpg/aid306122-v4-728px-Wipe-Step-3-1.jpg",
+            "https://www.wikihow.com/images/thumb/3/36/Unscrew-Step-4.jpg/aid306122-v4-728px-Unscrew-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/d/dc/Repleace-Step-5.jpg/aid306122-v4-728px-Repleace-Step-5.jpg"
+        ],
+        "states": [
+            {
+                "entity": "kitchen towel | towel",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "cleanness | texture",
+                            "before": "clean | smooth",
+                            "after": "dirty | sticky",
+                            "saliency": 0.6894409937888198
+                        },
+                        {
+                            "attribute": "color",
+                            "before": "white",
+                            "after": "orange",
+                            "saliency": 0.4089740843863782
+                        },
+                        {
+                            "attribute": "wetness | moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.28505985102686754
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.13571785535803527
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "drink",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "cost",
+                            "before": "for sale in store",
+                            "after": "purchased from store",
+                            "saliency": 0.5270222031841223
+                        },
+                        {
+                            "attribute": "sealing",
+                            "before": "sealed",
+                            "after": "open",
+                            "saliency": 0.3893410437638324
+                        },
+                        {
+                            "attribute": "availability",
+                            "before": "unobtained",
+                            "after": "obtained",
+                            "saliency": 0.18816782085147904
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "availability",
+                            "before": "full",
+                            "after": "empty",
+                            "saliency": 0.18816782085147904
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "bolt",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "wetness | moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.5805668594274291
+                        },
+                        {
+                            "attribute": "texture",
+                            "before": "rough",
+                            "after": "sticky",
+                            "saliency": 0.3804169343899479
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "wetness | moisture",
+                            "before": "wet",
+                            "after": "dry",
+                            "saliency": 0.37352752195330907
+                        },
+                        {
+                            "attribute": "texture",
+                            "before": "sticky",
+                            "after": "rough",
+                            "saliency": 0.3286571000214179
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirty",
+                            "after": "cleaner | clean",
+                            "saliency": 0.20512362866185954
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "movement",
+                            "before": "still",
+                            "after": "moving",
+                            "saliency": 0.297808238737774
+                        },
+                        {
+                            "attribute": "age",
+                            "before": "stuck",
+                            "after": "unstuck | free",
+                            "saliency": 0.23393660312700795
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "age",
+                            "before": "old",
+                            "after": "new",
+                            "saliency": 0.311576354679803
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in machine",
+                            "after": "on counter",
+                            "saliency": 0.28862949477642136
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "assembly",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "texture",
+                            "before": "coated with rust",
+                            "after": "smoother",
+                            "saliency": 0.5020346969372457
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "new bolt | old bolt",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "in package",
+                            "after": "in machine",
+                            "saliency": 0.5020346969372457
+                        },
+                        {
+                            "attribute": "orientation",
+                            "before": "placed | removed",
+                            "after": "removed | placed",
+                            "saliency": 0.4449203969443849
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "rust",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "composition",
+                            "before": "solid | intact",
+                            "after": "dissolved",
+                            "saliency": 0.44045834225744274
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "bottle",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.48418647818947674
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.48418647818947674
+                        },
+                        {
+                            "attribute": "openness",
+                            "before": "closed",
+                            "after": "open",
+                            "saliency": 0.30061159896242357
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "wrench",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "in toolbox",
+                            "after": "in hand",
+                            "saliency": 0.48418647818947674
+                        }
+                    ],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "soda",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "on bolt",
+                            "after": "on towel",
+                            "saliency": 0.46633825944170776
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "cup",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "fullness",
+                            "before": "empty",
+                            "after": "filled",
+                            "saliency": 0.45741415006782327
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.3197329906475334
+                        },
+                        {
+                            "attribute": "moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.2738392708407701
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.25089241093738845
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "fizzy drink",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "availability",
+                            "before": "somewhere else",
+                            "after": "obtained",
+                            "saliency": 0.37352752195330907
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in container",
+                            "after": "on bolt",
+                            "saliency": 0.2358463625330192
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "towel",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.3067323481116585
+                        }
+                    ],
+                    "step4": [],
+                    "step5": []
+                }
+            },
+            {
+                "entity": "hands",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "moisture",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.25497251374312846
+                        },
+                        {
+                            "attribute": "texture",
+                            "before": "smooth",
+                            "after": "sticky",
+                            "saliency": 0.2457937697817758
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": []
+                }
+            }
+        ]
+    },
+    "47": {
+        "goal": "Make Your Den Look Like a Home on Animal Jam (Non Members)",
+        "steps": [
+            "Get lots of gems.",
+            "for a family home you will need quite a lot of stuff.",
+            "Try to get room shoji screens so you can section things off into smaller rooms.",
+            "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.",
+            "Make an outside area.",
+            "Keep your family safe."
+        ],
+        "topics": "Hobbies and Crafts",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/f/fa/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-1.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/8/88/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-2.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/3/30/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-3.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/6/6e/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-4.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/a/ad/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-5.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-5.jpg",
+            "https://www.wikihow.com/images/thumb/3/30/Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-6.jpg/aid3129112-v4-728px-Make-Your-Den-Look-Like-a-Home-on-Animal-Jam-%28Non-Members%29-Step-6.jpg"
+        ],
+        "states": [
+            {
+                "entity": "screens",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "in store",
+                            "after": "in home",
+                            "saliency": 0.5452528837622006
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "master bedroom | living room | living/dining room",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "availability",
+                            "before": "unmade | non-existent",
+                            "after": "created",
+                            "saliency": 0.6118012422360248
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "stuff",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in store",
+                            "after": "in home",
+                            "saliency": 0.5346896522584189
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "gems",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "availability",
+                            "before": "unacquired",
+                            "after": "acquired",
+                            "saliency": 0.529408036506528
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "outside area",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "availability | step",
+                            "before": "unmade | non-existent",
+                            "after": "created | made",
+                            "saliency": 0.5214856128786918
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "kids room",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "availability",
+                            "before": "unmade | non-existent",
+                            "after": "created",
+                            "saliency": 0.4005366121603921
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            }
+        ]
+    },
+    "55": {
+        "goal": "Recycle Underpants",
+        "steps": [
+            "Turn the underpants into cleaning rags.",
+            "Use the underwear as garden ties.",
+            "Turn quality undies into craft items.",
+            "Use a bundle of old underwear as stuffing.",
+            "Children can wear old underwear on the outside of their pants to play superhero.",
+            "Donate the underpants."
+        ],
+        "topics": "Hobbies and Crafts",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/7/7c/Recycle-Underpants-Step-1.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/3/38/Recycle-Underpants-Step-2.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/d/d0/Recycle-Underpants-Step-3.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/f/f1/Recycle-Underpants-Step-4.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/b/b0/Recycle-Underpants-Step-5.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-5.jpg",
+            "https://www.wikihow.com/images/thumb/3/36/Recycle-Underpants-Step-6.jpg/aid4274782-v4-728px-Recycle-Underpants-Step-6.jpg"
+        ],
+        "states": [
+            {
+                "entity": "underwear | underwears",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.6405567057740971
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "on table",
+                            "saliency": 0.5028755463538073
+                        },
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "cut onto mid-thin strips",
+                            "saliency": 0.3635265700483092
+                        },
+                        {
+                            "attribute": "use | shape",
+                            "before": "used as underpants | underwear",
+                            "after": "used as garden ties | garden ties",
+                            "saliency": 0.2715665976535542
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.588796871405567
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "on table",
+                            "saliency": 0.45111571198527717
+                        },
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "cut into thin-strips",
+                            "saliency": 0.31176673567977914
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.6405567057740971
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "stuffed inside pilow case",
+                            "saliency": 0.5028755463538073
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.6405567057740971
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "worn by child",
+                            "saliency": 0.5028755463538073
+                        },
+                        {
+                            "attribute": "use | shape",
+                            "before": "used as underwear",
+                            "after": "worn on outside of pants",
+                            "saliency": 0.2715665976535542
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "underpants | floor",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.5542903151598804
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.4665861513687601
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean | dirty",
+                            "after": "dirty | clean",
+                            "saliency": 0.4282263630089717
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "on floor",
+                            "saliency": 0.41660915573959056
+                        },
+                        {
+                            "attribute": "use | shape | composition",
+                            "before": "used as underpants | underpants",
+                            "after": "used as cleaning rags | cleaning rags",
+                            "saliency": 0.3656314699792961
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "cut up",
+                            "saliency": 0.2960087416609156
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "cut up",
+                            "saliency": 0.2960087416609156
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "use | shape | composition",
+                            "before": "whole",
+                            "after": "cut up",
+                            "saliency": 0.5209109730848861
+                        }
+                    ],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "newness",
+                            "before": "new",
+                            "after": "old",
+                            "saliency": 0.5542903151598804
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in drawer",
+                            "after": "in donation box",
+                            "saliency": 0.41660915573959056
+                        },
+                        {
+                            "attribute": "ownership | availability",
+                            "before": "owned | in possession",
+                            "after": "donated",
+                            "saliency": 0.26299746951920866
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "underwear strips",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "shape",
+                            "before": "long and straight",
+                            "after": "tied into ribbon around hair",
+                            "saliency": 0.5456636760984587
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "bundle of old underwear",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "use",
+                            "before": "used as underwear",
+                            "after": "used as stuffing",
+                            "saliency": 0.4924660685530251
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "plants",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "form",
+                            "before": "untied",
+                            "after": "tied",
+                            "saliency": 0.4737750172532781
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "garden plants",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "decoration",
+                            "before": "plain",
+                            "after": "decorated",
+                            "saliency": 0.5240970784449045
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "donation box",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "location",
+                            "before": "at home",
+                            "after": "with charity",
+                            "saliency": 0.5169082125603864
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "pillow case",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "on drawer",
+                            "after": "on table",
+                            "saliency": 0.5097193466758685
+                        },
+                        {
+                            "attribute": "content",
+                            "before": "empty",
+                            "after": "filled with underwears",
+                            "saliency": 0.3720381872555786
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "scissors",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "on desk",
+                            "after": "on hand",
+                            "saliency": 0.4881527490223142
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "on desk",
+                            "after": "on hand",
+                            "saliency": 0.4881527490223142
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "quality undies",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "use",
+                            "before": "used as underpants",
+                            "after": "turned into craft items",
+                            "saliency": 0.37600644122383253
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "child",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "look",
+                            "before": "looking like regular kid",
+                            "after": "looking like superhero",
+                            "saliency": 0.4665861513687601
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "pants",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "covering",
+                            "before": "bare",
+                            "after": "covered in underwear",
+                            "saliency": 0.36306648263170005
+                        }
+                    ],
+                    "step6": []
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,3002 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": [
+            "Purchase a blackboard eraser.",
+            "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+            "Use the eraser to clean the inner side of the windshield.",
+            "Replace after use."
+        ],
+        "entity_attr_dict": {
+            "the blackboard eraser | eraser": [
+                "possession | ownership",
+                "location",
+                "placement",
+                "condition",
+                "cleanness",
+                "movement"
+            ],
+            "glovebox": [
+                "location"
+            ],
+            "eraser shelf at the store": [
+                "fullness"
+            ],
+            "windshield": [
+                "cleanness"
+            ],
+            "inside windshield": [
+                "cleanness"
+            ],
+            "bank account": [
+                "fullness"
+            ],
+            "glove box": [
+                "fullness"
+            ],
+            "money": [
+                "location"
+            ],
+            "hands": [
+                "activity"
+            ]
+        }
+    },
+    "2": {
+        "goal": "Make Carob Fruit Balls",
+        "steps": [
+            "Mix all of the ingredients together.",
+            "Roll into small balls.",
+            "Place in the freezer for half an hour.",
+            "Serve."
+        ],
+        "entity_attr_dict": {
+            "ingredients": [
+                "composition | consistency",
+                "location",
+                "shape"
+            ],
+            "dough | dough pieces": [
+                "size | shape"
+            ],
+            "carob fruit balls": [
+                "readiness",
+                "location",
+                "hardness"
+            ],
+            "balls": [
+                "location",
+                "temperature"
+            ],
+            "mixing bowl": [
+                "volume",
+                "weight",
+                "location"
+            ],
+            "spoon": [
+                "location"
+            ],
+            "plate": [
+                "location",
+                "container"
+            ],
+            "mixture": [
+                "location",
+                "number",
+                "density"
+            ],
+            "carob": [
+                "mixed"
+            ],
+            "hand": [
+                "fullness",
+                "stickiness"
+            ],
+            "bowl": [
+                "weight"
+            ]
+        }
+    },
+    "3": {
+        "goal": "Freeze Baked Cookies or Biscuits",
+        "steps": [
+            "Place the biscuits or cookies into a rigid, airtight container.",
+            "Separate the biscuits and cookies using freezer paper, baking paper, or foil.",
+            "Place biscuits in freezer.",
+            "Thaw."
+        ],
+        "entity_attr_dict": {
+            "the cookies and biscuits": [
+                "placement"
+            ],
+            "cookies | biscuits": [
+                "location",
+                "composition",
+                "organization | position",
+                "flexibility",
+                "temperature",
+                "texture"
+            ],
+            "the aluminum foil": [
+                "movement"
+            ],
+            "aluminum foil": [
+                "placement"
+            ],
+            "the cookies": [
+                "placement"
+            ],
+            "the bowl": [
+                "placement"
+            ],
+            "freezer": [
+                "volume"
+            ],
+            "freezer paper": [
+                "location",
+                "cleanness",
+                "size"
+            ],
+            "baking paper": [
+                "cleanness"
+            ],
+            "foil": [
+                "cleanness"
+            ],
+            "container": [
+                "volume | fullness",
+                "weight",
+                "cleanness"
+            ],
+            "tray": [
+                "weight"
+            ]
+        }
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": [
+            "Bend one pipe cleaner in half to form the legs.",
+            "Shape another pipe cleaner to form the body.",
+            "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+            "Use 2 pipe cleaners to enlarge the torso."
+        ],
+        "entity_attr_dict": {
+            "tip of pipe cleaner": [
+                "shape"
+            ],
+            "pipe cleaner | pipe cleaners": [
+                "position | shape",
+                "location"
+            ],
+            "your fingers": [
+                "location"
+            ],
+            "the torso": [
+                "width",
+                "weight"
+            ]
+        }
+    },
+    "5": {
+        "goal": "Spool Knit a Winter Hat",
+        "steps": [
+            "Knit eighty-four inches of flat web.",
+            "Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.",
+            "Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.",
+            "After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel."
+        ],
+        "entity_attr_dict": {
+            "the webbing | the yarn": [
+                "composition",
+                "shape",
+                "width"
+            ],
+            "the hat": [
+                "weight"
+            ],
+            "the piece of yarn": [
+                "shape"
+            ],
+            "the ends": [
+                "connection"
+            ]
+        }
+    },
+    "6": {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": [
+            "Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.",
+            "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.",
+            "Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.",
+            "BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one."
+        ],
+        "entity_attr_dict": {
+            "gun | weapon": [
+                "location"
+            ],
+            "you": [
+                "knowledge",
+                "shape"
+            ]
+        }
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": [
+            "Plug in your HDMI cord to the cable.",
+            "Plug it into your TV's HDMI input.",
+            "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+            "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+        ],
+        "entity_attr_dict": {
+            "hdmi cord | hdmi converter cable | the hdmi cord": [
+                "organization | power",
+                "connection",
+                "power | connection",
+                "attachment"
+            ],
+            "wii's av composite output": [
+                "container"
+            ],
+            "cord": [
+                "power"
+            ],
+            "tv's hdmi input": [
+                "container"
+            ],
+            "converter": [
+                "attachment"
+            ],
+            "tv": [
+                "power",
+                "attachment"
+            ],
+            "plug": [
+                "volume"
+            ],
+            "wii": [
+                "connection"
+            ],
+            "the hdmi": [
+                "power"
+            ],
+            "the cord": [
+                "power"
+            ]
+        }
+    },
+    "8": {
+        "goal": "Fold Bath Towels for Quick Hanging at Home",
+        "steps": [
+            "Fold the towel in thirds lengthwise.",
+            "Fold in half, and then in half again.",
+            "Store the towel in the linen closet.",
+            "To go from the closet for hanging, simply unfold the final fold and hang on the towel rack."
+        ],
+        "entity_attr_dict": {
+            "towel | the towels": [
+                "size | width",
+                "shape | stated",
+                "width",
+                "thickness | length",
+                "location"
+            ],
+            "closet": [
+                "emptiness"
+            ],
+            "height of towel": [
+                "height"
+            ],
+            "hand muscles": [
+                "power"
+            ],
+            "final fold": [
+                "openness"
+            ],
+            "towel rack": [
+                "emptiness"
+            ],
+            "hand": [
+                "emptiness"
+            ]
+        }
+    },
+    "9": {
+        "goal": "Be a Spy With Friends",
+        "steps": [
+            "Set-up your spy group You will need a trustworthy 2-5 person group.",
+            "It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.",
+            "Get some gear To be a good spy, you and your friends must have gear that will help with missions.",
+            "Find your first \"victim\" The victim is the person you will be watching and spying on."
+        ],
+        "entity_attr_dict": {
+            "co-conspirators": [
+                "knowledge"
+            ],
+            "gear": [
+                "availability"
+            ],
+            "your spy group": [
+                "forming"
+            ],
+            "you": [
+                "location",
+                "possession",
+                "knowledge"
+            ]
+        }
+    },
+    "10": {
+        "goal": "Defeat a Thug on Dead Island",
+        "steps": [
+            "There is no chance in hell you will kill a Thug using just your bear hands and feet.",
+            "Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.",
+            "Make sure your guns have enough ammo, and your knives are up to scratch.",
+            "Attack!"
+        ],
+        "entity_attr_dict": {
+            "you": [
+                "knowledge"
+            ],
+            "enough ammo": [
+                "count"
+            ],
+            "zombies": [
+                "step"
+            ],
+            "molotov cocktails": [
+                "location"
+            ],
+            "grenades": [
+                "location"
+            ],
+            "weapons": [
+                "location"
+            ]
+        }
+    },
+    "11": {
+        "goal": "Make Rhubarb Cordial",
+        "steps": [
+            "Simmer the rhubarb with the sugar, cloves and water.",
+            "Simmer until the rhubarb becomes soft.",
+            "Remove from the heat.",
+            "Add the mint leaves for decoration."
+        ],
+        "entity_attr_dict": {
+            "rhubarb | rhubarb cordial": [
+                "composition",
+                "temperature | location",
+                "wetness",
+                "consistency | hardness",
+                "texture",
+                "appearance | taste"
+            ],
+            "cordial": [
+                "composition"
+            ],
+            "pot": [
+                "volume"
+            ],
+            "cloves": [
+                "temperature",
+                "wetness",
+                "location"
+            ],
+            "sugar": [
+                "wetness",
+                "temperature"
+            ],
+            "mint leaves": [
+                "location"
+            ],
+            "stove": [
+                "location"
+            ],
+            "water": [
+                "temperature"
+            ]
+        }
+    },
+    "12": {
+        "goal": "Get Under the Stage in Dragonball Z Budokai Tenkaichi 2",
+        "steps": [
+            "Choose VS Duel, 2 players.",
+            "Choose Goku as player one, as well as player two.",
+            "Choose Mountain Road as the stage.",
+            "Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage."
+        ],
+        "entity_attr_dict": {
+            "players | player": [
+                "knowledge",
+                "location",
+                "division"
+            ],
+            "stage": [
+                "location"
+            ],
+            "player two": [
+                "availability"
+            ],
+            "companion": [
+                "availability"
+            ],
+            "goku": [
+                "count",
+                "knowledge"
+            ],
+            "vs duel": [
+                "option"
+            ],
+            "mode": [
+                "population"
+            ],
+            "you": [
+                "location"
+            ],
+            "character": [
+                "location"
+            ]
+        }
+    },
+    "13": {
+        "goal": "Make Slow Cooker Hot Cocoa",
+        "steps": [
+            "Make the initial cocoa mixture.",
+            "Add all the ingredients in a slow cooker.",
+            "Allow the mixture to heat for 3 hours on a low setting.",
+            "Serve immediately or keep the slow cooker on a \"Keep Warm\" setting."
+        ],
+        "entity_attr_dict": {
+            "mixture ingredients | the ingredients | ingredients": [
+                "composition",
+                "container | location",
+                "temperature"
+            ],
+            "ingredients": [
+                "composition"
+            ],
+            "slow cooker | the slow cooker": [
+                "volume | container",
+                "wetness | cleanness",
+                "temperature | pressure",
+                "cleanness",
+                "wetness",
+                "power"
+            ],
+            "mixture | the mixture": [
+                "temperature",
+                "container | location"
+            ],
+            "cocoa powder": [
+                "location"
+            ],
+            "liquid": [
+                "sound"
+            ],
+            "cooker": [
+                "temperature"
+            ],
+            "whisk": [
+                "cleanness",
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "smell": [
+                "odor"
+            ],
+            "the outside of the slow cooker": [
+                "thermal conductivity"
+            ],
+            "bowl": [
+                "weight",
+                "wetness"
+            ],
+            "lid": [
+                "location"
+            ],
+            "mug": [
+                "wetness",
+                "weight",
+                "temperature"
+            ],
+            "the slow cooker": [
+                "weight"
+            ],
+            "cocoa mixture": [
+                "availability"
+            ],
+            "the knob": [
+                "direction"
+            ]
+        }
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entity_attr_dict": {
+            "the pruning shears | pruning shears": [
+                "wetness | moisture",
+                "cleanness"
+            ],
+            "the clipping | clipping": [
+                "moisture | wetness",
+                "location",
+                "composition"
+            ],
+            "hole in ground": [
+                "container"
+            ],
+            "the rose bush": [
+                "weight"
+            ],
+            "the shovel": [
+                "cleanness"
+            ],
+            "cutting": [
+                "location"
+            ],
+            "ground": [
+                "volume"
+            ],
+            "rose bush": [
+                "shape"
+            ],
+            "rooting hormone": [
+                "location"
+            ],
+            "yard": [
+                "readiness"
+            ],
+            "area": [
+                "readiness"
+            ],
+            "pot": [
+                "volume"
+            ],
+            "the cutting": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "roots": [
+                "moisture"
+            ],
+            "soil": [
+                "location",
+                "moisture"
+            ]
+        }
+    },
+    "15": {
+        "goal": "Evolve Vulpix in Pok\u00e9mon",
+        "steps": [
+            "######Catch or trade for a Vulpix.",
+            "######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).",
+            "Go to your bag and select the stone required.",
+            "######Wait for the evolution animation to pop up."
+        ],
+        "entity_attr_dict": {
+            "stone": [
+                "choice | knowledge"
+            ],
+            "fire or ice stone": [
+                "step"
+            ],
+            "the stone": [
+                "knowledge"
+            ],
+            "bag": [
+                "step"
+            ],
+            "vulpix": [
+                "step",
+                "availability",
+                "ownership"
+            ],
+            "fire stone": [
+                "availability"
+            ]
+        }
+    },
+    "16": {
+        "goal": "Polish a Faucet With a Lemon",
+        "steps": [
+            "######Cut a lemon in half.",
+            "######Squeeze out the juice.",
+            "######Take the squeezed out lemon half and rub vigorously over the faucets.",
+            "######Wash the tap after scouring with the lemon half."
+        ],
+        "entity_attr_dict": {
+            "faucets | faucet | tap": [
+                "dryness | cleanness | moisture",
+                "odor | color",
+                "wetness",
+                "cleanness",
+                "appearance"
+            ],
+            "lemon": [
+                "size | shape",
+                "moisture | odor",
+                "weight"
+            ],
+            "juice | facuets": [
+                "location | wetness"
+            ],
+            "cutting board": [
+                "cleanness",
+                "moisture"
+            ],
+            "lemon juice": [
+                "location"
+            ],
+            "knife": [
+                "cleanness",
+                "moisture"
+            ],
+            "water": [
+                "location"
+            ]
+        }
+    },
+    "17": {
+        "goal": "Make Taco Filling",
+        "steps": [
+            "Brown the meat and the onion in a medium sized frying pan.",
+            "Drain the excess fat.",
+            "Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "onion": [
+                "form | composition | shape",
+                "temperature"
+            ],
+            "meat | fat | pan": [
+                "location",
+                "volume",
+                "cleanness",
+                "cooked or not | wetness",
+                "color",
+                "weight",
+                "fullness",
+                "composition",
+                "how cooked"
+            ],
+            "grease c ontainer": [
+                "fullness"
+            ],
+            "tomato": [
+                "form",
+                "location",
+                "temperature"
+            ],
+            "grease container": [
+                "weight"
+            ],
+            "ingredients | spices": [
+                "cooked or not",
+                "location",
+                "temperature"
+            ],
+            "serving bowl": [
+                "cleanness",
+                "weight",
+                "fullness"
+            ],
+            "hot sauce": [
+                "location"
+            ],
+            "spatula": [
+                "cleanness"
+            ],
+            "skillet": [
+                "temperature",
+                "fullness",
+                "weight",
+                "sound"
+            ],
+            "liquids": [
+                "movement"
+            ],
+            "grease": [
+                "location",
+                "temperature"
+            ],
+            "cheese": [
+                "location",
+                "form | composition"
+            ],
+            "flavor": [
+                "taste"
+            ],
+            "recipe": [
+                "knowledge"
+            ],
+            "knife": [
+                "cleanness"
+            ],
+            "beef": [
+                "moisture"
+            ],
+            "food": [
+                "location"
+            ],
+            "frying pan": [
+                "temperature"
+            ],
+            "bowl": [
+                "temperature"
+            ],
+            "stove": [
+                "power"
+            ],
+            "sink": [
+                "cleanness",
+                "temperature"
+            ]
+        }
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": [
+            "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+            "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+            "Continue rubbing until the black mark lifts.",
+            "Wash and dry as usual."
+        ],
+        "entity_attr_dict": {
+            "eraser": [
+                "location | ownership",
+                "cost",
+                "size"
+            ],
+            "floor | lineoleum": [
+                "cleanness",
+                "color | odor",
+                "wetness | moisture"
+            ],
+            "linoleum": [
+                "cleanness | wetness"
+            ],
+            "skid mark": [
+                "dampness",
+                "location"
+            ],
+            "hands": [
+                "motion"
+            ],
+            "hand muscles": [
+                "power"
+            ],
+            "body | person": [
+                "form | position",
+                "location"
+            ],
+            "you": [
+                "orientation"
+            ],
+            "water": [
+                "location"
+            ]
+        }
+    },
+    "19": {
+        "goal": "Create a Character in Lego Star Wars",
+        "steps": [
+            "When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.",
+            "Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.",
+            "Press \"triangle\" to name it, and \"O\" to save and exit.",
+            "Now enter a completed level and turn on free play."
+        ],
+        "entity_attr_dict": {
+            "up/down and left/right arrows": [
+                "movement"
+            ],
+            "you": [
+                "knowledge"
+            ],
+            "character parts": [
+                "step"
+            ],
+            "completed level": [
+                "step"
+            ],
+            "free play": [
+                "power"
+            ],
+            "character": [
+                "choice"
+            ],
+            "game": [
+                "knowledge"
+            ]
+        }
+    },
+    "20": {
+        "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+        "steps": [
+            "Blend the cream cheese and marshmallow cream until combined.",
+            "Pour the mixture into a clean bowl.",
+            "Serve with fruit or whatever else you like.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "the cream cheese | cream cheese and marshmallow": [
+                "composition",
+                "location"
+            ],
+            "marshmallow": [
+                "location"
+            ],
+            "the mixing bowl | the clean bowl": [
+                "weight",
+                "moisture",
+                "cleanness",
+                "volume"
+            ],
+            "mixtre | mixture": [
+                "location"
+            ],
+            "the marshmallow cream | marshmallow cream | cream cheese": [
+                "location",
+                "composition | shape"
+            ],
+            "the knife": [
+                "wetness | cleanness"
+            ],
+            "the fruit | fruit": [
+                "composition | size",
+                "weight"
+            ],
+            "the mixture | bowl": [
+                "location | cleanness",
+                "weight",
+                "container | volume",
+                "moisture"
+            ],
+            "the bowl": [
+                "weight",
+                "volume",
+                "cleanness"
+            ],
+            "blender": [
+                "cleanness",
+                "volume",
+                "electric conductivity",
+                "weight"
+            ],
+            "ingredients": [
+                "organization"
+            ]
+        }
+    },
+    "21": {
+        "goal": "Clean Synthetic Hiking Gear",
+        "steps": [
+            "Read all of the instructions first.",
+            "Wash Gore-Tex and other breathable, waterproof synthetic outer shell clothing following the instructions on the label.",
+            "Be careful with synthetic boots.",
+            "Take care cleaning synthetic jackets containing down.",
+            "Wash polar fleece (microfleece or micrafleece) in the washing machine."
+        ],
+        "entity_attr_dict": {
+            "instructions": [
+                "knowledge"
+            ],
+            "washing machine": [
+                "fullness",
+                "electric conductivity"
+            ],
+            "clothing": [
+                "cleanness"
+            ],
+            "polar fleece": [
+                "cleanness"
+            ],
+            "fleece": [
+                "cleanness"
+            ],
+            "detergent": [
+                "location"
+            ],
+            "gore-tex": [
+                "cleanness"
+            ],
+            "dirt": [
+                "location"
+            ]
+        }
+    },
+    "22": {
+        "goal": "Get on a Bike",
+        "steps": [
+            "To get on the bike, swing your non-dominant leg over the shaft of the bike.",
+            "Put your dominant foot on the pedal.",
+            "Hold on to the handlebars for support and to keep the bike straight.",
+            "Keeping your weight center and even, pedal with your feet.",
+            "Stopping."
+        ],
+        "entity_attr_dict": {
+            "your weight": [
+                "weight"
+            ],
+            "ability to identify non-dominant leg": [
+                "knowledge"
+            ],
+            "ability to identify dominant foot": [
+                "knowledge"
+            ],
+            "weight": [
+                "placement"
+            ],
+            "foot | dominant foot | feet": [
+                "location"
+            ],
+            "your foot": [
+                "placement"
+            ],
+            "both feet": [
+                "placement"
+            ],
+            "the tires": [
+                "movement"
+            ],
+            "the chain": [
+                "mechanical movement"
+            ],
+            "ability to identify bike shaft": [
+                "knowledge"
+            ],
+            "ability to identify handlebars": [
+                "knowledge"
+            ],
+            "ability to ride a bike": [
+                "skill"
+            ],
+            "you | hands": [
+                "position | location",
+                "motion",
+                "action",
+                "balance"
+            ],
+            "bike | bicycle": [
+                "stability",
+                "balance | movement",
+                "orientation",
+                "movement | motion"
+            ],
+            "bicycle": [
+                "location",
+                "weight"
+            ],
+            "non-dominant foot": [
+                "location"
+            ],
+            "center of gravity": [
+                "location"
+            ],
+            "pedals": [
+                "motion"
+            ],
+            "grip on bike": [
+                "strength"
+            ],
+            "handbrakes": [
+                "knowledge"
+            ],
+            "speed": [
+                "speed"
+            ]
+        }
+    },
+    "23": {
+        "goal": "Board a Small Boat",
+        "steps": [
+            "Prefer boarding across a solid platform if possible.",
+            "If you are crossing using a platform, hold on to the rails provided.",
+            "Avoid plonking one leg in the boat and leaving one on the jetty - this will cause wobbling and you might fall into the water.",
+            "Once in the boat, always remain in the centre line to move around it and lower yourself to a crouch level so that you reduce your centre of gravity and keep the craft as still as possible.",
+            "Keep the craft steady as others board."
+        ],
+        "entity_attr_dict": {
+            "passenger position": [
+                "location"
+            ],
+            "other passengers": [
+                "location"
+            ],
+            "boat | person": [
+                "location",
+                "motion",
+                "stability",
+                "weight",
+                "action",
+                "shape",
+                "orientation"
+            ],
+            "boarding plank": [
+                "location"
+            ],
+            "room on boat": [
+                "availability"
+            ],
+            "legs": [
+                "location"
+            ],
+            "passenger": [
+                "speed"
+            ],
+            "jumping": [
+                "location"
+            ],
+            "paddle": [
+                "location"
+            ],
+            "plank": [
+                "moisture",
+                "location"
+            ],
+            "dock": [
+                "availability"
+            ],
+            "arms": [
+                "location"
+            ],
+            "gravity": [
+                "location of center"
+            ],
+            "other person": [
+                "location"
+            ],
+            "handrails": [
+                "placement"
+            ],
+            "water": [
+                "texture"
+            ],
+            "handrail": [
+                "availability"
+            ],
+            "movement": [
+                "stability"
+            ],
+            "hands": [
+                "location"
+            ]
+        }
+    },
+    "24": {
+        "goal": "Make a Banana Strawberry Rum Smoothie",
+        "steps": [
+            "Place the yogurt, bananas, and sorbet in a blender.",
+            "Blend the mixture until it's smooth in texture.",
+            "Pour the rum in and quickly blend again.",
+            "Pour the smoothie into chilled glasses.",
+            "Garnish each glass with a strawberry."
+        ],
+        "entity_attr_dict": {
+            "rum": [
+                "location | rum",
+                "composition"
+            ],
+            "strawberry": [
+                "location | strawberry"
+            ],
+            "smoothie | mixture | ingredients": [
+                "organization",
+                "texture",
+                "smoothie",
+                "location"
+            ],
+            "blender": [
+                "cleanness",
+                "volume",
+                "blender",
+                "weight",
+                "electric conductivity"
+            ],
+            "glasses | glass": [
+                "volume",
+                "temperature | glasses",
+                "weight",
+                "cleanness",
+                "moisture",
+                "appearance"
+            ],
+            "sorber | fruit and sorbet | sorbet": [
+                "location"
+            ],
+            "glass": [
+                "decoration"
+            ],
+            "yogurt": [
+                "location"
+            ],
+            "ingredients": [
+                "composition"
+            ],
+            "bottle": [
+                "weight",
+                "volume"
+            ],
+            "banana | bananas": [
+                "location"
+            ],
+            "fruit": [
+                "temperature"
+            ],
+            "items": [
+                "composition"
+            ],
+            "liquid": [
+                "composition"
+            ]
+        }
+    },
+    "25": {
+        "goal": "Make a Pinwheel Wreath",
+        "steps": [
+            "Select suitable paper to make the pinwheels.",
+            "Make enough pinwheels to create a wreath.",
+            "Find a suitable base, such as a Styrofoam/cane/cardboard wreath base.",
+            "If the wreath base lacks a hanger, add some twine or ribbon to create one.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "suitable paper for pinwheels": [
+                "choice"
+            ],
+            "wreath base": [
+                "step"
+            ],
+            "pinwheels": [
+                "availability",
+                "orientation"
+            ],
+            "ribbon": [
+                "location",
+                "organization"
+            ],
+            "paper": [
+                "knowledge",
+                "shape"
+            ],
+            "twine": [
+                "location",
+                "organization"
+            ]
+        }
+    },
+    "26": {
+        "goal": "Make a Wreath with Clothes Hangers",
+        "steps": [
+            "Untwist wire hanger and shape into a circle, using pliers as needed.",
+            "Gently crumple 3\" squares of wax paper or crepe paper and thread hanger through center of each square.",
+            "When you have threaded enough squares to fill length of hanger, gently push squares away from ends and use pliers to twist ends together.",
+            "Gently slide squares of paper back toward the joined ends of wire hanger, scrunching paper more for additional fullness.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "ends | square ends": [
+                "shape"
+            ],
+            "wax paper": [
+                "texture | shape"
+            ],
+            "hanger | wire": [
+                "shape",
+                "location",
+                "volume",
+                "weight",
+                "composition"
+            ],
+            "crepe paper": [
+                "shape"
+            ],
+            "hanger ends": [
+                "proximity"
+            ],
+            "squares": [
+                "shape",
+                "location"
+            ],
+            "pliers": [
+                "location"
+            ],
+            "wire hanger": [
+                "shape"
+            ],
+            "paper squares": [
+                "position"
+            ],
+            "paper": [
+                "orientation",
+                "shape"
+            ],
+            "fingers": [
+                "pressure"
+            ],
+            "wreath": [
+                "status"
+            ],
+            "table": [
+                "cleanness"
+            ],
+            "tool": [
+                "openness",
+                "position"
+            ],
+            "hands": [
+                "volume",
+                "motion"
+            ]
+        }
+    },
+    "27": {
+        "goal": "Make Potato Ribbons",
+        "steps": [
+            "Wash especially well if you intend to keep the peel intact.",
+            "Cut round and round, keeping the peel as thin as possible as you go.",
+            "Drain the potatoes dry on a clean cloth.",
+            "Fry the ribbons in deep, hot fat.",
+            "Serve."
+        ],
+        "entity_attr_dict": {
+            "potatoes | potato": [
+                "cleanness | wetness",
+                "location",
+                "thickness",
+                "length",
+                "composition"
+            ],
+            "peels | peeler | pan | vegetable peeler": [
+                "location",
+                "cleanness",
+                "dryness",
+                "temperature",
+                "texture",
+                "weight",
+                "taste"
+            ],
+            "cloth": [
+                "location",
+                "cleanness | wetness",
+                "moisture"
+            ],
+            "potato pieces": [
+                "moisture",
+                "location"
+            ],
+            "water faucet": [
+                "power"
+            ],
+            "serving dish": [
+                "cleanness",
+                "weight"
+            ],
+            "stove | stove burner": [
+                "temperature",
+                "electric conductivity"
+            ],
+            "potaoto": [
+                "composition"
+            ],
+            "oil": [
+                "temperature"
+            ],
+            "ribbons": [
+                "teture"
+            ],
+            "kitchen counter": [
+                "cleanness"
+            ],
+            "spatula": [
+                "cleanness"
+            ],
+            "platter": [
+                "fullness"
+            ],
+            "water": [
+                "location"
+            ],
+            "sink": [
+                "wetness"
+            ],
+            "bowl": [
+                "fullness"
+            ]
+        }
+    },
+    "28": {
+        "goal": "Open a Rusty Bolt",
+        "steps": [
+            "Obtain some fizzy drink.",
+            "Pour the fizzy drink over the bolt.",
+            "Wipe it clean with kitchen towel.",
+            "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.",
+            "Replace the rusty bolt."
+        ],
+        "entity_attr_dict": {
+            "kitchen towel | towel": [
+                "cleanness | texture",
+                "color",
+                "wetness | moisture",
+                "cleanness"
+            ],
+            "drink": [
+                "cost",
+                "sealing",
+                "availability"
+            ],
+            "bolt": [
+                "wetness | moisture",
+                "texture",
+                "cleanness",
+                "movement",
+                "age",
+                "location"
+            ],
+            "assembly": [
+                "texture"
+            ],
+            "new bolt | old bolt": [
+                "location",
+                "orientation"
+            ],
+            "rust": [
+                "composition"
+            ],
+            "bottle": [
+                "weight",
+                "openness"
+            ],
+            "wrench": [
+                "location"
+            ],
+            "soda": [
+                "location"
+            ],
+            "cup": [
+                "fullness",
+                "cleanness",
+                "moisture",
+                "weight"
+            ],
+            "fizzy drink": [
+                "availability",
+                "location"
+            ],
+            "towel": [
+                "weight"
+            ],
+            "hands": [
+                "moisture",
+                "texture"
+            ]
+        }
+    },
+    "29": {
+        "goal": "Make Asparagus in Serrano Ham",
+        "steps": [
+            "Preheat your oven beforehand to 400\u00b0F (200\u00b0C or Gas Mark 6).",
+            "Add your olive oil into a baking or roasting tin large enough to hold all of your asparagus spears.",
+            "Cut off the ends of the asparagus spears and wrap enough Serrano ham around each asparagus spear until it is mostly covered but with top jagged part still open.",
+            "Roast the asparagus in the oven for 8-10 minutes.",
+            "Serve immediately with a main dish so your asparagus acts as a side order."
+        ],
+        "entity_attr_dict": {
+            "asparagus": [
+                "location",
+                "composition | temperature",
+                "coverage",
+                "size | length",
+                "moisture",
+                "texture",
+                "hardness"
+            ],
+            "heating element": [
+                "color"
+            ],
+            "stove buttons": [
+                "pressure"
+            ],
+            "oil container": [
+                "weight"
+            ],
+            "cutting board": [
+                "cleanness"
+            ],
+            "roasting pan": [
+                "weight"
+            ],
+            "oven | oven racks | oven rock": [
+                "temperature",
+                "power",
+                "volume",
+                "fullness"
+            ],
+            "rubber band": [
+                "location"
+            ],
+            "tin | oil": [
+                "volume",
+                "location"
+            ],
+            "main dish": [
+                "accompaniment"
+            ],
+            "display": [
+                "power"
+            ],
+            "ham | pan": [
+                "texture",
+                "appearance",
+                "location",
+                "temperature"
+            ],
+            "oil": [
+                "temperature"
+            ],
+            "knife | blade": [
+                "cleanness",
+                "location"
+            ],
+            "pan": [
+                "cleanness"
+            ],
+            "spears": [
+                "shape"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "baking tray": [
+                "volume"
+            ],
+            "baking tin": [
+                "texture"
+            ],
+            "vegetables": [
+                "texture"
+            ],
+            "oven mitts": [
+                "location"
+            ],
+            "oven door": [
+                "openness"
+            ],
+            "olive oil": [
+                "location"
+            ],
+            "container": [
+                "volume"
+            ],
+            "dish": [
+                "location"
+            ],
+            "pieces": [
+                "texture"
+            ],
+            "timer": [
+                "electric conductivity",
+                "sound"
+            ],
+            "room": [
+                "sound"
+            ],
+            "food": [
+                "temperature"
+            ]
+        }
+    },
+    "30": {
+        "goal": "Prevent a Wick Lamp or Stove from Smoking",
+        "steps": [
+            "Pour some white vinegar into a small container deep enough for dipping.",
+            "Remove the wick from the lamp or stove, or use wicks yet to be inserted.",
+            "Dip each wick into the vinegar.",
+            "Allow to dry thoroughly.",
+            "Use once dry."
+        ],
+        "entity_attr_dict": {
+            "wicks": [
+                "cost"
+            ],
+            "wick": [
+                "orientation",
+                "composition | wetness | moisture",
+                "dryness",
+                "location",
+                "temperature"
+            ],
+            "vinegar": [
+                "location"
+            ],
+            "container": [
+                "volume",
+                "weight",
+                "moisture"
+            ],
+            "lamp": [
+                "composition"
+            ],
+            "bottle": [
+                "weight",
+                "volume"
+            ],
+            "pot": [
+                "volume"
+            ]
+        }
+    },
+    "31": {
+        "goal": "Learn Photography by Shooting Macro",
+        "steps": [
+            "Create a very small studio.",
+            "Have the appropriate sized reflectors.",
+            "Have a closeup lens.",
+            "Again, they don't need to be that big, but big enough to diffuse light for your small subject.",
+            "Start experimenting."
+        ],
+        "entity_attr_dict": {
+            "light": [
+                "amount"
+            ],
+            "studio": [
+                "availability"
+            ]
+        }
+    },
+    "32": {
+        "goal": "Make Cheese Sauce with Jalape\u00f1o Peppers",
+        "steps": [
+            "First cut the Velveeta in to tiny squares and set aside.",
+            "Set the burner on a medium to low setting, before that you begin adding the cheese product.",
+            "Wait until the Velveeta has melted lower the heat somewhat and add in the (Rotel) tomatoes.",
+            "Add in the Jalapeno peppers, and black olives if desired.",
+            "Cheese sauce is at its best if served very warm."
+        ],
+        "entity_attr_dict": {
+            "velveeta": [
+                "granularity | shape",
+                "location",
+                "temperature",
+                "size",
+                "texture"
+            ],
+            "stove burner | burner | stove": [
+                "temperature",
+                "power",
+                "electric conductivity"
+            ],
+            "olives | jalapeno": [
+                "location",
+                "temperature"
+            ],
+            "cheese": [
+                "location"
+            ],
+            "knife | cutting board": [
+                "cleanness",
+                "moisture",
+                "location"
+            ],
+            "tomatoes": [
+                "location",
+                "temperature"
+            ],
+            "stove top burner": [
+                "temperature"
+            ],
+            "peppers": [
+                "location",
+                "temperature"
+            ],
+            "black olives": [
+                "size",
+                "location"
+            ],
+            "cheese sauce": [
+                "location"
+            ],
+            "stove knob": [
+                "orientation"
+            ],
+            "cheese dip": [
+                "taste"
+            ],
+            "sauce pan | pot | pan": [
+                "cleanness",
+                "location",
+                "temperature"
+            ],
+            "rotel can": [
+                "openness"
+            ],
+            "package": [
+                "openness"
+            ],
+            "rotel": [
+                "temperature",
+                "location"
+            ],
+            "can": [
+                "openness"
+            ]
+        }
+    },
+    "33": {
+        "goal": "Get Wailord in Pok\u00e9mon Emerald",
+        "steps": [
+            "This is the pre-evolution of Wailord.",
+            "This Wailmer can be pretty annoying to train, so be patient.",
+            "Train it until it evolves.",
+            "Go to battle frontier and copy some rare candies.",
+            "Give the rare candies to a Wailmer and evolve it into a Wailord using them."
+        ],
+        "entity_attr_dict": {
+            "wailmer": [
+                "knowledge",
+                "going",
+                "change",
+                "evolution",
+                "full",
+                "action"
+            ],
+            "battle frontier location": [
+                "location"
+            ],
+            "candy": [
+                "items"
+            ],
+            "ball": [
+                "action"
+            ]
+        }
+    },
+    "34": {
+        "goal": "Ninja Defuse in Call of Duty",
+        "steps": [
+            "Move in and cover your route to the bomb site.",
+            "Find a hiding spot and pull out your pistol.",
+            "Investigate your enemy's routes.",
+            "Wait until enemy does start to plant the bomb.",
+            "Start defusing once the bomb has been planted."
+        ],
+        "entity_attr_dict": {
+            "game character": [
+                "location"
+            ],
+            "the route": [
+                "coverage"
+            ],
+            "route": [
+                "appearance",
+                "coverage"
+            ],
+            "bomb": [
+                "skill"
+            ],
+            "pistol": [
+                "location",
+                "availability"
+            ],
+            "you": [
+                "location",
+                "focus"
+            ],
+            "routes": [
+                "knowledge"
+            ]
+        }
+    },
+    "35": {
+        "goal": "Paint Bare Wood",
+        "steps": [
+            "Acquire oil based paints, which air dry slowly.",
+            "The under-coat should be thin, and smooth, move your paint brush down the wood, don't paint up or horizontally.",
+            "Paint the second coat, but be much more careful this time, make sure there are no paint bubbles appearing and smooth out any drips or pools left over from the under-coat.",
+            "Be the most precise with this.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "paintbrush | the brush": [
+                "cleanness",
+                "moisture | wetness",
+                "weight"
+            ],
+            "the coating of paint": [
+                "thickness"
+            ],
+            "wood | the wood": [
+                "moisture | wetness",
+                "texture",
+                "color",
+                "weight"
+            ],
+            "paint | brushes": [
+                "moisture",
+                "location",
+                "size",
+                "texture",
+                "awareness",
+                "moisture | cleanness"
+            ],
+            "bubbles": [
+                "location"
+            ],
+            "coat": [
+                "location"
+            ],
+            "caulking compound": [
+                "location"
+            ],
+            "oil based paint": [
+                "ownership"
+            ],
+            "paint direction": [
+                "direction"
+            ],
+            "paint thickness": [
+                "thickness"
+            ],
+            "degree of care": [
+                "magnitude"
+            ],
+            "paint bubbles": [
+                "location"
+            ],
+            "caulking gun": [
+                "location"
+            ],
+            "paint brush": [
+                "location"
+            ],
+            "drop clothq": [
+                "availability"
+            ],
+            "linseed oil": [
+                "location"
+            ],
+            "paint base": [
+                "knowledge"
+            ],
+            "drop cloth": [
+                "location"
+            ],
+            "bare wood": [
+                "location"
+            ],
+            "precision": [
+                "skill"
+            ],
+            "brush": [
+                "color",
+                "orientation"
+            ],
+            "drips": [
+                "coverage",
+                "location"
+            ],
+            "pools": [
+                "location"
+            ],
+            "tin": [
+                "volume"
+            ],
+            "floor": [
+                "coverage"
+            ]
+        }
+    },
+    "36": {
+        "goal": "Make Seasoned Salt",
+        "steps": [
+            "Mix the ingredients together thoroughly.",
+            "Pour into an air-tight container with a lid.",
+            "It goes well in dips, salad dressings, soups and on sandwiches.",
+            "Grind the ingredients together in a mortar and pestle.",
+            "Transfer to a storage container as needed."
+        ],
+        "entity_attr_dict": {
+            "ingredients | seasoned salt": [
+                "composition | cohesiveness",
+                "organization",
+                "location",
+                "composition",
+                "taste",
+                "wholeness"
+            ],
+            "air-tight container | container": [
+                "fullness | contents",
+                "location"
+            ],
+            "sandwiches": [
+                "flavor",
+                "location"
+            ],
+            "salads": [
+                "flavor"
+            ],
+            "mortar | mortar and pestle": [
+                "fullness",
+                "cleanness | cleaness",
+                "location"
+            ],
+            "ingredient mixture": [
+                "location"
+            ],
+            "soups": [
+                "flavor"
+            ],
+            "mixture particles": [
+                "shape"
+            ],
+            "dips": [
+                "flavor",
+                "location"
+            ],
+            "pestle": [
+                "status | location"
+            ],
+            "salt | celery salt": [
+                "complexity",
+                "location"
+            ],
+            "black pepper | pepper mill": [
+                "location"
+            ],
+            "mixture": [
+                "location"
+            ],
+            "storage container": [
+                "contents"
+            ],
+            "container cover": [
+                "strength"
+            ],
+            "salad dressings": [
+                "location"
+            ],
+            "measuring cup": [
+                "location"
+            ],
+            "dry mustard": [
+                "location"
+            ],
+            "salt shaker": [
+                "volume"
+            ],
+            "spoon": [
+                "cleanness",
+                "location"
+            ],
+            "bowl": [
+                "fullness | contents"
+            ],
+            "cover": [
+                "location"
+            ],
+            "lid": [
+                "accessibility"
+            ],
+            "food": [
+                "seasoning"
+            ]
+        }
+    },
+    "37": {
+        "goal": "Camouflage Equipment",
+        "steps": [
+            "Firstly, lay out all the equipment you are going to use-whatever pattern it is.",
+            "Start with your rucksack, this is the biggest piece of your personal kit so needs the most camouflage.",
+            "Next, move on to the helmet.",
+            "Be careful with webbing.",
+            "Be extremely cautious when disguising your weapon.",
+            "Vehicles really need a vehicle camouflage net."
+        ],
+        "entity_attr_dict": {
+            "camouflage net": [
+                "coverage | location"
+            ],
+            "camouflage": [
+                "location"
+            ],
+            "weapon | hat | hay": [
+                "location",
+                "attention | visibility",
+                "decoration"
+            ],
+            "vehicle camouflage net": [
+                "location"
+            ],
+            "equipment": [
+                "organization | location",
+                "equipment"
+            ],
+            "rucksack": [
+                "location",
+                "visibility",
+                "decoration"
+            ],
+            "vehicle": [
+                "location",
+                "visibility",
+                "vehicle"
+            ],
+            "webbing": [
+                "location",
+                "attention",
+                "visibility"
+            ],
+            "surface": [
+                "fullness"
+            ],
+            "leaves": [
+                "location"
+            ],
+            "helmet": [
+                "decoration",
+                "visibility"
+            ]
+        }
+    },
+    "38": {
+        "goal": "Change the Oil on a Yamaha Virago XV250",
+        "steps": [
+            "Remove the bung to let the oil out to drain.",
+            "Remove the oil cap to let the oil drain fully and let air in to help drain the old oil out.",
+            "Remove the oil filter.",
+            "Screw the bung back on.",
+            "Fill the oil back up.",
+            "Recycle the old oil."
+        ],
+        "entity_attr_dict": {
+            "oil tank | oil container | oil can | oil": [
+                "volume | fullness",
+                "volume"
+            ],
+            "oil | air | oil bottle": [
+                "location | fullness",
+                "cleanness"
+            ],
+            "bung | the bung": [
+                "location | position",
+                "composition",
+                "volume",
+                "position"
+            ],
+            "oil filter": [
+                "location | position"
+            ],
+            "old oil": [
+                "location"
+            ],
+            "oil cap": [
+                "location | position"
+            ],
+            "funnel": [
+                "cleanness"
+            ],
+            "jug": [
+                "volume"
+            ]
+        }
+    },
+    "39": {
+        "goal": "Make a Duct Tape Necklace",
+        "steps": [
+            "Take one roll of duct tape and make a piece about a little bigger than your head.",
+            "Measure it around your head, and cut it off the roll.",
+            "Fold it halfway through the middle, like shown.",
+            "Fold the other half so there is no sticky part showing.",
+            "Tape the ends together.",
+            "And you are done!"
+        ],
+        "entity_attr_dict": {
+            "tape | duct tape": [
+                "length | size",
+                "length",
+                "size",
+                "shape | orientation",
+                "shape | appearance",
+                "texture",
+                "composition"
+            ],
+            "duct table": [
+                "knowledge"
+            ],
+            "duct tape": [
+                "location"
+            ],
+            "ends": [
+                "organization"
+            ],
+            "tape ends": [
+                "form"
+            ]
+        }
+    },
+    "40": {
+        "goal": "Grow Dwarf Balsam Fir",
+        "steps": [
+            "Choose the plant from a nursery or garden center.",
+            "This plant spreads and flattens as it grows, so select a broad sized container, preferably with a rounded shape.",
+            "Choose the potting soil.",
+            "Plant the fir in the container.",
+            "Keep this up until the tree is well established.",
+            "Re-pot occasionally."
+        ],
+        "entity_attr_dict": {
+            "containers": [
+                "contents"
+            ],
+            "plant | container | bag": [
+                "location",
+                "cost",
+                "weight",
+                "cleanness",
+                "container",
+                "watered | wetness",
+                "contentment",
+                "volume"
+            ],
+            "soil": [
+                "location"
+            ],
+            "shovel": [
+                "cleanness",
+                "location"
+            ],
+            "money": [
+                "location",
+                "value",
+                "amount"
+            ],
+            "hands": [
+                "weight",
+                "location"
+            ],
+            "water": [
+                "location",
+                "knob"
+            ],
+            "buds": [
+                "location"
+            ],
+            "fir": [
+                "location",
+                "wetness"
+            ]
+        }
+    },
+    "41": {
+        "goal": "Make a Fairy House in the Woods",
+        "steps": [
+            "Find a small area with slightly damp dirt.",
+            "Collect many twigs and sticks.",
+            "Using the sticks, create either a square formation, circle formation, or a Teepee formation.",
+            "Build your exterior walls.",
+            "You can use either a leaf or a wide strip of bark.",
+            "Decorate."
+        ],
+        "entity_attr_dict": {
+            "fairy house frame": [
+                "composition"
+            ],
+            "sticks | twigs": [
+                "organization",
+                "location",
+                "tightness"
+            ],
+            "fairy house": [
+                "composition"
+            ],
+            "twigs": [
+                "availability"
+            ],
+            "walls": [
+                "location"
+            ],
+            "bundle": [
+                "organization"
+            ],
+            "area": [
+                "knowledge"
+            ]
+        }
+    },
+    "42": {
+        "goal": "Make Whole Wheat Pastry With Canola",
+        "steps": [
+            "Place the whole wheat flour and salt into the mixing bowl.",
+            "Pour in the oil.",
+            "Place the pastry onto a sheet of wax paper.",
+            "Remove from the fridge.",
+            "Press the pastry into the pie dish.",
+            "Create an edge with the sides of a fork."
+        ],
+        "entity_attr_dict": {
+            "flour and salt": [
+                "location | composition"
+            ],
+            "mixture | mixture in bowl": [
+                "wetness | moisture",
+                "location",
+                "temperature",
+                "size"
+            ],
+            "pastry": [
+                "location | shape",
+                "temperature",
+                "texture"
+            ],
+            "edges": [
+                "texture"
+            ],
+            "dough": [
+                "temperature"
+            ],
+            "dry and wet ingredients": [
+                "composition"
+            ],
+            "bowl": [
+                "cleanness",
+                "weight"
+            ],
+            "edge": [
+                "shape"
+            ],
+            "fork": [
+                "location"
+            ],
+            "fridge light": [
+                "electric conductivity"
+            ],
+            "mixing bowl": [
+                "volume",
+                "weight"
+            ],
+            "fridge door": [
+                "openness"
+            ],
+            "pie dish": [
+                "volume",
+                "weight",
+                "cleanness"
+            ],
+            "ingredients": [
+                "composition"
+            ],
+            "oil": [
+                "location",
+                "composition"
+            ],
+            "wax paper": [
+                "area"
+            ]
+        }
+    },
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entity_attr_dict": {
+            "plant": [
+                "cost"
+            ],
+            "moss": [
+                "size"
+            ],
+            "fairy moss": [
+                "wetness",
+                "position",
+                "shape"
+            ],
+            "container": [
+                "location"
+            ],
+            "continer": [
+                "volume"
+            ],
+            "containter": [
+                "volume"
+            ],
+            "bowl contents": [
+                "composition"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl": [
+                "wetness",
+                "container",
+                "position"
+            ]
+        }
+    },
+    "44": {
+        "goal": "Make Chocolate Hearts for Valentine&#x27;s Day",
+        "steps": [
+            "Assemble the ingredients needed.",
+            "Melt the chocolate bars in the microwave until you have no lumps left after stirring.",
+            "Pour the melted chocolate into the heart shaped molds.",
+            "Put the chocolate into the freezer until hardened.",
+            "Leave them out for one minute and pop out of molds, Or, cut heart shapes in the tray.",
+            "Enjoy then and there, or box them up and give away!"
+        ],
+        "entity_attr_dict": {
+            "chocolate | chocolates | choclate": [
+                "cost",
+                "texture | form | location | locatio",
+                "temperature",
+                "hardness",
+                "ease of release",
+                "shape"
+            ],
+            "molds, mug, chocolate": [
+                "location"
+            ],
+            "molds | mold": [
+                "container | volume",
+                "fullness",
+                "cleanness",
+                "temperature",
+                "weight"
+            ],
+            "ingredients": [
+                "location"
+            ],
+            "microwave": [
+                "power"
+            ],
+            "chocolate bars": [
+                "location"
+            ],
+            "spoon": [
+                "cleanness"
+            ]
+        }
+    },
+    "45": {
+        "goal": "Make Soap Bubbles for Your Children",
+        "steps": [
+            "Mix soap and water.",
+            "Enhance your bubble solution.",
+            "Make a little bubble wand.",
+            "Make a giant bubble wand.",
+            "First go outside, since bubbles look most beautiful when the sun shines through their iridescent swirls.",
+            "Make giant bubbles."
+        ],
+        "entity_attr_dict": {
+            "bubbles | bubble solution": [
+                "location"
+            ],
+            "coat hanger": [
+                "shape"
+            ],
+            "mixing jar": [
+                "moisture",
+                "weight"
+            ],
+            "soap | water": [
+                "location",
+                "composition"
+            ],
+            "mixture": [
+                "location"
+            ],
+            "person": [
+                "location"
+            ],
+            "water surface": [
+                "composition"
+            ],
+            "bubble want": [
+                "location",
+                "wetness"
+            ],
+            "hanger": [
+                "use"
+            ],
+            "bowl": [
+                "fullness"
+            ],
+            "wire": [
+                "shape"
+            ]
+        }
+    },
+    "46": {
+        "goal": "Clean Your Home Efficiently",
+        "steps": [
+            "######Pick up and put away stray items and throw trash into waste baskets.",
+            "######Dust, again going through the entire house room by room.",
+            "######Take a large trash bag and go through each room emptying the waste baskets and trash cans.",
+            "######Use a spray cleaner and rags or paper towels to clean any glass surfaces, including the TV screens.",
+            "First pick up any throw rugs and inside door mats and shake them outside.",
+            "######Enjoy your clean home!"
+        ],
+        "entity_attr_dict": {
+            "throw rugs and inside door mats | rugs": [
+                "cleanness"
+            ],
+            "waste basket | waste baskets": [
+                "container | volume | mass"
+            ],
+            "rooms": [
+                "messiness | cleanness"
+            ],
+            "trash cans": [
+                "container | volume"
+            ],
+            "throw rugs | door mats": [
+                "cleanness"
+            ],
+            "house | duster": [
+                "cleanness"
+            ],
+            "trash": [
+                "location"
+            ],
+            "surfaces | glass surfaces": [
+                "cleanness",
+                "wetness"
+            ],
+            "spray cleaner": [
+                "location"
+            ],
+            "straw items": [
+                "location"
+            ],
+            "trash bag | trash bags": [
+                "container | mass",
+                "weight",
+                "shape"
+            ],
+            "mats": [
+                "cleanness"
+            ],
+            "dust": [
+                "location"
+            ],
+            "items": [
+                "location",
+                "messiness"
+            ]
+        }
+    },
+    "47": {
+        "goal": "Make Your Den Look Like a Home on Animal Jam (Non Members)",
+        "steps": [
+            "Get lots of gems.",
+            "for a family home you will need quite a lot of stuff.",
+            "Try to get room shoji screens so you can section things off into smaller rooms.",
+            "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.",
+            "Make an outside area.",
+            "Keep your family safe."
+        ],
+        "entity_attr_dict": {
+            "screens": [
+                "location"
+            ],
+            "master bedroom | living room | living/dining room": [
+                "availability"
+            ],
+            "stuff": [
+                "location"
+            ],
+            "gems": [
+                "availability"
+            ],
+            "outside area": [
+                "availability | step"
+            ],
+            "kids room": [
+                "availability"
+            ]
+        }
+    },
+    "48": {
+        "goal": "Make a Pitcher of Melon Pina Coladas",
+        "steps": [
+            "Pour the ingredients (except the garnish) into a pitcher that can hold 100 ounces.",
+            "Ensure everything is mixed thoroughly.",
+            "Allow the mixture to chill in the refrigerator until ready to serve.",
+            "Pour the mixture into tall glasses.",
+            "Add a chunk of honeydew melon on the side of each glass.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "pitcher": [
+                "container | volume",
+                "wetness",
+                "cleanness",
+                "weight"
+            ],
+            "refrigerator": [
+                "weight",
+                "fullness"
+            ],
+            "side of each glass": [
+                "cleanness"
+            ],
+            "glass | tall glasses": [
+                "cleanness",
+                "wetness",
+                "weight",
+                "taste"
+            ],
+            "mixture | liquid": [
+                "location",
+                "temperature"
+            ],
+            "honeydew": [
+                "shape",
+                "size",
+                "location"
+            ],
+            "honeydew melon": [
+                "location"
+            ],
+            "ingredients": [
+                "location",
+                "composition"
+            ],
+            "mixing spoon": [
+                "cleanness"
+            ],
+            "spoon": [
+                "location",
+                "wetness"
+            ],
+            "task": [
+                "completion"
+            ],
+            "rum and coconut": [
+                "composition"
+            ],
+            "glasses": [
+                "decoration"
+            ],
+            "rum": [
+                "locaion"
+            ]
+        }
+    },
+    "49": {
+        "goal": "Make Pineapple Sherbet",
+        "steps": [
+            "Blend the pineapple if it's fresh.",
+            "Pour in the milk, oil, sugar or syrup and extract.",
+            "Blend all of the ingredients together until smooth.",
+            "Pour into a baking dish with decent sides.",
+            "Place in the freezer.",
+            "To serve: Simply scoop or cut out pieces of the sherbet."
+        ],
+        "entity_attr_dict": {
+            "the milk | milk | the oil | oil": [
+                "location | container",
+                "location"
+            ],
+            "the extract | extract": [
+                "location"
+            ],
+            "the blender": [
+                "volume | weight",
+                "cleanness"
+            ],
+            "the baking dish | baking dish": [
+                "volume | container",
+                "weight",
+                "cleanness",
+                "wetness",
+                "temperature",
+                "location | inside a freezer"
+            ],
+            "pineapple": [
+                "size",
+                "location",
+                "shape"
+            ],
+            "the sugar or syrup | sugar": [
+                "location",
+                "wetness"
+            ],
+            "the refrigerator | freezer": [
+                "volume | weight",
+                "weight"
+            ],
+            "the ingredients | mixture": [
+                "composition",
+                "temperature",
+                "texture"
+            ],
+            "the pineapple": [
+                "location",
+                "temperature"
+            ],
+            "the wax paper": [
+                "location"
+            ],
+            "scoop": [
+                "wetness | cleanness"
+            ],
+            "the sherbet": [
+                "location"
+            ],
+            "the plate": [
+                "weight",
+                "cleanness"
+            ],
+            "sherbet | the mixture | mixture": [
+                "location | container",
+                "temperature",
+                "size",
+                "shape"
+            ],
+            "the mixture | mixture": [
+                "temperature"
+            ],
+            "contents of blender": [
+                "composition"
+            ],
+            "blender": [
+                "wetness | cleanness",
+                "container | smell",
+                "weight",
+                "power"
+            ],
+            "blender blades": [
+                "movement"
+            ],
+            "ingredients": [
+                "texture"
+            ]
+        }
+    },
+    "50": {
+        "goal": "Make a Pancake Mix Container from a Recycled Ketchup Bottle",
+        "steps": [
+            "Scrub the ketchup bottle thoroughly.",
+            "Place the funnel over the mouth of the bottle.",
+            "Pour pancake batter through the funnel into the empty ketchup bottle.",
+            "Replace the lid and label the bottle.",
+            "Place the bottle in refrigerator.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "batter | pancake batter": [
+                "container | location",
+                "temperature"
+            ],
+            "ketchup bottle": [
+                "cleanness",
+                "wetness"
+            ],
+            "funnel": [
+                "location",
+                "cleanness",
+                "wetness"
+            ],
+            "bottle | lid": [
+                "cleanness | wetness",
+                "weight",
+                "emptiness",
+                "orientation | location",
+                "clarity",
+                "location",
+                "temperature"
+            ],
+            "sink": [
+                "wetness"
+            ],
+            "pen": [
+                "location"
+            ],
+            "pan": [
+                "cleanness",
+                "emptiness"
+            ],
+            "scrubber": [
+                "cleanness"
+            ],
+            "fridge": [
+                "volume"
+            ],
+            "faucet": [
+                "power"
+            ],
+            "hands": [
+                "wetness"
+            ],
+            "bowl": [
+                "emptiness"
+            ]
+        }
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entity_attr_dict": {
+            "window | water and dish soap on window": [
+                "wetness | moisture | composition | compostion",
+                "temperature",
+                "cleanness",
+                "transparency | covering",
+                "weight"
+            ],
+            "glass cleaner bottle": [
+                "weight | fullness"
+            ],
+            "razor blade package": [
+                "openness | composition"
+            ],
+            "solvent container": [
+                "fullness | weight"
+            ],
+            "soap bottle": [
+                "fullness | weight"
+            ],
+            "paint": [
+                "moisture",
+                "power",
+                "location | cleanness",
+                "wholeness"
+            ],
+            "blade": [
+                "location",
+                "sharpness"
+            ],
+            "soap": [
+                "location"
+            ],
+            "chemicals": [
+                "location"
+            ],
+            "splatters": [
+                "color"
+            ],
+            "solvent | chemical solvents": [
+                "location"
+            ],
+            "sponge": [
+                "moisture",
+                "location",
+                "cleanness"
+            ],
+            "razor blade": [
+                "location",
+                "position",
+                "contact",
+                "cleanness"
+            ],
+            "glass cleaner": [
+                "location"
+            ],
+            "bucket": [
+                "temperature",
+                "moisture | wetness",
+                "weight",
+                "fullness"
+            ],
+            "small paint splatters": [
+                "location"
+            ],
+            "water and dish soap": [
+                "mixture",
+                "location"
+            ],
+            "all of the paint": [
+                "location",
+                "wholeness"
+            ],
+            "paint splatter": [
+                "texture"
+            ],
+            "items needed": [
+                "location"
+            ],
+            "cloth": [
+                "wetness | cleanness"
+            ]
+        }
+    },
+    "52": {
+        "goal": "Use a Mic in Team Fortress 2",
+        "steps": [
+            "Make sure that your microphone is working and connected first.",
+            "Find various panels at the top like \"Multiplayer\", \"Mouse\", \"Audio\", etc.",
+            "Click on the Voice panel.",
+            "Start talking with other players using your microphone!",
+            "Use the microphone to communicate with your team in a more efficient manner and demand that your voice is heard!",
+            "Advise teammates as well as make game plans to help and support your team."
+        ],
+        "entity_attr_dict": {
+            "microphone": [
+                "connection",
+                "electric conductivity",
+                "availability",
+                "operation"
+            ],
+            "panels | panel": [
+                "visibility | knowledge"
+            ],
+            "audio options": [
+                "selection"
+            ],
+            "communication": [
+                "availability",
+                "stability"
+            ],
+            "menu options": [
+                "availability"
+            ],
+            "voice panel": [
+                "availability"
+            ],
+            "voice": [
+                "sound"
+            ],
+            "game plans": [
+                "availability"
+            ],
+            "team": [
+                "stability"
+            ],
+            "advice": [
+                "ownership"
+            ],
+            "person": [
+                "volume"
+            ]
+        }
+    },
+    "53": {
+        "goal": "Make Chinese Macaroni in Just 20 Minutes",
+        "steps": [
+            "Boil macaroni in hot boiling water with some salt and oil for 10-15 minutes.",
+            "After the macaroni has boiled put under running water for about 15 seconds to prevent over cooking.",
+            "In another pan add some oil and toss in the macaroni.",
+            "Add salt, red chilli powder ,soy sauce,white vinegar and ajino moto.",
+            "Cook for some seconds.",
+            "Serve hot with chilled drinks."
+        ],
+        "entity_attr_dict": {
+            "macaroni": [
+                "location",
+                "cooking | thermal conductivity",
+                "taste | odor | color",
+                "temperature",
+                "texture",
+                "oiliness",
+                "speed",
+                "time"
+            ],
+            "oil": [
+                "location",
+                "temperature"
+            ],
+            "drinking glass | drinks": [
+                "location"
+            ],
+            "salt and oil | oil/water/pasta/salt": [
+                "mixture | composition"
+            ],
+            "water": [
+                "temperature",
+                "location"
+            ],
+            "pan | stirring tool": [
+                "cleanness",
+                "weight",
+                "fullness",
+                "temperature"
+            ],
+            "chilled drinks": [
+                "location"
+            ],
+            "serving dish": [
+                "cleanness",
+                "fullness"
+            ],
+            "red chilli powder": [
+                "location"
+            ],
+            "saucepan": [
+                "location"
+            ],
+            "strainer": [
+                "volume",
+                "location",
+                "cleanness",
+                "wetness"
+            ],
+            "the time": [
+                "time"
+            ],
+            "fork": [
+                "cleanness"
+            ],
+            "white vinegar": [
+                "location"
+            ],
+            "plate": [
+                "location"
+            ],
+            "sink": [
+                "wetness"
+            ],
+            "task": [
+                "completion"
+            ],
+            "ajino moto": [
+                "location"
+            ],
+            "soy sauce": [
+                "location"
+            ],
+            "stove burner": [
+                "power"
+            ],
+            "flavorings macaroni": [
+                "composition"
+            ],
+            "food": [
+                "mixture",
+                "temperature",
+                "location",
+                "completion"
+            ],
+            "salt": [
+                "location"
+            ],
+            "oil/macaroni": [
+                "composition"
+            ],
+            "boiling pot": [
+                "fullness",
+                "temperature"
+            ],
+            "spatula": [
+                "location"
+            ],
+            "sun": [
+                "location"
+            ],
+            "mixture": [
+                "temperature"
+            ],
+            "ingredients": [
+                "mixture"
+            ],
+            "you": [
+                "age"
+            ]
+        }
+    },
+    "54": {
+        "goal": "Make a Bead Ring",
+        "steps": [
+            "Cut a strip of elastic.",
+            "Slip two larger beads at either side of the small bead.",
+            "Slip a small bead on one tail.",
+            "Continue this pattern until you have enough beads to fit around the finger.",
+            "Finish the ring by slipping the loose tails through the first small bead you placed on the elastic.",
+            "Finished."
+        ],
+        "entity_attr_dict": {
+            "the beads | beads | the bead | bead": [
+                "location",
+                "organization",
+                "shape",
+                "composition"
+            ],
+            "the strip of elastic": [
+                "length | weight",
+                "shape",
+                "color"
+            ],
+            "elastic ends": [
+                "orientation"
+            ],
+            "elastic": [
+                "length",
+                "size",
+                "location",
+                "weight",
+                "shape"
+            ],
+            "tail | tails": [
+                "orientation"
+            ],
+            "small bead": [
+                "location"
+            ],
+            "you": [
+                "focus"
+            ]
+        }
+    },
+    "55": {
+        "goal": "Recycle Underpants",
+        "steps": [
+            "Turn the underpants into cleaning rags.",
+            "Use the underwear as garden ties.",
+            "Turn quality undies into craft items.",
+            "Use a bundle of old underwear as stuffing.",
+            "Children can wear old underwear on the outside of their pants to play superhero.",
+            "Donate the underpants."
+        ],
+        "entity_attr_dict": {
+            "underwear | underwears": [
+                "newness",
+                "location",
+                "size",
+                "use | shape"
+            ],
+            "underpants | floor": [
+                "newness",
+                "cleanness",
+                "location",
+                "use | shape | composition",
+                "size",
+                "ownership | availability"
+            ],
+            "underwear strips": [
+                "shape"
+            ],
+            "bundle of old underwear": [
+                "use"
+            ],
+            "plants": [
+                "form"
+            ],
+            "garden plants": [
+                "decoration"
+            ],
+            "donation box": [
+                "location"
+            ],
+            "pillow case": [
+                "location",
+                "content"
+            ],
+            "scissors": [
+                "location"
+            ],
+            "quality undies": [
+                "use"
+            ],
+            "child": [
+                "look"
+            ],
+            "pants": [
+                "covering"
+            ]
+        }
+    }
+}

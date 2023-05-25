@@ -1,0 +1,130 @@
+{
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entities": [
+            [
+                "plant",
+                "moss",
+                "fairy moss"
+            ],
+            [
+                "container",
+                "continer",
+                "containter"
+            ],
+            [
+                "bowl contents"
+            ],
+            [
+                "water"
+            ],
+            [
+                "bowl"
+            ]
+        ],
+        "entities_flattened": [
+            "plant",
+            "moss",
+            "fairy moss",
+            "container",
+            "continer",
+            "containter",
+            "bowl contents",
+            "water",
+            "bowl"
+        ]
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entities": [
+            [
+                "window"
+            ],
+            [
+                "soap",
+                "water and dish soap",
+                "water and dish soap on window"
+            ],
+            [
+                "glass cleaner bottle",
+                "solvent container",
+                "soap bottle"
+            ],
+            [
+                "razor blade package"
+            ],
+            [
+                "paint"
+            ],
+            [
+                "razor blade",
+                "blade"
+            ],
+            [
+                "splatters",
+                "small paint splatters",
+                "all of the paint",
+                "paint splatter"
+            ],
+            [
+                "solvent",
+                "chemical solvents",
+                "chemicals",
+                "glass cleaner"
+            ],
+            [
+                "sponge"
+            ],
+            [
+                "bucket"
+            ],
+            [
+                "items needed"
+            ],
+            [
+                "cloth"
+            ]
+        ],
+        "entities_flattened": [
+            "window",
+            "water and dish soap on window",
+            "glass cleaner bottle",
+            "razor blade package",
+            "solvent container",
+            "soap bottle",
+            "paint",
+            "blade",
+            "soap",
+            "chemicals",
+            "splatters",
+            "solvent",
+            "chemical solvents",
+            "sponge",
+            "razor blade",
+            "glass cleaner",
+            "bucket",
+            "small paint splatters",
+            "water and dish soap",
+            "all of the paint",
+            "paint splatter",
+            "items needed",
+            "cloth"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+[
+  {"role": "user", "content": "{context}"},
+  {"role": "assistant", "content": "Yes, I understand."},
+  {"role": "user", "content": "{entity_context}"},
+  {"role": "assistant", "content": "Based on the given context, here are the extra entities that are referring to the same object as the given entities:\n{entity_ans}"}
+]

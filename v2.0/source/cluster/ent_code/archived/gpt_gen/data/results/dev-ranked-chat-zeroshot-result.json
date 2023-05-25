@@ -1,0 +1,2962 @@
+{
+    "6": {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": [
+            "Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.",
+            "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.",
+            "Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.",
+            "BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one."
+        ],
+        "entity_states": [
+            {
+                "entity": "weapon",
+                "openpi_narrative": [
+                    "The location of weapon is still before and focused afterwards.",
+                    "The location of weapon is unfired before and fired afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "still",
+                        "postcondition": "focused"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "unfired",
+                        "postcondition": "fired"
+                    }
+                ]
+            },
+            {
+                "entity": "you",
+                "openpi_narrative": [
+                    "The knowledge of you is unsure where to aim before and aware of where to aim afterwards.",
+                    "The shape of you is unaware of shape of aim on shotgun before and aware of shape of aim on shotgun afterwards.",
+                    "The knowledge of you is unaware of how many shots is needed for a pistol head shot before and needed for a pistol head shot afterwards.",
+                    "The knowledge of you is unaware of odds of boomshot headshot before and aware of odds of boomshot headshot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "unsure where to aim",
+                        "postcondition": "aware of where to aim"
+                    },
+                    {
+                        "attribute": "shape",
+                        "precondition": "unaware of shape of aim on shotgun",
+                        "postcondition": "aware of shape of aim on shotgun"
+                    },
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "unaware of how many shots is needed for a pistol head shot",
+                        "postcondition": "needed for a pistol head shot"
+                    },
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "unaware of odds of boomshot headshot",
+                        "postcondition": "aware of odds of boomshot headshot"
+                    }
+                ]
+            }
+        ],
+        "gpt3_output": {
+            "weapon": [
+                {
+                    "input": "The location of weapon is still before and focused afterwards.",
+                    "raw-output": [
+                        "The position of weapon is stationary before and fixated afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "position",
+                            "entity": "weapon",
+                            "pre-state": "stationary",
+                            "post-state": "fixated"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of weapon is unfired before and fired afterwards.",
+                    "raw-output": [
+                        "The condition of \"fired\" is an action rather than an attribute, but here are some alternative ways to describe the state change:",
+                        "",
+                        "- The status of the weapon is \"unfired\" before and \"fired\" afterwards.",
+                        "- The activation status of the weapon is \"inactive\" before and \"active\" afterwards.",
+                        "- The function of the weapon is \"unused\" before and \"utilized\" afterwards.",
+                        "- The capability of the weapon is \"unexplored\" before and \"employed\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "status",
+                            "entity": "the weapon",
+                            "pre-state": "\"unfired\"",
+                            "post-state": "\"fired\""
+                        },
+                        {
+                            "attribute": "activation status",
+                            "entity": "the weapon",
+                            "pre-state": "\"inactive\"",
+                            "post-state": "\"active\""
+                        },
+                        {
+                            "attribute": "function",
+                            "entity": "the weapon",
+                            "pre-state": "\"unused\"",
+                            "post-state": "\"utilized\""
+                        },
+                        {
+                            "attribute": "capability",
+                            "entity": "the weapon",
+                            "pre-state": "\"unexplored\"",
+                            "post-state": "\"employed\""
+                        }
+                    ]
+                }
+            ],
+            "you": [
+                {
+                    "input": "The knowledge of you is unsure where to aim before and aware of where to aim afterwards.",
+                    "raw-output": [
+                        "The \"precision\" of the aiming object is \"uncertain\" before and \"certain\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "\"precision\"",
+                            "entity": "the aiming object",
+                            "pre-state": "\"uncertain\"",
+                            "post-state": "\"certain\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The shape of you is unaware of shape of aim on shotgun before and aware of shape of aim on shotgun afterwards.",
+                    "raw-output": [
+                        "The awareness attribute of the shape of you entity is unaware of the shape of aim on shotgun before and aware of it afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "awareness attribute of the shape",
+                            "entity": "you entity",
+                            "pre-state": "unaware of the shape of aim on shotgun",
+                            "post-state": "aware of it"
+                        }
+                    ]
+                },
+                {
+                    "input": "The knowledge of you is unaware of how many shots is needed for a pistol head shot before and needed for a pistol head shot afterwards.",
+                    "raw-output": [
+                        "The 'knowledge' attribute of 'you' is 'unaware of how many shots are needed for a pistol headshot' both before and after the procedure."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The knowledge of you is unaware of odds of boomshot headshot before and aware of odds of boomshot headshot afterwards.",
+                    "raw-output": [
+                        "The 'awareness' of the entity 'knowledge' is 'unaware' of the odds of boomshot headshot before and 'aware' of the odds of boomshot headshot afterwards. Alternatively, the 'level of information' of the 'entity' is 'absent' before and 'present' afterwards regarding the odds of boomshot headshot."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'awareness' of the entity 'knowledge' is 'unaware' of the odds of boomshot headshot before and 'aware' of the odds of boomshot headshot afterwards. Alternatively, the 'level of information'",
+                            "entity": "the 'entity'",
+                            "pre-state": "'absent'",
+                            "post-state": "'present'"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entity_states": [
+            {
+                "entity": "pruning shears",
+                "openpi_narrative": [
+                    "The wetness of pruning shears is dry before and wet afterwards.",
+                    "The moisture of pruning shears is dry before and wet afterwards.",
+                    "The cleanness of pruning shears is clean before and dirty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    },
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    }
+                ]
+            },
+            {
+                "entity": "the clipping",
+                "openpi_narrative": [
+                    "The moisture of the clipping is drier before and wetter afterwards.",
+                    "The wetness of the clipping is drier before and wetter afterwards.",
+                    "The location of the clipping is attached before and removed afterwards.",
+                    "The composition of the clipping is pure before and dipped into rooting hormone afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "moisture",
+                        "precondition": "drier",
+                        "postcondition": "wetter"
+                    },
+                    {
+                        "attribute": "wetness",
+                        "precondition": "drier",
+                        "postcondition": "wetter"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "attached",
+                        "postcondition": "removed"
+                    },
+                    {
+                        "attribute": "composition",
+                        "precondition": "pure",
+                        "postcondition": "dipped into rooting hormone"
+                    }
+                ]
+            },
+            {
+                "entity": "hole in ground",
+                "openpi_narrative": [
+                    "The container of hole in ground is empty before and filled afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "container",
+                        "precondition": "empty",
+                        "postcondition": "filled"
+                    }
+                ]
+            },
+            {
+                "entity": "the rose bush",
+                "openpi_narrative": [
+                    "The weight of the rose bush is heavier before and lighter afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "weight",
+                        "precondition": "heavier",
+                        "postcondition": "lighter"
+                    }
+                ]
+            },
+            {
+                "entity": "the shovel",
+                "openpi_narrative": [
+                    "The cleanness of the shovel is clean before and dirty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    }
+                ]
+            },
+            {
+                "entity": "cutting",
+                "openpi_narrative": [
+                    "The location of cutting is attached before and cut afterwards.",
+                    "The location of cutting is attached before and removed afterwards.",
+                    "The location of cutting is attached before and removed afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "attached",
+                        "postcondition": "cut"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "attached",
+                        "postcondition": "removed"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "attached",
+                        "postcondition": "removed"
+                    }
+                ]
+            },
+            {
+                "entity": "ground",
+                "openpi_narrative": [
+                    "The volume of ground is filled before and empty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "volume",
+                        "precondition": "filled",
+                        "postcondition": "empty"
+                    }
+                ]
+            },
+            {
+                "entity": "rose bush",
+                "openpi_narrative": [
+                    "The shape of rose bush is fuller before and thinner afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "shape",
+                        "precondition": "fuller",
+                        "postcondition": "thinner"
+                    }
+                ]
+            },
+            {
+                "entity": "rooting hormone",
+                "openpi_narrative": [
+                    "The location of rooting hormone is in bottle before and on roots afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in bottle",
+                        "postcondition": "on roots"
+                    }
+                ]
+            },
+            {
+                "entity": "yard",
+                "openpi_narrative": [
+                    "The readiness of yard is unprepared before and prepared afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "readiness",
+                        "precondition": "unprepared",
+                        "postcondition": "prepared"
+                    }
+                ]
+            },
+            {
+                "entity": "area",
+                "openpi_narrative": [
+                    "The readiness of area is bare before and prepared for planting afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "readiness",
+                        "precondition": "bare",
+                        "postcondition": "prepared for planting"
+                    }
+                ]
+            },
+            {
+                "entity": "pot",
+                "openpi_narrative": [
+                    "The volume of pot is empty before and full afterwards.",
+                    "The volume of pot is empty before and full afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "full"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "full"
+                    }
+                ]
+            },
+            {
+                "entity": "the cutting",
+                "openpi_narrative": [
+                    "The location of the cutting is on rose bush before and now in ground afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "on rose bush",
+                        "postcondition": "now in ground"
+                    }
+                ]
+            },
+            {
+                "entity": "water",
+                "openpi_narrative": [
+                    "The location of water is in hose before and in soil afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in hose",
+                        "postcondition": "in soil"
+                    }
+                ]
+            },
+            {
+                "entity": "roots",
+                "openpi_narrative": [
+                    "The moisture of roots is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "soil",
+                "openpi_narrative": [
+                    "The location of soil is in bag before and in pot afterwards.",
+                    "The location of soil is in bag before and in pot afterwards.",
+                    "The moisture of soil is dry before and damp afterwards.",
+                    "The location of soil is in bag before and in pot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in bag",
+                        "postcondition": "in pot"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in bag",
+                        "postcondition": "in pot"
+                    },
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dry",
+                        "postcondition": "damp"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in bag",
+                        "postcondition": "in pot"
+                    }
+                ]
+            }
+        ],
+        "gpt3_output": {
+            "pruning shears": [
+                {
+                    "input": "The wetness of pruning shears is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The moisture level of the pruning shears is dry before and wet afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "moisture level",
+                            "entity": "the pruning shears",
+                            "pre-state": "dry",
+                            "post-state": "wet"
+                        }
+                    ]
+                },
+                {
+                    "input": "The moisture of pruning shears is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The condition of the pruning shears is 'dry' before and 'wet' after the procedure."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The cleanness of pruning shears is clean before and dirty afterwards.",
+                    "raw-output": [
+                        "The sharpness of the pruning shears is sharp before and dull afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "sharpness",
+                            "entity": "the pruning shears",
+                            "pre-state": "sharp",
+                            "post-state": "dull"
+                        }
+                    ]
+                }
+            ],
+            "the clipping": [
+                {
+                    "input": "The moisture of the clipping is drier before and wetter afterwards.",
+                    "raw-output": [
+                        "The \"hydration level\" of the \"rose bush cutting\" is \"lower\" before and \"higher\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "\"hydration level\"",
+                            "entity": "the \"rose bush cutting\"",
+                            "pre-state": "\"lower\"",
+                            "post-state": "\"higher\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The wetness of the clipping is drier before and wetter afterwards.",
+                    "raw-output": [
+                        "The moisture level of the cutting is less before and greater afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "moisture level",
+                            "entity": "the cutting",
+                            "pre-state": "less",
+                            "post-state": "greater"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of the clipping is attached before and removed afterwards.",
+                    "raw-output": [
+                        "The 'attachment' of the clipping to the original plant is the attribute of the entity. The pre-condition is that it is attached to the original plant and the post-condition is that it is now detached from the original plant. Alternatively, the 'connection' of the clipping to the original plant can also be described as the attribute of the entity, with the pre-condition being that it is connected to the original plant and the post-condition being that it is now disconnected from the original plant."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The composition of the clipping is pure before and dipped into rooting hormone afterwards.",
+                    "raw-output": [
+                        "The chemical makeup of the clipping is homogeneous before and heterogeneous after being dipped into rooting hormone."
+                    ],
+                    "structured": []
+                }
+            ],
+            "hole in ground": [
+                {
+                    "input": "The container of hole in ground is empty before and filled afterwards.",
+                    "raw-output": [
+                        "The volume of the container is empty before and full afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "volume",
+                            "entity": "the container",
+                            "pre-state": "empty",
+                            "post-state": "full"
+                        }
+                    ]
+                }
+            ],
+            "the rose bush": [
+                {
+                    "input": "The weight of the rose bush is heavier before and lighter afterwards.",
+                    "raw-output": [
+                        "The mass of the rose bush is greater before and smaller afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "mass",
+                            "entity": "the rose bush",
+                            "pre-state": "greater",
+                            "post-state": "smaller"
+                        }
+                    ]
+                }
+            ],
+            "the shovel": [
+                {
+                    "input": "The cleanness of the shovel is clean before and dirty afterwards.",
+                    "raw-output": [
+                        "The hygiene of the shovel is hygienic before and unhygienic afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "hygiene",
+                            "entity": "the shovel",
+                            "pre-state": "hygienic",
+                            "post-state": "unhygienic"
+                        }
+                    ]
+                }
+            ],
+            "cutting": [
+                {
+                    "input": "The location of cutting is attached before and cut afterwards.",
+                    "raw-output": [
+                        "The 'attachment' of the cutting to the original plant is the attribute of the entity that is being changed. The description can be: 'The attachment of the cutting to the original plant is 'intact' before and 'severed' afterwards.'"
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'attachment' of the cutting to the original plant is the attribute of the entity that is being changed. The description can be: 'The attachment",
+                            "entity": "the cutting to the original plant",
+                            "pre-state": "'intact'",
+                            "post-state": "'severed'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of cutting is attached before and removed afterwards.",
+                    "raw-output": [
+                        "The attachment of the cutting to the original bush is 'intact' before and 'removed' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "attachment",
+                            "entity": "the cutting to the original bush",
+                            "pre-state": "'intact'",
+                            "post-state": "'removed'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of cutting is attached before and removed afterwards.",
+                    "raw-output": [
+                        "The attachment of the cutting to the rose bush is 'attached' before and 'detached' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "attachment",
+                            "entity": "the cutting to the rose bush",
+                            "pre-state": "'attached'",
+                            "post-state": "'detached'"
+                        }
+                    ]
+                }
+            ],
+            "ground": [
+                {
+                    "input": "The volume of ground is filled before and empty afterwards.",
+                    "raw-output": [
+                        "The \"capacity\" of the \"container\" is \"full\" before and \"empty\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "\"capacity\"",
+                            "entity": "the \"container\"",
+                            "pre-state": "\"full\"",
+                            "post-state": "\"empty\""
+                        }
+                    ]
+                }
+            ],
+            "rose bush": [
+                {
+                    "input": "The shape of rose bush is fuller before and thinner afterwards.",
+                    "raw-output": [
+                        "The density of the rose bush is greater before and lesser afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "density",
+                            "entity": "the rose bush",
+                            "pre-state": "greater",
+                            "post-state": "lesser"
+                        }
+                    ]
+                }
+            ],
+            "rooting hormone": [
+                {
+                    "input": "The location of rooting hormone is in bottle before and on roots afterwards.",
+                    "raw-output": [
+                        "The 'quantity' of 'rooting hormone' is 'in the bottle' before and 'on the roots' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'quantity'",
+                            "entity": "'rooting hormone'",
+                            "pre-state": "'in the bottle'",
+                            "post-state": "'on the roots'"
+                        }
+                    ]
+                }
+            ],
+            "yard": [
+                {
+                    "input": "The readiness of yard is unprepared before and prepared afterwards.",
+                    "raw-output": [
+                        "The cleanliness of the pot/area is dirty or unkempt before and clean or organized afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "cleanliness",
+                            "entity": "the pot/area",
+                            "pre-state": "dirty or unkempt",
+                            "post-state": "clean or organized"
+                        }
+                    ]
+                }
+            ],
+            "area": [
+                {
+                    "input": "The readiness of area is bare before and prepared for planting afterwards.",
+                    "raw-output": [
+                        "The condition of the area is unfinished before and finished for planting afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "condition",
+                            "entity": "the area",
+                            "pre-state": "unfinished",
+                            "post-state": "finished for planting"
+                        }
+                    ]
+                }
+            ],
+            "pot": [
+                {
+                    "input": "The volume of pot is empty before and full afterwards.",
+                    "raw-output": [
+                        "The 'volume' attribute of the 'pot' entity is 'empty' before and 'full' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'volume' attribute",
+                            "entity": "the 'pot' entity",
+                            "pre-state": "'empty'",
+                            "post-state": "'full'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The volume of pot is empty before and full afterwards.",
+                    "raw-output": [
+                        "The capacity of the pot is vacant before and occupied afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "capacity",
+                            "entity": "the pot",
+                            "pre-state": "vacant",
+                            "post-state": "occupied"
+                        }
+                    ]
+                }
+            ],
+            "the cutting": [
+                {
+                    "input": "The location of the cutting is on rose bush before and now in ground afterwards.",
+                    "raw-output": [
+                        "The location attribute of the rose bush cutting is on the parent plant before, and in the ground afterwards.",
+                        "The attachment attribute of the rose bush cutting is on the parent plant before, and detached or separated afterwards.",
+                        "The rooting attribute of the rose bush cutting is not rooted before, and rooted or implanted in soil afterwards."
+                    ],
+                    "structured": []
+                }
+            ],
+            "water": [
+                {
+                    "input": "The location of water is in hose before and in soil afterwards.",
+                    "raw-output": [
+                        "The moisture level of the soil is dry before and wet afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "moisture level",
+                            "entity": "the soil",
+                            "pre-state": "dry",
+                            "post-state": "wet"
+                        }
+                    ]
+                }
+            ],
+            "roots": [
+                {
+                    "input": "The moisture of roots is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The moisture content of the roots is low or dry before and high or wet afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "moisture content",
+                            "entity": "the roots",
+                            "pre-state": "low or dry",
+                            "post-state": "high or wet"
+                        }
+                    ]
+                }
+            ],
+            "soil": [
+                {
+                    "input": "The location of soil is in bag before and in pot afterwards.",
+                    "raw-output": [
+                        "The location of soil is in a bag before and on the ground in the pot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "soil",
+                            "pre-state": "in a bag",
+                            "post-state": "on the ground in the pot"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of soil is in bag before and in pot afterwards.",
+                    "raw-output": [
+                        "The location of the soil is in a bag before and in a pot afterwards. Alternatively, it could be said that the container of the soil is a bag before and a pot after the procedure."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the soil",
+                            "pre-state": "in a bag",
+                            "post-state": "in a pot"
+                        }
+                    ]
+                },
+                {
+                    "input": "The moisture of soil is dry before and damp afterwards.",
+                    "raw-output": [
+                        "The dryness of soil is present before and absent afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "dryness",
+                            "entity": "soil",
+                            "pre-state": "present",
+                            "post-state": "absent"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of soil is in bag before and in pot afterwards.",
+                    "raw-output": [
+                        "The state change of the object involved in the procedure can also be described as follows:",
+                        "",
+                        "- The location of the bag is above ground before and the location of the pot is on the ground afterwards.",
+                        "- The container for soil is a bag before and a pot afterwards.",
+                        "- The type of container for the soil is flexible before and rigid afterwards.",
+                        "- The amount of soil contained is the same before and after the procedure.",
+                        "- The shape of the container for the soil is elongated before and round afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the bag",
+                            "pre-state": "above ground",
+                            "post-state": "the location of the pot is on the ground"
+                        },
+                        {
+                            "attribute": "type",
+                            "entity": "container for the soil",
+                            "pre-state": "flexible",
+                            "post-state": "rigid"
+                        },
+                        {
+                            "attribute": "shape",
+                            "entity": "the container for the soil",
+                            "pre-state": "elongated",
+                            "post-state": "round"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "20": {
+        "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+        "steps": [
+            "Blend the cream cheese and marshmallow cream until combined.",
+            "Pour the mixture into a clean bowl.",
+            "Serve with fruit or whatever else you like.",
+            "Finished."
+        ],
+        "entity_states": [
+            {
+                "entity": "the cream cheese",
+                "openpi_narrative": [
+                    "The composition of the cream cheese is separate before and combined with marshmallow cream afterwards.",
+                    "The location of the cream cheese is in container before and in bowl afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "composition",
+                        "precondition": "separate",
+                        "postcondition": "combined with marshmallow cream"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in container",
+                        "postcondition": "in bowl"
+                    }
+                ]
+            },
+            {
+                "entity": "marshmallow",
+                "openpi_narrative": [
+                    "The location of marshmallow is in continer before and in bowl afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in continer",
+                        "postcondition": "in bowl"
+                    }
+                ]
+            },
+            {
+                "entity": "the mixing bowl",
+                "openpi_narrative": [
+                    "The weight of the mixing bowl is heavier before and lighter afterwards.",
+                    "The moisture of the mixing bowl is dryer before and wetter afterwards.",
+                    "The cleanness of the mixing bowl is cleaner before and dirty afterwards.",
+                    "The volume of the mixing bowl is empty before and fuller afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "weight",
+                        "precondition": "heavier",
+                        "postcondition": "lighter"
+                    },
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dryer",
+                        "postcondition": "wetter"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "cleaner",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "fuller"
+                    }
+                ]
+            },
+            {
+                "entity": "mixture",
+                "openpi_narrative": [
+                    "The location of mixture is in mixing bowl before and in serving bowl afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in mixing bowl",
+                        "postcondition": "in serving bowl"
+                    }
+                ]
+            },
+            {
+                "entity": "cream cheese",
+                "openpi_narrative": [
+                    "The location of cream cheese is in container before and in bowl afterwards.",
+                    "The composition of cream cheese is by itself before and blended with marshmellow cream afterwards.",
+                    "The shape of cream cheese is by itself before and blended with marshmellow cream afterwards.",
+                    "The location of cream cheese is in container before and in bowl afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in container",
+                        "postcondition": "in bowl"
+                    },
+                    {
+                        "attribute": "composition",
+                        "precondition": "by itself",
+                        "postcondition": "blended with marshmellow cream"
+                    },
+                    {
+                        "attribute": "shape",
+                        "precondition": "by itself",
+                        "postcondition": "blended with marshmellow cream"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in container",
+                        "postcondition": "in bowl"
+                    }
+                ]
+            },
+            {
+                "entity": "the knife",
+                "openpi_narrative": [
+                    "The wetness of the knife is dry before and wet afterwards.",
+                    "The cleanness of the knife is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "wetness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "the fruit",
+                "openpi_narrative": [
+                    "The composition of the fruit is whole before and sliced afterwards.",
+                    "The size of the fruit is whole before and sliced afterwards.",
+                    "The weight of the fruit is heavier before and lighter afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "composition",
+                        "precondition": "whole",
+                        "postcondition": "sliced"
+                    },
+                    {
+                        "attribute": "size",
+                        "precondition": "whole",
+                        "postcondition": "sliced"
+                    },
+                    {
+                        "attribute": "weight",
+                        "precondition": "heavier",
+                        "postcondition": "lighter"
+                    }
+                ]
+            },
+            {
+                "entity": "the mixture",
+                "openpi_narrative": [
+                    "The location of the mixture is in mixing bowl before and in clean bowl afterwards.",
+                    "The cleanness of the mixture is in mixing bowl before and in clean bowl afterwards.",
+                    "The weight of the mixture is light before and heavy afterwards.",
+                    "The container of the mixture is empty before and full of mixture afterwards.",
+                    "The volume of the mixture is empty before and full of mixture afterwards.",
+                    "The moisture of the mixture is dry before and wet afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in mixing bowl",
+                        "postcondition": "in clean bowl"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "in mixing bowl",
+                        "postcondition": "in clean bowl"
+                    },
+                    {
+                        "attribute": "weight",
+                        "precondition": "light",
+                        "postcondition": "heavy"
+                    },
+                    {
+                        "attribute": "container",
+                        "precondition": "empty",
+                        "postcondition": "full of mixture"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "full of mixture"
+                    },
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    }
+                ]
+            },
+            {
+                "entity": "the bowl",
+                "openpi_narrative": [
+                    "The weight of the bowl is lighter before and heavier afterwards.",
+                    "The volume of the bowl is emptier before and fuller afterwards.",
+                    "The cleanness of the bowl is cleaner before and dirty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "weight",
+                        "precondition": "lighter",
+                        "postcondition": "heavier"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "emptier",
+                        "postcondition": "fuller"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "cleaner",
+                        "postcondition": "dirty"
+                    }
+                ]
+            },
+            {
+                "entity": "blender",
+                "openpi_narrative": [
+                    "The cleanness of blender is clean before and dirty afterwards.",
+                    "The volume of blender is empty before and full afterwards.",
+                    "The electric conductivity of blender is turned off before and turned on afterwards.",
+                    "The weight of blender is heavy before and light afterwards.",
+                    "The volume of blender is full before and empty afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "empty",
+                        "postcondition": "full"
+                    },
+                    {
+                        "attribute": "electric conductivity",
+                        "precondition": "turned off",
+                        "postcondition": "turned on"
+                    },
+                    {
+                        "attribute": "weight",
+                        "precondition": "heavy",
+                        "postcondition": "light"
+                    },
+                    {
+                        "attribute": "volume",
+                        "precondition": "full",
+                        "postcondition": "empty"
+                    }
+                ]
+            },
+            {
+                "entity": "ingredients",
+                "openpi_narrative": [
+                    "The organization of ingredients is seperate before and combined afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "organization",
+                        "precondition": "seperate",
+                        "postcondition": "combined"
+                    }
+                ]
+            }
+        ],
+        "gpt3_output": {
+            "the cream cheese": [
+                {
+                    "input": "The composition of the cream cheese is separate before and combined with marshmallow cream afterwards.",
+                    "raw-output": [
+                        "The texture of the cream cheese is solid before and creamy after it's blended with marshmallow cream."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The location of the cream cheese is in container before and in bowl afterwards.",
+                    "raw-output": [
+                        "The location attribute of the cream cheese entity is container before and bowl afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location attribute",
+                            "entity": "the cream cheese entity",
+                            "pre-state": "container",
+                            "post-state": "bowl"
+                        }
+                    ]
+                }
+            ],
+            "marshmallow": [
+                {
+                    "input": "The location of marshmallow is in continer before and in bowl afterwards.",
+                    "raw-output": [
+                        "The location of the marshmallow is in the container before and in the bowl afterwards. Another way to describe this object state change could be: ",
+                        "",
+                        "-The position of the marshmallow is inside the container before and inside the bowl afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the marshmallow",
+                            "pre-state": "in the container",
+                            "post-state": "in the bowl"
+                        },
+                        {
+                            "attribute": "position",
+                            "entity": "the marshmallow",
+                            "pre-state": "inside the container",
+                            "post-state": "inside the bowl"
+                        }
+                    ]
+                }
+            ],
+            "the mixing bowl": [
+                {
+                    "input": "The weight of the mixing bowl is heavier before and lighter afterwards.",
+                    "raw-output": [
+                        "The weight of the mixing bowl is greater before and lesser afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "weight",
+                            "entity": "the mixing bowl",
+                            "pre-state": "greater",
+                            "post-state": "lesser"
+                        }
+                    ]
+                },
+                {
+                    "input": "The moisture of the mixing bowl is dryer before and wetter afterwards.",
+                    "raw-output": [
+                        "The humidity of the mixing bowl is lower before and higher afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "humidity",
+                            "entity": "the mixing bowl",
+                            "pre-state": "lower",
+                            "post-state": "higher"
+                        }
+                    ]
+                },
+                {
+                    "input": "The cleanness of the mixing bowl is cleaner before and dirty afterwards.",
+                    "raw-output": [
+                        "The cleanliness of the mixing bowl is pristine before and soiled afterward."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The volume of the mixing bowl is empty before and fuller afterwards.",
+                    "raw-output": [
+                        "The capacity/volume of the mixing bowl is empty before and increased/fuller afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "capacity/volume",
+                            "entity": "the mixing bowl",
+                            "pre-state": "empty",
+                            "post-state": "increased/fuller"
+                        }
+                    ]
+                }
+            ],
+            "mixture": [
+                {
+                    "input": "The location of mixture is in mixing bowl before and in serving bowl afterwards.",
+                    "raw-output": [
+                        "The location of the mixture in the mixing bowl is 'present' before and 'absent' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the mixture in the mixing bowl",
+                            "pre-state": "'present'",
+                            "post-state": "'absent'"
+                        }
+                    ]
+                }
+            ],
+            "cream cheese": [
+                {
+                    "input": "The location of cream cheese is in container before and in bowl afterwards.",
+                    "raw-output": [
+                        "The location of cream cheese is \"in container\" before and \"in bowl\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "cream cheese",
+                            "pre-state": "\"in container\"",
+                            "post-state": "\"in bowl\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The composition of cream cheese is by itself before and blended with marshmellow cream afterwards.",
+                    "raw-output": [
+                        "The texture of cream cheese is chunky before and smooth after being blended with marshmallow cream."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The shape of cream cheese is by itself before and blended with marshmellow cream afterwards.",
+                    "raw-output": [
+                        "The consistency of cream cheese is solid before and creamy after it is blended with marshmallow cream."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The location of cream cheese is in container before and in bowl afterwards.",
+                    "raw-output": [
+                        "The location of cream cheese is in a container before and in a bowl afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "cream cheese",
+                            "pre-state": "in a container",
+                            "post-state": "in a bowl"
+                        }
+                    ]
+                }
+            ],
+            "the knife": [
+                {
+                    "input": "The wetness of the knife is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The dryness of the knife is present before and absent afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "dryness",
+                            "entity": "the knife",
+                            "pre-state": "present",
+                            "post-state": "absent"
+                        }
+                    ]
+                },
+                {
+                    "input": "The cleanness of the knife is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The dryness of the knife is present before and absent afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "dryness",
+                            "entity": "the knife",
+                            "pre-state": "present",
+                            "post-state": "absent"
+                        }
+                    ]
+                }
+            ],
+            "the fruit": [
+                {
+                    "input": "The composition of the fruit is whole before and sliced afterwards.",
+                    "raw-output": [
+                        "The state change of the object involved in the procedure can be described in different ways as follows:",
+                        "",
+                        "- The size of the fruit is larger before and smaller afterwards.",
+                        "- The shape of the fruit is round before and irregular afterwards.",
+                        "- The texture of the fruit is firm before and mushy afterwards.",
+                        "- The appearance of the fruit is intact before and chopped afterwards.",
+                        "- The exposure of the fruit's flesh is limited before and extensive afterwards.",
+                        "- The freshness of the fruit is high before and decreasing afterwards.",
+                        "- The aroma of the fruit is subtle before and strong afterwards.",
+                        "- The taste of the fruit is mild before and enhanced afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "the fruit",
+                            "pre-state": "larger",
+                            "post-state": "smaller"
+                        },
+                        {
+                            "attribute": "shape",
+                            "entity": "the fruit",
+                            "pre-state": "round",
+                            "post-state": "irregular"
+                        },
+                        {
+                            "attribute": "texture",
+                            "entity": "the fruit",
+                            "pre-state": "firm",
+                            "post-state": "mushy"
+                        },
+                        {
+                            "attribute": "appearance",
+                            "entity": "the fruit",
+                            "pre-state": "intact",
+                            "post-state": "chopped"
+                        },
+                        {
+                            "attribute": "exposure",
+                            "entity": "the fruit's flesh",
+                            "pre-state": "limited",
+                            "post-state": "extensive"
+                        },
+                        {
+                            "attribute": "freshness",
+                            "entity": "the fruit",
+                            "pre-state": "high",
+                            "post-state": "decreasing"
+                        },
+                        {
+                            "attribute": "aroma",
+                            "entity": "the fruit",
+                            "pre-state": "subtle",
+                            "post-state": "strong"
+                        },
+                        {
+                            "attribute": "taste",
+                            "entity": "the fruit",
+                            "pre-state": "mild",
+                            "post-state": "enhanced"
+                        }
+                    ]
+                },
+                {
+                    "input": "The size of the fruit is whole before and sliced afterwards.",
+                    "raw-output": [
+                        "The size of the fruit is large before and small afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "the fruit",
+                            "pre-state": "large",
+                            "post-state": "small"
+                        }
+                    ]
+                },
+                {
+                    "input": "The weight of the fruit is heavier before and lighter afterwards.",
+                    "raw-output": [
+                        "There are a few alternative ways to describe this object state change: ",
+                        "",
+                        "1. The quantity of fruit is greater before and lesser afterwards.",
+                        "2. The amount of fruit is more before and less afterwards.",
+                        "3. The mass of fruit is heavier before and lighter afterwards.",
+                        "4. The number of fruit pieces is higher before and lower afterwards.",
+                        "5. The volume of fruit is larger before and smaller afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "quantity",
+                            "entity": "fruit",
+                            "pre-state": "greater",
+                            "post-state": "lesser"
+                        },
+                        {
+                            "attribute": "amount",
+                            "entity": "fruit",
+                            "pre-state": "more",
+                            "post-state": "less"
+                        },
+                        {
+                            "attribute": "mass",
+                            "entity": "fruit",
+                            "pre-state": "heavier",
+                            "post-state": "lighter"
+                        },
+                        {
+                            "attribute": "number",
+                            "entity": "fruit pieces",
+                            "pre-state": "higher",
+                            "post-state": "lower"
+                        },
+                        {
+                            "attribute": "volume",
+                            "entity": "fruit",
+                            "pre-state": "larger",
+                            "post-state": "smaller"
+                        }
+                    ]
+                }
+            ],
+            "the mixture": [
+                {
+                    "input": "The location of the mixture is in mixing bowl before and in clean bowl afterwards.",
+                    "raw-output": [
+                        "The location attribute of the mixture entity is 'in mixing bowl' before and 'in clean bowl' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location attribute",
+                            "entity": "the mixture entity",
+                            "pre-state": "'in mixing bowl'",
+                            "post-state": "'in clean bowl'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The cleanness of the mixture is in mixing bowl before and in clean bowl afterwards.",
+                    "raw-output": [
+                        "The \"location\" attribute of the \"mixture\" entity is \"in mixing bowl\" before and \"in clean bowl\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "\"location\" attribute",
+                            "entity": "the \"mixture\" entity",
+                            "pre-state": "\"in mixing bowl\"",
+                            "post-state": "\"in clean bowl\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The weight of the mixture is light before and heavy afterwards.",
+                    "raw-output": [
+                        "The density of the mixture is low before and high afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "density",
+                            "entity": "the mixture",
+                            "pre-state": "low",
+                            "post-state": "high"
+                        }
+                    ]
+                },
+                {
+                    "input": "The container of the mixture is empty before and full of mixture afterwards.",
+                    "raw-output": [
+                        "The volume of the container is empty before and full of mixture afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "volume",
+                            "entity": "the container",
+                            "pre-state": "empty",
+                            "post-state": "full of mixture"
+                        }
+                    ]
+                },
+                {
+                    "input": "The volume of the mixture is empty before and full of mixture afterwards.",
+                    "raw-output": [
+                        "The volume of the bowl is empty before and full of mixture afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "volume",
+                            "entity": "the bowl",
+                            "pre-state": "empty",
+                            "post-state": "full of mixture"
+                        }
+                    ]
+                },
+                {
+                    "input": "The moisture of the mixture is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The texture of the mixture is thick before and creamy afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "texture",
+                            "entity": "the mixture",
+                            "pre-state": "thick",
+                            "post-state": "creamy"
+                        }
+                    ]
+                }
+            ],
+            "the bowl": [
+                {
+                    "input": "The weight of the bowl is lighter before and heavier afterwards.",
+                    "raw-output": [
+                        "The weight of the bowl is heavier before adding the mixture and lighter afterwards."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The volume of the bowl is emptier before and fuller afterwards.",
+                    "raw-output": [
+                        "The volume of the bowl is lower before and higher afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "volume",
+                            "entity": "the bowl",
+                            "pre-state": "lower",
+                            "post-state": "higher"
+                        }
+                    ]
+                },
+                {
+                    "input": "The cleanness of the bowl is cleaner before and dirty afterwards.",
+                    "raw-output": [
+                        "The cleanliness of the bowl is clean before and dirty after."
+                    ],
+                    "structured": []
+                }
+            ],
+            "blender": [
+                {
+                    "input": "The cleanness of blender is clean before and dirty afterwards.",
+                    "raw-output": [
+                        "The cleanliness of the blender is pristine before and soiled afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "cleanliness",
+                            "entity": "the blender",
+                            "pre-state": "pristine",
+                            "post-state": "soiled"
+                        }
+                    ]
+                },
+                {
+                    "input": "The volume of blender is empty before and full afterwards.",
+                    "raw-output": [
+                        "The capacity of the blender is unoccupied before and occupied afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "capacity",
+                            "entity": "the blender",
+                            "pre-state": "unoccupied",
+                            "post-state": "occupied"
+                        }
+                    ]
+                },
+                {
+                    "input": "The electric conductivity of blender is turned off before and turned on afterwards.",
+                    "raw-output": [
+                        "The electrical state of the blender is inactive before and active afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "electrical state",
+                            "entity": "the blender",
+                            "pre-state": "inactive",
+                            "post-state": "active"
+                        }
+                    ]
+                },
+                {
+                    "input": "The weight of blender is heavy before and light afterwards.",
+                    "raw-output": [
+                        "The weight of the blender is heavy before and light after blending the cream cheese and marshmallow cream. Alternatively, it can be described as follows: The mass of the blender is substantial before and negligible after blending the cream cheese and marshmallow cream."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The volume of blender is full before and empty afterwards.",
+                    "raw-output": [
+                        "The capacity of the blender container is full before and empty afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "capacity",
+                            "entity": "the blender container",
+                            "pre-state": "full",
+                            "post-state": "empty"
+                        }
+                    ]
+                }
+            ],
+            "ingredients": [
+                {
+                    "input": "The organization of ingredients is seperate before and combined afterwards.",
+                    "raw-output": [
+                        "The composition of ingredients is separate before and mixed together afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "composition",
+                            "entity": "ingredients",
+                            "pre-state": "separate",
+                            "post-state": "mixed together"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "32": {
+        "goal": "Make Cheese Sauce with Jalape\u00f1o Peppers",
+        "steps": [
+            "First cut the Velveeta in to tiny squares and set aside.",
+            "Set the burner on a medium to low setting, before that you begin adding the cheese product.",
+            "Wait until the Velveeta has melted lower the heat somewhat and add in the (Rotel) tomatoes.",
+            "Add in the Jalapeno peppers, and black olives if desired.",
+            "Cheese sauce is at its best if served very warm."
+        ],
+        "entity_states": [
+            {
+                "entity": "velveeta",
+                "openpi_narrative": [
+                    "The granularity of velveeta is whole before and cubed afterwards.",
+                    "The shape of velveeta is whole before and cubed afterwards.",
+                    "The location of velveeta is in the fridge before and on the counter afterwards.",
+                    "The temperature of velveeta is cold before and room temperature afterwards.",
+                    "The size of velveeta is large before and small afterwards.",
+                    "The granularity of velveeta is solid before and liquid afterwards.",
+                    "The shape of velveeta is solid before and liquid afterwards.",
+                    "The location of velveeta is on the cutting board before and in the sauce pan afterwards.",
+                    "The temperature of velveeta is cool before and hot afterwards.",
+                    "The granularity of velveeta is solid before and liquid afterwards.",
+                    "The shape of velveeta is solid before and liquid afterwards.",
+                    "The temperature of velveeta is cool before and hot afterwards.",
+                    "The texture of velveeta is thick before and runny afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "granularity",
+                        "precondition": "whole",
+                        "postcondition": "cubed"
+                    },
+                    {
+                        "attribute": "shape",
+                        "precondition": "whole",
+                        "postcondition": "cubed"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in the fridge",
+                        "postcondition": "on the counter"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cold",
+                        "postcondition": "room temperature"
+                    },
+                    {
+                        "attribute": "size",
+                        "precondition": "large",
+                        "postcondition": "small"
+                    },
+                    {
+                        "attribute": "granularity",
+                        "precondition": "solid",
+                        "postcondition": "liquid"
+                    },
+                    {
+                        "attribute": "shape",
+                        "precondition": "solid",
+                        "postcondition": "liquid"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "on the cutting board",
+                        "postcondition": "in the sauce pan"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cool",
+                        "postcondition": "hot"
+                    },
+                    {
+                        "attribute": "granularity",
+                        "precondition": "solid",
+                        "postcondition": "liquid"
+                    },
+                    {
+                        "attribute": "shape",
+                        "precondition": "solid",
+                        "postcondition": "liquid"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cool",
+                        "postcondition": "hot"
+                    },
+                    {
+                        "attribute": "texture",
+                        "precondition": "thick",
+                        "postcondition": "runny"
+                    }
+                ]
+            },
+            {
+                "entity": "stove",
+                "openpi_narrative": [
+                    "The temperature of stove is cool before and hot afterwards.",
+                    "The power of stove is off before and on afterwards.",
+                    "The electric conductivity of stove is turned off before and turned on afterwards.",
+                    "The temperature of stove is medium-low before and low afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cool",
+                        "postcondition": "hot"
+                    },
+                    {
+                        "attribute": "power",
+                        "precondition": "off",
+                        "postcondition": "on"
+                    },
+                    {
+                        "attribute": "electric conductivity",
+                        "precondition": "turned off",
+                        "postcondition": "turned on"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "medium-low",
+                        "postcondition": "low"
+                    }
+                ]
+            },
+            {
+                "entity": "olives",
+                "openpi_narrative": [
+                    "The location of olives is in can before and in pan afterwards.",
+                    "The temperature of olives is cold before and hot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in can",
+                        "postcondition": "in pan"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cold",
+                        "postcondition": "hot"
+                    }
+                ]
+            },
+            {
+                "entity": "cheese",
+                "openpi_narrative": [
+                    "The location of cheese is to the side before and in the pot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "to the side",
+                        "postcondition": "in the pot"
+                    }
+                ]
+            },
+            {
+                "entity": "cutting board",
+                "openpi_narrative": [
+                    "The cleanness of cutting board is clean before and dirty afterwards.",
+                    "The moisture of cutting board is dry before and wet afterwards.",
+                    "The location of cutting board is in the knife block before and on the cutting board afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "moisture",
+                        "precondition": "dry",
+                        "postcondition": "wet"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in the knife block",
+                        "postcondition": "on the cutting board"
+                    }
+                ]
+            },
+            {
+                "entity": "tomatoes",
+                "openpi_narrative": [
+                    "The location of tomatoes is whole before and chopped afterwards.",
+                    "The temperature of tomatoes is cool before and hot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "whole",
+                        "postcondition": "chopped"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cool",
+                        "postcondition": "hot"
+                    }
+                ]
+            },
+            {
+                "entity": "stove top burner",
+                "openpi_narrative": [
+                    "The temperature of stove top burner is set to medium before and set to low afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "temperature",
+                        "precondition": "set to medium",
+                        "postcondition": "set to low"
+                    }
+                ]
+            },
+            {
+                "entity": "peppers",
+                "openpi_narrative": [
+                    "The location of peppers is whole before and chopped afterwards.",
+                    "The temperature of peppers is cold before and hot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "whole",
+                        "postcondition": "chopped"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cold",
+                        "postcondition": "hot"
+                    }
+                ]
+            },
+            {
+                "entity": "black olives",
+                "openpi_narrative": [
+                    "The size of black olives is whole before and chopped afterwards.",
+                    "The location of black olives is on the cutting board before and in the sauce pan afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "size",
+                        "precondition": "whole",
+                        "postcondition": "chopped"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "on the cutting board",
+                        "postcondition": "in the sauce pan"
+                    }
+                ]
+            },
+            {
+                "entity": "cheese sauce",
+                "openpi_narrative": [
+                    "The location of cheese sauce is in the pot before and in a bowl afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "in the pot",
+                        "postcondition": "in a bowl"
+                    }
+                ]
+            },
+            {
+                "entity": "stove knob",
+                "openpi_narrative": [
+                    "The orientation of stove knob is in the off position before and in the on position afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "orientation",
+                        "precondition": "in the off position",
+                        "postcondition": "in the on position"
+                    }
+                ]
+            },
+            {
+                "entity": "cheese dip",
+                "openpi_narrative": [
+                    "The taste of cheese dip is mild before and spicy afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "taste",
+                        "precondition": "mild",
+                        "postcondition": "spicy"
+                    }
+                ]
+            },
+            {
+                "entity": "sauce pan",
+                "openpi_narrative": [
+                    "The cleanness of sauce pan is clean before and dirty afterwards.",
+                    "The location of sauce pan is in the cupboard before and on the stovetop afterwards.",
+                    "The temperature of sauce pan is cool before and hot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "cleanness",
+                        "precondition": "clean",
+                        "postcondition": "dirty"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "in the cupboard",
+                        "postcondition": "on the stovetop"
+                    },
+                    {
+                        "attribute": "temperature",
+                        "precondition": "cool",
+                        "postcondition": "hot"
+                    }
+                ]
+            },
+            {
+                "entity": "rotel can",
+                "openpi_narrative": [
+                    "The openness of rotel can is closed before and open afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "openness",
+                        "precondition": "closed",
+                        "postcondition": "open"
+                    }
+                ]
+            },
+            {
+                "entity": "package",
+                "openpi_narrative": [
+                    "The openness of package is closed before and open afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "openness",
+                        "precondition": "closed",
+                        "postcondition": "open"
+                    }
+                ]
+            },
+            {
+                "entity": "rotel",
+                "openpi_narrative": [
+                    "The temperature of rotel is room temperature before and hot afterwards.",
+                    "The location of rotel is to the side before and in the pot afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "temperature",
+                        "precondition": "room temperature",
+                        "postcondition": "hot"
+                    },
+                    {
+                        "attribute": "location",
+                        "precondition": "to the side",
+                        "postcondition": "in the pot"
+                    }
+                ]
+            },
+            {
+                "entity": "can",
+                "openpi_narrative": [
+                    "The openness of can is closed before and open afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "openness",
+                        "precondition": "closed",
+                        "postcondition": "open"
+                    }
+                ]
+            }
+        ],
+        "gpt3_output": {
+            "velveeta": [
+                {
+                    "input": "The granularity of velveeta is whole before and cubed afterwards.",
+                    "raw-output": [
+                        "The texture of Velveeta is solid before and diced afterwards.",
+                        "The form of Velveeta is one large block before and small pieces afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "texture",
+                            "entity": "Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "diced"
+                        },
+                        {
+                            "attribute": "form",
+                            "entity": "Velveeta",
+                            "pre-state": "one large block",
+                            "post-state": "small pieces"
+                        }
+                    ]
+                },
+                {
+                    "input": "The shape of velveeta is whole before and cubed afterwards.",
+                    "raw-output": [
+                        "The form of Velveeta is solid before and diced afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "form",
+                            "entity": "Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "diced"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of velveeta is in the fridge before and on the counter afterwards.",
+                    "raw-output": [
+                        "The location of Velveeta is \"inside the fridge\" before and \"on the kitchen counter\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "Velveeta",
+                            "pre-state": "\"inside the fridge\"",
+                            "post-state": "\"on the kitchen counter\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of velveeta is cold before and room temperature afterwards.",
+                    "raw-output": [
+                        "The state change of the Velveeta cheese can also be described as: \"The texture of the Velveeta cheese is solid before and melting afterwards\" or \"The consistency of the Velveeta cheese is hard before and soft afterwards\"."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "state change of the Velveeta cheese can also be described as: \"The texture of the Velveeta cheese is solid before and melting afterwards\" or \"The consistency",
+                            "entity": "the Velveeta cheese",
+                            "pre-state": "hard",
+                            "post-state": "soft"
+                        }
+                    ]
+                },
+                {
+                    "input": "The size of velveeta is large before and small afterwards.",
+                    "raw-output": [
+                        "The volume of Velveeta is large before and small afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "volume",
+                            "entity": "Velveeta",
+                            "pre-state": "large",
+                            "post-state": "small"
+                        }
+                    ]
+                },
+                {
+                    "input": "The granularity of velveeta is solid before and liquid afterwards.",
+                    "raw-output": [
+                        "The state change of the Velveeta can be alternatively described as follows: 'The texture of Velveeta is solid before and melted or liquid afterwards.' Alternatively, one could say, 'The physical form of Velveeta is solid before and liquid afterwards.'"
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "state change of the Velveeta can be alternatively described as follows: 'The texture of Velveeta is solid before and melted or liquid afterwards.' Alternatively, one could say, 'The physical form",
+                            "entity": "Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "liquid"
+                        }
+                    ]
+                },
+                {
+                    "input": "The shape of velveeta is solid before and liquid afterwards.",
+                    "raw-output": [
+                        "The consistency of Velveeta is solid before and liquid afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "consistency",
+                            "entity": "Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "liquid"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of velveeta is on the cutting board before and in the sauce pan afterwards.",
+                    "raw-output": [
+                        "The position of Velveeta is on the cutting board before and in the sauce pan afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "position",
+                            "entity": "Velveeta",
+                            "pre-state": "on the cutting board",
+                            "post-state": "in the sauce pan"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of velveeta is cool before and hot afterwards.",
+                    "raw-output": [
+                        "The state change of the Velveeta cheese can also be described as: 'The physical state of Velveeta is solid before and liquid afterwards.' or 'The texture of Velveeta is firm before and smooth afterwards.'"
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "state change of the Velveeta cheese can also be described as: 'The physical state of Velveeta is solid before and liquid afterwards.' or 'The texture",
+                            "entity": "Velveeta",
+                            "pre-state": "firm",
+                            "post-state": "smooth"
+                        }
+                    ]
+                },
+                {
+                    "input": "The granularity of velveeta is solid before and liquid afterwards.",
+                    "raw-output": [
+                        "The texture of Velveeta is firm before and melted afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "texture",
+                            "entity": "Velveeta",
+                            "pre-state": "firm",
+                            "post-state": "melted"
+                        }
+                    ]
+                },
+                {
+                    "input": "The shape of velveeta is solid before and liquid afterwards.",
+                    "raw-output": [
+                        "The texture of Velveeta is solid before and liquid afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "texture",
+                            "entity": "Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "liquid"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of velveeta is cool before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of Velveeta is cold before and hot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "Velveeta",
+                            "pre-state": "cold",
+                            "post-state": "hot"
+                        }
+                    ]
+                },
+                {
+                    "input": "The texture of velveeta is thick before and runny afterwards.",
+                    "raw-output": [
+                        "The consistency of the Velveeta is solid before and liquid afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "consistency",
+                            "entity": "the Velveeta",
+                            "pre-state": "solid",
+                            "post-state": "liquid"
+                        }
+                    ]
+                }
+            ],
+            "stove": [
+                {
+                    "input": "The temperature of stove is cool before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of the stove is cold before and hot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "the stove",
+                            "pre-state": "cold",
+                            "post-state": "hot"
+                        }
+                    ]
+                },
+                {
+                    "input": "The power of stove is off before and on afterwards.",
+                    "raw-output": [
+                        "The state change of the attribute \"power\" of the entity \"stove\" is \"off\" before and \"on\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "state change of the attribute \"power\"",
+                            "entity": "the entity \"stove\"",
+                            "pre-state": "\"off\"",
+                            "post-state": "\"on\""
+                        }
+                    ]
+                },
+                {
+                    "input": "The electric conductivity of stove is turned off before and turned on afterwards.",
+                    "raw-output": [
+                        "The 'electric conductivity' attribute of the 'stove' entity is 'turned off' before and 'turned on' afterwards. Alternatively, the 'electric current' attribute of the 'stove' entity is 'inactive' before and 'active' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'electric conductivity' attribute of the 'stove' entity is 'turned off' before and 'turned on' afterwards. Alternatively, the 'electric current' attribute",
+                            "entity": "the 'stove' entity",
+                            "pre-state": "'inactive'",
+                            "post-state": "'active'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of stove is medium-low before and low afterwards.",
+                    "raw-output": [
+                        "The heat of the stove is medium-low before and low afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "heat",
+                            "entity": "the stove",
+                            "pre-state": "medium-low",
+                            "post-state": "low"
+                        }
+                    ]
+                }
+            ],
+            "olives": [
+                {
+                    "input": "The location of olives is in can before and in pan afterwards.",
+                    "raw-output": [
+                        "The location attribute of olives is in can before and in pan afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location attribute",
+                            "entity": "olives",
+                            "pre-state": "in can",
+                            "post-state": "in pan"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of olives is cold before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of olives is cool before and warm/hot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "olives",
+                            "pre-state": "cool",
+                            "post-state": "warm/hot"
+                        }
+                    ]
+                }
+            ],
+            "cheese": [
+                {
+                    "input": "The location of cheese is to the side before and in the pot afterwards.",
+                    "raw-output": [
+                        "The location of the cheese is 'off to the side' before and 'in the pot' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the cheese",
+                            "pre-state": "'off to the side'",
+                            "post-state": "'in the pot'"
+                        }
+                    ]
+                }
+            ],
+            "cutting board": [
+                {
+                    "input": "The cleanness of cutting board is clean before and dirty afterwards.",
+                    "raw-output": [
+                        "The clarity of the cutting board is clear before and soiled afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "clarity",
+                            "entity": "the cutting board",
+                            "pre-state": "clear",
+                            "post-state": "soiled"
+                        }
+                    ]
+                },
+                {
+                    "input": "The moisture of cutting board is dry before and wet afterwards.",
+                    "raw-output": [
+                        "The 'wetness' attribute of the 'cutting board' entity is 'dry' before and 'wet' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'wetness' attribute",
+                            "entity": "the 'cutting board' entity",
+                            "pre-state": "'dry'",
+                            "post-state": "'wet'"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of cutting board is in the knife block before and on the cutting board afterwards.",
+                    "raw-output": [
+                        "The position of the cutting board is \"in the knife block\" before and \"on the cutting board\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "position",
+                            "entity": "the cutting board",
+                            "pre-state": "\"in the knife block\"",
+                            "post-state": "\"on the cutting board\""
+                        }
+                    ]
+                }
+            ],
+            "tomatoes": [
+                {
+                    "input": "The location of tomatoes is whole before and chopped afterwards.",
+                    "raw-output": [
+                        "The texture of the tomatoes is solid before and chopped afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "texture",
+                            "entity": "the tomatoes",
+                            "pre-state": "solid",
+                            "post-state": "chopped"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of tomatoes is cool before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of the tomatoes is cold before and hot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "the tomatoes",
+                            "pre-state": "cold",
+                            "post-state": "hot"
+                        }
+                    ]
+                }
+            ],
+            "stove top burner": [
+                {
+                    "input": "The temperature of stove top burner is set to medium before and set to low afterwards.",
+                    "raw-output": [
+                        "The heat level of the stove top burner is high before and low afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "heat level",
+                            "entity": "the stove top burner",
+                            "pre-state": "high",
+                            "post-state": "low"
+                        }
+                    ]
+                }
+            ],
+            "peppers": [
+                {
+                    "input": "The location of peppers is whole before and chopped afterwards.",
+                    "raw-output": [
+                        "The size of the jalapeno peppers is large before and small/chopped afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "the jalapeno peppers",
+                            "pre-state": "large",
+                            "post-state": "small/chopped"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of peppers is cold before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of the jalape\u00f1o peppers is cool/cold before and hot/steaming afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "the jalape\u00f1o peppers",
+                            "pre-state": "cool/cold",
+                            "post-state": "hot/steaming"
+                        }
+                    ]
+                }
+            ],
+            "black olives": [
+                {
+                    "input": "The size of black olives is whole before and chopped afterwards.",
+                    "raw-output": [
+                        "The size of black olives is whole before and chopped into small pieces afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "black olives",
+                            "pre-state": "whole",
+                            "post-state": "chopped into small pieces"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of black olives is on the cutting board before and in the sauce pan afterwards.",
+                    "raw-output": [
+                        "The 'position' of 'black olives' is 'on the cutting board' before and 'in the sauce pan' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'position'",
+                            "entity": "'black olives'",
+                            "pre-state": "'on the cutting board'",
+                            "post-state": "'in the sauce pan'"
+                        }
+                    ]
+                }
+            ],
+            "cheese sauce": [
+                {
+                    "input": "The location of cheese sauce is in the pot before and in a bowl afterwards.",
+                    "raw-output": [
+                        "The location of the cheese sauce is 'in the pot' before and 'in a bowl' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location",
+                            "entity": "the cheese sauce",
+                            "pre-state": "'in the pot'",
+                            "post-state": "'in a bowl'"
+                        }
+                    ]
+                }
+            ],
+            "stove knob": [
+                {
+                    "input": "The orientation of stove knob is in the off position before and in the on position afterwards.",
+                    "raw-output": [
+                        "The state change of the stove knob can also be described as: 'The position of the stove knob is set to off before and turned to on afterwards.'"
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "state change of the stove knob can also be described as: 'The position",
+                            "entity": "the stove knob",
+                            "pre-state": "set to off",
+                            "post-state": "turned to on"
+                        }
+                    ]
+                }
+            ],
+            "cheese dip": [
+                {
+                    "input": "The taste of cheese dip is mild before and spicy afterwards.",
+                    "raw-output": [
+                        "The flavor of cheese dip is mild before and spicy afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "flavor",
+                            "entity": "cheese dip",
+                            "pre-state": "mild",
+                            "post-state": "spicy"
+                        }
+                    ]
+                }
+            ],
+            "sauce pan": [
+                {
+                    "input": "The cleanness of sauce pan is clean before and dirty afterwards.",
+                    "raw-output": [
+                        "The cleanliness of the saucepan is pristine before and soiled afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "cleanliness",
+                            "entity": "the saucepan",
+                            "pre-state": "pristine",
+                            "post-state": "soiled"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of sauce pan is in the cupboard before and on the stovetop afterwards.",
+                    "raw-output": [
+                        "The location attribute of sauce pan is in the cupboard before and on the stovetop afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "location attribute",
+                            "entity": "sauce pan",
+                            "pre-state": "in the cupboard",
+                            "post-state": "on the stovetop"
+                        }
+                    ]
+                },
+                {
+                    "input": "The temperature of sauce pan is cool before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of the sauce pan is cold before and hot afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "the sauce pan",
+                            "pre-state": "cold",
+                            "post-state": "hot"
+                        }
+                    ]
+                }
+            ],
+            "rotel can": [
+                {
+                    "input": "The openness of rotel can is closed before and open afterwards.",
+                    "raw-output": [
+                        "The 'lid' of the 'Rotel can' is 'in a closed position' before and 'in an open position' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'lid'",
+                            "entity": "the 'Rotel can'",
+                            "pre-state": "'in a closed position'",
+                            "post-state": "'in an open position'"
+                        }
+                    ]
+                }
+            ],
+            "package": [
+                {
+                    "input": "The openness of package is closed before and open afterwards.",
+                    "raw-output": [
+                        "The 'closedness' of the 'package' is 'closed' before and 'open' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'closedness'",
+                            "entity": "the 'package'",
+                            "pre-state": "'closed'",
+                            "post-state": "'open'"
+                        }
+                    ]
+                }
+            ],
+            "rotel": [
+                {
+                    "input": "The temperature of rotel is room temperature before and hot afterwards.",
+                    "raw-output": [
+                        "The temperature of the rotel is cold before and hot afterwards.",
+                        "The state of the rotel is solid before and liquid afterwards. ",
+                        "The consistency of the rotel is thick before and thin afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "temperature",
+                            "entity": "the rotel",
+                            "pre-state": "cold",
+                            "post-state": "hot"
+                        },
+                        {
+                            "attribute": "state",
+                            "entity": "the rotel",
+                            "pre-state": "solid",
+                            "post-state": "liquid"
+                        },
+                        {
+                            "attribute": "consistency",
+                            "entity": "the rotel",
+                            "pre-state": "thick",
+                            "post-state": "thin"
+                        }
+                    ]
+                },
+                {
+                    "input": "The location of rotel is to the side before and in the pot afterwards.",
+                    "raw-output": [
+                        "The position of the rotel can be described as \"The location of the rotel is on the side before and in the pot afterwards.\""
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "position of the rotel can be described as \"The location",
+                            "entity": "the rotel",
+                            "pre-state": "on the side",
+                            "post-state": "in the pot"
+                        }
+                    ]
+                }
+            ],
+            "can": [
+                {
+                    "input": "The openness of can is closed before and open afterwards.",
+                    "raw-output": [
+                        "The 'state' of the 'can lid' is 'closed' before and 'open' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'state'",
+                            "entity": "the 'can lid'",
+                            "pre-state": "'closed'",
+                            "post-state": "'open'"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "33": {
+        "goal": "Get Wailord in Pok\u00e9mon Emerald",
+        "steps": [
+            "This is the pre-evolution of Wailord.",
+            "This Wailmer can be pretty annoying to train, so be patient.",
+            "Train it until it evolves.",
+            "Go to battle frontier and copy some rare candies.",
+            "Give the rare candies to a Wailmer and evolve it into a Wailord using them."
+        ],
+        "entity_states": [
+            {
+                "entity": "wailmer",
+                "openpi_narrative": [
+                    "The knowledge of wailmer is untrained before and trained afterwards.",
+                    "The going of wailmer is still before and going afterwards.",
+                    "The knowledge of wailmer is untrained before and trained afterwards.",
+                    "The change of wailmer is unevolved before and evolved afterwards.",
+                    "The evolution of wailmer is wailmer before and wailord afterwards.",
+                    "The full of wailmer is hungry before and full afterwards.",
+                    "The change of wailmer is unevolved before and evolved afterwards.",
+                    "The evolution of wailmer is wailmer before and wailord afterwards.",
+                    "The action of wailmer is without rare candies before and now holder of rare candy afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "untrained",
+                        "postcondition": "trained"
+                    },
+                    {
+                        "attribute": "going",
+                        "precondition": "still",
+                        "postcondition": "going"
+                    },
+                    {
+                        "attribute": "knowledge",
+                        "precondition": "untrained",
+                        "postcondition": "trained"
+                    },
+                    {
+                        "attribute": "change",
+                        "precondition": "unevolved",
+                        "postcondition": "evolved"
+                    },
+                    {
+                        "attribute": "evolution",
+                        "precondition": "wailmer",
+                        "postcondition": "wailord"
+                    },
+                    {
+                        "attribute": "full",
+                        "precondition": "hungry",
+                        "postcondition": "full"
+                    },
+                    {
+                        "attribute": "change",
+                        "precondition": "unevolved",
+                        "postcondition": "evolved"
+                    },
+                    {
+                        "attribute": "evolution",
+                        "precondition": "wailmer",
+                        "postcondition": "wailord"
+                    },
+                    {
+                        "attribute": "action",
+                        "precondition": "without rare candies",
+                        "postcondition": "now holder of rare candy"
+                    }
+                ]
+            },
+            {
+                "entity": "battle frontier location",
+                "openpi_narrative": [
+                    "The location of battle frontier location is unattained before and now attained afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "location",
+                        "precondition": "unattained",
+                        "postcondition": "now attained"
+                    }
+                ]
+            },
+            {
+                "entity": "candy",
+                "openpi_narrative": [
+                    "The items of candy is uncopied before and copied afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "items",
+                        "precondition": "uncopied",
+                        "postcondition": "copied"
+                    }
+                ]
+            },
+            {
+                "entity": "ball",
+                "openpi_narrative": [
+                    "The action of ball is unused before and used afterwards."
+                ],
+                "components": [
+                    {
+                        "attribute": "action",
+                        "precondition": "unused",
+                        "postcondition": "used"
+                    }
+                ]
+            }
+        ],
+        "gpt3_output": {
+            "wailmer": [
+                {
+                    "input": "The knowledge of wailmer is untrained before and trained afterwards.",
+                    "raw-output": [
+                        "The level of Wailmer is low before and high afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "level",
+                            "entity": "Wailmer",
+                            "pre-state": "low",
+                            "post-state": "high"
+                        }
+                    ]
+                },
+                {
+                    "input": "The going of wailmer is still before and going afterwards.",
+                    "raw-output": [
+                        "The size of Wailmer is smaller before and larger afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "Wailmer",
+                            "pre-state": "smaller",
+                            "post-state": "larger"
+                        }
+                    ]
+                },
+                {
+                    "input": "The knowledge of wailmer is untrained before and trained afterwards.",
+                    "raw-output": [
+                        "The skill level of Wailmer is novice before and advanced afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "skill level",
+                            "entity": "Wailmer",
+                            "pre-state": "novice",
+                            "post-state": "advanced"
+                        }
+                    ]
+                },
+                {
+                    "input": "The change of wailmer is unevolved before and evolved afterwards.",
+                    "raw-output": [
+                        "The size of Wailmer is small before and large afterwards.",
+                        "The strength of Wailmer is weak before and strong afterwards.",
+                        "The appearance of Wailmer is less imposing before and more impressive afterwards.",
+                        "The level of experience of Wailmer is low before and high afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "size",
+                            "entity": "Wailmer",
+                            "pre-state": "small",
+                            "post-state": "large"
+                        },
+                        {
+                            "attribute": "strength",
+                            "entity": "Wailmer",
+                            "pre-state": "weak",
+                            "post-state": "strong"
+                        },
+                        {
+                            "attribute": "appearance",
+                            "entity": "Wailmer",
+                            "pre-state": "less imposing",
+                            "post-state": "more impressive"
+                        },
+                        {
+                            "attribute": "level of experience",
+                            "entity": "Wailmer",
+                            "pre-state": "low",
+                            "post-state": "high"
+                        }
+                    ]
+                },
+                {
+                    "input": "The evolution of wailmer is wailmer before and wailord afterwards.",
+                    "raw-output": [
+                        "The size of the Pokemon is smaller before as a Wailmer, and larger after evolving into a Wailord. Another way to describe it is \"The appearance of the Pokemon is different before as a Wailmer and after as a Wailord.\""
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The full of wailmer is hungry before and full afterwards.",
+                    "raw-output": [
+                        "The hunger level of the Wailmer is low before and high afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "hunger level",
+                            "entity": "the Wailmer",
+                            "pre-state": "low",
+                            "post-state": "high"
+                        }
+                    ]
+                },
+                {
+                    "input": "The change of wailmer is unevolved before and evolved afterwards.",
+                    "raw-output": [
+                        "The 'evolutionary stage' of the entity 'Wailmer' is 'unevolved' before, and 'evolved' afterwards."
+                    ],
+                    "structured": []
+                },
+                {
+                    "input": "The evolution of wailmer is wailmer before and wailord afterwards.",
+                    "raw-output": [
+                        "The appearance of Wailmer is small and blue before and large and blue with noticeable fins on its back as Wailord afterwards. Alternatively, the size of the Pok\u00e9mon is small before and large after the evolution."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "appearance",
+                            "entity": "Wailmer",
+                            "pre-state": "small and blue",
+                            "post-state": "large and blue with noticeable fins on its back as Wailord"
+                        }
+                    ]
+                },
+                {
+                    "input": "The action of wailmer is without rare candies before and now holder of rare candy afterwards.",
+                    "raw-output": [
+                        "The \"item\" attribute of \"Wailmer\" is \"none\" before and \"rare candy\" afterwards.",
+                        "The \"evolution\" attribute of \"Wailmer\" is \"un-evolved\" before and \"evolved\" into \"Wailord\" afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "\"item\" attribute",
+                            "entity": "\"Wailmer\"",
+                            "pre-state": "\"none\"",
+                            "post-state": "\"rare candy\""
+                        },
+                        {
+                            "attribute": "\"evolution\" attribute",
+                            "entity": "\"Wailmer\"",
+                            "pre-state": "\"un-evolved\"",
+                            "post-state": "\"evolved\" into \"Wailord\""
+                        }
+                    ]
+                }
+            ],
+            "battle frontier location": [
+                {
+                    "input": "The location of battle frontier location is unattained before and now attained afterwards.",
+                    "raw-output": [
+                        "The accessibility of the Battle Frontier location is unattained before and now attained afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "accessibility",
+                            "entity": "the Battle Frontier location",
+                            "pre-state": "unattained",
+                            "post-state": "now attained"
+                        }
+                    ]
+                }
+            ],
+            "candy": [
+                {
+                    "input": "The items of candy is uncopied before and copied afterwards.",
+                    "raw-output": [
+                        "The 'availability' of 'candy items' is 'not copied' before and 'copied' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'availability'",
+                            "entity": "'candy items'",
+                            "pre-state": "'not copied'",
+                            "post-state": "'copied'"
+                        }
+                    ]
+                }
+            ],
+            "ball": [
+                {
+                    "input": "The action of ball is unused before and used afterwards.",
+                    "raw-output": [
+                        "The 'status' of the 'ball' is 'unused' before and 'used' afterwards."
+                    ],
+                    "structured": [
+                        {
+                            "attribute": "'status'",
+                            "entity": "the 'ball'",
+                            "pre-state": "'unused'",
+                            "post-state": "'used'"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

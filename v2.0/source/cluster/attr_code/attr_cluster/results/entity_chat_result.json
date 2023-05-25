@@ -1,0 +1,812 @@
+{
+    "1": {
+        "the blackboard eraser | eraser": {
+            "possession": [
+                "ownership"
+            ],
+            "location": [
+                "placement"
+            ],
+            "condition": [
+                "cleanness"
+            ],
+            "movement": [
+                "movement"
+            ]
+        },
+        "glovebox": {
+            "location": [
+                "location"
+            ]
+        },
+        "eraser shelf at the store": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "windshield": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "inside windshield": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "bank account": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "glove box": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "money": {
+            "location": [
+                "location"
+            ]
+        },
+        "hands": {
+            "activity": [
+                "activity"
+            ]
+        }
+    },
+    "4": {
+        "tip of pipe cleaner": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "pipe cleaner | pipe cleaners": {
+            "position": [
+                "position"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "your fingers": {
+            "location": [
+                "location"
+            ]
+        },
+        "the torso": {
+            "width": [
+                "width"
+            ],
+            "weight": [
+                "weight"
+            ]
+        }
+    },
+    "7": {
+        "hdmi cord | hdmi converter cable | the hdmi cord": {
+            "organization": [
+                "organization"
+            ],
+            "power": [
+                "power"
+            ],
+            "connection": [
+                "connection"
+            ],
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "wii's av composite output": {
+            "container": [
+                "container"
+            ]
+        },
+        "cord": {
+            "power": [
+                "power"
+            ]
+        },
+        "tv's hdmi input": {
+            "container": [
+                "container"
+            ]
+        },
+        "converter": {
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "tv": {
+            "power": [
+                "power"
+            ],
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "plug": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "wii": {
+            "connection": [
+                "connection"
+            ]
+        },
+        "the hdmi": {
+            "power": [
+                "power"
+            ]
+        },
+        "the cord": {
+            "power": [
+                "power"
+            ]
+        }
+    },
+    "14": {
+        "the pruning shears | pruning shears": {
+            "wetness": [
+                "wetness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "the clipping | clipping": {
+            "moisture": [
+                "wetness"
+            ],
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "hole in ground": {
+            "container": [
+                "container"
+            ]
+        },
+        "the rose bush": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "the shovel": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "cutting": {
+            "location": [
+                "location"
+            ]
+        },
+        "ground": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "rose bush": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "rooting hormone": {
+            "location": [
+                "location"
+            ]
+        },
+        "yard": {
+            "readiness": [
+                "readiness"
+            ]
+        },
+        "area": {
+            "readiness": [
+                "readiness"
+            ]
+        },
+        "pot": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "the cutting": {
+            "location": [
+                "location"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        },
+        "roots": {
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "soil": {
+            "location": [
+                "location"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        }
+    },
+    "18": {
+        "eraser": {
+            "location": [
+                "location"
+            ],
+            "ownership": [
+                "ownership"
+            ],
+            "cost": [
+                "cost"
+            ],
+            "size": [
+                "size"
+            ]
+        },
+        "floor | lineoleum": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "color": [
+                "color"
+            ],
+            "odor": [
+                "odor"
+            ],
+            "wetness": [
+                "moisture"
+            ]
+        },
+        "linoleum": {
+            "cleanness | wetness": [
+                "cleanness | wetness"
+            ]
+        },
+        "skid mark": {
+            "dampness": [
+                "dampness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "hands": {
+            "motion": [
+                "motion"
+            ]
+        },
+        "hand muscles": {
+            "power": [
+                "power"
+            ]
+        },
+        "body | person": {
+            "form": [
+                "form"
+            ],
+            "position": [
+                "position"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "you": {
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "22": {
+        "your weight": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "ability to identify non-dominant leg": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to identify dominant foot": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "weight": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "foot | dominant foot | feet": {
+            "location": [
+                "location"
+            ]
+        },
+        "your foot": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "both feet": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "the tires": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "the chain": {
+            "mechanical movement": [
+                "mechanical movement"
+            ]
+        },
+        "ability to identify bike shaft": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to identify handlebars": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to ride a bike": {
+            "skill": [
+                "skill"
+            ]
+        },
+        "you | hands": {
+            "position": [
+                "position"
+            ],
+            "location": [
+                "location"
+            ],
+            "motion": [
+                "action"
+            ],
+            "balance": [
+                "balance"
+            ]
+        },
+        "bike | bicycle": {
+            "stability": [
+                "balance"
+            ],
+            "movement": [
+                "orientation",
+                "motion"
+            ]
+        },
+        "bicycle": {
+            "location": [
+                "location"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "non-dominant foot": {
+            "location": [
+                "location"
+            ]
+        },
+        "center of gravity": {
+            "location": [
+                "location"
+            ]
+        },
+        "pedals": {
+            "motion": [
+                "motion"
+            ]
+        },
+        "grip on bike": {
+            "strength": [
+                "strength"
+            ]
+        },
+        "handbrakes": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "speed": {
+            "speed": [
+                "speed"
+            ]
+        }
+    },
+    "24": {
+        "rum": {
+            "location": [
+                "location"
+            ],
+            "rum": [
+                "rum"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "strawberry": {
+            "location | strawberry": [
+                "location | strawberry"
+            ]
+        },
+        "smoothie | mixture | ingredients": {
+            "texture": [
+                "texture"
+            ],
+            "smoothie": [
+                "smoothie"
+            ],
+            "organization": [
+                "organization"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "blender": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "blender": [
+                "blender"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "glasses | glass": {
+            "volume": [
+                "volume"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "glasses": [
+                "glasses"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "appearance": [
+                "appearance"
+            ]
+        },
+        "sorber | fruit and sorbet | sorbet": {
+            "location": [
+                "location"
+            ]
+        },
+        "glass": {
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "yogurt": {
+            "location": [
+                "location"
+            ]
+        },
+        "ingredients": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bottle": {
+            "weight": [
+                "weight"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "banana | bananas": {
+            "location": [
+                "location"
+            ]
+        },
+        "fruit": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "items": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "liquid": {
+            "composition": [
+                "composition"
+            ]
+        }
+    },
+    "28": {
+        "kitchen towel | towel": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "moisture"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "color": [
+                "color"
+            ]
+        },
+        "drink": {
+            "cost": [
+                "cost"
+            ],
+            "availability": [
+                "availability"
+            ],
+            "sealing": [
+                "sealing"
+            ]
+        },
+        "bolt": {
+            "wetness": [
+                "moisture"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "movement": [
+                "movement"
+            ],
+            "age": [
+                "age"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "assembly": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "new bolt | old bolt": {
+            "location": [
+                "location"
+            ],
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "rust": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bottle": {
+            "weight": [
+                "weight"
+            ],
+            "openness": [
+                "openness"
+            ]
+        },
+        "wrench": {
+            "location": [
+                "location"
+            ]
+        },
+        "soda": {
+            "location": [
+                "location"
+            ]
+        },
+        "cup": {
+            "fullness": [
+                "fullness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "fizzy drink": {
+            "availability": [
+                "availability"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "towel": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "hands": {
+            "moisture": [
+                "moisture"
+            ],
+            "texture": [
+                "texture"
+            ]
+        }
+    },
+    "47": {
+        "screens": {
+            "location": [
+                "location"
+            ]
+        },
+        "master bedroom | living room | living/dining room": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "stuff": {
+            "location": [
+                "location"
+            ]
+        },
+        "gems": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "outside area": {
+            "availability | step": [
+                "availability | step"
+            ]
+        },
+        "kids room": {
+            "availability": [
+                "availability"
+            ]
+        }
+    },
+    "55": {
+        "underwear | underwears": {
+            "newness": [
+                "newness"
+            ],
+            "location": [
+                "location"
+            ],
+            "size": [
+                "size"
+            ],
+            "use": [
+                "use"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "underpants | floor": {
+            "newness": [
+                "newness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "ownership": [
+                "availability"
+            ],
+            "location": [
+                "location"
+            ],
+            "use": [
+                "use"
+            ],
+            "shape": [
+                "size"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "underwear strips": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "bundle of old underwear": {
+            "use": [
+                "use"
+            ]
+        },
+        "plants": {
+            "form": [
+                "form"
+            ]
+        },
+        "garden plants": {
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "donation box": {
+            "location": [
+                "location"
+            ]
+        },
+        "pillow case": {
+            "location": [
+                "location"
+            ],
+            "content": [
+                "content"
+            ]
+        },
+        "scissors": {
+            "location": [
+                "location"
+            ]
+        },
+        "quality undies": {
+            "use": [
+                "use"
+            ]
+        },
+        "child": {
+            "look": [
+                "look"
+            ]
+        },
+        "pants": {
+            "covering": [
+                "covering"
+            ]
+        }
+    }
+}

@@ -1,0 +1,3596 @@
+{
+    "1": [
+        {
+            "blackboard eraser": [
+                "color",
+                "shape",
+                "size"
+            ],
+            "seller": [
+                "location"
+            ],
+            "brand": [
+                "name"
+            ],
+            "price": [
+                "value"
+            ],
+            "payment method": [
+                "mode"
+            ]
+        },
+        {
+            "blackboard eraser": [
+                "location"
+            ],
+            "glove box": [
+                "location"
+            ],
+            "car": [
+                "location"
+            ],
+            "spot": [
+                "location"
+            ],
+            "car door": [
+                "location"
+            ]
+        },
+        {
+            "eraser": [
+                "cleanliness"
+            ],
+            "windshield": [
+                "cleanliness"
+            ],
+            "cleaning process": [
+                "technique"
+            ],
+            "cleaning agent": [
+                "composition"
+            ]
+        },
+        {
+            "eraser": [
+                "wear"
+            ],
+            "replacement": [
+                "frequency"
+            ],
+            "disposal": [
+                "method"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "ingredients": [
+                "source",
+                "quantity"
+            ],
+            "mixing bowl": [
+                "type",
+                "size"
+            ],
+            "mixing utensil": [
+                "type"
+            ]
+        },
+        {
+            "mixture": [
+                "shape"
+            ],
+            "hands/utensil": [
+                "cleanliness",
+                "wetness"
+            ],
+            "plate/tray": [
+                "cleanliness",
+                "size"
+            ]
+        },
+        {
+            "mixture balls": [
+                "location"
+            ],
+            "freezer": [
+                "temperature",
+                "location"
+            ]
+        },
+        {
+            "carob fruit balls": [
+                "location"
+            ],
+            "serving utensil": [
+                "type",
+                "cleanliness"
+            ],
+            "plate or bowl": [
+                "type",
+                "cleanliness",
+                "size"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "biscuits or cookies": [
+                "quantity",
+                "texture"
+            ],
+            "container": [
+                "rigidity",
+                "airtightness",
+                "location"
+            ]
+        },
+        {
+            "biscuits": [
+                "quantity",
+                "texture"
+            ],
+            "cookies": [
+                "quantity",
+                "texture"
+            ],
+            "freezer paper or baking paper or foil": [
+                "thickness",
+                "length",
+                "location"
+            ]
+        },
+        {
+            "biscuits": [
+                "location",
+                "texture"
+            ],
+            "freezer": [
+                "temperature",
+                "location"
+            ]
+        },
+        {
+            "biscuits": [
+                "temperature",
+                "texture"
+            ],
+            "freezer": [
+                "temperature",
+                "location"
+            ]
+        }
+    ],
+    "4": [
+        {
+            "pipe cleaner": [
+                "flexibility",
+                "composition"
+            ],
+            "legs": [
+                "length",
+                "location"
+            ]
+        },
+        {
+            "pipe cleaner": [
+                "flexibility",
+                "composition"
+            ],
+            "body": [
+                "shape",
+                "location"
+            ]
+        },
+        {
+            "beak": [
+                "location",
+                "distance"
+            ],
+            "pipe cleaner": [
+                "length"
+            ]
+        },
+        {
+            "pipe cleaner": [
+                "flexibility",
+                "composition"
+            ],
+            "torso": [
+                "size",
+                "composition"
+            ]
+        }
+    ],
+    "5": [
+        {
+            "yarn": [
+                "material",
+                "color",
+                "length"
+            ],
+            "spool knitter": [
+                "size",
+                "shape"
+            ],
+            "flat web": [
+                "width",
+                "length"
+            ]
+        },
+        {
+            "yarn": [
+                "material",
+                "color",
+                "length"
+            ],
+            "spool knitter": [
+                "size",
+                "shape"
+            ],
+            "flat web": [
+                "location"
+            ],
+            "sewing needle": [
+                "length",
+                "shape"
+            ],
+            "rectangular form": [
+                "width",
+                "length"
+            ]
+        },
+        {
+            "yarn": [
+                "material",
+                "color",
+                "length"
+            ],
+            "cap material": [
+                "material",
+                "color"
+            ],
+            "sewing needle": [
+                "length",
+                "shape"
+            ],
+            "hat": [
+                "width",
+                "length",
+                "material",
+                "color"
+            ]
+        },
+        {
+            "yarn": [
+                "length"
+            ],
+            "sewing needle": [
+                "shape"
+            ],
+            "cord": [
+                "length"
+            ],
+            "tassel": [
+                "length",
+                "color"
+            ],
+            "hat": [
+                "material"
+            ]
+        }
+    ],
+    "6": [
+        {
+            "player": [
+                "location"
+            ],
+            "sniper": [
+                "location",
+                "type"
+            ],
+            "head": [
+                "location",
+                "type"
+            ],
+            "trigger": [
+                "power"
+            ],
+            "host": [
+                "location",
+                "role"
+            ]
+        },
+        {
+            "player": [
+                "location"
+            ],
+            "shotgun": [
+                "location",
+                "type"
+            ],
+            "aim": [
+                "location",
+                "shape"
+            ],
+            "rectangle": [
+                "shape"
+            ]
+        },
+        {
+            "player": [
+                "location"
+            ],
+            "pistol": [
+                "location",
+                "type"
+            ],
+            "shots": [
+                "amount"
+            ],
+            "head": [
+                "location",
+                "type"
+            ],
+            "standard-issue": [
+                "type"
+            ]
+        },
+        {
+            "player": [
+                "location"
+            ],
+            "Boomshot": [
+                "location",
+                "type"
+            ],
+            "headshot": [
+                "possibility"
+            ],
+            "chance": [
+                "amount"
+            ]
+        }
+    ],
+    "7": [
+        {
+            "HDMI cord": [
+                "location"
+            ],
+            "cable": [
+                "location"
+            ]
+        },
+        {
+            "HDMI cord": [
+                "location"
+            ],
+            "TV": [
+                "location"
+            ],
+            "HDMI input": [
+                "location"
+            ]
+        },
+        {
+            "HDMI cord": [
+                "location"
+            ],
+            "Wii": [
+                "location"
+            ],
+            "AV Composite Output": [
+                "location"
+            ]
+        },
+        {
+            "HDMI cord": [
+                "location"
+            ],
+            "converter": [
+                "location"
+            ],
+            "TV": [
+                "location"
+            ]
+        }
+    ],
+    "8": [
+        {
+            "towel": [
+                "size",
+                "color",
+                "material"
+            ],
+            "thirds": [
+                "length"
+            ],
+            "fold": [
+                "method"
+            ]
+        },
+        {
+            "towel": [
+                "size"
+            ],
+            "half": [
+                "division"
+            ],
+            "fold": [
+                "method"
+            ]
+        },
+        {
+            "towel": [
+                "location"
+            ],
+            "linen closet": [
+                "location"
+            ],
+            "store": [
+                "method"
+            ]
+        },
+        {
+            "towel": [
+                "location"
+            ],
+            "linen closet": [
+                "location"
+            ],
+            "hang": [
+                "method"
+            ],
+            "fold": [
+                "method"
+            ],
+            "final fold": [
+                "method"
+            ],
+            "towel rack": [
+                "location"
+            ]
+        }
+    ],
+    "9": [
+        {
+            "group": [
+                "trustworthiness",
+                "number"
+            ],
+            "people": [
+                "trustworthiness",
+                "number"
+            ]
+        },
+        {
+            "Place": [
+                "privacy"
+            ],
+            "gear": [
+                "location"
+            ],
+            "meetings": [
+                "location"
+            ],
+            "people": [
+                "privacy"
+            ]
+        },
+        {
+            "spy gear": [
+                "quality"
+            ],
+            "missions": [
+                "difficulty"
+            ],
+            "group": [
+                "size"
+            ]
+        },
+        {
+            "victim": [
+                "identity"
+            ],
+            "group": [
+                "composition",
+                "stealth"
+            ]
+        }
+    ],
+    "10": [
+        {
+            "person": [
+                "strength",
+                "agility"
+            ],
+            "thug": [
+                "power",
+                "health"
+            ],
+            "weapons": [
+                "location"
+            ],
+            "terrain": [
+                "obstacle",
+                "location"
+            ]
+        },
+        {
+            "person": [
+                "accuracy"
+            ],
+            "grenade": [
+                "location",
+                "quantity"
+            ],
+            "Molotov cocktail": [
+                "location",
+                "quantity"
+            ],
+            "thug": [
+                "power",
+                "health"
+            ],
+            "terrain": [
+                "obstacle",
+                "location"
+            ]
+        },
+        {
+            "person": [
+                "accuracy"
+            ],
+            "guns": [
+                "ammo"
+            ],
+            "knife": [
+                "sharpness"
+            ]
+        },
+        {
+            "person": [
+                "strategy",
+                "agility"
+            ],
+            "thug": [
+                "power",
+                "health"
+            ],
+            "weapons": [
+                "location"
+            ],
+            "terrain": [
+                "location"
+            ]
+        }
+    ],
+    "11": [
+        {
+            "rhubarb": [
+                "quantity",
+                "location"
+            ],
+            "sugar": [
+                "quantity"
+            ],
+            "cloves": [
+                "quantity"
+            ],
+            "water": [
+                "quantity",
+                "temperature"
+            ]
+        },
+        {
+            "rhubarb": [
+                "texture"
+            ],
+            "water": [
+                "temperature"
+            ]
+        },
+        {
+            "heat source": [
+                "status"
+            ],
+            "rhubarb": [
+                "location"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "pot": [
+                "location",
+                "material"
+            ]
+        },
+        {
+            "mint leaves": [
+                "quantity",
+                "location",
+                "freshness"
+            ]
+        }
+    ],
+    "12": [
+        {
+            "VS Duel": [
+                "mode"
+            ],
+            "2 players": [
+                "identity"
+            ]
+        },
+        {
+            "player one": [
+                "identity"
+            ],
+            "player two": [
+                "identity"
+            ],
+            "Goku": [
+                "character"
+            ]
+        },
+        {
+            "Mountain Road": [
+                "location"
+            ],
+            "stage": [
+                "type"
+            ]
+        },
+        {
+            "player one": [
+                "location"
+            ],
+            "player two": [
+                "location"
+            ],
+            "Wall": [
+                "material"
+            ],
+            "stage": [
+                "location"
+            ]
+        }
+    ],
+    "13": [
+        {
+            "cocoa powder": [
+                "quantity"
+            ],
+            "sugar": [
+                "quantity"
+            ],
+            "salt": [
+                "quantity"
+            ],
+            "milk": [
+                "quantity"
+            ],
+            "vanilla extract": [
+                "quantity"
+            ],
+            "mixing bowl": [
+                "cleanliness",
+                "size"
+            ],
+            "whisk": [
+                "cleanliness",
+                "size"
+            ],
+            "spatula": [
+                "cleanliness",
+                "size"
+            ]
+        },
+        {
+            "slow cooker": [
+                "cleanliness",
+                "size"
+            ],
+            "mixed cocoa powder": [
+                "location"
+            ],
+            "milk": [
+                "temperature"
+            ],
+            "marshmallows": [
+                "quantity"
+            ],
+            "chocolate chips": [
+                "quantity"
+            ]
+        },
+        {
+            "slow cooker": [
+                "temperature",
+                "time"
+            ],
+            "cocoa mixture": [
+                "location",
+                "time"
+            ],
+            "heat": [
+                "temperature",
+                "time"
+            ]
+        },
+        {
+            "slow cooker": [
+                "temperature"
+            ],
+            "hot cocoa": [
+                "location",
+                "temperature"
+            ],
+            "serving cup": [
+                "location"
+            ],
+            "\"Keep Warm\" setting": [
+                "state"
+            ]
+        }
+    ],
+    "14": [
+        {
+            "pot": [
+                "size",
+                "location"
+            ],
+            "yard area": [
+                "location",
+                "microclimate"
+            ],
+            "clipping": [
+                "location"
+            ],
+            "soil": [
+                "pH",
+                "nutrients",
+                "moisture"
+            ]
+        },
+        {
+            "rose bush": [
+                "species",
+                "location"
+            ],
+            "cutting": [
+                "length",
+                "location"
+            ]
+        },
+        {
+            "clipping": [
+                "moisture",
+                "location"
+            ],
+            "rooting hormone": [
+                "composition",
+                "location"
+            ]
+        },
+        {
+            "clipping": [
+                "location"
+            ],
+            "soil": [
+                "pH",
+                "nutrients",
+                "moisture"
+            ],
+            "pot": [
+                "size",
+                "location"
+            ],
+            "yard area": [
+                "location",
+                "microclimate"
+            ]
+        }
+    ],
+    "15": [
+        {
+            "Trainer": [
+                "name"
+            ],
+            "pokeball": [
+                "type",
+                "power"
+            ],
+            "Vulpix": [
+                "level",
+                "gender",
+                "nature"
+            ]
+        },
+        {
+            "Trainer": [
+                "name"
+            ],
+            "fire stone": [
+                "location",
+                "power"
+            ],
+            "Alolan Vulpix": [
+                "level",
+                "gender",
+                "nature"
+            ]
+        },
+        {
+            "Trainer": [
+                "name"
+            ],
+            "bag": [
+                "contents"
+            ],
+            "stone": [
+                "type"
+            ]
+        },
+        {
+            "Vulpix": [
+                "gender"
+            ],
+            "animation": [
+                "speed",
+                "power"
+            ]
+        }
+    ],
+    "16": [
+        {
+            "lemon": [
+                "cutness"
+            ],
+            "knife": [
+                "sharpness"
+            ],
+            "board": [
+                "cleanness",
+                "location"
+            ],
+            "cutting board": [
+                "location",
+                "cleanness"
+            ],
+            "hand": [
+                "cleanliness"
+            ]
+        },
+        {
+            "lemon": [
+                "juice"
+            ],
+            "juicer": [
+                "cleanliness"
+            ],
+            "bowl": [
+                "cleanness",
+                "location"
+            ],
+            "strainer": [
+                "cleanness"
+            ],
+            "hand": [
+                "cleanliness"
+            ]
+        },
+        {
+            "lemon half": [
+                "composition"
+            ],
+            "faucet": [
+                "cleanliness"
+            ],
+            "hand": [
+                "cleanliness"
+            ],
+            "scrubbing brush": [
+                "cleanliness"
+            ]
+        },
+        {
+            "tap": [
+                "cleanness"
+            ],
+            "water": [
+                "temperature",
+                "time) towel"
+            ]
+        }
+    ],
+    "17": [
+        {
+            "meat": [
+                "texture",
+                "type",
+                "location"
+            ],
+            "onion": [
+                "type",
+                "location"
+            ],
+            "frying pan": [
+                "size",
+                "power",
+                "location"
+            ]
+        },
+        {
+            "fat": [
+                "excess"
+            ],
+            "frying pan": [
+                "location"
+            ],
+            "strainer": [
+                "size",
+                "location"
+            ]
+        },
+        {
+            "remaining ingredients": [
+                "type"
+            ],
+            "hot sauce": [
+                "exclusion"
+            ],
+            "frying pan": [
+                "location"
+            ],
+            "stew": [
+                "flavor",
+                "timer"
+            ]
+        },
+        {
+            "N/A": [
+                "end of procedure"
+            ]
+        }
+    ],
+    "18": [
+        {
+            "eraser": [
+                "size",
+                "shape",
+                "texture",
+                "location"
+            ],
+            "fingers": [
+                "hand size"
+            ]
+        },
+        {
+            "eraser": [
+                "location"
+            ],
+            "linoleum": [
+                "location",
+                "texture"
+            ],
+            "skid mark": [
+                "color",
+                "texture",
+                "shape"
+            ],
+            "knees": [
+                "health",
+                "location"
+            ]
+        },
+        {
+            "eraser": [
+                "location"
+            ],
+            "linoleum": [
+                "location",
+                "texture"
+            ],
+            "black marks": [
+                "texture",
+                "shape",
+                "color"
+            ]
+        },
+        {
+            "linoleum": [
+                "texture",
+                "wetness"
+            ],
+            "cleaning solution": [
+                "wetness",
+                "scent"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "towel": [
+                "texture",
+                "wetness"
+            ]
+        }
+    ],
+    "19": [
+        {
+            "game": [
+                "status"
+            ],
+            "Princess Leia": [
+                "position",
+                "gender"
+            ],
+            "Captain Antilles": [
+                "position",
+                "gender"
+            ],
+            "Star Wars cantina": [
+                "location"
+            ]
+        },
+        {
+            "up arrow": [
+                "power"
+            ],
+            "down arrow": [
+                "power"
+            ],
+            "left arrow": [
+                "power"
+            ],
+            "right arrow": [
+                "power"
+            ],
+            "hat": [
+                "color",
+                "shape"
+            ],
+            "head": [
+                "color",
+                "shape"
+            ],
+            "shirt": [
+                "color",
+                "pattern"
+            ],
+            "arms": [
+                "color",
+                "length"
+            ],
+            "hands": [
+                "color",
+                "size"
+            ],
+            "weapon": [
+                "type"
+            ],
+            "belt": [
+                "color",
+                "size"
+            ],
+            "legs": [
+                "color",
+                "size",
+                "shape"
+            ]
+        },
+        {
+            "triangle": [
+                "power"
+            ],
+            "\"O\"": [
+                "power"
+            ],
+            "character": [
+                "name",
+                "save status",
+                "exit status"
+            ]
+        },
+        {
+            "completed level": [
+                "status"
+            ],
+            "free play": [
+                "status"
+            ]
+        }
+    ],
+    "20": [
+        {
+            "cream cheese": [
+                "composition",
+                "texture"
+            ],
+            "marshmallow cream": [
+                "composition",
+                "texture"
+            ],
+            "blender": [
+                "power",
+                "location"
+            ]
+        },
+        {
+            "mixture": [
+                "location"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location",
+                "material"
+            ]
+        },
+        {
+            "mixture": [
+                "location"
+            ],
+            "fruit": [
+                "location"
+            ],
+            "dip": [
+                "location"
+            ],
+            "container": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {}
+    ],
+    "21": [
+        {
+            "instruction manual": [
+                "location"
+            ],
+            "reader": [
+                "understanding"
+            ],
+            "gear": [
+                "complexity"
+            ],
+            "equipment": [
+                "availability"
+            ],
+            "cleaning product": [
+                "availability"
+            ]
+        },
+        {
+            "Gore-Tex": [
+                "fabric",
+                "description"
+            ],
+            "synthetic clothing": [
+                "fabric",
+                "cleaning instructions"
+            ],
+            "label": [
+                "instruction"
+            ],
+            "cleaning product": [
+                "type",
+                "instruction"
+            ],
+            "detergent": [
+                "type"
+            ],
+            "washer": [
+                "location"
+            ]
+        },
+        {
+            "synthetic boots": [
+                "material",
+                "durability"
+            ]
+        },
+        {
+            "synthetic jackets": [
+                "material",
+                "composition"
+            ],
+            "down": [
+                "material",
+                "composition",
+                "sensitivity"
+            ],
+            "washing machine": [
+                "setting"
+            ]
+        },
+        {
+            "polar fleece": [
+                "fabric",
+                "feature"
+            ],
+            "washing machine": [
+                "setting"
+            ]
+        }
+    ],
+    "22": [
+        {
+            "leg": [
+                "dominance"
+            ],
+            "bike": [
+                "shaft"
+            ],
+            "person": [
+                "posture"
+            ]
+        },
+        {
+            "foot": [
+                "dominance"
+            ],
+            "bike": [
+                "pedal"
+            ],
+            "person": [
+                "balance"
+            ]
+        },
+        {
+            "handlebars": [
+                "location",
+                "firmness"
+            ],
+            "bike": [
+                "balance"
+            ],
+            "person": [
+                "balance",
+                "support"
+            ]
+        },
+        {
+            "foot": [
+                "pedal"
+            ],
+            "weight": [
+                "center"
+            ],
+            "bike": [
+                "pedal"
+            ],
+            "person": [
+                "balance",
+                "pedaling"
+            ]
+        },
+        {
+            "bike": [
+                "brakes"
+            ],
+            "person": [
+                "balance"
+            ]
+        }
+    ],
+    "23": [
+        {
+            "None of the entities undergo any change in this step. However, if we consider the entities involved, we can list them as: platform": [
+                "solidity",
+                "location"
+            ],
+            "boat": [
+                "location"
+            ],
+            "person": [
+                "preference"
+            ]
+        },
+        {
+            "person": [
+                "action"
+            ],
+            "platform": [
+                "location",
+                "solidity"
+            ],
+            "rails": [
+                "grip",
+                "location"
+            ]
+        },
+        {
+            "person": [
+                "action"
+            ],
+            "boat": [
+                "location",
+                "stability"
+            ],
+            "jetty": [
+                "solidity",
+                "location"
+            ],
+            "water": [
+                "location"
+            ]
+        },
+        {
+            "person": [
+                "action",
+                "position"
+            ],
+            "boat": [
+                "stability",
+                "location"
+            ],
+            "gravity": [
+                "force"
+            ],
+            "center line": [
+                "location"
+            ]
+        },
+        {
+            "person": [
+                "action"
+            ],
+            "boat": [
+                "stability"
+            ]
+        }
+    ],
+    "24": [
+        {
+            "yogurt": [
+                "location"
+            ],
+            "bananas": [
+                "quantity",
+                "location",
+                "composition"
+            ],
+            "sorbet": [
+                "location",
+                "temperature",
+                "composition"
+            ],
+            "blender": [
+                "location",
+                "power"
+            ]
+        },
+        {
+            "mixture": [
+                "texture"
+            ],
+            "blender": [
+                "power"
+            ],
+            "smoothie/drink": [
+                "texture"
+            ]
+        },
+        {
+            "rum": [
+                "quantity",
+                "location"
+            ],
+            "mixture": [
+                "location"
+            ],
+            "blender": [
+                "power"
+            ],
+            "smoothie/drink": [
+                "composition"
+            ]
+        },
+        {
+            "smoothie": [
+                "volume",
+                "temperature",
+                "composition"
+            ],
+            "glasses": [
+                "temperature",
+                "location",
+                "volume",
+                "cleanliness"
+            ]
+        },
+        {
+            "glasses": [
+                "location"
+            ],
+            "strawberry": [
+                "location",
+                "cleanliness"
+            ]
+        }
+    ],
+    "25": [
+        {
+            "Paper": [
+                "suitability"
+            ]
+        },
+        {
+            "Pinwheel": [
+                "quantity"
+            ]
+        },
+        {
+            "Styrofoam": [
+                "suitability"
+            ],
+            "cane": [
+                "suitability"
+            ],
+            "cardboard": [
+                "suitability"
+            ],
+            "wreath base": [
+                "suitability"
+            ]
+        },
+        {
+            "twine": [
+                "type"
+            ],
+            "ribbon": [
+                "type"
+            ],
+            "hanger": [
+                "presence"
+            ]
+        },
+        {}
+    ],
+    "26": [
+        {
+            "wire hanger": [
+                "bendability"
+            ],
+            "pliers": [
+                "grip"
+            ],
+            "circle": [
+                "shape"
+            ]
+        },
+        {
+            "wax paper or crepe paper": [
+                "size"
+            ],
+            "hanger": [
+                "shape"
+            ],
+            "thread": [
+                "location",
+                "power"
+            ]
+        },
+        {
+            "wax paper or crepe paper": [
+                "location"
+            ],
+            "hanger": [
+                "weight",
+                "shape"
+            ],
+            "pliers": [
+                "grip"
+            ],
+            "ends": [
+                "twistability"
+            ],
+            "twist": [
+                "tightness"
+            ]
+        },
+        {
+            "paper squares": [
+                "location",
+                "size"
+            ],
+            "wire hanger": [
+                "shape",
+                "location"
+            ],
+            "squeeze": [
+                "pressure"
+            ],
+            "fullness": [
+                "shape"
+            ],
+            "scrunch": [
+                "degree"
+            ]
+        },
+        {}
+    ],
+    "27": [
+        {
+            "potato": [
+                "peel",
+                "intactness",
+                "cleanliness"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "container": [
+                "clenliness",
+                "location",
+                "container"
+            ]
+        },
+        {
+            "potato": [
+                "shape",
+                "thickness",
+                "peel"
+            ],
+            "knife": [
+                "sharpness"
+            ],
+            "cutting board": [
+                "size",
+                "stability"
+            ],
+            "hand": [
+                "stability"
+            ],
+            "vision": [
+                "accuracy"
+            ]
+        },
+        {
+            "potato": [
+                "moisture"
+            ],
+            "cloth": [
+                "cleanliness"
+            ],
+            "container": [
+                "location"
+            ],
+            "table": [
+                "cleanness"
+            ],
+            "air": [
+                "quality"
+            ]
+        },
+        {
+            "potato ribbons": [
+                "thickness"
+            ],
+            "fat": [
+                "temperature",
+                "amount"
+            ],
+            "frying pan": [
+                "size",
+                "depth",
+                "temperature"
+            ],
+            "tongs": [
+                "material"
+            ],
+            "oil": [
+                "smoking point",
+                "freshness"
+            ]
+        },
+        {
+            "potato ribbons": [
+                "arrangement",
+                "temperature"
+            ],
+            "plate": [
+                "cleanliness"
+            ],
+            "table": [
+                "cleanliness"
+            ],
+            "fork": [
+                "material",
+                "cleanliness"
+            ]
+        }
+    ],
+    "28": [
+        {
+            "fizzy drink": [
+                "brand",
+                "location"
+            ]
+        },
+        {
+            "fizzy drink": [
+                "composition",
+                "brand",
+                "location"
+            ],
+            "bolt": [
+                "location",
+                "material"
+            ]
+        },
+        {
+            "kitchen towel": [
+                "cleanliness",
+                "location"
+            ],
+            "bolt": [
+                "material",
+                "wetness"
+            ]
+        },
+        {
+            "fizzy drink": [
+                "brand",
+                "strength"
+            ],
+            "rust build-up": [
+                "quantity"
+            ],
+            "bolt": [
+                "material"
+            ]
+        },
+        {
+            "rusty bolt": [
+                "location",
+                "size"
+            ],
+            "new bolt": [
+                "size",
+                "material",
+                "location"
+            ]
+        }
+    ],
+    "29": [
+        {
+            "oven": [
+                "location",
+                "temperature"
+            ]
+        },
+        {
+            "olive oil": [
+                "quantity"
+            ],
+            "baking tin": [
+                "size"
+            ],
+            "asparagus spears": [
+                "quantity",
+                "location"
+            ]
+        },
+        {
+            "asparagus spears": [
+                "quantity",
+                "location",
+                "length",
+                "diameter",
+                "texture"
+            ],
+            "Serrano ham": [
+                "quantity",
+                "texture",
+                "length"
+            ],
+            "knife": [
+                "sharpness"
+            ],
+            "cutting board": [
+                "location"
+            ],
+            "hand": [
+                "dexterity"
+            ]
+        },
+        {
+            "asparagus spears": [
+                "location"
+            ],
+            "oven": [
+                "location",
+                "temperature"
+            ],
+            "timer": [
+                "duration"
+            ]
+        },
+        {
+            "asparagus spears": [
+                "location",
+                "temperature"
+            ],
+            "main dish": [
+                "location"
+            ],
+            "plate": [
+                "location",
+                "shape"
+            ],
+            "utensils": [
+                "cleanliness"
+            ]
+        }
+    ],
+    "30": [
+        {
+            "white vinegar": [
+                "quantity"
+            ],
+            "container": [
+                "depth"
+            ],
+            "dipping tool": [
+                "location"
+            ]
+        },
+        {
+            "wick": [
+                "location",
+                "condition",
+                "lamp or stove"
+            ]
+        },
+        {
+            "wick": [
+                "location",
+                "condition",
+                "vinegar"
+            ],
+            "dipping tool": [
+                "location"
+            ]
+        },
+        {
+            "wick": [
+                "condition"
+            ],
+            "drying location": [
+                "location",
+                "volume",
+                "condition"
+            ]
+        },
+        {
+            "wick": [
+                "condition"
+            ],
+            "lamp or stove": [
+                "condition"
+            ]
+        }
+    ],
+    "31": [
+        {
+            "studio": [
+                "size",
+                "location"
+            ],
+            "props": [
+                "size"
+            ],
+            "lighting equipment": [
+                "power"
+            ],
+            "camera": [
+                "location",
+                "power"
+            ]
+        },
+        {
+            "reflector": [
+                "size"
+            ]
+        },
+        {
+            "closeup lens": [
+                "magnification"
+            ]
+        },
+        {
+            "subject": [
+                "size"
+            ],
+            "light diffuser": [
+                "size"
+            ]
+        },
+        {
+            "camera settings": [
+                "variable"
+            ],
+            "subject": [
+                "variable"
+            ],
+            "lighting": [
+                "variable"
+            ],
+            "creativity": [
+                "variable"
+            ]
+        }
+    ],
+    "32": [
+        {
+            "Velveeta": [
+                "shape",
+                "size",
+                "location"
+            ],
+            "container": [
+                "location"
+            ],
+            "knife": [
+                "sharpness",
+                "location"
+            ],
+            "cutting board": [
+                "location"
+            ]
+        },
+        {
+            "burner": [
+                "temperature",
+                "location"
+            ],
+            "cheese": [
+                "temperature",
+                "composition"
+            ],
+            "pan": [
+                "location"
+            ],
+            "spatula": [
+                "size",
+                "location"
+            ],
+            "container": [
+                "location"
+            ]
+        },
+        {
+            "Velveeta": [
+                "shape",
+                "composition"
+            ],
+            "Rotel tomatoes": [
+                "quantity",
+                "location"
+            ],
+            "burner": [
+                "temperature"
+            ],
+            "pan": [
+                "location"
+            ],
+            "spatula": [
+                "size"
+            ],
+            "can opener": [
+                "location"
+            ],
+            "can": [
+                "material"
+            ]
+        },
+        {
+            "Jalapeno peppers": [
+                "quantity",
+                "composition"
+            ],
+            "black olives": [
+                "quantity",
+                "composition"
+            ],
+            "spoon": [
+                "size",
+                "location"
+            ],
+            "pan": [
+                "location"
+            ]
+        },
+        {
+            "cheese sauce": [
+                "temperature",
+                "quality"
+            ],
+            "serving dish": [
+                "location"
+            ],
+            "spoon": [
+                "size",
+                "location"
+            ]
+        }
+    ],
+    "33": [
+        {},
+        {
+            "Wailmer": [
+                "skill level"
+            ],
+            "trainer": [
+                "patience level"
+            ]
+        },
+        {
+            "Wailmer": [
+                "experience",
+                "level"
+            ],
+            "trainer": [
+                "experience",
+                "skill level"
+            ]
+        },
+        {
+            "trainer": [
+                "location",
+                "knowledge level"
+            ],
+            "rare candies": [
+                "duplication status"
+            ],
+            "battle frontier": [
+                "location"
+            ]
+        },
+        {
+            "Wailmer": [
+                "level"
+            ],
+            "rare candies": [
+                "consumption status"
+            ],
+            "Wailord": [
+                "evolution status"
+            ]
+        }
+    ],
+    "34": [
+        {
+            "player": [
+                "position"
+            ],
+            "potential threats": [
+                "location"
+            ],
+            "obstacles": [
+                "location",
+                "size",
+                "cover"
+            ]
+        },
+        {
+            "player": [
+                "position"
+            ],
+            "hiding spots": [
+                "location",
+                "size",
+                "accessibility"
+            ],
+            "pistol": [
+                "ammo",
+                "accuracy",
+                "mode"
+            ]
+        },
+        {
+            "player": [
+                "position"
+            ],
+            "enemy": [
+                "location",
+                "movement"
+            ],
+            "routes": [
+                "visibility",
+                "complexity"
+            ],
+            "terrain": [
+                "type",
+                "visibility"
+            ]
+        },
+        {
+            "player": [
+                "position"
+            ],
+            "enemy": [
+                "location",
+                "action"
+            ],
+            "bomb location": [
+                "visibility",
+                "accessibility"
+            ],
+            "time": [
+                "duration",
+                "visibility",
+                "notification"
+            ]
+        },
+        {
+            "player": [
+                "position"
+            ],
+            "bomb location": [
+                "visibility",
+                "accessibility"
+            ],
+            "defuse kit": [
+                "location",
+                "completeness"
+            ],
+            "time": [
+                "duration",
+                "visibility"
+            ]
+        }
+    ],
+    "35": [
+        {
+            "oil-based paint": [
+                "type"
+            ],
+            "attribute": [
+                "air dry time"
+            ]
+        },
+        {
+            "under-coat": [
+                "texture",
+                "composition"
+            ],
+            "paint brush": [
+                "shape"
+            ],
+            "wood": [
+                "texture",
+                "state"
+            ],
+            "direction": [
+                "orientation"
+            ]
+        },
+        {
+            "second coat": [
+                "composition",
+                "texture"
+            ],
+            "paint": [
+                "bubbles"
+            ],
+            "under-coat": [
+                "drips"
+            ],
+            "wood": [
+                "location"
+            ],
+            "brush": [
+                "composition"
+            ],
+            "pooling": [
+                "smoothness"
+            ]
+        },
+        {},
+        {}
+    ],
+    "36": [
+        {
+            "ingredient": [
+                "type",
+                "amount"
+            ],
+            "mixing bowl": [
+                "size"
+            ],
+            "mixing spoon": [
+                "material",
+                "cleanliness"
+            ]
+        },
+        {
+            "mixture": [
+                "volume"
+            ],
+            "container": [
+                "size",
+                "airtightness"
+            ],
+            "lid": [
+                "size",
+                "airtightness"
+            ]
+        },
+        {
+            "mixture": [
+                "flavor"
+            ],
+            "dips": [
+                "type"
+            ],
+            "salad dressings": [
+                "type"
+            ],
+            "soups": [
+                "type"
+            ],
+            "sandwiches": [
+                "type"
+            ]
+        },
+        {
+            "ingredients": [
+                "quantity"
+            ],
+            "mortar": [
+                "material",
+                "size"
+            ],
+            "pestle": [
+                "material",
+                "clean",
+                "size"
+            ]
+        },
+        {
+            "mixture": [
+                "volume"
+            ],
+            "storage container": [
+                "size",
+                "airtightness",
+                "cleanliness"
+            ]
+        }
+    ],
+    "37": [
+        {
+            "equipment": [
+                "location",
+                "pattern"
+            ]
+        },
+        {
+            "rucksack": [
+                "size",
+                "camouflage"
+            ]
+        },
+        {
+            "helmet": [
+                "camouflage"
+            ]
+        },
+        {
+            "webbing": [
+                "camouflage"
+            ]
+        },
+        {
+            "weapon": [
+                "camouflage"
+            ]
+        },
+        {
+            "vehicle": [
+                "camouflage"
+            ],
+            "net": [
+                "size",
+                "camouflage"
+            ]
+        }
+    ],
+    "38": [
+        {
+            "bung": [
+                "location",
+                "size"
+            ],
+            "oil": [
+                "location"
+            ],
+            "drain": [
+                "location",
+                "size"
+            ]
+        },
+        {
+            "oil cap": [
+                "location",
+                "power"
+            ],
+            "air": [
+                "location"
+            ],
+            "old oil": [
+                "location"
+            ],
+            "drained oil": [
+                "location"
+            ]
+        },
+        {
+            "oil filter": [
+                "location",
+                "condition"
+            ]
+        },
+        {
+            "bung": [
+                "size",
+                "power"
+            ],
+            "oil": [
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "location",
+                "amount",
+                "viscosity"
+            ],
+            "oil container": [
+                "location"
+            ],
+            "funnel": [
+                "location"
+            ]
+        },
+        {
+            "old oil": [
+                "location"
+            ],
+            "recycling center": [
+                "location",
+                "hours of operation"
+            ]
+        }
+    ],
+    "39": [
+        {
+            "duct tape roll": [
+                "size"
+            ],
+            "duct tape piece": [
+                "size"
+            ],
+            "head": [
+                "size"
+            ]
+        },
+        {
+            "duct tape piece": [
+                "size"
+            ],
+            "head": [
+                "size"
+            ],
+            "scissors": [
+                "sharpness"
+            ]
+        },
+        {
+            "duct tape piece": [
+                "foldability"
+            ],
+            "fold": [
+                "length"
+            ]
+        },
+        {
+            "duct tape piece": [
+                "foldability"
+            ],
+            "fold": [
+                "length"
+            ]
+        },
+        {
+            "duct tape": [
+                "adhesiveness"
+            ],
+            "tape end": [
+                "location"
+            ],
+            "scissors": [
+                "sharpness"
+            ]
+        },
+        {}
+    ],
+    "40": [
+        {
+            "plant": [
+                "type",
+                "quality",
+                "location"
+            ],
+            "nursery": [
+                "name",
+                "location",
+                "type"
+            ],
+            "garden center": [
+                "name",
+                "location",
+                "type"
+            ]
+        },
+        {
+            "plant": [
+                "size",
+                "shape"
+            ],
+            "container": [
+                "size",
+                "shape",
+                "type"
+            ]
+        },
+        {
+            "potting soil": [
+                "type",
+                "quality",
+                "moisture"
+            ],
+            "nursery": [
+                "name",
+                "location",
+                "type"
+            ],
+            "garden center": [
+                "name",
+                "location",
+                "type"
+            ]
+        },
+        {
+            "fir plant": [
+                "size",
+                "location"
+            ],
+            "container": [
+                "size",
+                "type",
+                "location"
+            ],
+            "potting soil": [
+                "composition"
+            ]
+        },
+        {
+            "fir plant": [
+                "size",
+                "health"
+            ],
+            "watering can": [
+                "location"
+            ],
+            "water": [
+                "quantity",
+                "composition"
+            ],
+            "soil": [
+                "moisture",
+                "quality"
+            ]
+        },
+        {
+            "fir plant": [
+                "size",
+                "location"
+            ],
+            "container": [
+                "size",
+                "type",
+                "location"
+            ],
+            "potting soil": [
+                "composition",
+                "moisture"
+            ]
+        }
+    ],
+    "41": [
+        {
+            "area": [
+                "size",
+                "dampness"
+            ],
+            "dirt": [
+                "texture",
+                "moisture"
+            ]
+        },
+        {
+            "twigs": [
+                "length",
+                "texture",
+                "color"
+            ],
+            "sticks": [
+                "length",
+                "texture",
+                "color"
+            ],
+            "collection": [
+                "amount"
+            ]
+        },
+        {
+            "sticks": [
+                "shape"
+            ],
+            "formation": [
+                "shape"
+            ],
+            "square formation": [
+                "size"
+            ],
+            "circle formation": [
+                "size"
+            ],
+            "Teepee formation": [
+                "size"
+            ]
+        },
+        {
+            "twigs": [
+                "size",
+                "texture"
+            ],
+            "sticks": [
+                "size",
+                "texture"
+            ],
+            "wall": [
+                "height",
+                "texture"
+            ],
+            "exterior": [
+                "location"
+            ]
+        },
+        {
+            "leaf": [
+                "size",
+                "texture",
+                "color"
+            ],
+            "bark": [
+                "texture",
+                "color",
+                "size"
+            ],
+            "strip": [
+                "width",
+                "length"
+            ],
+            "material": [
+                "type"
+            ]
+        },
+        {
+            "decorations": [
+                "size",
+                "texture",
+                "color"
+            ],
+            "exterior": [
+                "location"
+            ]
+        }
+    ],
+    "42": [
+        {
+            "whole wheat flour": [
+                "quantity",
+                "container"
+            ],
+            "salt": [
+                "quantity",
+                "container"
+            ],
+            "mixing bowl": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "quantity",
+                "container"
+            ],
+            "mixing bowl": [
+                "location",
+                "cleanness",
+                "composition"
+            ]
+        },
+        {
+            "pastry": [
+                "shape",
+                "composition"
+            ],
+            "wax paper": [
+                "location"
+            ],
+            "sheet of wax paper": [
+                "location"
+            ]
+        },
+        {
+            "pastry": [
+                "location"
+            ],
+            "fridge": [
+                "location"
+            ]
+        },
+        {
+            "pastry": [
+                "shape",
+                "composition"
+            ],
+            "pie dish": [
+                "location",
+                "cleanness",
+                "composition"
+            ]
+        },
+        {
+            "edge": [
+                "shape"
+            ],
+            "fork": [
+                "location",
+                "cleanness",
+                "composition"
+            ],
+            "pie dish": [
+                "composition"
+            ]
+        }
+    ],
+    "43": [
+        {
+            "nursery/garden center": [
+                "location"
+            ],
+            "pond plant varieties": [
+                "specialization"
+            ]
+        },
+        {
+            "container": [
+                "size",
+                "material"
+            ]
+        },
+        {
+            "bowl": [
+                "material",
+                "size"
+            ],
+            "water": [
+                "quantity",
+                "temperature"
+            ]
+        },
+        {
+            "fairy moss": [
+                "location",
+                "material"
+            ]
+        },
+        {
+            "suitable position": [
+                "location",
+                "light levels",
+                "humidity levels"
+            ]
+        },
+        {
+            "fairy moss": [
+                "height",
+                "width",
+                "shape"
+            ]
+        }
+    ],
+    "44": [
+        {
+            "ingredients": [
+                "quantity",
+                "type"
+            ],
+            "utensils": [
+                "cleanliness"
+            ],
+            "workspace": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "chocolate bars": [
+                "type",
+                "weight"
+            ],
+            "microwave": [
+                "power",
+                "location"
+            ],
+            "utensil": [
+                "cleanliness"
+            ],
+            "stirring": [
+                "action"
+            ],
+            "no lumps": [
+                "attribute"
+            ]
+        },
+        {
+            "melted chocolate": [
+                "composition"
+            ],
+            "heart shaped molds": [
+                "material",
+                "shape"
+            ],
+            "utensil": [
+                "cleanliness"
+            ],
+            "pouring": [
+                "action"
+            ],
+            "location": [
+                "attribute"
+            ]
+        },
+        {
+            "chocolate": [
+                "composition"
+            ],
+            "freezer": [
+                "temperature",
+                "location"
+            ],
+            "time": [
+                "duration"
+            ]
+        },
+        {
+            "chocolates": [
+                "location"
+            ],
+            "molds": [
+                "shape"
+            ],
+            "tray": [
+                "shape"
+            ],
+            "cutting tool": [
+                "cleanliness",
+                "sharpness"
+            ]
+        },
+        {
+            "chocolates": [
+                "location"
+            ],
+            "box": [
+                "size"
+            ],
+            "recipient": [
+                "location"
+            ]
+        }
+    ],
+    "45": [
+        {
+            "soap": [
+                "type",
+                "quantity"
+            ],
+            "water": [
+                "quantity",
+                "temperature"
+            ],
+            "mixing container": [
+                "location"
+            ],
+            "mixing tool": [
+                "cleanliness"
+            ]
+        },
+        {
+            "bubble solution": [
+                "quantity"
+            ],
+            "glycerin": [
+                "quantity",
+                "quality"
+            ],
+            "mixing container": [
+                "location"
+            ]
+        },
+        {
+            "bubble wand": [
+                "material",
+                "size"
+            ]
+        },
+        {
+            "giant bubble wand": [
+                "material",
+                "size",
+                "shape"
+            ]
+        },
+        {
+            "person": [
+                "location"
+            ]
+        },
+        {
+            "glycerin": [
+                "quantity",
+                "quality"
+            ],
+            "bubble wand": [
+                "size",
+                "shape"
+            ],
+            "bubble solution": [
+                "quantity"
+            ],
+            "person": [
+                "action"
+            ],
+            "air": [
+                "quality",
+                "quantity"
+            ]
+        }
+    ],
+    "46": [
+        {
+            "stray items": [
+                "location",
+                "size",
+                "weight"
+            ],
+            "trash": [
+                "type"
+            ],
+            "waste baskets": [
+                "location",
+                "capacity"
+            ]
+        },
+        {
+            "duster": [
+                "cleanliness",
+                "location"
+            ],
+            "cleaning cloth": [
+                "cleanliness"
+            ],
+            "furniture": [
+                "composition"
+            ],
+            "room": [
+                "name"
+            ]
+        },
+        {
+            "trash bag": [
+                "size"
+            ],
+            "waste baskets": [
+                "location",
+                "emptiness"
+            ],
+            "trash cans": [
+                "location",
+                "emptiness"
+            ],
+            "room": [
+                "name"
+            ]
+        },
+        {
+            "spray cleaner": [
+                "type"
+            ],
+            "rags or paper towels": [
+                "type"
+            ],
+            "glass surfaces": [
+                "location",
+                "cleaniness",
+                "TV screens"
+            ]
+        },
+        {
+            "throw rugs": [
+                "location"
+            ],
+            "inside door mats": [
+                "location"
+            ],
+            "door mats outside": [
+                "location"
+            ],
+            "outdoor space": [
+                "location"
+            ]
+        },
+        {}
+    ],
+    "47": [
+        {
+            "gems": [
+                "quantity"
+            ]
+        },
+        {},
+        {
+            "room": [
+                "size",
+                "location"
+            ],
+            "shoji screens": [
+                "quantity"
+            ],
+            "section": [
+                "size",
+                "location"
+            ]
+        },
+        {
+            "shoji screens": [
+                "quantity"
+            ],
+            "room": [
+                "size",
+                "location"
+            ],
+            "kids room": [
+                "size",
+                "location"
+            ],
+            "master bedroom": [
+                "size",
+                "location"
+            ],
+            "living room": [
+                "size",
+                "location"
+            ],
+            "dining room": [
+                "location"
+            ]
+        },
+        {
+            "outside area": [
+                "size",
+                "location"
+            ],
+            "furniture": [
+                "quantity"
+            ],
+            "plants": [
+                "quantity"
+            ],
+            "flooring": [
+                "texture",
+                "location"
+            ]
+        },
+        {}
+    ],
+    "48": [
+        {
+            "ingredient": [
+                "composition",
+                "volume",
+                "measurement_unit"
+            ],
+            "pitcher": [
+                "capacity"
+            ],
+            "garnish": [
+                "location"
+            ]
+        },
+        {
+            "ingredient": [
+                "composition"
+            ],
+            "pitcher": [
+                "composition"
+            ],
+            "mixing tool": [
+                "efficiency"
+            ]
+        },
+        {
+            "mixture": [
+                "temperature"
+            ],
+            "refrigerator": [
+                "temperature"
+            ]
+        },
+        {
+            "mixture": [
+                "location"
+            ],
+            "tall glasses": [
+                "volume",
+                "location"
+            ],
+            "garnish": [
+                "composition",
+                "location"
+            ]
+        },
+        {
+            "honeydew melon": [
+                "location",
+                "quantity",
+                "shape"
+            ],
+            "chunk": [
+                "size"
+            ],
+            " tall glasses": [
+                "location"
+            ]
+        },
+        {}
+    ],
+    "49": [
+        {
+            "pineapple": [
+                "freshness",
+                "composition"
+            ],
+            "blender": [
+                "power",
+                "location"
+            ],
+            "blender lid": [
+                "power"
+            ]
+        },
+        {
+            "milk": [
+                "volume",
+                "temperature"
+            ],
+            "oil": [
+                "volume"
+            ],
+            "sugar": [
+                "volume"
+            ],
+            "syrup": [
+                "volume"
+            ],
+            "extract": [
+                "flavor",
+                "volume"
+            ],
+            "container": [
+                "cleanliness"
+            ],
+            "utensils": [
+                "cleanliness"
+            ]
+        },
+        {
+            "ingredients": [
+                "composition",
+                "volume"
+            ],
+            "blender": [
+                "power",
+                "cleanliness"
+            ]
+        },
+        {
+            "mixture": [
+                "composition",
+                "volume"
+            ],
+            "baking dish": [
+                "height",
+                "cleanliness",
+                "composition"
+            ]
+        },
+        {
+            "baking dish": [
+                "location"
+            ],
+            "freezer": [
+                "temperature",
+                "location"
+            ]
+        },
+        {
+            "sherbet": [
+                "texture",
+                "flavor",
+                "volume"
+            ],
+            "serving dishes": [
+                "location",
+                "cleanliness"
+            ]
+        }
+    ],
+    "50": [
+        {
+            "ketchup bottle": [
+                "cleanliness"
+            ],
+            "scrubber": [
+                "abrasiveness"
+            ]
+        },
+        {
+            "funnel": [
+                "size",
+                "location"
+            ],
+            "ketchup bottle": [
+                "location"
+            ]
+        },
+        {
+            "pancake batter": [
+                "consistency",
+                "quantity"
+            ],
+            "funnel": [
+                "position"
+            ],
+            "ketchup bottle": [
+                "volume",
+                "container"
+            ]
+        },
+        {
+            "ketchup bottle": [
+                "lid",
+                "label"
+            ]
+        },
+        {
+            "ketchup bottle": [
+                "location"
+            ],
+            "refrigerator": [
+                "temperature",
+                "location"
+            ]
+        },
+        {}
+    ],
+    "51": [
+        {
+            "bucket": [
+                "container",
+                "content",
+                "location"
+            ],
+            "hot water": [
+                "temperature",
+                "location"
+            ],
+            "dish soap": [
+                "composition"
+            ],
+            "cloth/sponge": [
+                "cleanliness"
+            ],
+            "safety razor blade": [
+                "sharpness"
+            ],
+            "glass cleaner": [
+                "composition"
+            ]
+        },
+        {
+            "Window": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "dish soap": [
+                "composition"
+            ]
+        },
+        {
+            "Razor blade": [
+                "sharpness",
+                "position"
+            ],
+            "window": [
+                "location"
+            ]
+        },
+        {
+            "Paint": [
+                "location",
+                "composition"
+            ],
+            "window": [
+                "location"
+            ],
+            "razor blade": [
+                "position",
+                "motion"
+            ]
+        },
+        {
+            "Paint": [
+                "location"
+            ],
+            "window": [
+                "location"
+            ],
+            "glass cleaner": [
+                "composition",
+                "location"
+            ],
+            "cloth": [
+                "cleanliness"
+            ],
+            "location": [
+                "cleanliness"
+            ]
+        },
+        {
+            "paint splatters": [
+                "location",
+                "type"
+            ],
+            "chemical solvent": [
+                "composition"
+            ]
+        }
+    ],
+    "52": [
+        {
+            "microphone": [
+                "working-status",
+                "location"
+            ],
+            "computer": [
+                "port"
+            ],
+            "cable": [
+                "working status",
+                "type",
+                "length",
+                "age"
+            ],
+            "speakers": [
+                "volume"
+            ]
+        },
+        {
+            "panel": [
+                "title",
+                "position"
+            ],
+            "user interface": [
+                "layout",
+                "display"
+            ],
+            "game": [
+                "version"
+            ],
+            "computer": [
+                "performance",
+                "screen size"
+            ],
+            "mouse": [
+                "sensitivity",
+                "button function"
+            ],
+            "audio": [
+                "volume",
+                "audio-focused entity"
+            ],
+            "multiplayer": [
+                "server list"
+            ]
+        },
+        {
+            "Voice Panel": [
+                "title",
+                "position"
+            ],
+            "user interface": [
+                "display"
+            ],
+            "mouse": [
+                "position"
+            ],
+            "audio": [
+                "volume",
+                "property"
+            ],
+            "computer": [
+                "performance"
+            ]
+        },
+        {
+            "microphone": [
+                "input level"
+            ],
+            "communication": [
+                "transmission",
+                "reception"
+            ],
+            "other players": [
+                "communication status"
+            ]
+        },
+        {
+            "microphone": [
+                "input level"
+            ],
+            "communication": [
+                "transmission",
+                "reception"
+            ],
+            "team": [
+                "communication status",
+                "organization"
+            ],
+            "voice": [
+                "clarity",
+                "assertiveness"
+            ]
+        },
+        {
+            "teammates": [
+                "communication status",
+                "role"
+            ],
+            "game plan": [
+                "strategy",
+                "clarity"
+            ],
+            "support": [
+                "helpful messages",
+                "communication clarity"
+            ]
+        }
+    ],
+    "53": [
+        {
+            "macaroni": [
+                "state",
+                "size",
+                "type",
+                "water"
+            ],
+            "oil": [
+                "quantity"
+            ]
+        },
+        {
+            "macaroni": [
+                "location",
+                "temperature"
+            ],
+            "water": [
+                "location"
+            ],
+            "running water": [
+                "power"
+            ],
+            "container": [
+                "location"
+            ],
+            "time": [
+                "duration"
+            ]
+        },
+        {
+            "pan": [
+                "heat",
+                "location"
+            ],
+            "oil": [
+                "quantity"
+            ],
+            "macaroni": [
+                "location",
+                "state",
+                "composition"
+            ]
+        },
+        {
+            "salt": [
+                "quantity"
+            ],
+            "chilli powder": [
+                "quantity"
+            ],
+            "soy sauce": [
+                "quantity"
+            ],
+            "white vinegar": [
+                "quantity"
+            ],
+            "ajino moto": [
+                "quantity"
+            ]
+        },
+        {
+            "time": [
+                "duration"
+            ],
+            "cooking": [
+                "power"
+            ],
+            "pan": [
+                "heat",
+                "location"
+            ],
+            "macaroni": [
+                "location",
+                "state",
+                "composition"
+            ]
+        },
+        {
+            "macaroni dish": [
+                "temperature",
+                "composition",
+                "location"
+            ],
+            "drink": [
+                "temperature",
+                "location"
+            ],
+            "serving dish": [
+                "location"
+            ]
+        }
+    ],
+    "54": [
+        {
+            "elastic strip": [
+                "length",
+                "width"
+            ],
+            "scissors": [
+                "sharpness",
+                "location"
+            ]
+        },
+        {
+            "larger beads": [
+                "size",
+                "design",
+                "color",
+                "location"
+            ],
+            "smaller bead": [
+                "size",
+                "design",
+                "color",
+                "location"
+            ]
+        },
+        {
+            "small bead": [
+                "size",
+                "design",
+                "color",
+                "location"
+            ],
+            "tail": [
+                "length",
+                "location"
+            ]
+        },
+        {
+            "beads": [
+                "number",
+                "size",
+                "design",
+                "color",
+                "location"
+            ],
+            "finger": [
+                "size",
+                "location"
+            ]
+        },
+        {
+            "loose tails": [
+                "length",
+                "location"
+            ],
+            "small bead": [
+                "size",
+                "design",
+                "color",
+                "location"
+            ],
+            "elastic": [
+                "length",
+                "material",
+                "location"
+            ]
+        },
+        {}
+    ],
+    "55": [
+        {
+            "underpants": [
+                "material",
+                "shape",
+                "color",
+                "size"
+            ],
+            "scissors": [
+                "sharpness"
+            ],
+            "cleaning rags": [
+                "shape",
+                "size"
+            ],
+            "rag material": [
+                "texture",
+                "density"
+            ],
+            "rag color": [
+                "color"
+            ]
+        },
+        {
+            "underpants": [
+                "material",
+                "shape",
+                "color",
+                "size"
+            ],
+            "garden plants": [
+                "size"
+            ],
+            " garden ties": [
+                "material"
+            ],
+            "tie length": [
+                "size"
+            ],
+            "tie color": [
+                "color"
+            ]
+        },
+        {
+            "underpants": [
+                "quality",
+                "material",
+                "shape",
+                "color",
+                "size"
+            ],
+            " craft item": [
+                "shape",
+                "size",
+                "color"
+            ],
+            "craft materials": [
+                "texture",
+                "density"
+            ]
+        },
+        {
+            "underpants": [
+                "material",
+                "shape",
+                "color",
+                "size"
+            ],
+            "stuffing": [
+                "quantity",
+                "material"
+            ],
+            "stuffed item": [
+                "shape",
+                "size"
+            ],
+            "bundle": [
+                "quantity",
+                "size",
+                "shape"
+            ]
+        },
+        {
+            "underpants": [
+                "color",
+                "material",
+                "shape",
+                "size"
+            ],
+            "children": [
+                "age",
+                "gender",
+                "height"
+            ],
+            "superhero costume": [
+                "color",
+                "material",
+                "size"
+            ],
+            "pants": [
+                "color",
+                "material",
+                "size",
+                "design"
+            ]
+        },
+        {
+            "underpants": [
+                "material",
+                "shape",
+                "color",
+                "size"
+            ],
+            "charity": [
+                "name"
+            ],
+            "bin": [
+                "location"
+            ],
+            "donation box": [
+                "size",
+                "location"
+            ],
+            "transport vehicle": [
+                "size",
+                "carrying capacity",
+                "fuel type"
+            ],
+            "donation center": [
+                "location"
+            ]
+        }
+    ]
+}

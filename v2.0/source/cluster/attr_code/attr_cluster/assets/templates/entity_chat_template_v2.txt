@@ -1,0 +1,4 @@
+{"role": "user", "content": "I am trying to {goal}. {steps} Do you get it?"}
+{"role": "assistant", "content": "Yes."}
+{"role": "user", "content": "We have the following objects: {entities}. Group those that refer to the same thing. Add object names that describe the same entity but do not exist in the provided list as needed. You must include all the provided entities."}
+{"role": "assistant", "content": "The grouped objects are:{grouped_entities}"}

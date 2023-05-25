@@ -1,0 +1,40 @@
+OpenPI dataset is divided into train/dev/test splits depending on WikiHow topics.
+At test-time we have a mix of
+          seen topics: Food & Entertainment, Home & Garden, Hobbies & Craft, Sports & Fitness, Cars & Vehicles
+          and unseen topic: Health
+
+Each record corresponds to a step in a WikiHow procedure.
+E.g. following four records in dev.jsonl are for the procedure "Make a Simple Inside Windshield Cleaner"
+    {"id": "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||1", "step": "Purchase a blackboard eraser.", "modality": "with_image_7__without_image_1", "answers": ["ownership of eraser was in store before and purchased afterwards", "location of money was in the customer's hand before and in the cashier's hand afterwards", "location of eraser was in the store before and at the customer's house afterwards", "location of eraser was on shelf before and in home afterwards", "fullness of eraser shelf at the store was more full before and more empty afterwards", "possession of the blackboard eraser was at a store before and now owned by you afterwards", "ownership of eraser was in the store before and owned afterwards", "fullness of bank account was full before and depleted afterwards"], "context": [], "future_context": ["Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.", "Use the eraser to clean the inner side of the windshield.", "Replace after use."]}
+    {"id": "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||2", "step": "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.", "modality": "with_image_5__without_image_1", "answers": ["location of glovebox was away from car before and inside car afterwards", "location of eraser was in the house before and in the glovebox afterwards", "placement of the blackboard eraser was outside of car before and now stored in car afterwards", "location of eraser was on table before and in glove box afterwards", "fullness of glove box was less full before and more full afterwards", "fullness of glove box was empty before and full afterwards"], "context": ["Purchase a blackboard eraser."], "future_context": ["Use the eraser to clean the inner side of the windshield.", "Replace after use."]}
+    {"id": "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||3", "step": "Use the eraser to clean the inner side of the windshield.", "modality": "with_image_9__without_image_0", "answers": ["cleanness of windshield was dirty before and clean afterwards", "location of eraser was in the glovebox before and on the windshield afterwards", "state of the blackboard eraser was at rest before and now being used to clean windshield afterwards", "location of eraser was in glove box before and on dash afterwards", "state of inside windshield was dirty before and cleaned with eraser afterwards", "activity of hands were relaxed before and active afterwards", "cleanness of eraser was clean before and dirty afterwards", "condition of eraser was new before and used afterwards", "movement of eraser was sitting before and rubbing afterwards"], "context": ["Purchase a blackboard eraser.", "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access."], "future_context": ["Replace after use."]}
+    {"id": "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||4", "step": "Replace after use.", "modality": "with_image_5__without_image_1", "answers": ["movement of eraser was rubbing before and resting afterwards", "location of eraser was on glass before and in glove box afterwards", "state of eraser was used before and replaced afterwards", "location of eraser was on the windshield before and in the glovebox afterwards", "state of the blackboard eraser was being used before and now being replaced afterwards", "activity of hands were working on the windshield before and relaxed afterwards"], "context": ["Purchase a blackboard eraser.", "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.", "Use the eraser to clean the inner side of the windshield."], "future_context": []}
+
+Each record contains following fields:
+    {"id": #<URL>||<step-id-starting-1>
+           "www.wikihow.com/Make-a-Simple-Inside-Windshield-Cleaner||3",
+    "step": # 3rd step in the procedure
+            "Use the eraser to clean the inner side of the windshield.",
+    "modality": # denotes whether Turkers looked at WikiHow image to annotate this step, sometimes its a mix of both kinds of annotations
+            "with_image_9__without_image_0",
+    "answers": [ # state changes as a result of step-3
+        "cleanness of windshield was dirty before and clean afterwards",
+        "location of eraser was in the glovebox before and on the windshield afterwards",
+        "state of the blackboard eraser was at rest before and now being used to clean windshield afterwards",
+        "location of eraser was in glove box before and on dash afterwards",
+        "state of inside windshield was dirty before and cleaned with eraser afterwards",
+        "activity of hands were relaxed before and active afterwards",
+        "cleanness of eraser was clean before and dirty afterwards",
+        "condition of eraser was new before and used afterwards",
+        "movement of eraser was sitting before and rubbing afterwards"
+        ],
+    "context": [  # previous steps (step 1 and step 2 in this case)
+        "Purchase a blackboard eraser.",
+        "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access."
+        ],
+    "future_context": [  # Future steps (step 4 in this case)
+        "Replace after use."
+        ]
+    }
+
+

@@ -1,0 +1,4699 @@
+{
+    "1": {
+        "the blackboard eraser | eraser": {
+            "possession": [
+                "ownership"
+            ],
+            "location": [
+                "placement"
+            ],
+            "condition": [
+                "cleanness"
+            ],
+            "movement": [
+                "movement"
+            ]
+        },
+        "glovebox": {
+            "location": [
+                "location"
+            ]
+        },
+        "eraser shelf at the store": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "windshield": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "inside windshield": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "bank account": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "glove box": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "money": {
+            "location": [
+                "location"
+            ]
+        },
+        "hands": {
+            "activity": [
+                "activity"
+            ]
+        }
+    },
+    "2": {
+        "ingredients": {
+            "composition": [
+                "composition"
+            ],
+            "consistency": [
+                "consistency"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "dough | dough pieces": {
+            "size | shape": [
+                "size | shape"
+            ]
+        },
+        "carob fruit balls": {
+            "readiness": [
+                "readiness"
+            ],
+            "hardness": [
+                "hardness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "balls": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "mixing bowl": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "spoon": {
+            "location": [
+                "location"
+            ]
+        },
+        "plate": {
+            "location": [
+                "location"
+            ],
+            "container": [
+                "container"
+            ]
+        },
+        "mixture": {
+            "location": [
+                "location"
+            ],
+            "number": [
+                "number"
+            ],
+            "density": [
+                "density"
+            ]
+        },
+        "carob": {
+            "mixed": [
+                "mixed"
+            ]
+        },
+        "hand": {
+            "fullness": [
+                "fullness"
+            ],
+            "stickiness": [
+                "stickiness"
+            ]
+        },
+        "bowl": {
+            "weight": [
+                "weight"
+            ]
+        }
+    },
+    "3": {
+        "the cookies and biscuits": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "cookies | biscuits": {
+            "composition": [
+                "composition"
+            ],
+            "organization": [
+                "organization"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "position"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "flexibility": [
+                "flexibility"
+            ]
+        },
+        "the aluminum foil": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "aluminum foil": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "the cookies": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "the bowl": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "freezer": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "freezer paper": {
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "size": [
+                "size"
+            ]
+        },
+        "baking paper": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "foil": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "container": {
+            "volume": [
+                "volume"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "tray": {
+            "weight": [
+                "weight"
+            ]
+        }
+    },
+    "4": {
+        "tip of pipe cleaner": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "pipe cleaner | pipe cleaners": {
+            "position": [
+                "position"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "your fingers": {
+            "location": [
+                "location"
+            ]
+        },
+        "the torso": {
+            "width": [
+                "width"
+            ],
+            "weight": [
+                "weight"
+            ]
+        }
+    },
+    "5": {
+        "the webbing | the yarn": {
+            "composition": [
+                "composition"
+            ],
+            "shape": [
+                "width"
+            ]
+        },
+        "the hat": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "the piece of yarn": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "the ends": {
+            "connection": [
+                "connection"
+            ]
+        }
+    },
+    "6": {
+        "gun | weapon": {
+            "location": [
+                "location"
+            ]
+        },
+        "you": {
+            "knowledge": [
+                "knowledge"
+            ],
+            "shape": [
+                "shape"
+            ]
+        }
+    },
+    "7": {
+        "hdmi cord | hdmi converter cable | the hdmi cord": {
+            "organization": [
+                "organization"
+            ],
+            "power": [
+                "power"
+            ],
+            "connection": [
+                "connection"
+            ],
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "wii's av composite output": {
+            "container": [
+                "container"
+            ]
+        },
+        "cord": {
+            "power": [
+                "power"
+            ]
+        },
+        "tv's hdmi input": {
+            "container": [
+                "container"
+            ]
+        },
+        "converter": {
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "tv": {
+            "power": [
+                "power"
+            ],
+            "attachment": [
+                "attachment"
+            ]
+        },
+        "plug": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "wii": {
+            "connection": [
+                "connection"
+            ]
+        },
+        "the hdmi": {
+            "power": [
+                "power"
+            ]
+        },
+        "the cord": {
+            "power": [
+                "power"
+            ]
+        }
+    },
+    "8": {
+        "towel | the towels": {
+            "location": [
+                "location"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "size": [
+                "width",
+                "thickness",
+                "length"
+            ],
+            "stated": [
+                "stated"
+            ]
+        },
+        "closet": {
+            "emptiness": [
+                "emptiness"
+            ]
+        },
+        "height of towel": {
+            "height": [
+                "height"
+            ]
+        },
+        "hand muscles": {
+            "power": [
+                "power"
+            ]
+        },
+        "final fold": {
+            "openness": [
+                "openness"
+            ]
+        },
+        "towel rack": {
+            "emptiness": [
+                "emptiness"
+            ]
+        },
+        "hand": {
+            "emptiness": [
+                "emptiness"
+            ]
+        }
+    },
+    "9": {
+        "co-conspirators": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "gear": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "your spy group": {
+            "forming": [
+                "forming"
+            ]
+        },
+        "you": {
+            "location": [
+                "location"
+            ],
+            "possession": [
+                "possession"
+            ],
+            "knowledge": [
+                "knowledge"
+            ]
+        }
+    },
+    "10": {
+        "you": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "enough ammo": {
+            "count": [
+                "count"
+            ]
+        },
+        "zombies": {
+            "step": [
+                "step"
+            ]
+        },
+        "molotov cocktails": {
+            "location": [
+                "location"
+            ]
+        },
+        "grenades": {
+            "location": [
+                "location"
+            ]
+        },
+        "weapons": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "11": {
+        "rhubarb | rhubarb cordial": {
+            "temperature": [
+                "temperature"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "taste": [
+                "taste"
+            ],
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "hardness": [
+                "hardness"
+            ],
+            "appearance": [
+                "appearance"
+            ],
+            "consistency": [
+                "consistency"
+            ],
+            "texture": [
+                "texture"
+            ]
+        },
+        "cordial": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "pot": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "cloves": {
+            "temperature": [
+                "temperature"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "sugar": {
+            "wetness": [
+                "wetness"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "mint leaves": {
+            "location": [
+                "location"
+            ]
+        },
+        "stove": {
+            "location": [
+                "location"
+            ]
+        },
+        "water": {
+            "temperature": [
+                "temperature"
+            ]
+        }
+    },
+    "12": {
+        "players | player": {
+            "location": [
+                "location"
+            ],
+            "division": [
+                "division"
+            ],
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "stage": {
+            "location": [
+                "location"
+            ]
+        },
+        "player two": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "companion": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "goku": {
+            "count": [
+                "count"
+            ],
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "vs duel": {
+            "option": [
+                "option"
+            ]
+        },
+        "mode": {
+            "population": [
+                "population"
+            ]
+        },
+        "you": {
+            "location": [
+                "location"
+            ]
+        },
+        "character": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "13": {
+        "mixture ingredients | the ingredients | ingredients": {
+            "composition": [
+                "composition"
+            ],
+            "container": [
+                "container"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "ingredients": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "slow cooker | the slow cooker": {
+            "volume": [
+                "volume"
+            ],
+            "container": [
+                "container"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "pressure": [
+                "pressure"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "power": [
+                "power"
+            ]
+        },
+        "mixture | the mixture": {
+            "temperature": [
+                "temperature"
+            ],
+            "container": [
+                "container"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "cocoa powder": {
+            "location": [
+                "location"
+            ]
+        },
+        "liquid": {
+            "sound": [
+                "sound"
+            ]
+        },
+        "cooker": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "whisk": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        },
+        "smell": {
+            "odor": [
+                "odor"
+            ]
+        },
+        "the outside of the slow cooker": {
+            "thermal conductivity": [
+                "thermal conductivity"
+            ]
+        },
+        "bowl": {
+            "weight": [
+                "weight"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "lid": {
+            "location": [
+                "location"
+            ]
+        },
+        "mug": {
+            "wetness": [
+                "wetness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "the slow cooker": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "cocoa mixture": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "the knob": {
+            "direction": [
+                "direction"
+            ]
+        }
+    },
+    "14": {
+        "the pruning shears | pruning shears": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "the clipping | clipping": {
+            "moisture": [
+                "wetness"
+            ],
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "hole in ground": {
+            "container": [
+                "container"
+            ]
+        },
+        "the rose bush": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "the shovel": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "cutting": {
+            "location": [
+                "location"
+            ]
+        },
+        "ground": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "rose bush": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "rooting hormone": {
+            "location": [
+                "location"
+            ]
+        },
+        "yard": {
+            "readiness": [
+                "readiness"
+            ]
+        },
+        "area": {
+            "readiness": [
+                "readiness"
+            ]
+        },
+        "pot": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "the cutting": {
+            "location": [
+                "location"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        },
+        "roots": {
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "soil": {
+            "location": [
+                "location"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        }
+    },
+    "15": {
+        "stone": {
+            "choice | knowledge": [
+                "choice | knowledge"
+            ]
+        },
+        "fire or ice stone": {
+            "step": [
+                "step"
+            ]
+        },
+        "the stone": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "bag": {
+            "step": [
+                "step"
+            ]
+        },
+        "vulpix": {
+            "step": [
+                "step"
+            ],
+            "availability": [
+                "availability"
+            ],
+            "ownership": [
+                "ownership"
+            ]
+        },
+        "fire stone": {
+            "availability": [
+                "availability"
+            ]
+        }
+    },
+    "16": {
+        "faucets | faucet | tap": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "odor": [
+                "odor"
+            ],
+            "color": [
+                "color"
+            ],
+            "appearance": [
+                "appearance"
+            ],
+            "dryness": [
+                "moisture",
+                "wetness"
+            ]
+        },
+        "lemon": {
+            "size": [
+                "size"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "odor": [
+                "odor"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "juice | facuets": {
+            "location | wetness": [
+                "location | wetness"
+            ]
+        },
+        "cutting board": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "lemon juice": {
+            "location": [
+                "location"
+            ]
+        },
+        "knife": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "17": {
+        "onion": {
+            "form": [
+                "form"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "meat | fat | pan": {
+            "location": [
+                "location"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "cooked or not": [
+                "how cooked"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "color": [
+                "color"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "grease c ontainer": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "tomato": {
+            "form": [
+                "form"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "grease container": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "ingredients | spices": {
+            "cooked or not": [
+                "cooked or not"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "serving bowl": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "hot sauce": {
+            "location": [
+                "location"
+            ]
+        },
+        "spatula": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "skillet": {
+            "temperature": [
+                "temperature"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "sound": [
+                "sound"
+            ]
+        },
+        "liquids": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "grease": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "cheese": {
+            "location": [
+                "location"
+            ],
+            "form": [
+                "form"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "flavor": {
+            "taste": [
+                "taste"
+            ]
+        },
+        "recipe": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "knife": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "beef": {
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "food": {
+            "location": [
+                "location"
+            ]
+        },
+        "frying pan": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "bowl": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "stove": {
+            "power": [
+                "power"
+            ]
+        },
+        "sink": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        }
+    },
+    "18": {
+        "eraser": {
+            "location": [
+                "location"
+            ],
+            "ownership": [
+                "ownership"
+            ],
+            "cost": [
+                "cost"
+            ],
+            "size": [
+                "size"
+            ]
+        },
+        "floor | lineoleum": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "color": [
+                "color"
+            ],
+            "odor": [
+                "odor"
+            ],
+            "wetness": [
+                "moisture"
+            ]
+        },
+        "linoleum": {
+            "cleanness | wetness": [
+                "cleanness | wetness"
+            ]
+        },
+        "skid mark": {
+            "dampness": [
+                "dampness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "hands": {
+            "motion": [
+                "motion"
+            ]
+        },
+        "hand muscles": {
+            "power": [
+                "power"
+            ]
+        },
+        "body | person": {
+            "form": [
+                "form"
+            ],
+            "position": [
+                "location"
+            ]
+        },
+        "you": {
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "19": {
+        "up/down and left/right arrows": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "you": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "character parts": {
+            "step": [
+                "step"
+            ]
+        },
+        "completed level": {
+            "step": [
+                "step"
+            ]
+        },
+        "free play": {
+            "power": [
+                "power"
+            ]
+        },
+        "character": {
+            "choice": [
+                "choice"
+            ]
+        },
+        "game": {
+            "knowledge": [
+                "knowledge"
+            ]
+        }
+    },
+    "20": {
+        "the cream cheese | cream cheese and marshmallow": {
+            "composition": [
+                "composition"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "marshmallow": {
+            "location": [
+                "location"
+            ]
+        },
+        "the mixing bowl | the clean bowl": {
+            "weight": [
+                "weight"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "mixtre | mixture": {
+            "location": [
+                "location"
+            ]
+        },
+        "the marshmallow cream | marshmallow cream | cream cheese": {
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "the knife": {
+            "wetness | cleanness": [
+                "wetness | cleanness"
+            ]
+        },
+        "the fruit | fruit": {
+            "composition": [
+                "composition"
+            ],
+            "size": [
+                "size"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "the mixture | bowl": {
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "container": [
+                "container"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "the bowl": {
+            "weight": [
+                "weight"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "blender": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "ingredients": {
+            "organization": [
+                "organization"
+            ]
+        }
+    },
+    "21": {
+        "instructions": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "washing machine": {
+            "fullness": [
+                "fullness"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "clothing": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "polar fleece": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "fleece": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "detergent": {
+            "location": [
+                "location"
+            ]
+        },
+        "gore-tex": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "dirt": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "22": {
+        "your weight": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "ability to identify non-dominant leg": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to identify dominant foot": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "weight": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "foot | dominant foot | feet": {
+            "location": [
+                "location"
+            ]
+        },
+        "your foot": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "both feet": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "the tires": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "the chain": {
+            "mechanical movement": [
+                "mechanical movement"
+            ]
+        },
+        "ability to identify bike shaft": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to identify handlebars": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "ability to ride a bike": {
+            "skill": [
+                "skill"
+            ]
+        },
+        "you | hands": {
+            "position": [
+                "location"
+            ],
+            "motion": [
+                "action"
+            ],
+            "balance": [
+                "balance"
+            ]
+        },
+        "bike | bicycle": {
+            "stability": [
+                "balance"
+            ],
+            "movement": [
+                "motion"
+            ],
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "bicycle": {
+            "location": [
+                "location"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "non-dominant foot": {
+            "location": [
+                "location"
+            ]
+        },
+        "center of gravity": {
+            "location": [
+                "location"
+            ]
+        },
+        "pedals": {
+            "motion": [
+                "motion"
+            ]
+        },
+        "grip on bike": {
+            "strength": [
+                "strength"
+            ]
+        },
+        "handbrakes": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "speed": {
+            "speed": [
+                "speed"
+            ]
+        }
+    },
+    "23": {
+        "passenger position": {
+            "location": [
+                "location"
+            ]
+        },
+        "other passengers": {
+            "location": [
+                "location"
+            ]
+        },
+        "boat | person": {
+            "location": [
+                "location"
+            ],
+            "motion": [
+                "motion"
+            ],
+            "stability": [
+                "stability"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "orientation": [
+                "orientation"
+            ],
+            "action": [
+                "action"
+            ]
+        },
+        "boarding plank": {
+            "location": [
+                "location"
+            ]
+        },
+        "room on boat": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "legs": {
+            "location": [
+                "location"
+            ]
+        },
+        "passenger": {
+            "speed": [
+                "speed"
+            ]
+        },
+        "jumping": {
+            "location": [
+                "location"
+            ]
+        },
+        "paddle": {
+            "location": [
+                "location"
+            ]
+        },
+        "plank": {
+            "moisture": [
+                "moisture"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "dock": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "arms": {
+            "location": [
+                "location"
+            ]
+        },
+        "gravity": {
+            "location of center": [
+                "location of center"
+            ]
+        },
+        "other person": {
+            "location": [
+                "location"
+            ]
+        },
+        "handrails": {
+            "placement": [
+                "placement"
+            ]
+        },
+        "water": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "handrail": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "movement": {
+            "stability": [
+                "stability"
+            ]
+        },
+        "hands": {
+            "location": [
+                "location"
+            ]
+        }
+    },
+    "24": {
+        "rum": {
+            "rum": [
+                "rum"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "strawberry": {
+            "location | strawberry": [
+                "location | strawberry"
+            ]
+        },
+        "smoothie | mixture | ingredients": {
+            "texture": [
+                "texture"
+            ],
+            "smoothie": [
+                "smoothie"
+            ],
+            "location": [
+                "location"
+            ],
+            "organization": [
+                "organization"
+            ]
+        },
+        "blender": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "blender": [
+                "blender"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "glasses | glass": {
+            "volume": [
+                "volume"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "glasses": [
+                "glasses"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "appearance": [
+                "appearance"
+            ]
+        },
+        "sorber | fruit and sorbet | sorbet": {
+            "location": [
+                "location"
+            ]
+        },
+        "glass": {
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "yogurt": {
+            "location": [
+                "location"
+            ]
+        },
+        "ingredients": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bottle": {
+            "weight": [
+                "weight"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "banana | bananas": {
+            "location": [
+                "location"
+            ]
+        },
+        "fruit": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "items": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "liquid": {
+            "composition": [
+                "composition"
+            ]
+        }
+    },
+    "25": {
+        "suitable paper for pinwheels": {
+            "choice": [
+                "choice"
+            ]
+        },
+        "wreath base": {
+            "step": [
+                "step"
+            ]
+        },
+        "pinwheels": {
+            "availability": [
+                "availability"
+            ],
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "ribbon": {
+            "location": [
+                "location"
+            ],
+            "organization": [
+                "organization"
+            ]
+        },
+        "paper": {
+            "knowledge": [
+                "knowledge"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "twine": {
+            "location": [
+                "location"
+            ],
+            "organization": [
+                "organization"
+            ]
+        }
+    },
+    "26": {
+        "ends | square ends": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "wax paper": {
+            "texture | shape": [
+                "texture | shape"
+            ]
+        },
+        "hanger | wire": {
+            "shape": [
+                "shape"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "crepe paper": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "hanger ends": {
+            "proximity": [
+                "proximity"
+            ]
+        },
+        "squares": {
+            "shape": [
+                "shape"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "pliers": {
+            "location": [
+                "location"
+            ]
+        },
+        "wire hanger": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "paper squares": {
+            "position": [
+                "position"
+            ]
+        },
+        "paper": {
+            "orientation": [
+                "orientation"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "fingers": {
+            "pressure": [
+                "pressure"
+            ]
+        },
+        "wreath": {
+            "status": [
+                "status"
+            ]
+        },
+        "table": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "tool": {
+            "openness": [
+                "openness"
+            ],
+            "position": [
+                "position"
+            ]
+        },
+        "hands": {
+            "volume": [
+                "volume"
+            ],
+            "motion": [
+                "motion"
+            ]
+        }
+    },
+    "27": {
+        "potatoes | potato": {
+            "location": [
+                "location"
+            ],
+            "thickness": [
+                "thickness"
+            ],
+            "length": [
+                "length"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "peels | peeler | pan | vegetable peeler": {
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "dryness": [
+                "dryness"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "taste": [
+                "taste"
+            ]
+        },
+        "cloth": {
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "moisture"
+            ]
+        },
+        "potato pieces": {
+            "moisture": [
+                "moisture"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "water faucet": {
+            "power": [
+                "power"
+            ]
+        },
+        "serving dish": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "stove | stove burner": {
+            "temperature": [
+                "temperature"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "potaoto": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "oil": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "ribbons": {
+            "teture": [
+                "teture"
+            ]
+        },
+        "kitchen counter": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "spatula": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "platter": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        },
+        "sink": {
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "bowl": {
+            "fullness": [
+                "fullness"
+            ]
+        }
+    },
+    "28": {
+        "kitchen towel | towel": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "color": [
+                "color"
+            ],
+            "wetness": [
+                "moisture"
+            ]
+        },
+        "drink": {
+            "cost": [
+                "cost"
+            ],
+            "availability": [
+                "availability"
+            ],
+            "sealing": [
+                "sealing"
+            ]
+        },
+        "bolt": {
+            "wetness": [
+                "moisture"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "movement": [
+                "movement"
+            ],
+            "age": [
+                "age"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "assembly": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "new bolt | old bolt": {
+            "location": [
+                "location"
+            ],
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "rust": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bottle": {
+            "weight": [
+                "weight"
+            ],
+            "openness": [
+                "openness"
+            ]
+        },
+        "wrench": {
+            "location": [
+                "location"
+            ]
+        },
+        "soda": {
+            "location": [
+                "location"
+            ]
+        },
+        "cup": {
+            "fullness": [
+                "fullness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "fizzy drink": {
+            "availability": [
+                "availability"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "towel": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "hands": {
+            "moisture": [
+                "moisture"
+            ],
+            "texture": [
+                "texture"
+            ]
+        }
+    },
+    "29": {
+        "asparagus": {
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "texture": [
+                "hardness"
+            ],
+            "coverage": [
+                "coverage"
+            ],
+            "size": [
+                "length"
+            ]
+        },
+        "heating element": {
+            "color": [
+                "color"
+            ]
+        },
+        "stove buttons": {
+            "pressure": [
+                "pressure"
+            ]
+        },
+        "oil container": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "cutting board": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "roasting pan": {
+            "weight": [
+                "weight"
+            ]
+        },
+        "oven | oven racks | oven rock": {
+            "temperature": [
+                "temperature"
+            ],
+            "power": [
+                "power"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "rubber band": {
+            "location": [
+                "location"
+            ]
+        },
+        "tin | oil": {
+            "volume": [
+                "volume"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "main dish": {
+            "accompaniment": [
+                "accompaniment"
+            ]
+        },
+        "display": {
+            "power": [
+                "power"
+            ]
+        },
+        "ham | pan": {
+            "texture": [
+                "texture"
+            ],
+            "appearance": [
+                "appearance"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "oil": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "knife | blade": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "pan": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "spears": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "temperature": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "baking tray": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "baking tin": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "vegetables": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "oven mitts": {
+            "location": [
+                "location"
+            ]
+        },
+        "oven door": {
+            "openness": [
+                "openness"
+            ]
+        },
+        "olive oil": {
+            "location": [
+                "location"
+            ]
+        },
+        "container": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "dish": {
+            "location": [
+                "location"
+            ]
+        },
+        "pieces": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "timer": {
+            "electric conductivity": [
+                "electric conductivity"
+            ],
+            "sound": [
+                "sound"
+            ]
+        },
+        "room": {
+            "sound": [
+                "sound"
+            ]
+        },
+        "food": {
+            "temperature": [
+                "temperature"
+            ]
+        }
+    },
+    "30": {
+        "wicks": {
+            "cost": [
+                "cost"
+            ]
+        },
+        "wick": {
+            "wetness": [
+                "moisture",
+                "dryness"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "orientation": [
+                "orientation"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "vinegar": {
+            "location": [
+                "location"
+            ]
+        },
+        "container": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "lamp": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bottle": {
+            "weight": [
+                "weight"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "pot": {
+            "volume": [
+                "volume"
+            ]
+        }
+    },
+    "31": {
+        "light": {
+            "amount": [
+                "amount"
+            ]
+        },
+        "studio": {
+            "availability": [
+                "availability"
+            ]
+        }
+    },
+    "32": {
+        "velveeta": {
+            "granularity": [
+                "granularity"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "size": [
+                "size"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "stove burner | burner | stove": {
+            "temperature": [
+                "temperature"
+            ],
+            "power": [
+                "power"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "olives | jalapeno": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "cheese": {
+            "location": [
+                "location"
+            ]
+        },
+        "knife | cutting board": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "tomatoes": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "stove top burner": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "peppers": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "black olives": {
+            "size": [
+                "size"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "cheese sauce": {
+            "location": [
+                "location"
+            ]
+        },
+        "stove knob": {
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "cheese dip": {
+            "taste": [
+                "taste"
+            ]
+        },
+        "sauce pan | pot | pan": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "rotel can": {
+            "openness": [
+                "openness"
+            ]
+        },
+        "package": {
+            "openness": [
+                "openness"
+            ]
+        },
+        "rotel": {
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "can": {
+            "openness": [
+                "openness"
+            ]
+        }
+    },
+    "33": {
+        "wailmer": {
+            "knowledge": [
+                "knowledge"
+            ],
+            "change": [
+                "evolution"
+            ],
+            "full": [
+                "full"
+            ],
+            "going": [
+                "going"
+            ],
+            "action": [
+                "action"
+            ]
+        },
+        "battle frontier location": {
+            "location": [
+                "location"
+            ]
+        },
+        "candy": {
+            "items": [
+                "items"
+            ]
+        },
+        "ball": {
+            "action": [
+                "action"
+            ]
+        }
+    },
+    "34": {
+        "game character": {
+            "location": [
+                "location"
+            ]
+        },
+        "the route": {
+            "coverage": [
+                "coverage"
+            ]
+        },
+        "route": {
+            "appearance": [
+                "appearance"
+            ],
+            "coverage": [
+                "coverage"
+            ]
+        },
+        "bomb": {
+            "skill": [
+                "skill"
+            ]
+        },
+        "pistol": {
+            "location": [
+                "location"
+            ],
+            "availability": [
+                "availability"
+            ]
+        },
+        "you": {
+            "location": [
+                "location"
+            ],
+            "focus": [
+                "focus"
+            ]
+        },
+        "routes": {
+            "knowledge": [
+                "knowledge"
+            ]
+        }
+    },
+    "35": {
+        "paintbrush | the brush": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "wetness"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "the coating of paint": {
+            "thickness": [
+                "thickness"
+            ]
+        },
+        "wood | the wood": {
+            "moisture": [
+                "wetness"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "color": [
+                "color"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "paint | brushes": {
+            "location": [
+                "location"
+            ],
+            "size": [
+                "size"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "awareness": [
+                "awareness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "moisture": [
+                "moisture"
+            ]
+        },
+        "bubbles": {
+            "location": [
+                "location"
+            ]
+        },
+        "coat": {
+            "location": [
+                "location"
+            ]
+        },
+        "caulking compound": {
+            "location": [
+                "location"
+            ]
+        },
+        "oil based paint": {
+            "ownership": [
+                "ownership"
+            ]
+        },
+        "paint direction": {
+            "direction": [
+                "direction"
+            ]
+        },
+        "paint thickness": {
+            "thickness": [
+                "thickness"
+            ]
+        },
+        "degree of care": {
+            "magnitude": [
+                "magnitude"
+            ]
+        },
+        "paint bubbles": {
+            "location": [
+                "location"
+            ]
+        },
+        "caulking gun": {
+            "location": [
+                "location"
+            ]
+        },
+        "paint brush": {
+            "location": [
+                "location"
+            ]
+        },
+        "drop clothq": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "linseed oil": {
+            "location": [
+                "location"
+            ]
+        },
+        "paint base": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "drop cloth": {
+            "location": [
+                "location"
+            ]
+        },
+        "bare wood": {
+            "location": [
+                "location"
+            ]
+        },
+        "precision": {
+            "skill": [
+                "skill"
+            ]
+        },
+        "brush": {
+            "color": [
+                "color"
+            ],
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "drips": {
+            "coverage": [
+                "coverage"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "pools": {
+            "location": [
+                "location"
+            ]
+        },
+        "tin": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "floor": {
+            "coverage": [
+                "coverage"
+            ]
+        }
+    },
+    "36": {
+        "ingredients | seasoned salt": {
+            "composition": [
+                "composition"
+            ],
+            "cohesiveness": [
+                "cohesiveness"
+            ],
+            "taste": [
+                "taste"
+            ],
+            "wholeness": [
+                "wholeness"
+            ],
+            "organization": [
+                "organization"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "air-tight container | container": {
+            "fullness": [
+                "fullness"
+            ],
+            "contents": [
+                "contents"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "sandwiches": {
+            "flavor": [
+                "flavor"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "salads": {
+            "flavor": [
+                "flavor"
+            ]
+        },
+        "mortar | mortar and pestle": {
+            "cleanness": [
+                "cleaness"
+            ],
+            "location": [
+                "location"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "ingredient mixture": {
+            "location": [
+                "location"
+            ]
+        },
+        "soups": {
+            "flavor": [
+                "flavor"
+            ]
+        },
+        "mixture particles": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "dips": {
+            "flavor": [
+                "flavor"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "pestle": {
+            "status | location": [
+                "status | location"
+            ]
+        },
+        "salt | celery salt": {
+            "complexity": [
+                "complexity"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "black pepper | pepper mill": {
+            "location": [
+                "location"
+            ]
+        },
+        "mixture": {
+            "location": [
+                "location"
+            ]
+        },
+        "storage container": {
+            "contents": [
+                "contents"
+            ]
+        },
+        "container cover": {
+            "strength": [
+                "strength"
+            ]
+        },
+        "salad dressings": {
+            "location": [
+                "location"
+            ]
+        },
+        "measuring cup": {
+            "location": [
+                "location"
+            ]
+        },
+        "dry mustard": {
+            "location": [
+                "location"
+            ]
+        },
+        "salt shaker": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "spoon": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "bowl": {
+            "fullness | contents": [
+                "fullness | contents"
+            ]
+        },
+        "cover": {
+            "location": [
+                "location"
+            ]
+        },
+        "lid": {
+            "accessibility": [
+                "accessibility"
+            ]
+        },
+        "food": {
+            "seasoning": [
+                "seasoning"
+            ]
+        }
+    },
+    "37": {
+        "camouflage net": {
+            "coverage | location": [
+                "coverage | location"
+            ]
+        },
+        "camouflage": {
+            "location": [
+                "location"
+            ]
+        },
+        "weapon | hat | hay": {
+            "location": [
+                "location"
+            ],
+            "attention": [
+                "attention"
+            ],
+            "visibility": [
+                "visibility"
+            ],
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "vehicle camouflage net": {
+            "location": [
+                "location"
+            ]
+        },
+        "equipment": {
+            "organization": [
+                "organization"
+            ],
+            "location": [
+                "location"
+            ],
+            "equipment": [
+                "equipment"
+            ]
+        },
+        "rucksack": {
+            "location": [
+                "location"
+            ],
+            "visibility": [
+                "visibility"
+            ],
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "vehicle": {
+            "location": [
+                "location"
+            ],
+            "visibility": [
+                "visibility"
+            ],
+            "vehicle": [
+                "vehicle"
+            ]
+        },
+        "webbing": {
+            "location": [
+                "location"
+            ],
+            "attention": [
+                "attention"
+            ],
+            "visibility": [
+                "visibility"
+            ]
+        },
+        "surface": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "leaves": {
+            "location": [
+                "location"
+            ]
+        },
+        "helmet": {
+            "decoration": [
+                "decoration"
+            ],
+            "visibility": [
+                "visibility"
+            ]
+        }
+    },
+    "38": {
+        "oil tank | oil container | oil can | oil": {
+            "volume": [
+                "volume"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "oil | air | oil bottle": {
+            "location": [
+                "location"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "bung | the bung": {
+            "location": [
+                "position"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "volume": [
+                "volume"
+            ]
+        },
+        "oil filter": {
+            "location | position": [
+                "location | position"
+            ]
+        },
+        "old oil": {
+            "location": [
+                "location"
+            ]
+        },
+        "oil cap": {
+            "location | position": [
+                "location | position"
+            ]
+        },
+        "funnel": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "jug": {
+            "volume": [
+                "volume"
+            ]
+        }
+    },
+    "39": {
+        "tape | duct tape": {
+            "length": [
+                "size"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "orientation": [
+                "orientation"
+            ],
+            "appearance": [
+                "appearance"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "duct table": {
+            "knowledge": [
+                "knowledge"
+            ]
+        },
+        "duct tape": {
+            "location": [
+                "location"
+            ]
+        },
+        "ends": {
+            "organization": [
+                "organization"
+            ]
+        },
+        "tape ends": {
+            "form": [
+                "form"
+            ]
+        }
+    },
+    "40": {
+        "containers": {
+            "contents": [
+                "contents"
+            ]
+        },
+        "plant | container | bag": {
+            "location": [
+                "location"
+            ],
+            "cost": [
+                "cost"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "container": [
+                "container"
+            ],
+            "contentment": [
+                "contentment"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "watered": [
+                "wetness"
+            ]
+        },
+        "soil": {
+            "location": [
+                "location"
+            ]
+        },
+        "shovel": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "money": {
+            "location": [
+                "location"
+            ],
+            "value": [
+                "value"
+            ],
+            "amount": [
+                "amount"
+            ]
+        },
+        "hands": {
+            "weight": [
+                "weight"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ],
+            "knob": [
+                "knob"
+            ]
+        },
+        "buds": {
+            "location": [
+                "location"
+            ]
+        },
+        "fir": {
+            "location": [
+                "location"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        }
+    },
+    "41": {
+        "fairy house frame": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "sticks | twigs": {
+            "organization": [
+                "organization"
+            ],
+            "location": [
+                "location"
+            ],
+            "tightness": [
+                "tightness"
+            ]
+        },
+        "fairy house": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "twigs": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "walls": {
+            "location": [
+                "location"
+            ]
+        },
+        "bundle": {
+            "organization": [
+                "organization"
+            ]
+        },
+        "area": {
+            "knowledge": [
+                "knowledge"
+            ]
+        }
+    },
+    "42": {
+        "flour and salt": {
+            "location | composition": [
+                "location | composition"
+            ]
+        },
+        "mixture | mixture in bowl": {
+            "wetness": [
+                "moisture"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ],
+            "size": [
+                "size"
+            ]
+        },
+        "pastry": {
+            "location": [
+                "location"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "texture": [
+                "texture"
+            ]
+        },
+        "edges": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "dough": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "dry and wet ingredients": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bowl": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "edge": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "fork": {
+            "location": [
+                "location"
+            ]
+        },
+        "fridge light": {
+            "electric conductivity": [
+                "electric conductivity"
+            ]
+        },
+        "mixing bowl": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "fridge door": {
+            "openness": [
+                "openness"
+            ]
+        },
+        "pie dish": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "ingredients": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "oil": {
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "wax paper": {
+            "area": [
+                "area"
+            ]
+        }
+    },
+    "43": {
+        "plant": {
+            "cost": [
+                "cost"
+            ]
+        },
+        "moss": {
+            "size": [
+                "size"
+            ]
+        },
+        "fairy moss": {
+            "wetness": [
+                "wetness"
+            ],
+            "position": [
+                "position"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "container": {
+            "location": [
+                "location"
+            ]
+        },
+        "continer": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "containter": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "bowl contents": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "water": {
+            "location": [
+                "location"
+            ]
+        },
+        "bowl": {
+            "wetness": [
+                "wetness"
+            ],
+            "container": [
+                "container"
+            ],
+            "position": [
+                "position"
+            ]
+        }
+    },
+    "44": {
+        "chocolate | chocolates | choclate": {
+            "cost": [
+                "cost"
+            ],
+            "texture": [
+                "texture"
+            ],
+            "form": [
+                "shape"
+            ],
+            "location": [
+                "locatio"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "hardness": [
+                "hardness"
+            ],
+            "ease of release": [
+                "ease of release"
+            ]
+        },
+        "molds, mug, chocolate": {
+            "location": [
+                "location"
+            ]
+        },
+        "molds | mold": {
+            "container": [
+                "container"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "ingredients": {
+            "location": [
+                "location"
+            ]
+        },
+        "microwave": {
+            "power": [
+                "power"
+            ]
+        },
+        "chocolate bars": {
+            "location": [
+                "location"
+            ]
+        },
+        "spoon": {
+            "cleanness": [
+                "cleanness"
+            ]
+        }
+    },
+    "45": {
+        "bubbles | bubble solution": {
+            "location": [
+                "location"
+            ]
+        },
+        "coat hanger": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "mixing jar": {
+            "moisture": [
+                "moisture"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "soap | water": {
+            "location": [
+                "location"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "mixture": {
+            "location": [
+                "location"
+            ]
+        },
+        "person": {
+            "location": [
+                "location"
+            ]
+        },
+        "water surface": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "bubble want": {
+            "location": [
+                "location"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "hanger": {
+            "use": [
+                "use"
+            ]
+        },
+        "bowl": {
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "wire": {
+            "shape": [
+                "shape"
+            ]
+        }
+    },
+    "46": {
+        "throw rugs and inside door mats | rugs": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "waste basket | waste baskets": {
+            "container | volume | mass": [
+                "container | volume | mass"
+            ]
+        },
+        "rooms": {
+            "messiness | cleanness": [
+                "messiness | cleanness"
+            ]
+        },
+        "trash cans": {
+            "container | volume": [
+                "container | volume"
+            ]
+        },
+        "throw rugs | door mats": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "house | duster": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "trash": {
+            "location": [
+                "location"
+            ]
+        },
+        "surfaces | glass surfaces": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "spray cleaner": {
+            "location": [
+                "location"
+            ]
+        },
+        "straw items": {
+            "location": [
+                "location"
+            ]
+        },
+        "trash bag | trash bags": {
+            "container": [
+                "container"
+            ],
+            "mass": [
+                "mass"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "mats": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "dust": {
+            "location": [
+                "location"
+            ]
+        },
+        "items": {
+            "location": [
+                "location"
+            ],
+            "messiness": [
+                "messiness"
+            ]
+        }
+    },
+    "47": {
+        "screens": {
+            "location": [
+                "location"
+            ]
+        },
+        "master bedroom | living room | living/dining room": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "stuff": {
+            "location": [
+                "location"
+            ]
+        },
+        "gems": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "outside area": {
+            "availability | step": [
+                "availability | step"
+            ]
+        },
+        "kids room": {
+            "availability": [
+                "availability"
+            ]
+        }
+    },
+    "48": {
+        "pitcher": {
+            "container": [
+                "container"
+            ],
+            "volume": [
+                "volume"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "refrigerator": {
+            "weight": [
+                "weight"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "side of each glass": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "glass | tall glasses": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "taste": [
+                "taste"
+            ]
+        },
+        "mixture | liquid": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "honeydew": {
+            "shape": [
+                "shape"
+            ],
+            "size": [
+                "size"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "honeydew melon": {
+            "location": [
+                "location"
+            ]
+        },
+        "ingredients": {
+            "composition": [
+                "composition"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "mixing spoon": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "spoon": {
+            "location": [
+                "location"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "task": {
+            "completion": [
+                "completion"
+            ]
+        },
+        "rum and coconut": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "glasses": {
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "rum": {
+            "locaion": [
+                "locaion"
+            ]
+        }
+    },
+    "49": {
+        "the milk | milk | the oil | oil": {
+            "location": [
+                "location"
+            ],
+            "container": [
+                "container"
+            ]
+        },
+        "the extract | extract": {
+            "location": [
+                "location"
+            ]
+        },
+        "the blender": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "the baking dish | baking dish": {
+            "volume": [
+                "volume"
+            ],
+            "container": [
+                "container"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ],
+            "inside a freezer": [
+                "inside a freezer"
+            ]
+        },
+        "pineapple": {
+            "size": [
+                "size"
+            ],
+            "location": [
+                "location"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "the sugar or syrup | sugar": {
+            "location": [
+                "location"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "the refrigerator | freezer": {
+            "volume": [
+                "volume"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "the ingredients | mixture": {
+            "composition": [
+                "composition"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "texture": [
+                "texture"
+            ]
+        },
+        "the pineapple": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "the wax paper": {
+            "location": [
+                "location"
+            ]
+        },
+        "scoop": {
+            "wetness | cleanness": [
+                "wetness | cleanness"
+            ]
+        },
+        "the sherbet": {
+            "location": [
+                "location"
+            ]
+        },
+        "the plate": {
+            "weight": [
+                "weight"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "sherbet | the mixture | mixture": {
+            "location": [
+                "location"
+            ],
+            "container": [
+                "container"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "size": [
+                "size"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "the mixture | mixture": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "contents of blender": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "blender": {
+            "wetness": [
+                "wetness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "container": [
+                "container"
+            ],
+            "smell": [
+                "smell"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "power": [
+                "power"
+            ]
+        },
+        "blender blades": {
+            "movement": [
+                "movement"
+            ]
+        },
+        "ingredients": {
+            "texture": [
+                "texture"
+            ]
+        }
+    },
+    "50": {
+        "batter | pancake batter": {
+            "container": [
+                "container"
+            ],
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "ketchup bottle": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "funnel": {
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "bottle | lid": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "emptiness": [
+                "emptiness"
+            ],
+            "orientation": [
+                "orientation"
+            ],
+            "clarity": [
+                "clarity"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "sink": {
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "pen": {
+            "location": [
+                "location"
+            ]
+        },
+        "pan": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "emptiness": [
+                "emptiness"
+            ]
+        },
+        "scrubber": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "fridge": {
+            "volume": [
+                "volume"
+            ]
+        },
+        "faucet": {
+            "power": [
+                "power"
+            ]
+        },
+        "hands": {
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "bowl": {
+            "emptiness": [
+                "emptiness"
+            ]
+        }
+    },
+    "51": {
+        "window | water and dish soap on window": {
+            "wetness": [
+                "moisture"
+            ],
+            "composition": [
+                "compostion"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "transparency": [
+                "transparency"
+            ],
+            "covering": [
+                "covering"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "glass cleaner bottle": {
+            "weight | fullness": [
+                "weight | fullness"
+            ]
+        },
+        "razor blade package": {
+            "openness | composition": [
+                "openness | composition"
+            ]
+        },
+        "solvent container": {
+            "fullness | weight": [
+                "fullness | weight"
+            ]
+        },
+        "soap bottle": {
+            "fullness | weight": [
+                "fullness | weight"
+            ]
+        },
+        "paint": {
+            "moisture": [
+                "moisture"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wholeness": [
+                "wholeness"
+            ],
+            "location": [
+                "location"
+            ],
+            "power": [
+                "power"
+            ]
+        },
+        "blade": {
+            "location": [
+                "location"
+            ],
+            "sharpness": [
+                "sharpness"
+            ]
+        },
+        "soap": {
+            "location": [
+                "location"
+            ]
+        },
+        "chemicals": {
+            "location": [
+                "location"
+            ]
+        },
+        "splatters": {
+            "color": [
+                "color"
+            ]
+        },
+        "solvent | chemical solvents": {
+            "location": [
+                "location"
+            ]
+        },
+        "sponge": {
+            "moisture": [
+                "moisture"
+            ],
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "razor blade": {
+            "location": [
+                "position"
+            ],
+            "contact": [
+                "contact"
+            ],
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "glass cleaner": {
+            "location": [
+                "location"
+            ]
+        },
+        "bucket": {
+            "temperature": [
+                "temperature"
+            ],
+            "moisture": [
+                "wetness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "small paint splatters": {
+            "location": [
+                "location"
+            ]
+        },
+        "water and dish soap": {
+            "mixture": [
+                "mixture"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "all of the paint": {
+            "location": [
+                "location"
+            ],
+            "wholeness": [
+                "wholeness"
+            ]
+        },
+        "paint splatter": {
+            "texture": [
+                "texture"
+            ]
+        },
+        "items needed": {
+            "location": [
+                "location"
+            ]
+        },
+        "cloth": {
+            "wetness | cleanness": [
+                "wetness | cleanness"
+            ]
+        }
+    },
+    "52": {
+        "microphone": {
+            "connection": [
+                "connection"
+            ],
+            "electric conductivity": [
+                "electric conductivity"
+            ],
+            "operation": [
+                "operation"
+            ],
+            "availability": [
+                "availability"
+            ]
+        },
+        "panels | panel": {
+            "visibility | knowledge": [
+                "visibility | knowledge"
+            ]
+        },
+        "audio options": {
+            "selection": [
+                "selection"
+            ]
+        },
+        "communication": {
+            "availability": [
+                "availability"
+            ],
+            "stability": [
+                "stability"
+            ]
+        },
+        "menu options": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "voice panel": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "voice": {
+            "sound": [
+                "sound"
+            ]
+        },
+        "game plans": {
+            "availability": [
+                "availability"
+            ]
+        },
+        "team": {
+            "stability": [
+                "stability"
+            ]
+        },
+        "advice": {
+            "ownership": [
+                "ownership"
+            ]
+        },
+        "person": {
+            "volume": [
+                "volume"
+            ]
+        }
+    },
+    "53": {
+        "macaroni": {
+            "location": [
+                "location"
+            ],
+            "cooking": [
+                "thermal conductivity",
+                "temperature",
+                "speed",
+                "time"
+            ],
+            "taste": [
+                "odor",
+                "color",
+                "texture",
+                "oiliness"
+            ]
+        },
+        "oil": {
+            "location": [
+                "location"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "drinking glass | drinks": {
+            "location": [
+                "location"
+            ]
+        },
+        "salt and oil | oil/water/pasta/salt": {
+            "mixture | composition": [
+                "mixture | composition"
+            ]
+        },
+        "water": {
+            "temperature": [
+                "temperature"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "pan | stirring tool": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "fullness": [
+                "fullness"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "chilled drinks": {
+            "location": [
+                "location"
+            ]
+        },
+        "serving dish": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "fullness": [
+                "fullness"
+            ]
+        },
+        "red chilli powder": {
+            "location": [
+                "location"
+            ]
+        },
+        "saucepan": {
+            "location": [
+                "location"
+            ]
+        },
+        "strainer": {
+            "volume": [
+                "volume"
+            ],
+            "location": [
+                "location"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "the time": {
+            "time": [
+                "time"
+            ]
+        },
+        "fork": {
+            "cleanness": [
+                "cleanness"
+            ]
+        },
+        "white vinegar": {
+            "location": [
+                "location"
+            ]
+        },
+        "plate": {
+            "location": [
+                "location"
+            ]
+        },
+        "sink": {
+            "wetness": [
+                "wetness"
+            ]
+        },
+        "task": {
+            "completion": [
+                "completion"
+            ]
+        },
+        "ajino moto": {
+            "location": [
+                "location"
+            ]
+        },
+        "soy sauce": {
+            "location": [
+                "location"
+            ]
+        },
+        "stove burner": {
+            "power": [
+                "power"
+            ]
+        },
+        "flavorings macaroni": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "food": {
+            "mixture": [
+                "mixture"
+            ],
+            "temperature": [
+                "temperature"
+            ],
+            "completion": [
+                "completion"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "salt": {
+            "location": [
+                "location"
+            ]
+        },
+        "oil/macaroni": {
+            "composition": [
+                "composition"
+            ]
+        },
+        "boiling pot": {
+            "fullness": [
+                "fullness"
+            ],
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "spatula": {
+            "location": [
+                "location"
+            ]
+        },
+        "sun": {
+            "location": [
+                "location"
+            ]
+        },
+        "mixture": {
+            "temperature": [
+                "temperature"
+            ]
+        },
+        "ingredients": {
+            "mixture": [
+                "mixture"
+            ]
+        },
+        "you": {
+            "age": [
+                "age"
+            ]
+        }
+    },
+    "54": {
+        "the beads | beads | the bead | bead": {
+            "location": [
+                "location"
+            ],
+            "organization": [
+                "organization"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "composition": [
+                "composition"
+            ]
+        },
+        "the strip of elastic": {
+            "length": [
+                "length"
+            ],
+            "weight": [
+                "weight"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "color": [
+                "color"
+            ]
+        },
+        "elastic ends": {
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "elastic": {
+            "shape": [
+                "shape"
+            ],
+            "length": [
+                "size"
+            ],
+            "location": [
+                "location"
+            ],
+            "weight": [
+                "weight"
+            ]
+        },
+        "tail | tails": {
+            "orientation": [
+                "orientation"
+            ]
+        },
+        "small bead": {
+            "location": [
+                "location"
+            ]
+        },
+        "you": {
+            "focus": [
+                "focus"
+            ]
+        }
+    },
+    "55": {
+        "underwear | underwears": {
+            "newness": [
+                "newness"
+            ],
+            "location": [
+                "location"
+            ],
+            "size": [
+                "size"
+            ],
+            "use": [
+                "use"
+            ],
+            "shape": [
+                "shape"
+            ]
+        },
+        "underpants | floor": {
+            "newness": [
+                "newness"
+            ],
+            "cleanness": [
+                "cleanness"
+            ],
+            "shape": [
+                "shape"
+            ],
+            "composition": [
+                "composition"
+            ],
+            "size": [
+                "size"
+            ],
+            "availability": [
+                "availability"
+            ],
+            "ownership": [
+                "ownership"
+            ],
+            "use": [
+                "use"
+            ],
+            "location": [
+                "location"
+            ]
+        },
+        "underwear strips": {
+            "shape": [
+                "shape"
+            ]
+        },
+        "bundle of old underwear": {
+            "use": [
+                "use"
+            ]
+        },
+        "plants": {
+            "form": [
+                "form"
+            ]
+        },
+        "garden plants": {
+            "decoration": [
+                "decoration"
+            ]
+        },
+        "donation box": {
+            "location": [
+                "location"
+            ]
+        },
+        "pillow case": {
+            "location": [
+                "location"
+            ],
+            "content": [
+                "content"
+            ]
+        },
+        "scissors": {
+            "location": [
+                "location"
+            ]
+        },
+        "quality undies": {
+            "use": [
+                "use"
+            ]
+        },
+        "child": {
+            "look": [
+                "look"
+            ]
+        },
+        "pants": {
+            "covering": [
+                "covering"
+            ]
+        }
+    }
+}

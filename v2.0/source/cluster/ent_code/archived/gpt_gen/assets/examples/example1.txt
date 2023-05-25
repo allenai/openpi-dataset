@@ -1,0 +1,256 @@
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The composition of fairy house frame is stand-alone before and fortified afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The components of the fairy house frame is stand-alone before and fortified afterwards.
+The composition of the fairy house frame is seperate before and assembled afterwards.
+The composition of the fairy house frame is seperate before and put together afterwards.
+The parts of the fairy house frame is seperate before and put together afterwards.
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The organization of twigs is scattered before and bundled afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The organization of sticks is scattered before and bundled afterwards.
+The organization of twigs is scattered before and collected afterwards.
+The organization of twigs is spread before and collected afterwards.
+The organization of twigs is spread before and gethered afterwards.
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The location of twigs is bunched up before and in formation afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The organization of twigs is bundled before and stacked afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The organization of sticks is bundled before and stacked afterwards.
+The organization of twigs is bunched up before and stacked afterwards.
+The organization of twigs is bundled before and in formation afterwards.
+The organization of twigs is bundled before and in construction afterwards.
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The tightness of twigs is untied before and tied with bark afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The tightness of twigs is untied before and tied with tree bark afterwards.
+The tightness of sticks is untied before and tied with bark afterwards.
+The tightness of sticks is untied before and gethered with bark afterwards.
+The tightness of twigs is loose before and tied with bark afterwards.
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The composition of fairy house is bare before and decorated afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The appearance of fairy house is bare before and decorated afterwards.
+The composition of fairy house is undecorated before and decorated afterwards.
+The composition of fairy house is undecorated before and ornamentalized afterwards.
+The composition of house is bare before and decorated afterwards.
+
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The location of walls is down before and up afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The location of the walls is horizontal to the ground before and vertical to the ground afterwards.
+
+
+Goal: Make a Fairy House in the Woods
+Steps: Find a small area with slightly damp dirt. Collect many twigs and sticks. Using the sticks, create either a square formation, circle formation, or a Teepee formation. Build your exterior walls. You can use either a leaf or a wide strip of bark. Decorate.
+Object state: The organization of bundle is loose before and gathered afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The organization of bundle is loose before and collected afterwards.
+The organization of bundle is loose before and put together afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The container of pancake batter is in bowl before and in bottle afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The container of pancake batter is in bowl before and in ketchup bottle afterwards.
+The storage of pancake batter is in bowl before and in ketchup bottle afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The location of pancake batter is in bowl before and in bottle afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The temperature of pancake batter is warm before and colder afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The temperature of pancake batter is room temperature before and frozen afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The cleanness of ketchup bottle is dirty before and clean afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The cleanness of ketchup bottle is dirty before and clean afterwards.
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The wetness of ketchup bottle is dry before and wet afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The location of funnel is in drawer before and on bottle afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The location of funnel is in storage before and on bottle afterwards.
+The location of funnel is in storage before and on ketchup bottle afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The cleanness of funnel is clean before and dirty afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The wetness of funnel is dry before and wet afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The cleanness of lid is dirty before and clean afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The cleanness of the bottle's lid is dirty before and clean afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The wetness of lid is dirty before and clean afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The wetness of the bottle's lid is dirty before and clean afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The emptiness of bottle is empty before and full afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The emptiness of ketchup bottle is empty before and full afterwards.
+The fullness of ketchup bottle is empty before and full afterwards.
+The storage of ketchup bottle is empty before and full afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The clarity of lid is blank before and written on afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The location of bottle is on counter before and in refrigerator afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The placement of bottle is on counter before and in refrigerator afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The temperature of bottle is warm before and cold afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The temperature of bottle is warm before and cold afterwards.
+The temperature of bottle is in room temperature before and cold afterwards.
+The temperature of bottle is warm before and frozen afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The wetness of sink is dry before and wet afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The driness of sink is dry before and wet afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The location of pen is on counter before and in hand afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The cleanness of scrubber is clean before and dirty afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The volume of fridge is empty before and filled afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The occupancy of fridge is empty before and filled afterwards.
+The volume of fridge is empty before and fuller afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The power of faucet is off before and on afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+None
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The wetness of hands is dry before and wet afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The driness of hands is dry before and wet afterwards.
+
+
+Goal: Make a Pancake Mix Container from a Recycled Ketchup Bottle
+Steps: Scrub the ketchup bottle thoroughly. Place the funnel over the mouth of the bottle. Pour pancake batter through the funnel into the empty ketchup bottle. Replace the lid and label the bottle. Place the bottle in refrigerator. Finished.
+Object state: The emptiness of bowl is full before and empty afterwards.
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
+The fullness of bowl is full before and empty afterwards.
+The occupancy of bowl is full before and empty afterwards.

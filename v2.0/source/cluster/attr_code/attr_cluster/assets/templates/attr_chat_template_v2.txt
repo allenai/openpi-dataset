@@ -1,0 +1,6 @@
+[
+{"role": "user", "content": "I am trying to {goal}. {steps} Do you get it?"},
+{"role": "assistant", "content": "Yes."},
+{"role": "user", "content": "We have the following object attributes: ({attributes}). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."},
+{"role": "assistant", "content": "The grouped object states are:{grouped_attr}"},
+]

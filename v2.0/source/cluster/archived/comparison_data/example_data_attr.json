@@ -1,0 +1,140 @@
+{
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entity_attr_dict": {
+            "plant": [
+                "cost"
+            ],
+            "moss": [
+                "size"
+            ],
+            "fairy moss": [
+                "wetness",
+                "position",
+                "shape"
+            ],
+            "container": [
+                "location"
+            ],
+            "continer": [
+                "volume"
+            ],
+            "containter": [
+                "volume"
+            ],
+            "bowl contents": [
+                "composition"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl": [
+                "wetness",
+                "container",
+                "position"
+            ]
+        }
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entity_attr_dict": {
+            "window | water and dish soap on window": [
+                "wetness | moisture | composition | compostion",
+                "temperature",
+                "cleanness",
+                "transparency | covering",
+                "weight"
+            ],
+            "glass cleaner bottle": [
+                "weight | fullness"
+            ],
+            "razor blade package": [
+                "openness | composition"
+            ],
+            "solvent container": [
+                "fullness | weight"
+            ],
+            "soap bottle": [
+                "fullness | weight"
+            ],
+            "paint": [
+                "moisture",
+                "power",
+                "location | cleanness",
+                "wholeness"
+            ],
+            "blade": [
+                "location",
+                "sharpness"
+            ],
+            "soap": [
+                "location"
+            ],
+            "chemicals": [
+                "location"
+            ],
+            "splatters": [
+                "color"
+            ],
+            "solvent | chemical solvents": [
+                "location"
+            ],
+            "sponge": [
+                "moisture",
+                "location",
+                "cleanness"
+            ],
+            "razor blade": [
+                "location",
+                "position",
+                "contact",
+                "cleanness"
+            ],
+            "glass cleaner": [
+                "location"
+            ],
+            "bucket": [
+                "temperature",
+                "moisture | wetness",
+                "weight",
+                "fullness"
+            ],
+            "small paint splatters": [
+                "location"
+            ],
+            "water and dish soap": [
+                "mixture",
+                "location"
+            ],
+            "all of the paint": [
+                "location",
+                "wholeness"
+            ],
+            "paint splatter": [
+                "texture"
+            ],
+            "items needed": [
+                "location"
+            ],
+            "cloth": [
+                "wetness | cleanness"
+            ]
+        }
+    }
+}

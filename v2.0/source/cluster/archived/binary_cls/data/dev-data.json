@@ -1,0 +1,369 @@
+{
+    "23": {
+        "goal": "Teach a Dog Catch a Frisbee",
+        "steps": [
+            "Bend over slightly and hold frisbee in your hand, horizontal to the ground, at the height of the dog&#x27;s mouth.",
+            "Teach running and grabbing.",
+            "Teach jumping and grabbing."
+        ],
+        "clustered_entities": [
+            "frisbee | the frisbee",
+            "dog | you | the dog | person"
+        ],
+        "annotation": [
+            "frisbee | the frisbee",
+            "dog | the dog, you | person"
+        ]
+    },
+    "448": {
+        "goal": "Make Pigs in the Blanket with Bisquick",
+        "steps": [
+            "Preheat oven to 450\u00a0\u00b0F (232\u00a0\u00b0C).",
+            "Make the biscuit dough following the Bisquick biscuit dough recipe.",
+            "Cut the dough into 4 x 3-inch oblong shapes.",
+            "Wrap each hot dog with the dough making sure to leave the hot dogs peeking out.",
+            "Bake the Pigs in the Blankets for 15 minutes or until golden brown.",
+            "Finished."
+        ],
+        "clustered_entities": [
+            "dough | dough pieces"
+        ],
+        "annotation": [
+            "dough | dough pieces"
+        ]
+    },
+    "563": {
+        "goal": "Fix Palings or Pickets",
+        "steps": [
+            "Be sure to paint, stain, varnish etc, the palings or pickets before you work with them.",
+            "Measure how many you will need to cover each span of rails from post to post.",
+            "Run a line of string at the base of the palings.",
+            "Nail the palings into place along the string line.",
+            "Use a block of wood to space palings or pickets to provide consistent spacing between each one.",
+            "Draw a line in chalk across the top of the palings to mark the desired height of your fence."
+        ],
+        "clustered_entities": [
+            "pickets/palings | pickets"
+        ],
+        "annotation": [
+            "pickets/palings | pickets"
+        ]
+    },
+    "43": {
+        "goal": "Get the Urine Smell Out of Your Bed",
+        "steps": [
+            "Using a wet cloth, clean up the urine spot and make sure the area is thoroughly damp without being wet.",
+            "Sprinkle a thick layer of baking soda over the location.",
+            "Allow it to sit for a while.",
+            "Once dry, vacuum it off of the bed."
+        ],
+        "clustered_entities": [
+            "urine, baking soda",
+            "bed | mattress"
+        ],
+        "annotation": [
+            "urine, baking soda",
+            "bed | mattress"
+        ]
+    },
+    "166": {
+        "goal": "Make Tropical Fruit Salsa",
+        "steps": [
+            "Prepare and measure all ingredients.",
+            "Mix everything thoroughly in a large bowl.",
+            "Cover securely with plastic wrap.",
+            "Let chill in the refrigerator and serve as soon as possible."
+        ],
+        "clustered_entities": [
+            "plastic wrap | plastic",
+            "pineapple, mango",
+            "spoon, bowl, mixture",
+            "fruit bowl | bowl",
+            "knife, cutting board"
+        ],
+        "annotation": [
+            "plastic wrap | plastic",
+            "pineapple, mango",
+            "spoon, bowl, mixture",
+            "fruit bowl | bowl",
+            "knife, cutting board"
+        ]
+    },
+    "163": {
+        "goal": "Make Chocolate Marshmallow Frosting",
+        "steps": [
+            "Get a mixing bowl and add the marshmallow cream, 2/3 of the sugar, unsweetened chocolate, shortening, and 1/2 of the half & half.",
+            "Use an electric mixer and mix thoroughly until the texture is smooth.",
+            "Add the rest of the sugar and half & half alternatively until you get the desired and right sweetness to your taste.",
+            "Serve!"
+        ],
+        "clustered_entities": [
+            "chocolate | unsweetened chocolate",
+            "frosting | cupcakes",
+            "mixture | ingredients",
+            "half & half | half& half"
+        ],
+        "annotation": [
+            "chocolate | unsweetened chocolate",
+            "frosting, cupcakes",
+            "mixture | ingredients",
+            "half & half | half& half"
+        ]
+    },
+    "245": {
+        "goal": "Do a Lincoln Loop on Skis",
+        "steps": [
+            "Approach your jump with enough speed to clear it while in an athletic stance.",
+            "Pop off the lip of the jump while driving your right shoulder down and your hips up and left, initiating the cartwheel motion.",
+            "Focus on a point in the distance and tuck slightly to speed up your rotation.",
+            "Watch the point come around and loosen up to slow your rotation.",
+            "Spot your landing and stomp it."
+        ],
+        "clustered_entities": [
+            "right shoulder | my right shoulder",
+            "i | rotation speed",
+            "ability to ski | skis"
+        ],
+        "annotation": [
+            "right shoulder | my right shoulder",
+            "i, rotation speed",
+            "ability to ski, skis"
+        ]
+    },
+    "161": {
+        "goal": "Remove Candle Wax from Delicate Surfaces",
+        "steps": [
+            "Cut a piece of strong cardboard to size.",
+            "Scrape the piece of strong cardboard.",
+            "Dip a cloth in eucalyptus oil.",
+            "Wash silverware following this treatment."
+        ],
+        "clustered_entities": [
+            "eucalyptus oil bottle | eucalyptus oil"
+        ],
+        "annotation": [
+            "eucalyptus oil bottle, eucalyptus oil"
+        ]
+    },
+    "104": {
+        "goal": "Make Haupia",
+        "steps": [
+            "Get a small pot and combine the salt, cornstarch, sugar, and a 1/2 cup of coconut milk.",
+            "Heat the ingredients on low heat and pour in the rest of the coconut milk.",
+            "Wait until you get a clear, but thick liquid so that it can coat a spoon.",
+            "Get a shallow pan (flat baking pan is good) and pour the mixture in."
+        ],
+        "clustered_entities": [
+            "salt, cornstarch, sugar | cornstarch, sugar and salt",
+            "ingredients | pot"
+        ],
+        "annotation": [
+            "salt, cornstarch, sugar, cornstarch, sugar and salt",
+            "ingredients, pot"
+        ]
+    },
+    "365": {
+        "goal": "Get Rid of House Flies with Cloves",
+        "steps": [
+            "Take a sweet and ripe apple (any kind).",
+            "Take 20 \u201330 cloves.",
+            "Poke the cloves randomly into the apple.",
+            "Place the newly clove-decorated apple on a plate and place it in the middle of the picnic table.",
+            "Watch."
+        ],
+        "clustered_entities": [
+            "apple | apple with cloves"
+        ],
+        "annotation": [
+            "apple | apple with cloves"
+        ]
+    },
+    "467": {
+        "goal": "Make English Custard",
+        "steps": [
+            "Prepare the vanilla pod.",
+            "Put the sliced vanilla pod into the pan and pour in the cream.",
+            "Combine cream and egg mixture.",
+            "Transfer to pan and heat to thicken.",
+            "Using the spatula stir it gently until it thickens.",
+            "Serve."
+        ],
+        "clustered_entities": [
+            "vanilla pd | vanilla pod",
+            "pan | pod",
+            "mixture | liquid",
+            "eggs and cream | egg mixture"
+        ],
+        "annotation": [
+            "vanilla pd | vanilla pod",
+            "pan, pod",
+            "mixture | liquid",
+            "eggs and cream | egg mixture"
+        ]
+    },
+    "97": {
+        "goal": "Raise Your Xbox 360 Gamerscore",
+        "steps": [
+            "Get out the guides for your current video games and look at the Achievements are listed.",
+            "You don't have to be an expert, major-league gamer to get a high Gamerscore.",
+            "Browse the Internet for tips and tricks to help you get your Gamerscore higher.",
+            "Play the campaign."
+        ],
+        "clustered_entities": [
+            "tips | tricks"
+        ],
+        "annotation": [
+            "tips | tricks"
+        ]
+    },
+    "197": {
+        "goal": "Make a Red Berry Pie",
+        "steps": [
+            "Mix the sugar and cornstarch in a saucepan.",
+            "Bring the mixture to boil on medium heat.",
+            "Stir this until entirely dissolved into the mix.",
+            "Fill the crust with the mixture."
+        ],
+        "clustered_entities": [
+            "mixture | the mixture",
+            "stove | the stove/cooking device",
+            "pie crust | crust",
+            "saucepan | stove eye",
+            "the saucepan | the sauce pan"
+        ],
+        "annotation": [
+            "mixture | the mixture",
+            "stove | the stove/cooking device",
+            "pie crust | crust",
+            "saucepan, stove eye",
+            "the saucepan | the sauce pan"
+        ]
+    },
+    "136": {
+        "goal": "Move Big Pots",
+        "steps": [
+            "This requires thinking ahead when you first place your pot plant down.",
+            "Purchase or hire a trolley with adequate width at the base able to take the pot size.",
+            "Use a cardboard box.",
+            "Finished."
+        ],
+        "clustered_entities": [
+            "pot | pots | box"
+        ],
+        "annotation": [
+            "pot | pots, box"
+        ]
+    },
+    "209": {
+        "goal": "Make Oyako Donburi",
+        "steps": [
+            "Heat skillet over medium-low heat and add the vegetable oil.",
+            "Mix together the dashi, sake, soy sauce, mirin, chili sauce, salt, sugar and water and pour over the chicken and onions.",
+            "Drizzle the beaten eggs over the mixture.",
+            "Serve over rice."
+        ],
+        "clustered_entities": [
+            "eggshells | eggs",
+            "skillet | stove"
+        ],
+        "annotation": [
+            "eggshells, eggs",
+            "skillet, stove"
+        ]
+    },
+    "37": {
+        "goal": "Use a Trucking Load Board",
+        "steps": [
+            "Find an online load board.",
+            "Sign up for the load board.",
+            "Post your truck to the load board.",
+            "Search for loads."
+        ],
+        "clustered_entities": [
+            "computer | screen"
+        ],
+        "annotation": [
+            "computer, screen"
+        ]
+    },
+    "440": {
+        "goal": "Make Paleo Coffee Brownies",
+        "steps": [
+            "Melt the chocolate chips in a saucepan over low heat.",
+            "Add the instant coffee/ground espresso beans.",
+            "In a separate mixing bowl, blend eggs, coconut sugar, vanilla and salt on low speed.",
+            "Pour the melted chocolate into the mixing bowl.",
+            "Pour into a 8x8 baking dish, either greased or covered with parchment paper.",
+            "Bake at 350\u00a0\u00b0F (177\u00a0\u00b0C) for 25-30 minutes."
+        ],
+        "clustered_entities": [
+            "chocolate | mixture",
+            "sugar | coconut sugar",
+            "baking pan | pan"
+        ],
+        "annotation": [
+            "chocolate, mixture",
+            "sugar | coconut sugar",
+            "baking pan | pan"
+        ]
+    },
+    "380": {
+        "goal": "Build a Miniature Toy Catapult",
+        "steps": [
+            "Hot glue the hinge down into the base of the tape dispenser, about 3/4 the distance from the back of the dispenser.",
+            "Stick the thumbtack through the spoon right below the head of the spoon.",
+            "Hot glue the end of the spoon to the loose hinge, with the bowl of the spoon facing the front of the dispenser.",
+            "Place the rubber band around the front of the dispenser.",
+            "Load your weapon, pull back and fire."
+        ],
+        "clustered_entities": [
+            "rubber band | rubberband",
+            "spoon | tape dispenser"
+        ],
+        "annotation": [
+            "rubber band | rubberband",
+            "spoon, tape dispenser"
+        ]
+    },
+    "507": {
+        "goal": "Make a Basic Onion, Lettuce and Cheese Salad",
+        "steps": [
+            "First, chop the onion to roughly about 5mm width and 5mm length (this does not have to be exact).",
+            "Now put the onions in the bowl and grate the cheese into the bowl with a grater.",
+            "Rip the lettuce into small pieces and put them into the bowl, and stir all the ingredients together with the wooden spoon.",
+            "Next stir a tablespoon of salad cream into the ingredients.",
+            "Chop the cucumber into slices and stir it into the bowl.",
+            "Now eat it with family and friends or enjoy on your own!"
+        ],
+        "clustered_entities": [
+            "cutting board | knife",
+            "cucumber | cucmber",
+            "wooden spoon | spoon",
+            "air | onion",
+            "fork | salad"
+        ],
+        "annotation": [
+            "cutting board, knife",
+            "cucumber | cucmber",
+            "wooden spoon | spoon",
+            "air, onion",
+            "fork, salad"
+        ]
+    },
+    "228": {
+        "goal": "Harden Modeling Clay",
+        "steps": [
+            "Identify the kind of clay with which you're working.",
+            "Apply any pigments or glazes appropriate for painting on prior to hardening the clay.",
+            "Bake polymer clay and oven-hardening clay in a regular kitchen oven.",
+            "Use patience when waiting for self-hardening clay to harden.",
+            "Schedule time in a professional kiln to harden fine art clay."
+        ],
+        "clustered_entities": [
+            "clay | oven-hardening clay | pigments/glazes | oven"
+        ],
+        "annotation": [
+            "clay | oven-hardening clay, pigments/glazes, oven"
+        ]
+    }
+}

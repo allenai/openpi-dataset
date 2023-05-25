@@ -1,0 +1,74 @@
+[
+    {
+        "The going of wailmer is still before and going afterwards.": {
+            "attribute": "going | progress | progression",
+            "entity": "wailmer",
+            "before": "stationary | still",
+            "after": "progressing | in progress | moving"
+        }
+    },
+    {
+        "The knowledge of wailmer is untrained before and trained afterwards.": {
+            "attribute": "knowledge | skill | knowledge | understanding",
+            "entity": "wailmer",
+            "before": "untrained | untrained | basic | not developed | none | absent | lacking",
+            "after": "trained | gained | present | acquired | developed | mastered | advanced"
+        }
+    },
+    {
+        "The change of wailmer is unevolved before and evolved afterwards.": {
+            "attribute": "form | change | state | change | development | transformation | evolution",
+            "entity": "wailmer",
+            "before": "unevolved",
+            "after": "evolved"
+        }
+    },
+    {
+        "The items of candy is uncopied before and copied afterwards.": {
+            "attribute": "items",
+            "entity": "candy",
+            "before": "uncopied",
+            "after": "replicated | duplicated | cloned"
+        }
+    },
+    {
+        "The action of wailmer is without rare candies before and now holder of rare candy afterwards.": {
+            "attribute": "possession | action",
+            "entity": "wailmer",
+            "before": "no rare candy possession | without rare candies",
+            "after": "now has rare candy possessions | now has rare candies"
+        }
+    },
+    {
+        "The action of ball is unused before and used afterwards.": {
+            "attribute": "activity | use",
+            "entity": "ball",
+            "before": "inactive | unused",
+            "after": "active | used"
+        }
+    },
+    {
+        "The location of battle frontier location is unattained before and now attained afterwards.": {
+            "attribute": "availability | accessibility",
+            "entity": "battle frontier location",
+            "before": "unattained",
+            "after": "now attained"
+        }
+    },
+    {
+        "The evolution of wailmer is wailmer before and wailord afterwards.": {
+            "attribute": "transformation | evolution | evolution | development | transformation | evolution",
+            "entity": "wailmer",
+            "before": "wailmer",
+            "after": "wailord | wailord | giant wailord"
+        }
+    },
+    {
+        "The full of wailmer is hungry before and full afterwards.": {
+            "attribute": "fullness | appetite | hunger",
+            "entity": "wailmer",
+            "before": "hungry | empty",
+            "after": "full | satisfied"
+        }
+    }
+]

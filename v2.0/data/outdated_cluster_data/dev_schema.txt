@@ -1,0 +1,714 @@
+A person's goal is to make a simple inside windshield cleaner.
+For each of the steps, what are the involved entities and attributes? 
+Step: Purchase a blackboard eraser.
+Entities and attributes: the blackboard eraser | eraser (possession | ownership,location), eraser shelf at the store (fullness), bank account (fullness), money (location), 
+Step: Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.
+Entities and attributes: the blackboard eraser | eraser (placement,location), glovebox (location), glove box (fullness), 
+Step: Use the eraser to clean the inner side of the windshield.
+Entities and attributes: the blackboard eraser | eraser (condition,location,cleanness,movement), windshield (cleanness), inside windshield (cleanness), hands (activity), 
+Step: Replace after use.
+Entities and attributes: the blackboard eraser | eraser (location,movement), hands (activity), 
+
+A person's goal is to make carob fruit balls.
+For each of the steps, what are the involved entities and attributes? 
+Step: Mix all of the ingredients together.
+Entities and attributes: ingredients (composition | consistency,location), mixing bowl (volume,weight,location), spoon (location), carob (mixed), 
+Step: Roll into small balls.
+Entities and attributes: ingredients (composition | consistency,shape), dough | dough pieces (size | shape), mixture (location,number,density), hand (fullness,stickiness), bowl (weight), 
+Step: Place in the freezer for half an hour.
+Entities and attributes: balls (location,temperature), plate (location,container), 
+Step: Serve.
+Entities and attributes: carob fruit balls (readiness,location,hardness), 
+
+A person's goal is to freeze baked cookies or biscuits.
+For each of the steps, what are the involved entities and attributes? 
+Step: Place the biscuits or cookies into a rigid, airtight container.
+Entities and attributes: cookies | biscuits (location), the cookies (placement), container (volume | fullness,weight,cleanness), tray (weight), 
+Step: Separate the biscuits and cookies using freezer paper, baking paper, or foil.
+Entities and attributes: cookies | biscuits (location,composition,organization | position), aluminum foil (placement), freezer paper (location,cleanness,size), baking paper (cleanness), foil (cleanness), 
+Step: Place biscuits in freezer.
+Entities and attributes: cookies | biscuits (location,flexibility,temperature,texture), the bowl (placement), freezer (volume), 
+Step: Thaw.
+Entities and attributes: the cookies and biscuits (placement), cookies | biscuits (flexibility,temperature,texture), the aluminum foil (movement), freezer (volume), 
+
+A person's goal is to make a pipe cleaner bird.
+For each of the steps, what are the involved entities and attributes? 
+Step: Bend one pipe cleaner in half to form the legs.
+Entities and attributes: pipe cleaner | pipe cleaners (position | shape,location), 
+Step: Shape another pipe cleaner to form the body.
+Entities and attributes: pipe cleaner | pipe cleaners (position | shape,location), 
+Step: Move 1.5 inches (3.8 cm) from the tip of where the beak should be.
+Entities and attributes: tip of pipe cleaner (shape), your fingers (location), 
+Step: Use 2 pipe cleaners to enlarge the torso.
+Entities and attributes: pipe cleaner | pipe cleaners (position | shape,location), the torso (width,weight), 
+
+A person's goal is to spool knit a winter hat.
+For each of the steps, what are the involved entities and attributes? 
+Step: Knit eighty-four inches of flat web.
+Entities and attributes: the webbing | the yarn (composition), 
+Step: Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.
+Entities and attributes: the webbing | the yarn (shape), 
+Step: Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.
+Entities and attributes: the webbing | the yarn (width), the ends (connection), 
+Step: After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel.
+Entities and attributes: the hat (weight), the piece of yarn (shape), 
+
+A person's goal is to get a headshot in gears of war.
+For each of the steps, what are the involved entities and attributes? 
+Step: Sniper — Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.
+Entities and attributes: gun | weapon (location), you (knowledge), 
+Step: Shotgun — The aim on the shotgun is almost like a rectangle.
+Entities and attributes: you (shape), 
+Step: Pistol — I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.
+Entities and attributes: you (knowledge), 
+Step: BoomShot — BoomShot headshots are possible — don't let anyone tell you they're not but the chance of one happening is about a million to one.
+Entities and attributes: gun | weapon (location), you (knowledge), 
+
+A person's goal is to connect a wii to hd tv.
+For each of the steps, what are the involved entities and attributes? 
+Step: Plug in your HDMI cord to the cable.
+Entities and attributes: hdmi cord | hdmi converter cable | the hdmi cord (organization | power,connection), plug (volume), 
+Step: Plug it into your TV's HDMI input.
+Entities and attributes: hdmi cord | hdmi converter cable | the hdmi cord (power | connection), tv's hdmi input (container), the hdmi (power), 
+Step: Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.
+Entities and attributes: hdmi cord | hdmi converter cable | the hdmi cord (power | connection), wii's av composite output (container), cord (power), wii (connection), the cord (power), 
+Step: Plug your HDMI cord (assuming you have one) into the converter and your TV.
+Entities and attributes: hdmi cord | hdmi converter cable | the hdmi cord (organization | power,attachment), cord (power), converter (attachment), tv (power,attachment), 
+
+A person's goal is to fold bath towels for quick hanging at home.
+For each of the steps, what are the involved entities and attributes? 
+Step: Fold the towel in thirds lengthwise.
+Entities and attributes: towel | the towels (size | width,shape | stated,width), hand muscles (power), hand (emptiness), 
+Step: Fold in half, and then in half again.
+Entities and attributes: towel | the towels (thickness | length), height of towel (height), 
+Step: Store the towel in the linen closet.
+Entities and attributes: towel | the towels (location), closet (emptiness), 
+Step: To go from the closet for hanging, simply unfold the final fold and hang on the towel rack.
+Entities and attributes: towel | the towels (location,shape | stated), final fold (openness), towel rack (emptiness), 
+
+A person's goal is to be a spy with friends.
+For each of the steps, what are the involved entities and attributes? 
+Step: Set-up your spy group You will need a trustworthy 2-5 person group.
+Entities and attributes: co-conspirators (knowledge), your spy group (forming), 
+Step: It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.
+Entities and attributes: you (location), 
+Step: Get some gear To be a good spy, you and your friends must have gear that will help with missions.
+Entities and attributes: gear (availability), you (possession), 
+Step: Find your first "victim" The victim is the person you will be watching and spying on.
+Entities and attributes: you (knowledge), 
+
+A person's goal is to defeat a thug on dead island.
+For each of the steps, what are the involved entities and attributes? 
+Step: There is no chance in hell you will kill a Thug using just your bear hands and feet.
+Entities and attributes: you (knowledge), 
+Step: Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.
+Entities and attributes: you (knowledge), molotov cocktails (location), grenades (location), 
+Step: Make sure your guns have enough ammo, and your knives are up to scratch.
+Entities and attributes: you (knowledge), enough ammo (count), 
+Step: Attack!
+Entities and attributes: zombies (step), weapons (location), 
+
+A person's goal is to make rhubarb cordial.
+For each of the steps, what are the involved entities and attributes? 
+Step: Simmer the rhubarb with the sugar, cloves and water.
+Entities and attributes: rhubarb | rhubarb cordial (composition,temperature | location,wetness), pot (volume), cloves (temperature,wetness), sugar (wetness,temperature), water (temperature), 
+Step: Simmer until the rhubarb becomes soft.
+Entities and attributes: rhubarb | rhubarb cordial (consistency | hardness,texture), 
+Step: Remove from the heat.
+Entities and attributes: rhubarb | rhubarb cordial (temperature | location), cloves (temperature,location), stove (location), water (temperature), 
+Step: Add the mint leaves for decoration.
+Entities and attributes: rhubarb | rhubarb cordial (appearance | taste), cordial (composition), mint leaves (location), 
+
+A person's goal is to get under the stage in dragonball z budokai tenkaichi 2.
+For each of the steps, what are the involved entities and attributes? 
+Step: Choose VS Duel, 2 players.
+Entities and attributes: players | player (knowledge), companion (availability), vs duel (option), mode (population), 
+Step: Choose Goku as player one, as well as player two.
+Entities and attributes: players | player (knowledge), player two (availability), goku (count,knowledge), 
+Step: Choose Mountain Road as the stage.
+Entities and attributes: stage (location), 
+Step: Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage.
+Entities and attributes: players | player (location,division), you (location), character (location), 
+
+A person's goal is to make slow cooker hot cocoa.
+For each of the steps, what are the involved entities and attributes? 
+Step: Make the initial cocoa mixture.
+Entities and attributes: mixture ingredients | the ingredients | ingredients (composition), ingredients (composition), cocoa powder (location), whisk (cleanness), water (location), bowl (weight,wetness), cocoa mixture (availability), 
+Step: Add all the ingredients in a slow cooker.
+Entities and attributes: mixture ingredients | the ingredients | ingredients (container | location), slow cooker | the slow cooker (volume | container,wetness | cleanness,temperature | pressure,cleanness,wetness), mixture | the mixture (temperature), whisk (location), bowl (weight), the slow cooker (weight), 
+Step: Allow the mixture to heat for 3 hours on a low setting.
+Entities and attributes: mixture ingredients | the ingredients | ingredients (temperature), slow cooker | the slow cooker (temperature | pressure,wetness | cleanness,power), mixture | the mixture (temperature,temperature), liquid (sound), cooker (temperature), smell (odor), the outside of the slow cooker (thermal conductivity), lid (location), 
+Step: Serve immediately or keep the slow cooker on a "Keep Warm" setting.
+Entities and attributes: slow cooker | the slow cooker (volume | container), mixture | the mixture (container | location), mug (wetness,weight,temperature), the slow cooker (weight), the knob (direction), 
+
+A person's goal is to grow a rose bush from rose bush cuttings.
+For each of the steps, what are the involved entities and attributes? 
+Step: Prepare the pot or area in your yard where you plan to plant your clipping.
+Entities and attributes: the shovel (cleanness), cutting (location), ground (volume), yard (readiness), area (readiness), pot (volume), soil (location), 
+Step: Take a cutting from the rose bush you would like to grow your new bush from.
+Entities and attributes: the pruning shears | pruning shears (wetness | moisture,cleanness), the rose bush (weight), cutting (location), rose bush (shape), soil (location), 
+Step: Moisten the part of the clipping that you just scraped and dip it into rooting hormone.
+Entities and attributes: the clipping | clipping (moisture | wetness,location,composition), rooting hormone (location), water (location), roots (moisture), soil (moisture), 
+Step: Immediately plant the cutting.
+Entities and attributes: hole in ground (container), cutting (location), pot (volume), the cutting (location), soil (location), 
+
+A person's goal is to evolve vulpix in pokémon.
+For each of the steps, what are the involved entities and attributes? 
+Step: ######Catch or trade for a Vulpix.
+Entities and attributes: vulpix (step,availability,ownership), 
+Step: ######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).
+Entities and attributes: fire or ice stone (step), fire stone (availability), 
+Step: Go to your bag and select the stone required.
+Entities and attributes: stone (choice | knowledge), the stone (knowledge), bag (step), 
+Step: ######Wait for the evolution animation to pop up.
+Entities and attributes: 
+
+A person's goal is to polish a faucet with a lemon.
+For each of the steps, what are the involved entities and attributes? 
+Step: ######Cut a lemon in half.
+Entities and attributes: lemon (size | shape,moisture | odor), juice | facuets (location | wetness), cutting board (cleanness,moisture), knife (cleanness,moisture), 
+Step: ######Squeeze out the juice.
+Entities and attributes: lemon (moisture | odor,size | shape,weight), juice | facuets (location | wetness), 
+Step: ######Take the squeezed out lemon half and rub vigorously over the faucets.
+Entities and attributes: faucets | faucet | tap (dryness | cleanness | moisture,odor | color,wetness), lemon (size | shape), juice | facuets (location | wetness), 
+Step: ######Wash the tap after scouring with the lemon half.
+Entities and attributes: faucets | faucet | tap (cleanness,appearance), lemon juice (location), water (location), 
+
+A person's goal is to make taco filling.
+For each of the steps, what are the involved entities and attributes? 
+Step: Brown the meat and the onion in a medium sized frying pan.
+Entities and attributes: onion (form | composition | shape,temperature), meat | fat | pan (location,volume,cleanness,cooked or not | wetness,color), ingredients | spices (cooked or not), spatula (cleanness), skillet (temperature), frying pan (temperature), stove (power), 
+Step: Drain the excess fat.
+Entities and attributes: meat | fat | pan (location,weight,cooked or not | wetness,fullness,composition), grease c ontainer (fullness), grease container (weight), grease (location,temperature), beef (moisture), sink (cleanness,temperature), 
+Step: Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.
+Entities and attributes: meat | fat | pan (weight,volume,how cooked), tomato (form,location,temperature), ingredients | spices (cooked or not,location,temperature), skillet (fullness,weight,sound), liquids (movement), knife (cleanness), 
+Step: Finished.
+Entities and attributes: meat | fat | pan (location), serving bowl (cleanness,weight,fullness), hot sauce (location), cheese (location,form | composition), flavor (taste), recipe (knowledge), food (location), bowl (temperature), stove (power), 
+
+A person's goal is to remove black skid marks from linoleum.
+For each of the steps, what are the involved entities and attributes? 
+Step: Obtain a decent sized eraser that you can hold comfortable in your fingers.
+Entities and attributes: eraser (location | ownership,cost), hand muscles (power), 
+Step: Kneel down next to the linoleum and use the eraser to rub along the skid mark.
+Entities and attributes: eraser (location | ownership,size), floor | lineoleum (cleanness,color | odor), skid mark (dampness,location), hands (motion), body | person (form | position,location), you (orientation), 
+Step: Continue rubbing until the black mark lifts.
+Entities and attributes: floor | lineoleum (cleanness,color | odor), linoleum (cleanness | wetness), 
+Step: Wash and dry as usual.
+Entities and attributes: floor | lineoleum (cleanness,color | odor,wetness | moisture), linoleum (cleanness | wetness), water (location), 
+
+A person's goal is to create a character in lego star wars.
+For each of the steps, what are the involved entities and attributes? 
+Step: When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.
+Entities and attributes: game (knowledge), 
+Step: Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.
+Entities and attributes: up/down and left/right arrows (movement), you (knowledge), character parts (step), 
+Step: Press "triangle" to name it, and "O" to save and exit.
+Entities and attributes: you (knowledge), character (choice), 
+Step: Now enter a completed level and turn on free play.
+Entities and attributes: completed level (step), free play (power), 
+
+A person's goal is to make marshmallow cream cheese fruit dip.
+For each of the steps, what are the involved entities and attributes? 
+Step: Blend the cream cheese and marshmallow cream until combined.
+Entities and attributes: the cream cheese | cream cheese and marshmallow (composition,location), marshmallow (location), the marshmallow cream | marshmallow cream | cream cheese (location,composition | shape,location), the bowl (weight,volume,cleanness), blender (cleanness,volume,electric conductivity), ingredients (organization), 
+Step: Pour the mixture into a clean bowl.
+Entities and attributes: the mixing bowl | the clean bowl (weight,moisture,cleanness,volume), mixtre | mixture (location), the mixture | bowl (location | cleanness,weight,container | volume,moisture), blender (weight,volume), 
+Step: Serve with fruit or whatever else you like.
+Entities and attributes: the knife (wetness | cleanness), the fruit | fruit (composition | size,weight), 
+Step: Finished.
+Entities and attributes: 
+
+A person's goal is to clean synthetic hiking gear.
+For each of the steps, what are the involved entities and attributes? 
+Step: Read all of the instructions first.
+Entities and attributes: instructions (knowledge), 
+Step: Wash Gore-Tex and other breathable, waterproof synthetic outer shell clothing following the instructions on the label.
+Entities and attributes: clothing (cleanness), detergent (location), gore-tex (cleanness), dirt (location), 
+Step: Be careful with synthetic boots.
+Entities and attributes: 
+Step: Take care cleaning synthetic jackets containing down.
+Entities and attributes: 
+Step: Wash polar fleece (microfleece or micrafleece) in the washing machine.
+Entities and attributes: washing machine (fullness,electric conductivity), polar fleece (cleanness), fleece (cleanness), 
+
+A person's goal is to get on a bike.
+For each of the steps, what are the involved entities and attributes? 
+Step: To get on the bike, swing your non-dominant leg over the shaft of the bike.
+Entities and attributes: ability to identify non-dominant leg (knowledge), foot | dominant foot | feet (location), ability to identify bike shaft (knowledge), ability to ride a bike (skill), you | hands (position | location), bicycle (location), 
+Step: Put your dominant foot on the pedal.
+Entities and attributes: your weight (weight), ability to identify dominant foot (knowledge), foot | dominant foot | feet (location), your foot (placement), both feet (placement), bike | bicycle (stability), bicycle (weight), grip on bike (strength), 
+Step: Hold on to the handlebars for support and to keep the bike straight.
+Entities and attributes: ability to identify handlebars (knowledge), you | hands (motion,position | location), bike | bicycle (balance | movement,orientation), non-dominant foot (location), 
+Step: Keeping your weight center and even, pedal with your feet.
+Entities and attributes: weight (placement), the tires (movement), the chain (mechanical movement), you | hands (motion,action,balance), bike | bicycle (movement | motion,balance | movement), center of gravity (location), pedals (motion), 
+Step: Stopping.
+Entities and attributes: your weight (weight), foot | dominant foot | feet (location), your foot (placement), the tires (movement), the chain (mechanical movement), you | hands (motion), bike | bicycle (balance | movement), handbrakes (knowledge), speed (speed), 
+
+A person's goal is to board a small boat.
+For each of the steps, what are the involved entities and attributes? 
+Step: Prefer boarding across a solid platform if possible.
+Entities and attributes: boat | person (location), boarding plank (location), room on boat (availability), plank (moisture), dock (availability), water (texture), 
+Step: If you are crossing using a platform, hold on to the rails provided.
+Entities and attributes: boat | person (motion), gravity (location of center), handrails (placement), handrail (availability), movement (stability), hands (location), 
+Step: Avoid plonking one leg in the boat and leaving one on the jetty - this will cause wobbling and you might fall into the water.
+Entities and attributes: legs (location), passenger (speed), jumping (location), paddle (location), 
+Step: Once in the boat, always remain in the centre line to move around it and lower yourself to a crouch level so that you reduce your centre of gravity and keep the craft as still as possible.
+Entities and attributes: passenger position (location), boat | person (location,stability,weight,action,shape), arms (location), 
+Step: Keep the craft steady as others board.
+Entities and attributes: other passengers (location), boat | person (location,stability,orientation,motion), plank (location), other person (location), 
+
+A person's goal is to make a banana strawberry rum smoothie.
+For each of the steps, what are the involved entities and attributes? 
+Step: Place the yogurt, bananas, and sorbet in a blender.
+Entities and attributes: smoothie | mixture | ingredients (organization), blender (cleanness,volume,blender,weight), sorber | fruit and sorbet | sorbet (location), yogurt (location), ingredients (composition), banana | bananas (location), fruit (temperature), 
+Step: Blend the mixture until it's smooth in texture.
+Entities and attributes: smoothie | mixture | ingredients (texture), blender (cleanness,weight,volume,electric conductivity), items (composition), 
+Step: Pour the rum in and quickly blend again.
+Entities and attributes: rum (location | rum,composition), blender (electric conductivity), bottle (weight,volume), liquid (composition), 
+Step: Pour the smoothie into chilled glasses.
+Entities and attributes: smoothie | mixture | ingredients (smoothie,location), blender (weight,volume), glasses | glass (volume,temperature | glasses,weight,cleanness,moisture), 
+Step: Garnish each glass with a strawberry.
+Entities and attributes: strawberry (location | strawberry), glasses | glass (appearance), glass (decoration), 
+
+A person's goal is to make a pinwheel wreath.
+For each of the steps, what are the involved entities and attributes? 
+Step: Select suitable paper to make the pinwheels.
+Entities and attributes: suitable paper for pinwheels (choice), paper (knowledge), 
+Step: Make enough pinwheels to create a wreath.
+Entities and attributes: pinwheels (availability,orientation), paper (shape), 
+Step: Find a suitable base, such as a Styrofoam/cane/cardboard wreath base.
+Entities and attributes: wreath base (step), 
+Step: If the wreath base lacks a hanger, add some twine or ribbon to create one.
+Entities and attributes: ribbon (location,organization), twine (location,organization), 
+Step: Finished.
+Entities and attributes: 
+
+A person's goal is to make a wreath with clothes hangers.
+For each of the steps, what are the involved entities and attributes? 
+Step: Untwist wire hanger and shape into a circle, using pliers as needed.
+Entities and attributes: hanger | wire (shape), pliers (location), wire hanger (shape), fingers (pressure), tool (openness), hands (volume), 
+Step: Gently crumple 3" squares of wax paper or crepe paper and thread hanger through center of each square.
+Entities and attributes: wax paper (texture | shape), hanger | wire (location,volume), crepe paper (shape), squares (shape), table (cleanness), hands (motion), 
+Step: When you have threaded enough squares to fill length of hanger, gently push squares away from ends and use pliers to twist ends together.
+Entities and attributes: ends | square ends (shape), hanger | wire (weight,volume), hanger ends (proximity), squares (location), pliers (location), fingers (pressure), tool (position), 
+Step: Gently slide squares of paper back toward the joined ends of wire hanger, scrunching paper more for additional fullness.
+Entities and attributes: ends | square ends (shape), hanger | wire (location,composition,volume), squares (location), paper squares (position), paper (orientation,shape), hands (volume), 
+Step: Finished.
+Entities and attributes: hanger | wire (location), wreath (status), 
+
+A person's goal is to make potato ribbons.
+For each of the steps, what are the involved entities and attributes? 
+Step: Wash especially well if you intend to keep the peel intact.
+Entities and attributes: potatoes | potato (cleanness | wetness,location), water faucet (power), sink (wetness), 
+Step: Cut round and round, keeping the peel as thin as possible as you go.
+Entities and attributes: potatoes | potato (thickness,length,composition), peels | peeler | pan | vegetable peeler (location,cleanness), potaoto (composition), kitchen counter (cleanness), bowl (fullness), 
+Step: Drain the potatoes dry on a clean cloth.
+Entities and attributes: potatoes | potato (cleanness | wetness), peels | peeler | pan | vegetable peeler (dryness), cloth (location,cleanness | wetness,moisture), potato pieces (moisture,location), water (location), 
+Step: Fry the ribbons in deep, hot fat.
+Entities and attributes: potatoes | potato (composition), peels | peeler | pan | vegetable peeler (cleanness,temperature,texture,location), stove | stove burner (temperature,electric conductivity), oil (temperature), ribbons (teture), spatula (cleanness), 
+Step: Serve.
+Entities and attributes: potatoes | potato (location), peels | peeler | pan | vegetable peeler (location,weight,taste), serving dish (cleanness,weight), platter (fullness), 
+
+A person's goal is to open a rusty bolt.
+For each of the steps, what are the involved entities and attributes? 
+Step: Obtain some fizzy drink.
+Entities and attributes: drink (cost,sealing,availability), bottle (weight), cup (fullness,cleanness,moisture,weight), fizzy drink (availability), 
+Step: Pour the fizzy drink over the bolt.
+Entities and attributes: drink (availability), bolt (wetness | moisture,texture), bottle (weight,openness), fizzy drink (location), hands (moisture,texture), 
+Step: Wipe it clean with kitchen towel.
+Entities and attributes: kitchen towel | towel (cleanness | texture,color,wetness | moisture,cleanness), bolt (wetness | moisture,texture,cleanness), soda (location), towel (weight), 
+Step: The fizzy drink should have dissolved the rust build-up causing the bolt to stick.
+Entities and attributes: bolt (movement,age), assembly (texture), rust (composition), wrench (location), 
+Step: Replace the rusty bolt.
+Entities and attributes: bolt (age,location), new bolt | old bolt (location,orientation), 
+
+A person's goal is to make asparagus in serrano ham.
+For each of the steps, what are the involved entities and attributes? 
+Step: Preheat your oven beforehand to 400°F (200°C or Gas Mark 6).
+Entities and attributes: heating element (color), stove buttons (pressure), oven | oven racks | oven rock (temperature,power), display (power), temperature (temperature), oven door (openness), timer (electric conductivity), 
+Step: Add your olive oil into a baking or roasting tin large enough to hold all of your asparagus spears.
+Entities and attributes: asparagus (location), oil container (weight), roasting pan (weight), oven | oven racks | oven rock (temperature), tin | oil (volume,location), ham | pan (texture,appearance), pan (cleanness), baking tray (volume), baking tin (texture), olive oil (location), container (volume), 
+Step: Cut off the ends of the asparagus spears and wrap enough Serrano ham around each asparagus spear until it is mostly covered but with top jagged part still open.
+Entities and attributes: asparagus (composition | temperature,coverage,size | length), cutting board (cleanness), rubber band (location), ham | pan (location), knife | blade (cleanness,location), spears (shape), vegetables (texture), pieces (texture), 
+Step: Roast the asparagus in the oven for 8-10 minutes.
+Entities and attributes: asparagus (composition | temperature,moisture,texture,hardness), oven | oven racks | oven rock (volume), ham | pan (temperature,texture), oil (temperature), room (sound), food (temperature), 
+Step: Serve immediately with a main dish so your asparagus acts as a side order.
+Entities and attributes: asparagus (composition | temperature,location), oven | oven racks | oven rock (power,fullness), tin | oil (location), main dish (accompaniment), ham | pan (temperature), oven mitts (location), oven door (openness), dish (location), timer (sound), 
+
+A person's goal is to prevent a wick lamp or stove from smoking.
+For each of the steps, what are the involved entities and attributes? 
+Step: Pour some white vinegar into a small container deep enough for dipping.
+Entities and attributes: vinegar (location), container (volume,weight,moisture), bottle (weight,volume), pot (volume), 
+Step: Remove the wick from the lamp or stove, or use wicks yet to be inserted.
+Entities and attributes: wicks (cost), wick (orientation), lamp (composition), 
+Step: Dip each wick into the vinegar.
+Entities and attributes: wick (composition | wetness | moisture), vinegar (location), 
+Step: Allow to dry thoroughly.
+Entities and attributes: wick (composition | wetness | moisture,dryness), 
+Step: Use once dry.
+Entities and attributes: wick (composition | wetness | moisture,location,temperature), 
+
+A person's goal is to learn photography by shooting macro.
+For each of the steps, what are the involved entities and attributes? 
+Step: Create a very small studio.
+Entities and attributes: studio (availability), 
+Step: Have the appropriate sized reflectors.
+Entities and attributes: 
+Step: Have a closeup lens.
+Entities and attributes: 
+Step: Again, they don't need to be that big, but big enough to diffuse light for your small subject.
+Entities and attributes: light (amount), 
+Step: Start experimenting.
+Entities and attributes: 
+
+A person's goal is to make cheese sauce with jalapeño peppers.
+For each of the steps, what are the involved entities and attributes? 
+Step: First cut the Velveeta in to tiny squares and set aside.
+Entities and attributes: velveeta (granularity | shape,location,temperature,size), knife | cutting board (cleanness,moisture,location), package (openness), 
+Step: Set the burner on a medium to low setting, before that you begin adding the cheese product.
+Entities and attributes: velveeta (granularity | shape,location,temperature), stove burner | burner | stove (temperature,power,electric conductivity), cheese (location), stove knob (orientation), sauce pan | pot | pan (cleanness,location,temperature), 
+Step: Wait until the Velveeta has melted lower the heat somewhat and add in the (Rotel) tomatoes.
+Entities and attributes: velveeta (granularity | shape,temperature,texture), stove burner | burner | stove (temperature), tomatoes (location,temperature), stove top burner (temperature), rotel can (openness), rotel (temperature,location), 
+Step: Add in the Jalapeno peppers, and black olives if desired.
+Entities and attributes: olives | jalapeno (location,temperature), peppers (location,temperature), black olives (size,location), cheese dip (taste), can (openness), 
+Step: Cheese sauce is at its best if served very warm.
+Entities and attributes: cheese sauce (location), 
+
+A person's goal is to get wailord in pokémon emerald.
+For each of the steps, what are the involved entities and attributes? 
+Step: This is the pre-evolution of Wailord.
+Entities and attributes: ball (action), 
+Step: This Wailmer can be pretty annoying to train, so be patient.
+Entities and attributes: wailmer (knowledge,going), 
+Step: Train it until it evolves.
+Entities and attributes: wailmer (knowledge,change,evolution), 
+Step: Go to battle frontier and copy some rare candies.
+Entities and attributes: battle frontier location (location), candy (items), 
+Step: Give the rare candies to a Wailmer and evolve it into a Wailord using them.
+Entities and attributes: wailmer (full,change,evolution,action), 
+
+A person's goal is to ninja defuse in call of duty.
+For each of the steps, what are the involved entities and attributes? 
+Step: Move in and cover your route to the bomb site.
+Entities and attributes: the route (coverage), route (appearance,coverage), you (location), 
+Step: Find a hiding spot and pull out your pistol.
+Entities and attributes: game character (location), pistol (location,availability), you (location), 
+Step: Investigate your enemy's routes.
+Entities and attributes: you (focus), routes (knowledge), 
+Step: Wait until enemy does start to plant the bomb.
+Entities and attributes: bomb (skill), you (focus), 
+Step: Start defusing once the bomb has been planted.
+Entities and attributes: bomb (skill), you (location,focus), 
+
+A person's goal is to paint bare wood.
+For each of the steps, what are the involved entities and attributes? 
+Step: Acquire oil based paints, which air dry slowly.
+Entities and attributes: paintbrush | the brush (cleanness), wood | the wood (moisture | wetness,texture), paint | brushes (moisture,location), oil based paint (ownership), paint brush (location), drop clothq (availability), paint base (knowledge), bare wood (location), floor (coverage), 
+Step: The under-coat should be thin, and smooth, move your paint brush down the wood, don't paint up or horizontally.
+Entities and attributes: paintbrush | the brush (cleanness,moisture | wetness,weight), wood | the wood (moisture | wetness,color,weight), paint | brushes (size), coat (location), caulking compound (location), paint direction (direction), paint thickness (thickness), caulking gun (location), brush (color,orientation), tin (volume), 
+Step: Paint the second coat, but be much more careful this time, make sure there are no paint bubbles appearing and smooth out any drips or pools left over from the under-coat.
+Entities and attributes: the coating of paint (thickness), wood | the wood (moisture | wetness,texture), paint | brushes (texture), bubbles (location), coat (location), degree of care (magnitude), paint bubbles (location), drips (coverage,location), pools (location), tin (volume), 
+Step: Be the most precise with this.
+Entities and attributes: paintbrush | the brush (cleanness,moisture | wetness,weight), wood | the wood (moisture | wetness), paint | brushes (awareness), precision (skill), 
+Step: Finished.
+Entities and attributes: paint | brushes (moisture | cleanness), linseed oil (location), drop cloth (location), 
+
+A person's goal is to make seasoned salt.
+For each of the steps, what are the involved entities and attributes? 
+Step: Mix the ingredients together thoroughly.
+Entities and attributes: ingredients | seasoned salt (composition | cohesiveness,organization,location), salt | celery salt (complexity,location), black pepper | pepper mill (location), measuring cup (location), dry mustard (location), spoon (cleanness), bowl (fullness | contents), 
+Step: Pour into an air-tight container with a lid.
+Entities and attributes: ingredients | seasoned salt (location,composition), air-tight container | container (fullness | contents,location,location), ingredient mixture (location), mixture (location), container cover (strength), spoon (location), bowl (fullness | contents), cover (location), lid (accessibility), 
+Step: It goes well in dips, salad dressings, soups and on sandwiches.
+Entities and attributes: ingredients | seasoned salt (taste,location), sandwiches (flavor,location), salads (flavor), soups (flavor), dips (flavor,location), mixture (location), salad dressings (location), food (seasoning), 
+Step: Grind the ingredients together in a mortar and pestle.
+Entities and attributes: ingredients | seasoned salt (composition | cohesiveness,location,wholeness), mortar | mortar and pestle (fullness,cleanness | cleaness,location), mixture particles (shape), pestle (status | location), salt | celery salt (location), salt shaker (volume), 
+Step: Transfer to a storage container as needed.
+Entities and attributes: ingredients | seasoned salt (location), air-tight container | container (fullness | contents), storage container (contents), 
+
+A person's goal is to camouflage equipment.
+For each of the steps, what are the involved entities and attributes? 
+Step: Firstly, lay out all the equipment you are going to use-whatever pattern it is.
+Entities and attributes: weapon | hat | hay (location), equipment (organization | location,equipment), rucksack (location), vehicle (location), webbing (location), surface (fullness), 
+Step: Start with your rucksack, this is the biggest piece of your personal kit so needs the most camouflage.
+Entities and attributes: camouflage (location), rucksack (visibility,decoration), leaves (location), 
+Step: Next, move on to the helmet.
+Entities and attributes: camouflage (location), leaves (location), helmet (decoration,visibility), 
+Step: Be careful with webbing.
+Entities and attributes: webbing (attention,visibility), leaves (location), 
+Step: Be extremely cautious when disguising your weapon.
+Entities and attributes: weapon | hat | hay (attention | visibility,location,decoration), 
+Step: Vehicles really need a vehicle camouflage net.
+Entities and attributes: camouflage net (coverage | location), vehicle camouflage net (location), vehicle (visibility,vehicle), 
+
+A person's goal is to change the oil on a yamaha virago xv250.
+For each of the steps, what are the involved entities and attributes? 
+Step: Remove the bung to let the oil out to drain.
+Entities and attributes: oil | air | oil bottle (location | fullness), bung | the bung (location | position,composition,volume), 
+Step: Remove the oil cap to let the oil drain fully and let air in to help drain the old oil out.
+Entities and attributes: oil tank | oil container | oil can | oil (volume | fullness,volume), oil | air | oil bottle (location | fullness), oil cap (location | position), 
+Step: Remove the oil filter.
+Entities and attributes: oil filter (location | position), 
+Step: Screw the bung back on.
+Entities and attributes: bung | the bung (location | position,composition,position), 
+Step: Fill the oil back up.
+Entities and attributes: oil tank | oil container | oil can | oil (volume | fullness,volume), oil | air | oil bottle (location | fullness), 
+Step: Recycle the old oil.
+Entities and attributes: oil tank | oil container | oil can | oil (volume | fullness), oil | air | oil bottle (cleanness), old oil (location), funnel (cleanness), jug (volume), 
+
+A person's goal is to make a duct tape necklace.
+For each of the steps, what are the involved entities and attributes? 
+Step: Take one roll of duct tape and make a piece about a little bigger than your head.
+Entities and attributes: tape | duct tape (length | size,length), duct tape (location), 
+Step: Measure it around your head, and cut it off the roll.
+Entities and attributes: tape | duct tape (length | size,size), duct table (knowledge), 
+Step: Fold it halfway through the middle, like shown.
+Entities and attributes: tape | duct tape (shape | orientation,shape | appearance), 
+Step: Fold the other half so there is no sticky part showing.
+Entities and attributes: tape | duct tape (length | size,shape | orientation,texture,shape | appearance), 
+Step: Tape the ends together.
+Entities and attributes: tape | duct tape (length | size,composition), ends (organization), tape ends (form), 
+Step: And you are done!
+Entities and attributes: 
+
+A person's goal is to grow dwarf balsam fir.
+For each of the steps, what are the involved entities and attributes? 
+Step: Choose the plant from a nursery or garden center.
+Entities and attributes: plant | container | bag (location,cost), money (location,value), hands (weight), 
+Step: This plant spreads and flattens as it grows, so select a broad sized container, preferably with a rounded shape.
+Entities and attributes: plant | container | bag (location), money (location,amount), hands (location), 
+Step: Choose the potting soil.
+Entities and attributes: plant | container | bag (weight,cleanness), soil (location), money (location,amount), 
+Step: Plant the fir in the container.
+Entities and attributes: plant | container | bag (weight,container,location), shovel (cleanness,location), fir (location), 
+Step: Keep this up until the tree is well established.
+Entities and attributes: plant | container | bag (watered | wetness,contentment), water (location,knob), fir (wetness), 
+Step: Re-pot occasionally.
+Entities and attributes: containers (contents), plant | container | bag (volume), buds (location), 
+
+A person's goal is to make a fairy house in the woods.
+For each of the steps, what are the involved entities and attributes? 
+Step: Find a small area with slightly damp dirt.
+Entities and attributes: area (knowledge), 
+Step: Collect many twigs and sticks.
+Entities and attributes: sticks | twigs (organization), twigs (availability), bundle (organization), 
+Step: Using the sticks, create either a square formation, circle formation, or a Teepee formation.
+Entities and attributes: sticks | twigs (location,organization), 
+Step: Build your exterior walls.
+Entities and attributes: fairy house frame (composition), walls (location), 
+Step: You can use either a leaf or a wide strip of bark.
+Entities and attributes: sticks | twigs (tightness), 
+Step: Decorate.
+Entities and attributes: fairy house (composition), walls (location), 
+
+A person's goal is to make whole wheat pastry with canola.
+For each of the steps, what are the involved entities and attributes? 
+Step: Place the whole wheat flour and salt into the mixing bowl.
+Entities and attributes: flour and salt (location | composition), bowl (cleanness), mixing bowl (volume,weight), ingredients (composition), 
+Step: Pour in the oil.
+Entities and attributes: mixture | mixture in bowl (wetness | moisture), dry and wet ingredients (composition), oil (location,composition), 
+Step: Place the pastry onto a sheet of wax paper.
+Entities and attributes: mixture | mixture in bowl (location), pastry (location | shape), bowl (weight), wax paper (area), 
+Step: Remove from the fridge.
+Entities and attributes: mixture | mixture in bowl (location,temperature), pastry (location | shape,temperature), dough (temperature), fridge light (electric conductivity), fridge door (openness), 
+Step: Press the pastry into the pie dish.
+Entities and attributes: mixture | mixture in bowl (size), pastry (location | shape), pie dish (volume,weight,cleanness), 
+Step: Create an edge with the sides of a fork.
+Entities and attributes: pastry (texture), edges (texture), edge (shape), fork (location), 
+
+A person's goal is to grow fairy moss indoors.
+For each of the steps, what are the involved entities and attributes? 
+Step: Ask for it at a nursery or garden center that specializes in pond plant varieties.
+Entities and attributes: plant (cost), 
+Step: Find a suitable container.
+Entities and attributes: container (location), 
+Step: Fill the bowl with water.
+Entities and attributes: continer (volume), containter (volume), water (location), bowl (wetness,container), 
+Step: Add the fairy moss.
+Entities and attributes: fairy moss (wetness,position), bowl contents (composition), 
+Step: Place in a suitable position.
+Entities and attributes: container (location), bowl (position), 
+Step: Prune.
+Entities and attributes: moss (size), fairy moss (shape), 
+
+A person's goal is to make chocolate hearts for valentine&#x27;s day.
+For each of the steps, what are the involved entities and attributes? 
+Step: Assemble the ingredients needed.
+Entities and attributes: chocolate | chocolates | choclate (cost), molds (location), ingredients (location), 
+Step: Melt the chocolate bars in the microwave until you have no lumps left after stirring.
+Entities and attributes: chocolate | chocolates | choclate (texture | form | location | locatio,temperature), microwave (power), chocolate bars (location), spoon (cleanness), 
+Step: Pour the melted chocolate into the heart shaped molds.
+Entities and attributes: chocolate | chocolates | choclate (texture | form | location | locatio), molds | mold (container | volume,fullness,cleanness,temperature,weight), 
+Step: Put the chocolate into the freezer until hardened.
+Entities and attributes: chocolate | chocolates | choclate (texture | form | location | locatio,hardness,temperature,ease of release), molds | mold (temperature), 
+Step: Leave them out for one minute and pop out of molds, Or, cut heart shapes in the tray.
+Entities and attributes: chocolate | chocolates | choclate (texture | form | location | locatio,shape), molds | mold (fullness,weight), 
+Step: Enjoy then and there, or box them up and give away!
+Entities and attributes: chocolate | chocolates | choclate (texture | form | location | locatio), 
+
+A person's goal is to make soap bubbles for your children.
+For each of the steps, what are the involved entities and attributes? 
+Step: Mix soap and water.
+Entities and attributes: mixing jar (moisture,weight), soap | water (location,composition), mixture (location), water surface (composition), bowl (fullness), 
+Step: Enhance your bubble solution.
+Entities and attributes: 
+Step: Make a little bubble wand.
+Entities and attributes: wire (shape), 
+Step: Make a giant bubble wand.
+Entities and attributes: coat hanger (shape), hanger (use), wire (shape), 
+Step: First go outside, since bubbles look most beautiful when the sun shines through their iridescent swirls.
+Entities and attributes: bubbles | bubble solution (location), person (location), bubble want (location), 
+Step: Make giant bubbles.
+Entities and attributes: bubbles | bubble solution (location), bubble want (wetness), 
+
+A person's goal is to clean your home efficiently.
+For each of the steps, what are the involved entities and attributes? 
+Step: ######Pick up and put away stray items and throw trash into waste baskets.
+Entities and attributes: waste basket | waste baskets (container | volume | mass), rooms (messiness | cleanness), trash (location), straw items (location), items (location,messiness), 
+Step: ######Dust, again going through the entire house room by room.
+Entities and attributes: rooms (messiness | cleanness), house | duster (cleanness), surfaces | glass surfaces (cleanness), dust (location), 
+Step: ######Take a large trash bag and go through each room emptying the waste baskets and trash cans.
+Entities and attributes: waste basket | waste baskets (container | volume | mass), trash cans (container | volume), trash (location), trash bag | trash bags (container | mass,weight,shape), 
+Step: ######Use a spray cleaner and rags or paper towels to clean any glass surfaces, including the TV screens.
+Entities and attributes: surfaces | glass surfaces (cleanness,wetness), spray cleaner (location), 
+Step: First pick up any throw rugs and inside door mats and shake them outside.
+Entities and attributes: throw rugs and inside door mats | rugs (cleanness), throw rugs | door mats (cleanness), mats (cleanness), dust (location), 
+Step: ######Enjoy your clean home!
+Entities and attributes: house | duster (cleanness), 
+
+A person's goal is to make your den look like a home on animal jam (non members).
+For each of the steps, what are the involved entities and attributes? 
+Step: Get lots of gems.
+Entities and attributes: gems (availability), 
+Step: for a family home you will need quite a lot of stuff.
+Entities and attributes: stuff (location), 
+Step: Try to get room shoji screens so you can section things off into smaller rooms.
+Entities and attributes: screens (location), 
+Step: If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.
+Entities and attributes: master bedroom | living room | living/dining room (availability), kids room (availability), 
+Step: Make an outside area.
+Entities and attributes: outside area (availability | step), 
+Step: Keep your family safe.
+Entities and attributes: 
+
+A person's goal is to make a pitcher of melon pina coladas.
+For each of the steps, what are the involved entities and attributes? 
+Step: Pour the ingredients (except the garnish) into a pitcher that can hold 100 ounces.
+Entities and attributes: pitcher (container | volume,wetness,cleanness,weight), ingredients (location), rum (locaion), 
+Step: Ensure everything is mixed thoroughly.
+Entities and attributes: ingredients (composition), mixing spoon (cleanness), spoon (location,wetness), rum and coconut (composition), 
+Step: Allow the mixture to chill in the refrigerator until ready to serve.
+Entities and attributes: refrigerator (weight,fullness), mixture | liquid (location,temperature), 
+Step: Pour the mixture into tall glasses.
+Entities and attributes: pitcher (container | volume,weight,cleanness), glass | tall glasses (cleanness,wetness,weight), mixture | liquid (location), 
+Step: Add a chunk of honeydew melon on the side of each glass.
+Entities and attributes: side of each glass (cleanness), glass | tall glasses (taste,weight), honeydew (shape,size,location), honeydew melon (location), glasses (decoration), 
+Step: Finished.
+Entities and attributes: task (completion), 
+
+A person's goal is to make pineapple sherbet.
+For each of the steps, what are the involved entities and attributes? 
+Step: Blend the pineapple if it's fresh.
+Entities and attributes: the blender (volume | weight,cleanness), pineapple (size,location,shape), the pineapple (location,temperature), blender (wetness | cleanness,container | smell), 
+Step: Pour in the milk, oil, sugar or syrup and extract.
+Entities and attributes: the milk | milk | the oil | oil (location | container,location), the extract | extract (location), the blender (volume | weight), the sugar or syrup | sugar (location,wetness), blender (weight), 
+Step: Blend all of the ingredients together until smooth.
+Entities and attributes: the ingredients | mixture (composition,temperature,texture), contents of blender (composition), blender (power), blender blades (movement), ingredients (texture), 
+Step: Pour into a baking dish with decent sides.
+Entities and attributes: the blender (volume | weight), the baking dish | baking dish (volume | container,weight,cleanness,wetness), sherbet | the mixture | mixture (location | container), blender (container | smell), 
+Step: Place in the freezer.
+Entities and attributes: the baking dish | baking dish (temperature,location | inside a freezer,temperature), the refrigerator | freezer (volume | weight,weight), the wax paper (location), sherbet | the mixture | mixture (location | container,temperature), the mixture | mixture (temperature), 
+Step: To serve: Simply scoop or cut out pieces of the sherbet.
+Entities and attributes: the baking dish | baking dish (volume | container,weight,location | inside a freezer), scoop (wetness | cleanness), the sherbet (location), the plate (weight,cleanness), sherbet | the mixture | mixture (size,shape), 
+
+A person's goal is to make a pancake mix container from a recycled ketchup bottle.
+For each of the steps, what are the involved entities and attributes? 
+Step: Scrub the ketchup bottle thoroughly.
+Entities and attributes: ketchup bottle (cleanness,wetness), bottle | lid (cleanness | wetness), sink (wetness), scrubber (cleanness), faucet (power), hands (wetness), 
+Step: Place the funnel over the mouth of the bottle.
+Entities and attributes: funnel (location), 
+Step: Pour pancake batter through the funnel into the empty ketchup bottle.
+Entities and attributes: batter | pancake batter (container | location), funnel (cleanness,wetness), bottle | lid (cleanness | wetness,weight,emptiness), bowl (emptiness), 
+Step: Replace the lid and label the bottle.
+Entities and attributes: bottle | lid (orientation | location,clarity), pen (location), 
+Step: Place the bottle in refrigerator.
+Entities and attributes: batter | pancake batter (temperature), bottle | lid (location,temperature), fridge (volume), 
+Step: Finished.
+Entities and attributes: batter | pancake batter (container | location), pan (cleanness,emptiness), 
+
+A person's goal is to remove paint from windows.
+For each of the steps, what are the involved entities and attributes? 
+Step: You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.
+Entities and attributes: soap bottle (fullness | weight), soap (location), bucket (temperature,moisture | wetness,weight,fullness), water and dish soap (mixture), items needed (location), 
+Step: Wet the window with the water and dish soap.
+Entities and attributes: window | water and dish soap on window (wetness | moisture | composition | compostion,temperature), paint (moisture), sponge (moisture,location), bucket (weight,fullness), water and dish soap (location), 
+Step: Position the razor blade.
+Entities and attributes: razor blade package (openness | composition), blade (location), razor blade (location,position,contact), 
+Step: Using slow, smooth motions, start scraping the paint from the window.
+Entities and attributes: window | water and dish soap on window (cleanness,transparency | covering,weight), paint (power,location | cleanness,wholeness), blade (sharpness), razor blade (cleanness), 
+Step: Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.
+Entities and attributes: window | water and dish soap on window (wetness | moisture | composition | compostion,cleanness), glass cleaner bottle (weight | fullness), paint (location | cleanness), glass cleaner (location), all of the paint (location,wholeness), cloth (wetness | cleanness), 
+Step: Remove small paint splatters with chemical solvents.
+Entities and attributes: window | water and dish soap on window (transparency | covering,cleanness), solvent container (fullness | weight), chemicals (location), splatters (color), solvent | chemical solvents (location), sponge (cleanness), small paint splatters (location), paint splatter (texture), 
+
+A person's goal is to use a mic in team fortress 2.
+For each of the steps, what are the involved entities and attributes? 
+Step: Make sure that your microphone is working and connected first.
+Entities and attributes: microphone (connection,electric conductivity,availability,operation), audio options (selection), 
+Step: Find various panels at the top like "Multiplayer", "Mouse", "Audio", etc.
+Entities and attributes: panels | panel (visibility | knowledge), menu options (availability), 
+Step: Click on the Voice panel.
+Entities and attributes: panels | panel (visibility | knowledge), voice panel (availability), 
+Step: Start talking with other players using your microphone!
+Entities and attributes: microphone (connection), communication (availability), voice (sound), person (volume), 
+Step: Use the microphone to communicate with your team in a more efficient manner and demand that your voice is heard!
+Entities and attributes: microphone (availability), communication (stability), voice (sound), 
+Step: Advise teammates as well as make game plans to help and support your team.
+Entities and attributes: game plans (availability), team (stability), advice (ownership), 
+
+A person's goal is to make chinese macaroni in just 20 minutes.
+For each of the steps, what are the involved entities and attributes? 
+Step: Boil macaroni in hot boiling water with some salt and oil for 10-15 minutes.
+Entities and attributes: macaroni (location,cooking | thermal conductivity,taste | odor | color,temperature,texture), oil (location), salt and oil | oil/water/pasta/salt (mixture | composition), water (temperature), saucepan (location), stove burner (power), salt (location), boiling pot (fullness,temperature), 
+Step: After the macaroni has boiled put under running water for about 15 seconds to prevent over cooking.
+Entities and attributes: macaroni (temperature,texture), water (location), strainer (volume,location,cleanness,wetness), the time (time), sink (wetness), sun (location), you (age), 
+Step: In another pan add some oil and toss in the macaroni.
+Entities and attributes: macaroni (location,temperature,oiliness,speed), oil (temperature,location), pan | stirring tool (cleanness,weight,fullness), oil/macaroni (composition), spatula (location), 
+Step: Add salt, red chilli powder ,soy sauce,white vinegar and ajino moto.
+Entities and attributes: macaroni (taste | odor | color), pan | stirring tool (fullness), red chilli powder (location), white vinegar (location), ajino moto (location), soy sauce (location), flavorings macaroni (composition), salt (location), ingredients (mixture), 
+Step: Cook for some seconds.
+Entities and attributes: macaroni (cooking | thermal conductivity,time), pan | stirring tool (temperature,cleanness), food (mixture,temperature), sun (location), mixture (temperature), you (age), 
+Step: Serve hot with chilled drinks.
+Entities and attributes: macaroni (location,temperature), drinking glass | drinks (location), chilled drinks (location), serving dish (cleanness,fullness), fork (cleanness), plate (location), task (completion), food (location,completion), 
+
+A person's goal is to make a bead ring.
+For each of the steps, what are the involved entities and attributes? 
+Step: Cut a strip of elastic.
+Entities and attributes: the strip of elastic (length | weight,shape), elastic (length,size,location), 
+Step: Slip two larger beads at either side of the small bead.
+Entities and attributes: the beads | beads | the bead | bead (location,organization,shape), the strip of elastic (length | weight,color), elastic (weight), 
+Step: Slip a small bead on one tail.
+Entities and attributes: the beads | beads | the bead | bead (location), the strip of elastic (length | weight,color), tail | tails (orientation), small bead (location), 
+Step: Continue this pattern until you have enough beads to fit around the finger.
+Entities and attributes: the beads | beads | the bead | bead (location,composition), the strip of elastic (length | weight,color), elastic (shape), 
+Step: Finish the ring by slipping the loose tails through the first small bead you placed on the elastic.
+Entities and attributes: the beads | beads | the bead | bead (shape), elastic ends (orientation), tail | tails (orientation), 
+Step: Finished.
+Entities and attributes: you (focus), 
+
+A person's goal is to recycle underpants.
+For each of the steps, what are the involved entities and attributes? 
+Step: Turn the underpants into cleaning rags.
+Entities and attributes: underpants | floor (newness,cleanness,cleanness,location,use | shape | composition), 
+Step: Use the underwear as garden ties.
+Entities and attributes: underwear | underwears (newness,location,size,use | shape), underpants | floor (size), plants (form), garden plants (decoration), scissors (location), 
+Step: Turn quality undies into craft items.
+Entities and attributes: underwear | underwears (newness,location,size), underpants | floor (size), underwear strips (shape), scissors (location), quality undies (use), 
+Step: Use a bundle of old underwear as stuffing.
+Entities and attributes: underwear | underwears (newness,location), underpants | floor (use | shape | composition), bundle of old underwear (use), pillow case (location,content), 
+Step: Children can wear old underwear on the outside of their pants to play superhero.
+Entities and attributes: underwear | underwears (newness,location,use | shape), child (look), pants (covering), 
+Step: Donate the underpants.
+Entities and attributes: underpants | floor (newness,location,ownership | availability), donation box (location), 
+
+

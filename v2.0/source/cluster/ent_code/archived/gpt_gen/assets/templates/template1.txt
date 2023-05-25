@@ -1,0 +1,5 @@
+Goal: {goal}
+Steps: {steps}
+Object state: {openpi_template}
+
+Based on the goal and the steps, give me some alternative ways to describe the object state:
