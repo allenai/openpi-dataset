@@ -1,6 +1,8 @@
-# Openpi-dataset
+# OpenPI: Open-Domain Procedural Inference
 OpenPI dataset for tracking entities in open domain procedural text
-(EMNLP 2020)
+(EMNLP 2020).
+
+For [OpenPI2.0](https://arxiv.org/pdf/2305.14603.pdf), go to [v2.0](/v2.0).
 
 ![Openpi Task](data/figs/figure-introduction.png)
 
