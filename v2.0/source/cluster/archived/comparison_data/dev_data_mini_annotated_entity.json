@@ -1,0 +1,603 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": [
+            "Purchase a blackboard eraser.",
+            "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+            "Use the eraser to clean the inner side of the windshield.",
+            "Replace after use."
+        ],
+        "entities": [
+            [
+                "the blackboard eraser",
+                "eraser"
+            ],
+            [
+                "glovebox",
+                "glvoe box"
+            ],
+            [
+                "eraser shelf at the store"
+            ],
+            [
+                "windshield"
+            ],
+            [
+                "inside windshield"
+            ],
+            [
+                "bank account",
+                "money"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "the blackboard eraser",
+            "eraser",
+            "glovebox",
+            "eraser shelf at the store",
+            "windshield",
+            "inside windshield",
+            "bank account",
+            "glove box",
+            "money",
+            "hands"
+        ]
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": [
+            "Bend one pipe cleaner in half to form the legs.",
+            "Shape another pipe cleaner to form the body.",
+            "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+            "Use 2 pipe cleaners to enlarge the torso."
+        ],
+        "entities": [
+            [
+                "tip of pipe cleaner"
+            ],
+            [
+                "pipe cleaner",
+                "pipe cleaners"
+            ],
+            [
+                "your fingers"
+            ],
+            [
+                "the torso"
+            ]
+        ],
+        "entities_flattened": [
+            "tip of pipe cleaner",
+            "pipe cleaner",
+            "pipe cleaners",
+            "your fingers",
+            "the torso"
+        ]
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": [
+            "Plug in your HDMI cord to the cable.",
+            "Plug it into your TV's HDMI input.",
+            "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+            "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+        ],
+        "entities": [
+            [
+                "hdmi cord",
+                "hdmi converter cable",
+                "the hdmi cord",
+                "cord",
+                "the cord",
+                "the hdmi"
+            ],
+            [
+                "wii's av composite output"
+            ],
+            [
+                "tv's hdmi input"
+            ],
+            [
+                "converter"
+            ],
+            [
+                "tv"
+            ],
+            [
+                "plug"
+            ],
+            [
+                "wii"
+            ]
+        ],
+        "entities_flattened": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "wii's av composite output",
+            "cord",
+            "tv's hdmi input",
+            "converter",
+            "tv",
+            "plug",
+            "wii",
+            "the hdmi",
+            "the cord"
+        ]
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entities": [
+            [
+                "the pruning shears",
+                "pruning shears"
+            ],
+            [
+                "the clipping",
+                "clipping"
+            ],
+            [
+                "hole in ground"
+            ],
+            [
+                "the rose bush",
+                "rose bush"
+            ],
+            [
+                "the shovel"
+            ],
+            [
+                "cutting",
+                "the cutting"
+            ],
+            [
+                "ground"
+            ],
+            [
+                "rooting hormone"
+            ],
+            [
+                "yard",
+                "area"
+            ],
+            [
+                "pot"
+            ],
+            [
+                "water"
+            ],
+            [
+                "roots"
+            ],
+            [
+                "soil"
+            ]
+        ],
+        "entities_flattened": [
+            "the pruning shears",
+            "pruning shears",
+            "the clipping",
+            "clipping",
+            "hole in ground",
+            "the rose bush",
+            "the shovel",
+            "cutting",
+            "ground",
+            "rose bush",
+            "rooting hormone",
+            "yard",
+            "area",
+            "pot",
+            "the cutting",
+            "water",
+            "roots",
+            "soil"
+        ]
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": [
+            "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+            "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+            "Continue rubbing until the black mark lifts.",
+            "Wash and dry as usual."
+        ],
+        "entities": [
+            [
+                "eraser"
+            ],
+            [
+                "floor",
+                "lineoleum"
+            ],
+            [
+                "skid mark"
+            ],
+            [
+                "hands"
+            ],
+            [
+                "hand muscles"
+            ],
+            [
+                "body",
+                "person",
+                "you"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "entities_flattened": [
+            "eraser",
+            "floor",
+            "lineoleum",
+            "linoleum",
+            "skid mark",
+            "hands",
+            "hand muscles",
+            "body",
+            "person",
+            "you",
+            "water"
+        ]
+    },
+    "22": {
+        "goal": "Get on a Bike",
+        "steps": [
+            "To get on the bike, swing your non-dominant leg over the shaft of the bike.",
+            "Put your dominant foot on the pedal.",
+            "Hold on to the handlebars for support and to keep the bike straight.",
+            "Keeping your weight center and even, pedal with your feet.",
+            "Stopping."
+        ],
+        "entities": [
+            [
+                "your weight",
+                "weight"
+            ],
+            [
+                "ability to identify non-dominant leg"
+            ],
+            [
+                "ability to identify dominant foot"
+            ],
+            [
+                "foot",
+                "feet",
+                "your foot",
+                "both feet"
+            ],
+            [
+                "dominant foot"
+            ],
+            [
+                "the tires"
+            ],
+            [
+                "the chain"
+            ],
+            [
+                "ability to identify bike shaft"
+            ],
+            [
+                "ability to identify handlebars"
+            ],
+            [
+                "ability to ride a bike"
+            ],
+            [
+                "you"
+            ],
+            [
+                "hands"
+            ],
+            [
+                "bike",
+                "bicycle"
+            ],
+            [
+                "non-dominant foot"
+            ],
+            [
+                "center of gravity"
+            ],
+            [
+                "pedals"
+            ],
+            [
+                "grip on bike"
+            ],
+            [
+                "handbrakes"
+            ],
+            [
+                "speed"
+            ]
+        ],
+        "entities_flattened": [
+            "your weight",
+            "ability to identify non-dominant leg",
+            "ability to identify dominant foot",
+            "weight",
+            "foot",
+            "dominant foot",
+            "feet",
+            "your foot",
+            "both feet",
+            "the tires",
+            "the chain",
+            "ability to identify bike shaft",
+            "ability to identify handlebars",
+            "ability to ride a bike",
+            "you",
+            "hands",
+            "bike",
+            "bicycle",
+            "bicycle",
+            "non-dominant foot",
+            "center of gravity",
+            "pedals",
+            "grip on bike",
+            "handbrakes",
+            "speed"
+        ]
+    },
+    "24": {
+        "goal": "Make a Banana Strawberry Rum Smoothie",
+        "steps": [
+            "Place the yogurt, bananas, and sorbet in a blender.",
+            "Blend the mixture until it's smooth in texture.",
+            "Pour the rum in and quickly blend again.",
+            "Pour the smoothie into chilled glasses.",
+            "Garnish each glass with a strawberry."
+        ],
+        "entities": [
+            [
+                "rum",
+                "liquid"
+            ],
+            [
+                "strawberry"
+            ],
+            [
+                "smoothie",
+                "mixture",
+                "ingredients"
+            ],
+            [
+                "blender"
+            ],
+            [
+                "glasses",
+                "glass"
+            ],
+            [
+                "sorber",
+                "fruit and sorbet",
+                "sorbet"
+            ],
+            [
+                "glass"
+            ],
+            [
+                "yogurt"
+            ],
+            [
+                "bottle"
+            ],
+            [
+                "banana",
+                "bananas"
+            ],
+            [
+                "fruit"
+            ],
+            [
+                "items"
+            ]
+        ],
+        "entities_flattened": [
+            "rum",
+            "strawberry",
+            "smoothie",
+            "mixture",
+            "ingredients",
+            "blender",
+            "glasses",
+            "glass",
+            "sorber",
+            "fruit and sorbet",
+            "sorbet",
+            "glass",
+            "yogurt",
+            "ingredients",
+            "bottle",
+            "banana",
+            "bananas",
+            "fruit",
+            "items",
+            "liquid"
+        ]
+    },
+    "28": {
+        "goal": "Open a Rusty Bolt",
+        "steps": [
+            "Obtain some fizzy drink.",
+            "Pour the fizzy drink over the bolt.",
+            "Wipe it clean with kitchen towel.",
+            "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.",
+            "Replace the rusty bolt."
+        ],
+        "entities": [
+            [
+                "kitchen towel",
+                "towel"
+            ],
+            [
+                "bolt"
+            ],
+            [
+                "assembly"
+            ],
+            [
+                "new bolt",
+                "old bolt"
+            ],
+            [
+                "rust"
+            ],
+            [
+                "bottle"
+            ],
+            [
+                "wrench"
+            ],
+            [
+                "soda",
+                "fizzy drink",
+                "drink"
+            ],
+            [
+                "cup"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "kitchen towel",
+            "towel",
+            "drink",
+            "bolt",
+            "assembly",
+            "new bolt",
+            "old bolt",
+            "rust",
+            "bottle",
+            "wrench",
+            "soda",
+            "cup",
+            "fizzy drink",
+            "towel",
+            "hands"
+        ]
+    },
+    "47": {
+        "goal": "Make Your Den Look Like a Home on Animal Jam (Non Members)",
+        "steps": [
+            "Get lots of gems.",
+            "for a family home you will need quite a lot of stuff.",
+            "Try to get room shoji screens so you can section things off into smaller rooms.",
+            "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.",
+            "Make an outside area.",
+            "Keep your family safe."
+        ],
+        "entities": [
+            [
+                "screens"
+            ],
+            [
+                "master bedroom"
+            ],
+            [
+                "living room",
+                "living/dining room"
+            ],
+            [
+                "stuff"
+            ],
+            [
+                "gems"
+            ],
+            [
+                "outside area"
+            ],
+            [
+                "kids room"
+            ]
+        ],
+        "entities_flattened": [
+            "screens",
+            "master bedroom",
+            "living room",
+            "living/dining room",
+            "stuff",
+            "gems",
+            "outside area",
+            "kids room"
+        ]
+    },
+    "55": {
+        "goal": "Recycle Underpants",
+        "steps": [
+            "Turn the underpants into cleaning rags.",
+            "Use the underwear as garden ties.",
+            "Turn quality undies into craft items.",
+            "Use a bundle of old underwear as stuffing.",
+            "Children can wear old underwear on the outside of their pants to play superhero.",
+            "Donate the underpants."
+        ],
+        "entities": [
+            [
+                "underwear",
+                "underwears",
+                "bundle of old underwear",
+                "quality undies",
+                "underpants"
+            ],
+            [
+                "floor"
+            ],
+            [
+                "underwear strips"
+            ],
+            [
+                "plants"
+            ],
+            [
+                "garden plants"
+            ],
+            [
+                "donation box"
+            ],
+            [
+                "pillow case"
+            ],
+            [
+                "scissors"
+            ],
+            [
+                "child"
+            ],
+            [
+                "pants"
+            ]
+        ],
+        "entities_flattened": [
+            "underwear",
+            "underwears",
+            "underpants",
+            "floor",
+            "underwear strips",
+            "bundle of old underwear",
+            "plants",
+            "garden plants",
+            "donation box",
+            "pillow case",
+            "scissors",
+            "quality undies",
+            "child",
+            "pants"
+        ]
+    }
+}

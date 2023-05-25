@@ -1,0 +1,91 @@
+[
+    {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": [
+            "Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.",
+            "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.",
+            "Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.",
+            "BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one."
+        ],
+        "entity_state": [
+            {
+                "entity": "weapon",
+                "openpi_narrative": [
+                    "The location of weapon is still before and focused afterwards.",
+                    "The location of weapon is unfired before and fired afterwards."
+                ]
+            },
+            {
+                "entity": "you",
+                "openpi_narrative": [
+                    "The shape of you is unaware of shape of aim on shotgun before and aware of shape of aim on shotgun afterwards.",
+                    "The knowledge of you is unaware of how many shots is needed for a pistol head shot before and needed for a pistol head shot afterwards.",
+                    "The knowledge of you is unaware of odds of boomshot headshot before and aware of odds of boomshot headshot afterwards."
+                ]
+            }
+        ]
+    },
+    {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entity_state": [
+            {
+                "entity": "the clipping",
+                "openpi_narrative": [
+                    "The location of the clipping is attached before and removed afterwards.",
+                    "The composition of the clipping is pure before and dipped into rooting hormone afterwards."
+                ]
+            },
+            {
+                "entity": "hole in ground",
+                "openpi_narrative": [
+                    "The container of hole in ground is empty before and filled afterwards."
+                ]
+            },
+            {
+                "entity": "cutting",
+                "openpi_narrative": [
+                    "The location of cutting is attached before and cut afterwards.",
+                    "The location of cutting is attached before and removed afterwards.",
+                    "The location of cutting is attached before and removed afterwards."
+                ]
+            },
+            {
+                "entity": "ground",
+                "openpi_narrative": [
+                    "The volume of ground is filled before and empty afterwards."
+                ]
+            },
+            {
+                "entity": "rose bush",
+                "openpi_narrative": [
+                    "The shape of rose bush is fuller before and thinner afterwards."
+                ]
+            },
+            {
+                "entity": "yard",
+                "openpi_narrative": [
+                    "The readiness of yard is unprepared before and prepared afterwards."
+                ]
+            },
+            {
+                "entity": "area",
+                "openpi_narrative": [
+                    "The readiness of area is bare before and prepared for planting afterwards."
+                ]
+            },
+            {
+                "entity": "pot",
+                "openpi_narrative": [
+                    "The volume of pot is empty before and full afterwards.",
+                    "The volume of pot is empty before and full afterwards."
+                ]
+            }
+        ]
+    }
+]

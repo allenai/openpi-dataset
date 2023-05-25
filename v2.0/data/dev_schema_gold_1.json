@@ -1,0 +1,5759 @@
+{
+    "1": [
+        [
+            [
+                "ownership of eraser",
+                "possession of eraser",
+                "ownership of the blackboard eraser",
+                "possession of the blackboard eraser",
+                "placement of eraser",
+                "location of eraser",
+                "placement of the blackboard eraser",
+                "location of the blackboard eraser"
+            ],
+            [
+                "fullness of eraser shelf at the store",
+                "fullness of bank account",
+                "fullness of money",
+                "location of eraser shelf at the store",
+                "location of bank account",
+                "location of money"
+            ]
+        ],
+        [
+            [
+                "placement of eraser",
+                "location of eraser",
+                "placement of the blackboard eraser",
+                "location of the blackboard eraser"
+            ],
+            [
+                "location of glove box",
+                "location of glovebox",
+                "fullness of glove box",
+                "fullness of glovebox"
+            ]
+        ],
+        [
+            [
+                "condition of eraser",
+                "cleanness of eraser",
+                "condition of the blackboard eraser",
+                "cleanness of the blackboard eraser",
+                "placement of eraser",
+                "location of eraser",
+                "placement of the blackboard eraser",
+                "location of the blackboard eraser",
+                "movement of eraser",
+                "movement of the blackboard eraser"
+            ],
+            [
+                "cleanness of inside windshield",
+                "cleanness of windshield"
+            ],
+            [
+                "activity of hands"
+            ]
+        ],
+        [
+            [
+                "placement of eraser",
+                "location of eraser",
+                "placement of the blackboard eraser",
+                "location of the blackboard eraser",
+                "movement of eraser",
+                "movement of the blackboard eraser"
+            ],
+            [
+                "activity of hands"
+            ]
+        ]
+    ],
+    "2": [
+        [
+            [
+                "composition of carob",
+                "composition of ingredients",
+                "location of carob",
+                "location of ingredients",
+                "mixed of carob",
+                "mixed of ingredients"
+            ],
+            [
+                "volume of mixing bowl",
+                "volume of bowl",
+                "weight of mixing bowl",
+                "weight of bowl",
+                "location of mixing bowl",
+                "location of bowl"
+            ],
+            [
+                "location of spoon",
+                "location of hand"
+            ]
+        ],
+        [
+            [
+                "composition of carob",
+                "composition of ingredients",
+                "shape of carob",
+                "shape of ingredients"
+            ],
+            [
+                "shape of dough pieces",
+                "size of dough pieces",
+                "shape of mixture",
+                "size of mixture",
+                "shape of dough",
+                "size of dough",
+                "location of dough pieces",
+                "location of mixture",
+                "location of dough",
+                "number of dough pieces",
+                "number of mixture",
+                "number of dough",
+                "density of dough pieces",
+                "density of mixture",
+                "density of dough"
+            ],
+            [
+                "weight of mixing bowl",
+                "weight of bowl"
+            ],
+            [
+                "fullness of spoon",
+                "fullness of hand",
+                "stickiness of spoon",
+                "stickiness of hand"
+            ]
+        ],
+        [
+            [
+                "location of balls",
+                "location of carob fruit balls",
+                "temperature of balls",
+                "temperature of carob fruit balls"
+            ],
+            [
+                "location of plate",
+                "container of plate"
+            ]
+        ],
+        [
+            [
+                "readiness of balls",
+                "readiness of carob fruit balls",
+                "location of balls",
+                "location of carob fruit balls",
+                "hardness of balls",
+                "hardness of carob fruit balls"
+            ]
+        ]
+    ],
+    "3": [
+        [
+            [
+                "position of the cookies",
+                "location of the cookies",
+                "position of biscuits",
+                "location of biscuits",
+                "position of the cookies and biscuits",
+                "location of the cookies and biscuits",
+                "position of cookies",
+                "location of cookies",
+                "placement of the cookies",
+                "placement of biscuits",
+                "placement of the cookies and biscuits",
+                "placement of cookies"
+            ],
+            [
+                "volume of the bowl",
+                "volume of container",
+                "weight of the bowl",
+                "weight of container",
+                "cleanness of the bowl",
+                "cleanness of container"
+            ],
+            [
+                "weight of tray"
+            ]
+        ],
+        [
+            [
+                "position of the cookies",
+                "location of the cookies",
+                "position of biscuits",
+                "location of biscuits",
+                "position of the cookies and biscuits",
+                "location of the cookies and biscuits",
+                "position of cookies",
+                "location of cookies",
+                "composition of the cookies",
+                "composition of biscuits",
+                "composition of the cookies and biscuits",
+                "composition of cookies",
+                "organization of the cookies",
+                "organization of biscuits",
+                "organization of the cookies and biscuits",
+                "organization of cookies"
+            ],
+            [
+                "placement of foil",
+                "placement of the aluminum foil",
+                "placement of freezer paper",
+                "placement of baking paper",
+                "placement of aluminum foil",
+                "location of foil",
+                "location of the aluminum foil",
+                "location of freezer paper",
+                "location of baking paper",
+                "location of aluminum foil",
+                "cleanness of foil",
+                "cleanness of the aluminum foil",
+                "cleanness of freezer paper",
+                "cleanness of baking paper",
+                "cleanness of aluminum foil",
+                "size of foil",
+                "size of the aluminum foil",
+                "size of freezer paper",
+                "size of baking paper",
+                "size of aluminum foil"
+            ]
+        ],
+        [
+            [
+                "position of the cookies",
+                "location of the cookies",
+                "position of biscuits",
+                "location of biscuits",
+                "position of the cookies and biscuits",
+                "location of the cookies and biscuits",
+                "position of cookies",
+                "location of cookies",
+                "flexibility of the cookies",
+                "flexibility of biscuits",
+                "flexibility of the cookies and biscuits",
+                "flexibility of cookies",
+                "temperature of the cookies",
+                "temperature of biscuits",
+                "temperature of the cookies and biscuits",
+                "temperature of cookies",
+                "texture of the cookies",
+                "texture of biscuits",
+                "texture of the cookies and biscuits",
+                "texture of cookies"
+            ],
+            [
+                "placement of the bowl",
+                "placement of container"
+            ],
+            [
+                "volume of freezer"
+            ]
+        ],
+        [
+            [
+                "placement of the cookies",
+                "placement of biscuits",
+                "placement of the cookies and biscuits",
+                "placement of cookies",
+                "flexibility of the cookies",
+                "flexibility of biscuits",
+                "flexibility of the cookies and biscuits",
+                "flexibility of cookies",
+                "temperature of the cookies",
+                "temperature of biscuits",
+                "temperature of the cookies and biscuits",
+                "temperature of cookies",
+                "texture of the cookies",
+                "texture of biscuits",
+                "texture of the cookies and biscuits",
+                "texture of cookies"
+            ],
+            [
+                "movement of foil",
+                "movement of the aluminum foil",
+                "movement of freezer paper",
+                "movement of baking paper",
+                "movement of aluminum foil"
+            ],
+            [
+                "volume of freezer"
+            ]
+        ]
+    ],
+    "4": [
+        [
+            [
+                "position of pipe cleaner",
+                "position of pipe cleaners",
+                "location of pipe cleaner",
+                "location of pipe cleaners"
+            ]
+        ],
+        [
+            [
+                "position of pipe cleaner",
+                "position of pipe cleaners",
+                "location of pipe cleaner",
+                "location of pipe cleaners"
+            ]
+        ],
+        [
+            [
+                "shape of your fingers",
+                "shape of tip of pipe cleaner",
+                "location of your fingers",
+                "location of tip of pipe cleaner"
+            ]
+        ],
+        [
+            [
+                "position of pipe cleaner",
+                "position of pipe cleaners",
+                "location of pipe cleaner",
+                "location of pipe cleaners"
+            ],
+            [
+                "width of the torso",
+                "weight of the torso"
+            ]
+        ]
+    ],
+    "5": [
+        [
+            [
+                "composition of the webbing"
+            ]
+        ],
+        [
+            [
+                "shape of the webbing",
+                "width of the webbing"
+            ]
+        ],
+        [
+            [
+                "shape of the webbing",
+                "width of the webbing"
+            ],
+            [
+                "connection of the ends"
+            ]
+        ],
+        [
+            [
+                "weight of the hat"
+            ],
+            [
+                "shape of the yarn",
+                "shape of the piece of yarn"
+            ]
+        ]
+    ],
+    "6": [
+        [
+            [
+                "location of gun",
+                "location of weapon"
+            ],
+            [
+                "knowledge of you"
+            ]
+        ],
+        [
+            [
+                "shape of you"
+            ]
+        ],
+        [
+            [
+                "knowledge of you"
+            ]
+        ],
+        [
+            [
+                "location of gun",
+                "location of weapon"
+            ],
+            [
+                "knowledge of you"
+            ]
+        ]
+    ],
+    "7": [
+        [
+            [
+                "organization of hdmi converter cable",
+                "organization of hdmi cord",
+                "organization of the hdmi",
+                "organization of the hdmi cord",
+                "connection of hdmi converter cable",
+                "connection of hdmi cord",
+                "connection of the hdmi",
+                "connection of the hdmi cord"
+            ],
+            [
+                "volume of the cord",
+                "volume of cord",
+                "volume of plug"
+            ]
+        ],
+        [
+            [
+                "power of hdmi converter cable",
+                "power of hdmi cord",
+                "power of the hdmi",
+                "power of the hdmi cord"
+            ],
+            [
+                "container of tv",
+                "container of tv's hdmi input"
+            ]
+        ],
+        [
+            [
+                "power of hdmi converter cable",
+                "power of hdmi cord",
+                "power of the hdmi",
+                "power of the hdmi cord"
+            ],
+            [
+                "container of wii's av composite output"
+            ],
+            [
+                "power of the cord",
+                "power of cord",
+                "power of plug"
+            ],
+            [
+                "connection of wii"
+            ]
+        ],
+        [
+            [
+                "organization of hdmi converter cable",
+                "organization of hdmi cord",
+                "organization of the hdmi",
+                "organization of the hdmi cord",
+                "attachment of hdmi converter cable",
+                "attachment of hdmi cord",
+                "attachment of the hdmi",
+                "attachment of the hdmi cord"
+            ],
+            [
+                "power of the cord",
+                "power of cord",
+                "power of plug"
+            ],
+            [
+                "power of tv",
+                "power of tv's hdmi input",
+                "attachment of tv",
+                "attachment of tv's hdmi input"
+            ],
+            [
+                "attachment of converter"
+            ]
+        ]
+    ],
+    "8": [
+        [
+            [
+                "length of hand muscles",
+                "thickness of hand muscles",
+                "width of hand muscles",
+                "size of hand muscles",
+                "length of height of towel",
+                "thickness of height of towel",
+                "width of height of towel",
+                "size of height of towel",
+                "length of towel",
+                "thickness of towel",
+                "width of towel",
+                "size of towel",
+                "length of hand",
+                "thickness of hand",
+                "width of hand",
+                "size of hand",
+                "length of closet",
+                "thickness of closet",
+                "width of closet",
+                "size of closet",
+                "length of towel rack",
+                "thickness of towel rack",
+                "width of towel rack",
+                "size of towel rack",
+                "length of final fold",
+                "thickness of final fold",
+                "width of final fold",
+                "size of final fold",
+                "length of the towels",
+                "thickness of the towels",
+                "width of the towels",
+                "size of the towels",
+                "shape of hand muscles",
+                "shape of height of towel",
+                "shape of towel",
+                "shape of hand",
+                "shape of closet",
+                "shape of towel rack",
+                "shape of final fold",
+                "shape of the towels",
+                "power of hand muscles",
+                "power of height of towel",
+                "power of towel",
+                "power of hand",
+                "power of closet",
+                "power of towel rack",
+                "power of final fold",
+                "power of the towels",
+                "emptiness of hand muscles",
+                "emptiness of height of towel",
+                "emptiness of towel",
+                "emptiness of hand",
+                "emptiness of closet",
+                "emptiness of towel rack",
+                "emptiness of final fold",
+                "emptiness of the towels"
+            ]
+        ],
+        [
+            [
+                "length of hand muscles",
+                "thickness of hand muscles",
+                "width of hand muscles",
+                "size of hand muscles",
+                "length of height of towel",
+                "thickness of height of towel",
+                "width of height of towel",
+                "size of height of towel",
+                "length of towel",
+                "thickness of towel",
+                "width of towel",
+                "size of towel",
+                "length of hand",
+                "thickness of hand",
+                "width of hand",
+                "size of hand",
+                "length of closet",
+                "thickness of closet",
+                "width of closet",
+                "size of closet",
+                "length of towel rack",
+                "thickness of towel rack",
+                "width of towel rack",
+                "size of towel rack",
+                "length of final fold",
+                "thickness of final fold",
+                "width of final fold",
+                "size of final fold",
+                "length of the towels",
+                "thickness of the towels",
+                "width of the towels",
+                "size of the towels",
+                "height of hand muscles",
+                "height of height of towel",
+                "height of towel",
+                "height of hand",
+                "height of closet",
+                "height of towel rack",
+                "height of final fold",
+                "height of the towels"
+            ]
+        ],
+        [
+            [
+                "location of hand muscles",
+                "location of height of towel",
+                "location of towel",
+                "location of hand",
+                "location of closet",
+                "location of towel rack",
+                "location of final fold",
+                "location of the towels",
+                "emptiness of hand muscles",
+                "emptiness of height of towel",
+                "emptiness of towel",
+                "emptiness of hand",
+                "emptiness of closet",
+                "emptiness of towel rack",
+                "emptiness of final fold",
+                "emptiness of the towels"
+            ]
+        ],
+        [
+            [
+                "location of hand muscles",
+                "location of height of towel",
+                "location of towel",
+                "location of hand",
+                "location of closet",
+                "location of towel rack",
+                "location of final fold",
+                "location of the towels",
+                "shape of hand muscles",
+                "shape of height of towel",
+                "shape of towel",
+                "shape of hand",
+                "shape of closet",
+                "shape of towel rack",
+                "shape of final fold",
+                "shape of the towels",
+                "openness of hand muscles",
+                "openness of height of towel",
+                "openness of towel",
+                "openness of hand",
+                "openness of closet",
+                "openness of towel rack",
+                "openness of final fold",
+                "openness of the towels",
+                "emptiness of hand muscles",
+                "emptiness of height of towel",
+                "emptiness of towel",
+                "emptiness of hand",
+                "emptiness of closet",
+                "emptiness of towel rack",
+                "emptiness of final fold",
+                "emptiness of the towels"
+            ]
+        ]
+    ],
+    "9": [
+        [
+            [
+                "knowledge of co-conspirators",
+                "knowledge of your spy group",
+                "forming of co-conspirators",
+                "forming of your spy group"
+            ]
+        ],
+        [
+            [
+                "location of you"
+            ]
+        ],
+        [
+            [
+                "availability of gear"
+            ],
+            [
+                "possession of you"
+            ]
+        ],
+        [
+            [
+                "knowledge of you"
+            ]
+        ]
+    ],
+    "10": [
+        [
+            [
+                "knowledge of you"
+            ]
+        ],
+        [
+            [
+                "knowledge of you"
+            ],
+            [
+                "location of weapons",
+                "location of molotov cocktails",
+                "location of grenades"
+            ]
+        ],
+        [
+            [
+                "knowledge of you"
+            ],
+            [
+                "count of enough ammo"
+            ]
+        ],
+        [
+            [
+                "step of zombies"
+            ],
+            [
+                "location of weapons",
+                "location of molotov cocktails",
+                "location of grenades"
+            ]
+        ]
+    ],
+    "11": [
+        [
+            [
+                "composition of rhubarb",
+                "temperature of rhubarb",
+                "wetness of rhubarb"
+            ],
+            [
+                "volume of stove",
+                "volume of pot"
+            ],
+            [
+                "temperature of sugar",
+                "temperature of cloves",
+                "wetness of sugar",
+                "wetness of cloves"
+            ],
+            [
+                "temperature of water"
+            ]
+        ],
+        [
+            [
+                "consistency of rhubarb",
+                "texture of rhubarb"
+            ]
+        ],
+        [
+            [
+                "temperature of rhubarb"
+            ],
+            [
+                "location of stove",
+                "location of pot"
+            ],
+            [
+                "temperature of sugar",
+                "temperature of cloves",
+                "location of sugar",
+                "location of cloves"
+            ],
+            [
+                "temperature of water"
+            ]
+        ],
+        [
+            [
+                "appearance of rhubarb"
+            ],
+            [
+                "composition of cordial",
+                "composition of rhubarb cordial"
+            ],
+            [
+                "location of mint leaves"
+            ]
+        ]
+    ],
+    "12": [
+        [
+            [
+                "knowledge of player",
+                "knowledge of players",
+                "knowledge of you"
+            ],
+            [
+                "availability of character",
+                "availability of goku",
+                "availability of companion",
+                "availability of player two"
+            ],
+            [
+                "option of vs duel",
+                "option of mode",
+                "population of vs duel",
+                "population of mode"
+            ]
+        ],
+        [
+            [
+                "knowledge of player",
+                "knowledge of players",
+                "knowledge of you"
+            ],
+            [
+                "availability of character",
+                "availability of goku",
+                "availability of companion",
+                "availability of player two",
+                "count of character",
+                "count of goku",
+                "count of companion",
+                "count of player two",
+                "knowledge of character",
+                "knowledge of goku",
+                "knowledge of companion",
+                "knowledge of player two"
+            ]
+        ],
+        [
+            [
+                "location of stage"
+            ]
+        ],
+        [
+            [
+                "location of player",
+                "location of players",
+                "location of you",
+                "division of player",
+                "division of players",
+                "division of you"
+            ],
+            [
+                "location of character",
+                "location of goku",
+                "location of companion",
+                "location of player two"
+            ]
+        ]
+    ],
+    "13": [
+        [
+            [
+                "composition of the ingredients",
+                "composition of ingredients",
+                "composition of mixture ingredients"
+            ],
+            [
+                "location of liquid",
+                "location of mixture",
+                "location of the mixture",
+                "location of water",
+                "location of cocoa mixture",
+                "location of cocoa powder",
+                "availability of liquid",
+                "availability of mixture",
+                "availability of the mixture",
+                "availability of water",
+                "availability of cocoa mixture",
+                "availability of cocoa powder"
+            ],
+            [
+                "cleanness of whisk",
+                "cleanness of bowl",
+                "weight of whisk",
+                "weight of bowl",
+                "wetness of whisk",
+                "wetness of bowl"
+            ]
+        ],
+        [
+            [
+                "container of the ingredients",
+                "container of ingredients",
+                "container of mixture ingredients"
+            ],
+            [
+                "volume of the outside of the slow cooker",
+                "volume of the knob",
+                "volume of lid",
+                "volume of slow cooker",
+                "volume of the slow cooker",
+                "volume of cooker",
+                "wetness of the outside of the slow cooker",
+                "wetness of the knob",
+                "wetness of lid",
+                "wetness of slow cooker",
+                "wetness of the slow cooker",
+                "wetness of cooker",
+                "temperature of the outside of the slow cooker",
+                "temperature of the knob",
+                "temperature of lid",
+                "temperature of slow cooker",
+                "temperature of the slow cooker",
+                "temperature of cooker",
+                "cleanness of the outside of the slow cooker",
+                "cleanness of the knob",
+                "cleanness of lid",
+                "cleanness of slow cooker",
+                "cleanness of the slow cooker",
+                "cleanness of cooker",
+                "weight of the outside of the slow cooker",
+                "weight of the knob",
+                "weight of lid",
+                "weight of slow cooker",
+                "weight of the slow cooker",
+                "weight of cooker"
+            ],
+            [
+                "temperature of liquid",
+                "temperature of mixture",
+                "temperature of the mixture",
+                "temperature of water",
+                "temperature of cocoa mixture",
+                "temperature of cocoa powder"
+            ],
+            [
+                "location of whisk",
+                "location of bowl",
+                "weight of whisk",
+                "weight of bowl"
+            ]
+        ],
+        [
+            [
+                "temperature of the ingredients",
+                "temperature of ingredients",
+                "temperature of mixture ingredients"
+            ],
+            [
+                "temperature of the outside of the slow cooker",
+                "temperature of the knob",
+                "temperature of lid",
+                "temperature of slow cooker",
+                "temperature of the slow cooker",
+                "temperature of cooker",
+                "wetness of the outside of the slow cooker",
+                "wetness of the knob",
+                "wetness of lid",
+                "wetness of slow cooker",
+                "wetness of the slow cooker",
+                "wetness of cooker",
+                "power of the outside of the slow cooker",
+                "power of the knob",
+                "power of lid",
+                "power of slow cooker",
+                "power of the slow cooker",
+                "power of cooker",
+                "thermal conductivity of the outside of the slow cooker",
+                "thermal conductivity of the knob",
+                "thermal conductivity of lid",
+                "thermal conductivity of slow cooker",
+                "thermal conductivity of the slow cooker",
+                "thermal conductivity of cooker",
+                "location of the outside of the slow cooker",
+                "location of the knob",
+                "location of lid",
+                "location of slow cooker",
+                "location of the slow cooker",
+                "location of cooker"
+            ],
+            [
+                "temperature of liquid",
+                "temperature of mixture",
+                "temperature of the mixture",
+                "temperature of water",
+                "temperature of cocoa mixture",
+                "temperature of cocoa powder",
+                "sound of liquid",
+                "sound of mixture",
+                "sound of the mixture",
+                "sound of water",
+                "sound of cocoa mixture",
+                "sound of cocoa powder"
+            ],
+            [
+                "odor of smell"
+            ]
+        ],
+        [
+            [
+                "volume of the outside of the slow cooker",
+                "volume of the knob",
+                "volume of lid",
+                "volume of slow cooker",
+                "volume of the slow cooker",
+                "volume of cooker",
+                "weight of the outside of the slow cooker",
+                "weight of the knob",
+                "weight of lid",
+                "weight of slow cooker",
+                "weight of the slow cooker",
+                "weight of cooker",
+                "direction of the outside of the slow cooker",
+                "direction of the knob",
+                "direction of lid",
+                "direction of slow cooker",
+                "direction of the slow cooker",
+                "direction of cooker"
+            ],
+            [
+                "container of liquid",
+                "container of mixture",
+                "container of the mixture",
+                "container of water",
+                "container of cocoa mixture",
+                "container of cocoa powder"
+            ],
+            [
+                "wetness of mug",
+                "weight of mug",
+                "temperature of mug"
+            ]
+        ]
+    ],
+    "14": [
+        [
+            [
+                "location of the cutting",
+                "location of cutting",
+                "location of the clipping",
+                "location of clipping"
+            ],
+            [
+                "cleanness of the shovel"
+            ],
+            [
+                "volume of yard",
+                "volume of area",
+                "volume of ground",
+                "readiness of yard",
+                "readiness of area",
+                "readiness of ground"
+            ],
+            [
+                "volume of pot"
+            ],
+            [
+                "location of soil"
+            ]
+        ],
+        [
+            [
+                "wetness of the pruning shears",
+                "wetness of pruning shears",
+                "cleanness of the pruning shears",
+                "cleanness of pruning shears"
+            ],
+            [
+                "location of the cutting",
+                "location of cutting",
+                "location of the clipping",
+                "location of clipping"
+            ],
+            [
+                "weight of rose bush",
+                "weight of the rose bush",
+                "shape of rose bush",
+                "shape of the rose bush"
+            ],
+            [
+                "location of soil"
+            ]
+        ],
+        [
+            [
+                "moisture of the cutting",
+                "wetness of the cutting",
+                "moisture of cutting",
+                "wetness of cutting",
+                "moisture of the clipping",
+                "wetness of the clipping",
+                "moisture of clipping",
+                "wetness of clipping",
+                "location of the cutting",
+                "location of cutting",
+                "location of the clipping",
+                "location of clipping",
+                "composition of the cutting",
+                "composition of cutting",
+                "composition of the clipping",
+                "composition of clipping"
+            ],
+            [
+                "location of rooting hormone"
+            ],
+            [
+                "location of water"
+            ],
+            [
+                "moisture of roots"
+            ],
+            [
+                "moisture of soil"
+            ]
+        ],
+        [
+            [
+                "location of the cutting",
+                "location of cutting",
+                "location of the clipping",
+                "location of clipping"
+            ],
+            [
+                "container of hole in ground"
+            ],
+            [
+                "volume of pot"
+            ],
+            [
+                "location of soil"
+            ]
+        ]
+    ],
+    "15": [
+        [
+            [
+                "step of vulpix",
+                "availability of vulpix",
+                "ownership of vulpix"
+            ]
+        ],
+        [
+            [
+                "step of fire or ice stone",
+                "step of fire stone",
+                "availability of fire or ice stone",
+                "availability of fire stone"
+            ]
+        ],
+        [
+            [
+                "knowledge of the stone",
+                "choice of the stone",
+                "knowledge of stone",
+                "choice of stone",
+                "knowledge of the stone",
+                "knowledge of stone"
+            ],
+            [
+                "step of bag"
+            ]
+        ],
+        []
+    ],
+    "16": [
+        [
+            [
+                "size of lemon",
+                "size of cutting board",
+                "size of knife",
+                "moisture of lemon",
+                "moisture of cutting board",
+                "moisture of knife",
+                "cleanness of lemon",
+                "cleanness of cutting board",
+                "cleanness of knife"
+            ],
+            [
+                "location of juice",
+                "location of lemon juice"
+            ]
+        ],
+        [
+            [
+                "moisture of lemon",
+                "moisture of cutting board",
+                "moisture of knife",
+                "size of lemon",
+                "size of cutting board",
+                "size of knife",
+                "weight of lemon",
+                "weight of cutting board",
+                "weight of knife"
+            ],
+            [
+                "location of juice",
+                "location of lemon juice"
+            ]
+        ],
+        [
+            [
+                "moisture of tap",
+                "dryness of tap",
+                "wetness of tap",
+                "moisture of faucet",
+                "dryness of faucet",
+                "wetness of faucet",
+                "moisture of facuets",
+                "dryness of facuets",
+                "wetness of facuets",
+                "moisture of faucets",
+                "dryness of faucets",
+                "wetness of faucets",
+                "odor of tap",
+                "odor of faucet",
+                "odor of facuets",
+                "odor of faucets"
+            ],
+            [
+                "size of lemon",
+                "size of cutting board",
+                "size of knife"
+            ],
+            [
+                "location of juice",
+                "location of lemon juice"
+            ]
+        ],
+        [
+            [
+                "cleanness of tap",
+                "cleanness of faucet",
+                "cleanness of facuets",
+                "cleanness of faucets",
+                "appearance of tap",
+                "appearance of faucet",
+                "appearance of facuets",
+                "appearance of faucets"
+            ],
+            [
+                "location of juice",
+                "location of lemon juice"
+            ],
+            [
+                "location of water"
+            ]
+        ]
+    ],
+    "17": [
+        [
+            [
+                "form of onion",
+                "form of liquids",
+                "form of spices",
+                "form of food",
+                "form of tomato",
+                "form of beef",
+                "form of ingredients",
+                "temperature of onion",
+                "temperature of liquids",
+                "temperature of spices",
+                "temperature of food",
+                "temperature of tomato",
+                "temperature of beef",
+                "temperature of ingredients",
+                "cooked or not of onion",
+                "cooked or not of liquids",
+                "cooked or not of spices",
+                "cooked or not of food",
+                "cooked or not of tomato",
+                "cooked or not of beef",
+                "cooked or not of ingredients"
+            ],
+            [
+                "location of sink",
+                "location of meat",
+                "location of grease c ontainer",
+                "volume of sink",
+                "volume of meat",
+                "volume of grease c ontainer",
+                "cleanness of sink",
+                "cleanness of meat",
+                "cleanness of grease c ontainer",
+                "how cooked of sink",
+                "cooked or not of sink",
+                "how cooked of meat",
+                "cooked or not of meat",
+                "how cooked of grease c ontainer",
+                "cooked or not of grease c ontainer",
+                "color of sink",
+                "color of meat",
+                "color of grease c ontainer"
+            ],
+            [
+                "cleanness of knife",
+                "cleanness of spatula"
+            ],
+            [
+                "temperature of frying pan",
+                "temperature of skillet",
+                "temperature of pan"
+            ],
+            [
+                "power of stove"
+            ]
+        ],
+        [
+            [
+                "moisture of onion",
+                "moisture of liquids",
+                "moisture of spices",
+                "moisture of food",
+                "moisture of tomato",
+                "moisture of beef",
+                "moisture of ingredients"
+            ],
+            [
+                "location of sink",
+                "location of meat",
+                "location of grease c ontainer",
+                "weight of sink",
+                "weight of meat",
+                "weight of grease c ontainer",
+                "how cooked of sink",
+                "cooked or not of sink",
+                "how cooked of meat",
+                "cooked or not of meat",
+                "how cooked of grease c ontainer",
+                "cooked or not of grease c ontainer",
+                "fullness of sink",
+                "fullness of meat",
+                "fullness of grease c ontainer",
+                "composition of sink",
+                "composition of meat",
+                "composition of grease c ontainer",
+                "cleanness of sink",
+                "cleanness of meat",
+                "cleanness of grease c ontainer",
+                "temperature of sink",
+                "temperature of meat",
+                "temperature of grease c ontainer"
+            ],
+            [
+                "weight of grease container"
+            ],
+            [
+                "location of grease",
+                "location of fat",
+                "temperature of grease",
+                "temperature of fat"
+            ]
+        ],
+        [
+            [
+                "form of onion",
+                "form of liquids",
+                "form of spices",
+                "form of food",
+                "form of tomato",
+                "form of beef",
+                "form of ingredients",
+                "location of onion",
+                "location of liquids",
+                "location of spices",
+                "location of food",
+                "location of tomato",
+                "location of beef",
+                "location of ingredients",
+                "temperature of onion",
+                "temperature of liquids",
+                "temperature of spices",
+                "temperature of food",
+                "temperature of tomato",
+                "temperature of beef",
+                "temperature of ingredients",
+                "cooked or not of onion",
+                "cooked or not of liquids",
+                "cooked or not of spices",
+                "cooked or not of food",
+                "cooked or not of tomato",
+                "cooked or not of beef",
+                "cooked or not of ingredients",
+                "movement of onion",
+                "movement of liquids",
+                "movement of spices",
+                "movement of food",
+                "movement of tomato",
+                "movement of beef",
+                "movement of ingredients"
+            ],
+            [
+                "weight of sink",
+                "weight of meat",
+                "weight of grease c ontainer",
+                "volume of sink",
+                "volume of meat",
+                "volume of grease c ontainer",
+                "how cooked of sink",
+                "cooked or not of sink",
+                "how cooked of meat",
+                "cooked or not of meat",
+                "how cooked of grease c ontainer",
+                "cooked or not of grease c ontainer"
+            ],
+            [
+                "cleanness of knife",
+                "cleanness of spatula"
+            ],
+            [
+                "fullness of frying pan",
+                "fullness of skillet",
+                "fullness of pan",
+                "weight of frying pan",
+                "weight of skillet",
+                "weight of pan",
+                "sound of frying pan",
+                "sound of skillet",
+                "sound of pan"
+            ]
+        ],
+        [
+            [
+                "location of onion",
+                "location of liquids",
+                "location of spices",
+                "location of food",
+                "location of tomato",
+                "location of beef",
+                "location of ingredients"
+            ],
+            [
+                "location of sink",
+                "location of meat",
+                "location of grease c ontainer"
+            ],
+            [
+                "cleanness of serving bowl",
+                "cleanness of bowl",
+                "weight of serving bowl",
+                "weight of bowl",
+                "fullness of serving bowl",
+                "fullness of bowl",
+                "temperature of serving bowl",
+                "temperature of bowl"
+            ],
+            [
+                "location of hot sauce",
+                "location of flavor",
+                "taste of hot sauce",
+                "taste of flavor"
+            ],
+            [
+                "location of cheese",
+                "form of cheese"
+            ],
+            [
+                "knowledge of recipe"
+            ],
+            [
+                "power of stove"
+            ]
+        ]
+    ],
+    "18": [
+        [
+            [
+                "location of eraser",
+                "cost of eraser"
+            ],
+            [
+                "power of hand muscles"
+            ]
+        ],
+        [
+            [
+                "location of eraser",
+                "size of eraser"
+            ],
+            [
+                "cleanness of floor",
+                "color of floor"
+            ],
+            [
+                "dampness of skid mark",
+                "location of skid mark"
+            ],
+            [
+                "motion of body",
+                "motion of person",
+                "motion of hands",
+                "motion of you",
+                "form of body",
+                "form of person",
+                "form of hands",
+                "form of you",
+                "position of body",
+                "location of body",
+                "position of person",
+                "location of person",
+                "position of hands",
+                "location of hands",
+                "position of you",
+                "location of you",
+                "orientation of body",
+                "orientation of person",
+                "orientation of hands",
+                "orientation of you"
+            ]
+        ],
+        [
+            [
+                "cleanness of floor",
+                "color of floor"
+            ],
+            [
+                "wetness of linoleum",
+                "cleanness of linoleum",
+                "wetness of lineoleum",
+                "cleanness of lineoleum"
+            ]
+        ],
+        [
+            [
+                "cleanness of floor",
+                "color of floor",
+                "moisture of floor",
+                "wetness of floor"
+            ],
+            [
+                "wetness of linoleum",
+                "cleanness of linoleum",
+                "wetness of lineoleum",
+                "cleanness of lineoleum"
+            ],
+            [
+                "location of water"
+            ]
+        ]
+    ],
+    "19": [
+        [
+            [
+                "knowledge of game"
+            ]
+        ],
+        [
+            [
+                "movement of up/down and left/right arrows"
+            ],
+            [
+                "knowledge of you"
+            ],
+            [
+                "step of character",
+                "step of character parts"
+            ]
+        ],
+        [
+            [
+                "knowledge of you"
+            ],
+            [
+                "choice of character",
+                "choice of character parts"
+            ]
+        ],
+        [
+            [
+                "step of free play",
+                "step of completed level",
+                "power of free play",
+                "power of completed level"
+            ]
+        ]
+    ],
+    "20": [
+        [
+            [
+                "composition of cream cheese",
+                "composition of the cream cheese",
+                "location of cream cheese",
+                "location of the cream cheese"
+            ],
+            [
+                "location of marshmallow cream",
+                "location of the marshmallow cream",
+                "location of marshmallow",
+                "composition of marshmallow cream",
+                "composition of the marshmallow cream",
+                "composition of marshmallow"
+            ],
+            [
+                "weight of the bowl",
+                "weight of bowl",
+                "weight of the mixing bowl",
+                "weight of the clean bowl",
+                "volume of the bowl",
+                "volume of bowl",
+                "volume of the mixing bowl",
+                "volume of the clean bowl",
+                "cleanness of the bowl",
+                "cleanness of bowl",
+                "cleanness of the mixing bowl",
+                "cleanness of the clean bowl"
+            ],
+            [
+                "cleanness of blender",
+                "cleanness of the knife",
+                "volume of blender",
+                "volume of the knife",
+                "electric conductivity of blender",
+                "electric conductivity of the knife"
+            ],
+            [
+                "organization of ingredients"
+            ]
+        ],
+        [
+            [
+                "weight of the bowl",
+                "weight of bowl",
+                "weight of the mixing bowl",
+                "weight of the clean bowl",
+                "moisture of the bowl",
+                "moisture of bowl",
+                "moisture of the mixing bowl",
+                "moisture of the clean bowl",
+                "cleanness of the bowl",
+                "cleanness of bowl",
+                "cleanness of the mixing bowl",
+                "cleanness of the clean bowl",
+                "volume of the bowl",
+                "volume of bowl",
+                "volume of the mixing bowl",
+                "volume of the clean bowl"
+            ],
+            [
+                "location of the mixture",
+                "location of cream cheese and marshmallow",
+                "location of mixtre",
+                "location of mixture",
+                "weight of the mixture",
+                "weight of cream cheese and marshmallow",
+                "weight of mixtre",
+                "weight of mixture",
+                "container of the mixture",
+                "container of cream cheese and marshmallow",
+                "container of mixtre",
+                "container of mixture",
+                "moisture of the mixture",
+                "moisture of cream cheese and marshmallow",
+                "moisture of mixtre",
+                "moisture of mixture"
+            ],
+            [
+                "weight of blender",
+                "weight of the knife",
+                "volume of blender",
+                "volume of the knife"
+            ]
+        ],
+        [
+            [
+                "wetness of blender",
+                "cleanness of blender",
+                "wetness of the knife",
+                "cleanness of the knife"
+            ],
+            [
+                "composition of fruit",
+                "composition of the fruit",
+                "weight of fruit",
+                "weight of the fruit"
+            ]
+        ],
+        []
+    ],
+    "21": [
+        [
+            [
+                "knowledge of instructions"
+            ]
+        ],
+        [
+            [
+                "cleanness of clothing",
+                "cleanness of gore-tex"
+            ],
+            [
+                "location of detergent"
+            ],
+            [
+                "location of dirt"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "fullness of washing machine",
+                "electric conductivity of washing machine"
+            ],
+            [
+                "cleanness of polar fleece",
+                "cleanness of fleece"
+            ]
+        ]
+    ],
+    "22": [
+        [
+            [
+                "knowledge of ability to identify bike shaft",
+                "knowledge of ability to identify non-dominant leg",
+                "knowledge of ability to identify dominant foot"
+            ],
+            [
+                "location of your foot",
+                "location of non-dominant foot",
+                "location of both feet",
+                "location of dominant foot",
+                "location of pedals",
+                "location of foot"
+            ],
+            [
+                "skill of speed",
+                "skill of ability to ride a bike"
+            ],
+            [
+                "position of you",
+                "location of you"
+            ],
+            [
+                "location of bicycle",
+                "location of bike"
+            ]
+        ],
+        [
+            [
+                "weight of center of gravity",
+                "weight of your weight"
+            ],
+            [
+                "knowledge of ability to identify bike shaft",
+                "knowledge of ability to identify non-dominant leg",
+                "knowledge of ability to identify dominant foot"
+            ],
+            [
+                "location of your foot",
+                "location of non-dominant foot",
+                "location of both feet",
+                "location of dominant foot",
+                "location of pedals",
+                "location of foot",
+                "placement of your foot",
+                "placement of non-dominant foot",
+                "placement of both feet",
+                "placement of dominant foot",
+                "placement of pedals",
+                "placement of foot"
+            ],
+            [
+                "stability of bicycle",
+                "balance of bicycle",
+                "stability of bike",
+                "balance of bike",
+                "weight of bicycle",
+                "weight of bike"
+            ],
+            [
+                "strength of grip on bike"
+            ]
+        ],
+        [
+            [
+                "location of your foot",
+                "location of non-dominant foot",
+                "location of both feet",
+                "location of dominant foot",
+                "location of pedals",
+                "location of foot"
+            ],
+            [
+                "knowledge of hands",
+                "knowledge of ability to identify handlebars"
+            ],
+            [
+                "action of you",
+                "motion of you",
+                "position of you",
+                "location of you"
+            ],
+            [
+                "stability of bicycle",
+                "balance of bicycle",
+                "stability of bike",
+                "balance of bike",
+                "orientation of bicycle",
+                "orientation of bike"
+            ]
+        ],
+        [
+            [
+                "location of center of gravity",
+                "location of your weight"
+            ],
+            [
+                "placement of feet",
+                "placement of weight"
+            ],
+            [
+                "motion of your foot",
+                "motion of non-dominant foot",
+                "motion of both feet",
+                "motion of dominant foot",
+                "motion of pedals",
+                "motion of foot"
+            ],
+            [
+                "movement of the tires",
+                "movement of the chain",
+                "mechanical movement of the tires",
+                "mechanical movement of the chain"
+            ],
+            [
+                "action of you",
+                "motion of you",
+                "balance of you"
+            ],
+            [
+                "movement of bicycle",
+                "motion of bicycle",
+                "movement of bike",
+                "motion of bike",
+                "stability of bicycle",
+                "balance of bicycle",
+                "stability of bike",
+                "balance of bike"
+            ]
+        ],
+        [
+            [
+                "weight of center of gravity",
+                "weight of your weight"
+            ],
+            [
+                "location of your foot",
+                "location of non-dominant foot",
+                "location of both feet",
+                "location of dominant foot",
+                "location of pedals",
+                "location of foot",
+                "placement of your foot",
+                "placement of non-dominant foot",
+                "placement of both feet",
+                "placement of dominant foot",
+                "placement of pedals",
+                "placement of foot"
+            ],
+            [
+                "movement of the tires",
+                "movement of the chain",
+                "mechanical movement of the tires",
+                "mechanical movement of the chain"
+            ],
+            [
+                "speed of speed",
+                "speed of ability to ride a bike"
+            ],
+            [
+                "action of you",
+                "motion of you"
+            ],
+            [
+                "stability of bicycle",
+                "balance of bicycle",
+                "stability of bike",
+                "balance of bike"
+            ],
+            [
+                "knowledge of handbrakes"
+            ]
+        ]
+    ],
+    "23": [
+        [
+            [
+                "availability of passenger position",
+                "availability of room on boat"
+            ],
+            [
+                "location of boat"
+            ],
+            [
+                "location of boarding plank",
+                "location of plank",
+                "moisture of boarding plank",
+                "moisture of plank"
+            ],
+            [
+                "availability of dock"
+            ],
+            [
+                "texture of water"
+            ]
+        ],
+        [
+            [
+                "motion of boat"
+            ],
+            [
+                "stability of jumping",
+                "stability of movement"
+            ],
+            [
+                "location of hands",
+                "location of arms"
+            ],
+            [
+                "location of center of gravity"
+            ],
+            [
+                "placement of handrail",
+                "placement of handrails",
+                "availability of handrail",
+                "availability of handrails"
+            ]
+        ],
+        [
+            [
+                "speed of person",
+                "speed of passenger",
+                "speed of other person",
+                "speed of other passengers"
+            ],
+            [
+                "location of legs"
+            ],
+            [
+                "location of jumping",
+                "location of movement"
+            ],
+            [
+                "location of paddle"
+            ]
+        ],
+        [
+            [
+                "location of passenger position",
+                "location of room on boat"
+            ],
+            [
+                "location of boat",
+                "stability of boat",
+                "weight of boat",
+                "action of boat",
+                "shape of boat"
+            ],
+            [
+                "location of hands",
+                "location of arms"
+            ]
+        ],
+        [
+            [
+                "location of person",
+                "location of passenger",
+                "location of other person",
+                "location of other passengers"
+            ],
+            [
+                "location of boat",
+                "stability of boat",
+                "orientation of boat",
+                "motion of boat"
+            ],
+            [
+                "location of boarding plank",
+                "location of plank"
+            ]
+        ]
+    ],
+    "24": [
+        [
+            [
+                "organization of smoothie"
+            ],
+            [
+                "cleanness of blender",
+                "volume of blender",
+                "blender of blender",
+                "weight of blender"
+            ],
+            [
+                "location of bananas",
+                "location of liquid",
+                "location of fruit",
+                "location of banana",
+                "location of sorber",
+                "temperature of bananas",
+                "temperature of liquid",
+                "temperature of fruit",
+                "temperature of banana",
+                "temperature of sorber"
+            ],
+            [
+                "location of yogurt"
+            ],
+            [
+                "composition of ingredients",
+                "composition of fruit and sorbet",
+                "composition of mixture"
+            ]
+        ],
+        [
+            [
+                "texture of smoothie"
+            ],
+            [
+                "cleanness of blender",
+                "weight of blender",
+                "volume of blender",
+                "electric conductivity of blender"
+            ],
+            [
+                "composition of items"
+            ]
+        ],
+        [
+            [
+                "location of bottle",
+                "location of rum",
+                "composition of bottle",
+                "composition of rum",
+                "weight of bottle",
+                "weight of rum",
+                "volume of bottle",
+                "volume of rum"
+            ],
+            [
+                "electric conductivity of blender"
+            ],
+            [
+                "composition of bananas",
+                "composition of liquid",
+                "composition of fruit",
+                "composition of banana",
+                "composition of sorber"
+            ]
+        ],
+        [
+            [
+                "smoothie of smoothie",
+                "location of smoothie"
+            ],
+            [
+                "weight of blender",
+                "volume of blender"
+            ],
+            [
+                "volume of glass",
+                "volume of glasses",
+                "temperature of glass",
+                "temperature of glasses",
+                "weight of glass",
+                "weight of glasses",
+                "cleanness of glass",
+                "cleanness of glasses",
+                "moisture of glass",
+                "moisture of glasses"
+            ]
+        ],
+        [
+            [
+                "location of strawberry",
+                "strawberry of strawberry"
+            ],
+            [
+                "appearance of glass",
+                "appearance of glasses",
+                "decoration of glass",
+                "decoration of glasses"
+            ]
+        ]
+    ],
+    "25": [
+        [
+            [
+                "choice of paper",
+                "choice of suitable paper for pinwheels",
+                "knowledge of paper",
+                "knowledge of suitable paper for pinwheels"
+            ]
+        ],
+        [
+            [
+                "shape of paper",
+                "shape of suitable paper for pinwheels"
+            ],
+            [
+                "availability of pinwheels",
+                "orientation of pinwheels"
+            ]
+        ],
+        [
+            [
+                "step of wreath base"
+            ]
+        ],
+        [
+            [
+                "location of ribbon",
+                "location of twine",
+                "organization of ribbon",
+                "organization of twine"
+            ]
+        ],
+        []
+    ],
+    "26": [
+        [
+            [
+                "shape of hanger",
+                "shape of wire hanger"
+            ],
+            [
+                "location of tool",
+                "location of pliers",
+                "openness of tool",
+                "openness of pliers"
+            ],
+            [
+                "pressure of fingers",
+                "pressure of hands",
+                "volume of fingers",
+                "volume of hands"
+            ]
+        ],
+        [
+            [
+                "texture of paper",
+                "shape of paper",
+                "texture of wax paper",
+                "shape of wax paper",
+                "texture of crepe paper",
+                "shape of crepe paper",
+                "shape of paper",
+                "shape of wax paper",
+                "shape of crepe paper"
+            ],
+            [
+                "location of hanger",
+                "location of wire hanger",
+                "volume of hanger",
+                "volume of wire hanger"
+            ],
+            [
+                "shape of paper squares",
+                "shape of squares"
+            ],
+            [
+                "motion of fingers",
+                "motion of hands"
+            ],
+            [
+                "cleanness of table"
+            ]
+        ],
+        [
+            [
+                "shape of square ends",
+                "shape of ends",
+                "shape of hanger ends",
+                "proximity of square ends",
+                "proximity of ends",
+                "proximity of hanger ends"
+            ],
+            [
+                "weight of hanger",
+                "weight of wire hanger",
+                "volume of hanger",
+                "volume of wire hanger"
+            ],
+            [
+                "location of paper squares",
+                "location of squares"
+            ],
+            [
+                "location of tool",
+                "location of pliers",
+                "position of tool",
+                "position of pliers"
+            ],
+            [
+                "pressure of fingers",
+                "pressure of hands"
+            ]
+        ],
+        [
+            [
+                "shape of square ends",
+                "shape of ends",
+                "shape of hanger ends"
+            ],
+            [
+                "orientation of paper",
+                "orientation of wax paper",
+                "orientation of crepe paper",
+                "shape of paper",
+                "shape of wax paper",
+                "shape of crepe paper"
+            ],
+            [
+                "location of hanger",
+                "location of wire hanger",
+                "composition of hanger",
+                "composition of wire hanger",
+                "volume of hanger",
+                "volume of wire hanger"
+            ],
+            [
+                "location of paper squares",
+                "location of squares",
+                "position of paper squares",
+                "position of squares"
+            ],
+            [
+                "volume of fingers",
+                "volume of hands"
+            ]
+        ],
+        [
+            [
+                "location of hanger",
+                "location of wire hanger"
+            ],
+            [
+                "status of wreath"
+            ]
+        ]
+    ],
+    "27": [
+        [
+            [
+                "cleanness of potaoto",
+                "cleanness of potato pieces",
+                "cleanness of potato",
+                "cleanness of potatoes",
+                "location of potaoto",
+                "location of potato pieces",
+                "location of potato",
+                "location of potatoes"
+            ],
+            [
+                "power of water",
+                "power of sink",
+                "power of water faucet",
+                "wetness of water",
+                "wetness of sink",
+                "wetness of water faucet"
+            ]
+        ],
+        [
+            [
+                "thickness of potaoto",
+                "thickness of potato pieces",
+                "thickness of potato",
+                "thickness of potatoes",
+                "length of potaoto",
+                "length of potato pieces",
+                "length of potato",
+                "length of potatoes",
+                "composition of potaoto",
+                "composition of potato pieces",
+                "composition of potato",
+                "composition of potatoes"
+            ],
+            [
+                "location of vegetable peeler",
+                "location of peeler",
+                "location of peels",
+                "cleanness of vegetable peeler",
+                "cleanness of peeler",
+                "cleanness of peels"
+            ],
+            [
+                "cleanness of kitchen counter"
+            ],
+            [
+                "fullness of bowl"
+            ]
+        ],
+        [
+            [
+                "cleanness of potaoto",
+                "cleanness of potato pieces",
+                "cleanness of potato",
+                "cleanness of potatoes",
+                "moisture of potaoto",
+                "moisture of potato pieces",
+                "moisture of potato",
+                "moisture of potatoes",
+                "location of potaoto",
+                "location of potato pieces",
+                "location of potato",
+                "location of potatoes"
+            ],
+            [
+                "dryness of vegetable peeler",
+                "dryness of peeler",
+                "dryness of peels"
+            ],
+            [
+                "location of cloth",
+                "cleanness of cloth",
+                "moisture of cloth",
+                "wetness of cloth"
+            ],
+            [
+                "location of water",
+                "location of sink",
+                "location of water faucet"
+            ]
+        ],
+        [
+            [
+                "composition of potaoto",
+                "composition of potato pieces",
+                "composition of potato",
+                "composition of potatoes"
+            ],
+            [
+                "cleanness of vegetable peeler",
+                "cleanness of peeler",
+                "cleanness of peels",
+                "temperature of vegetable peeler",
+                "temperature of peeler",
+                "temperature of peels",
+                "texture of vegetable peeler",
+                "texture of peeler",
+                "texture of peels",
+                "location of vegetable peeler",
+                "location of peeler",
+                "location of peels"
+            ],
+            [
+                "temperature of stove burner",
+                "temperature of stove",
+                "temperature of pan",
+                "electric conductivity of stove burner",
+                "electric conductivity of stove",
+                "electric conductivity of pan"
+            ],
+            [
+                "temperature of oil"
+            ],
+            [
+                "teture of ribbons",
+                "teture of spatula",
+                "cleanness of ribbons",
+                "cleanness of spatula"
+            ]
+        ],
+        [
+            [
+                "location of potaoto",
+                "location of potato pieces",
+                "location of potato",
+                "location of potatoes"
+            ],
+            [
+                "location of vegetable peeler",
+                "location of peeler",
+                "location of peels",
+                "weight of vegetable peeler",
+                "weight of peeler",
+                "weight of peels",
+                "taste of vegetable peeler",
+                "taste of peeler",
+                "taste of peels"
+            ],
+            [
+                "cleanness of serving dish",
+                "cleanness of platter",
+                "weight of serving dish",
+                "weight of platter",
+                "fullness of serving dish",
+                "fullness of platter"
+            ]
+        ]
+    ],
+    "28": [
+        [
+            [
+                "cost of cup",
+                "cost of fizzy drink",
+                "cost of soda",
+                "cost of drink",
+                "sealing of cup",
+                "sealing of fizzy drink",
+                "sealing of soda",
+                "sealing of drink",
+                "availability of cup",
+                "availability of fizzy drink",
+                "availability of soda",
+                "availability of drink",
+                "fullness of cup",
+                "fullness of fizzy drink",
+                "fullness of soda",
+                "fullness of drink",
+                "cleanness of cup",
+                "cleanness of fizzy drink",
+                "cleanness of soda",
+                "cleanness of drink",
+                "moisture of cup",
+                "moisture of fizzy drink",
+                "moisture of soda",
+                "moisture of drink",
+                "weight of cup",
+                "weight of fizzy drink",
+                "weight of soda",
+                "weight of drink"
+            ],
+            [
+                "weight of bottle"
+            ]
+        ],
+        [
+            [
+                "availability of cup",
+                "availability of fizzy drink",
+                "availability of soda",
+                "availability of drink",
+                "location of cup",
+                "location of fizzy drink",
+                "location of soda",
+                "location of drink"
+            ],
+            [
+                "moisture of old bolt",
+                "wetness of old bolt",
+                "moisture of bolt",
+                "wetness of bolt",
+                "texture of old bolt",
+                "texture of bolt"
+            ],
+            [
+                "weight of bottle",
+                "openness of bottle"
+            ],
+            [
+                "moisture of hands",
+                "texture of hands"
+            ]
+        ],
+        [
+            [
+                "cleanness of kitchen towel",
+                "cleanness of towel",
+                "color of kitchen towel",
+                "color of towel",
+                "moisture of kitchen towel",
+                "wetness of kitchen towel",
+                "moisture of towel",
+                "wetness of towel",
+                "weight of kitchen towel",
+                "weight of towel"
+            ],
+            [
+                "location of cup",
+                "location of fizzy drink",
+                "location of soda",
+                "location of drink"
+            ],
+            [
+                "moisture of old bolt",
+                "wetness of old bolt",
+                "moisture of bolt",
+                "wetness of bolt",
+                "texture of old bolt",
+                "texture of bolt",
+                "cleanness of old bolt",
+                "cleanness of bolt"
+            ]
+        ],
+        [
+            [
+                "movement of old bolt",
+                "movement of bolt",
+                "age of old bolt",
+                "age of bolt"
+            ],
+            [
+                "texture of assembly"
+            ],
+            [
+                "composition of rust"
+            ],
+            [
+                "location of wrench"
+            ]
+        ],
+        [
+            [
+                "age of old bolt",
+                "age of bolt",
+                "location of old bolt",
+                "location of bolt"
+            ],
+            [
+                "location of new bolt",
+                "orientation of new bolt"
+            ]
+        ]
+    ],
+    "29": [
+        [
+            [
+                "color of temperature",
+                "color of oven",
+                "color of timer",
+                "color of oven racks",
+                "color of oven door",
+                "color of oven mitts",
+                "color of heating element",
+                "temperature of temperature",
+                "temperature of oven",
+                "temperature of timer",
+                "temperature of oven racks",
+                "temperature of oven door",
+                "temperature of oven mitts",
+                "temperature of heating element",
+                "power of temperature",
+                "power of oven",
+                "power of timer",
+                "power of oven racks",
+                "power of oven door",
+                "power of oven mitts",
+                "power of heating element",
+                "openness of temperature",
+                "openness of oven",
+                "openness of timer",
+                "openness of oven racks",
+                "openness of oven door",
+                "openness of oven mitts",
+                "openness of heating element",
+                "electric conductivity of temperature",
+                "electric conductivity of oven",
+                "electric conductivity of timer",
+                "electric conductivity of oven racks",
+                "electric conductivity of oven door",
+                "electric conductivity of oven mitts",
+                "electric conductivity of heating element"
+            ],
+            [
+                "pressure of stove buttons"
+            ],
+            [
+                "power of display"
+            ]
+        ],
+        [
+            [
+                "location of asparagus",
+                "location of spears",
+                "location of vegetables"
+            ],
+            [
+                "temperature of temperature",
+                "temperature of oven",
+                "temperature of timer",
+                "temperature of oven racks",
+                "temperature of oven door",
+                "temperature of oven mitts",
+                "temperature of heating element"
+            ],
+            [
+                "weight of olive oil",
+                "weight of oil",
+                "weight of oil container",
+                "location of olive oil",
+                "location of oil",
+                "location of oil container"
+            ],
+            [
+                "weight of pan",
+                "weight of baking tray",
+                "weight of container",
+                "weight of baking tin",
+                "weight of roasting pan",
+                "weight of tin",
+                "volume of pan",
+                "volume of baking tray",
+                "volume of container",
+                "volume of baking tin",
+                "volume of roasting pan",
+                "volume of tin",
+                "location of pan",
+                "location of baking tray",
+                "location of container",
+                "location of baking tin",
+                "location of roasting pan",
+                "location of tin",
+                "cleanness of pan",
+                "cleanness of baking tray",
+                "cleanness of container",
+                "cleanness of baking tin",
+                "cleanness of roasting pan",
+                "cleanness of tin",
+                "texture of pan",
+                "texture of baking tray",
+                "texture of container",
+                "texture of baking tin",
+                "texture of roasting pan",
+                "texture of tin"
+            ],
+            [
+                "texture of ham",
+                "appearance of ham"
+            ]
+        ],
+        [
+            [
+                "composition of asparagus",
+                "composition of spears",
+                "composition of vegetables",
+                "coverage of asparagus",
+                "coverage of spears",
+                "coverage of vegetables",
+                "length of asparagus",
+                "size of asparagus",
+                "length of spears",
+                "size of spears",
+                "length of vegetables",
+                "size of vegetables",
+                "shape of asparagus",
+                "shape of spears",
+                "shape of vegetables",
+                "texture of asparagus",
+                "texture of spears",
+                "texture of vegetables"
+            ],
+            [
+                "cleanness of cutting board",
+                "cleanness of knife",
+                "cleanness of blade",
+                "location of cutting board",
+                "location of knife",
+                "location of blade"
+            ],
+            [
+                "location of pieces",
+                "location of rubber band",
+                "texture of pieces",
+                "texture of rubber band"
+            ],
+            [
+                "location of ham"
+            ]
+        ],
+        [
+            [
+                "composition of asparagus",
+                "composition of spears",
+                "composition of vegetables",
+                "moisture of asparagus",
+                "moisture of spears",
+                "moisture of vegetables",
+                "texture of asparagus",
+                "texture of spears",
+                "texture of vegetables"
+            ],
+            [
+                "volume of temperature",
+                "volume of oven",
+                "volume of timer",
+                "volume of oven racks",
+                "volume of oven door",
+                "volume of oven mitts",
+                "volume of heating element"
+            ],
+            [
+                "temperature of olive oil",
+                "temperature of oil",
+                "temperature of oil container"
+            ],
+            [
+                "temperature of main dish",
+                "temperature of dish",
+                "temperature of food"
+            ],
+            [
+                "temperature of ham",
+                "texture of ham"
+            ],
+            [
+                "sound of room"
+            ]
+        ],
+        [
+            [
+                "composition of asparagus",
+                "composition of spears",
+                "composition of vegetables",
+                "location of asparagus",
+                "location of spears",
+                "location of vegetables"
+            ],
+            [
+                "power of temperature",
+                "power of oven",
+                "power of timer",
+                "power of oven racks",
+                "power of oven door",
+                "power of oven mitts",
+                "power of heating element",
+                "fullness of temperature",
+                "fullness of oven",
+                "fullness of timer",
+                "fullness of oven racks",
+                "fullness of oven door",
+                "fullness of oven mitts",
+                "fullness of heating element",
+                "location of temperature",
+                "location of oven",
+                "location of timer",
+                "location of oven racks",
+                "location of oven door",
+                "location of oven mitts",
+                "location of heating element",
+                "openness of temperature",
+                "openness of oven",
+                "openness of timer",
+                "openness of oven racks",
+                "openness of oven door",
+                "openness of oven mitts",
+                "openness of heating element",
+                "sound of temperature",
+                "sound of oven",
+                "sound of timer",
+                "sound of oven racks",
+                "sound of oven door",
+                "sound of oven mitts",
+                "sound of heating element"
+            ],
+            [
+                "location of pan",
+                "location of baking tray",
+                "location of container",
+                "location of baking tin",
+                "location of roasting pan",
+                "location of tin"
+            ],
+            [
+                "accompaniment of main dish",
+                "accompaniment of dish",
+                "accompaniment of food",
+                "location of main dish",
+                "location of dish",
+                "location of food"
+            ],
+            [
+                "temperature of ham"
+            ]
+        ]
+    ],
+    "30": [
+        [
+            [
+                "location of vinegar"
+            ],
+            [
+                "volume of bottle",
+                "volume of container",
+                "weight of bottle",
+                "weight of container",
+                "moisture of bottle",
+                "moisture of container"
+            ],
+            [
+                "volume of lamp",
+                "volume of pot"
+            ]
+        ],
+        [
+            [
+                "cost of wicks",
+                "cost of wick",
+                "orientation of wicks",
+                "orientation of wick"
+            ],
+            [
+                "composition of lamp",
+                "composition of pot"
+            ]
+        ],
+        [
+            [
+                "composition of wicks",
+                "composition of wick"
+            ],
+            [
+                "location of vinegar"
+            ]
+        ],
+        [
+            [
+                "composition of wicks",
+                "composition of wick",
+                "moisture of wicks",
+                "dryness of wicks",
+                "wetness of wicks",
+                "moisture of wick",
+                "dryness of wick",
+                "wetness of wick"
+            ]
+        ],
+        [
+            [
+                "composition of wicks",
+                "composition of wick",
+                "location of wicks",
+                "location of wick",
+                "temperature of wicks",
+                "temperature of wick"
+            ]
+        ]
+    ],
+    "31": [
+        [
+            [
+                "availability of studio"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "amount of light"
+            ]
+        ],
+        []
+    ],
+    "32": [
+        [
+            [
+                "granularity of velveeta",
+                "granularity of package",
+                "location of velveeta",
+                "location of package",
+                "temperature of velveeta",
+                "temperature of package",
+                "size of velveeta",
+                "size of package",
+                "openness of velveeta",
+                "openness of package"
+            ],
+            [
+                "cleanness of cutting board",
+                "cleanness of knife",
+                "moisture of cutting board",
+                "moisture of knife",
+                "location of cutting board",
+                "location of knife"
+            ]
+        ],
+        [
+            [
+                "granularity of velveeta",
+                "granularity of package",
+                "location of velveeta",
+                "location of package",
+                "temperature of velveeta",
+                "temperature of package"
+            ],
+            [
+                "temperature of stove top burner",
+                "temperature of stove knob",
+                "temperature of stove",
+                "temperature of stove burner",
+                "temperature of burner",
+                "power of stove top burner",
+                "power of stove knob",
+                "power of stove",
+                "power of stove burner",
+                "power of burner",
+                "electric conductivity of stove top burner",
+                "electric conductivity of stove knob",
+                "electric conductivity of stove",
+                "electric conductivity of stove burner",
+                "electric conductivity of burner",
+                "orientation of stove top burner",
+                "orientation of stove knob",
+                "orientation of stove",
+                "orientation of stove burner",
+                "orientation of burner"
+            ],
+            [
+                "location of can",
+                "location of cheese"
+            ],
+            [
+                "cleanness of sauce pan",
+                "cleanness of pan",
+                "cleanness of pot",
+                "location of sauce pan",
+                "location of pan",
+                "location of pot",
+                "temperature of sauce pan",
+                "temperature of pan",
+                "temperature of pot"
+            ]
+        ],
+        [
+            [
+                "granularity of velveeta",
+                "granularity of package",
+                "temperature of velveeta",
+                "temperature of package",
+                "texture of velveeta",
+                "texture of package"
+            ],
+            [
+                "temperature of stove top burner",
+                "temperature of stove knob",
+                "temperature of stove",
+                "temperature of stove burner",
+                "temperature of burner"
+            ],
+            [
+                "location of tomatoes",
+                "location of rotel",
+                "location of rotel can",
+                "temperature of tomatoes",
+                "temperature of rotel",
+                "temperature of rotel can",
+                "openness of tomatoes",
+                "openness of rotel",
+                "openness of rotel can"
+            ]
+        ],
+        [
+            [
+                "location of olives",
+                "location of black olives",
+                "temperature of olives",
+                "temperature of black olives",
+                "size of olives",
+                "size of black olives"
+            ],
+            [
+                "openness of can",
+                "openness of cheese"
+            ],
+            [
+                "location of jalapeno",
+                "location of peppers",
+                "temperature of jalapeno",
+                "temperature of peppers"
+            ],
+            [
+                "taste of cheese sauce",
+                "taste of cheese dip"
+            ]
+        ],
+        [
+            [
+                "location of cheese sauce",
+                "location of cheese dip"
+            ]
+        ]
+    ],
+    "33": [
+        [
+            [
+                "action of battle frontier location",
+                "action of wailmer",
+                "action of ball",
+                "action of candy"
+            ]
+        ],
+        [
+            [
+                "knowledge of battle frontier location",
+                "knowledge of wailmer",
+                "knowledge of ball",
+                "knowledge of candy",
+                "going of battle frontier location",
+                "going of wailmer",
+                "going of ball",
+                "going of candy"
+            ]
+        ],
+        [
+            [
+                "knowledge of battle frontier location",
+                "knowledge of wailmer",
+                "knowledge of ball",
+                "knowledge of candy",
+                "evolution of battle frontier location",
+                "change of battle frontier location",
+                "evolution of wailmer",
+                "change of wailmer",
+                "evolution of ball",
+                "change of ball",
+                "evolution of candy",
+                "change of candy"
+            ]
+        ],
+        [
+            [
+                "location of battle frontier location",
+                "location of wailmer",
+                "location of ball",
+                "location of candy",
+                "items of battle frontier location",
+                "items of wailmer",
+                "items of ball",
+                "items of candy"
+            ]
+        ],
+        [
+            [
+                "full of battle frontier location",
+                "full of wailmer",
+                "full of ball",
+                "full of candy",
+                "evolution of battle frontier location",
+                "change of battle frontier location",
+                "evolution of wailmer",
+                "change of wailmer",
+                "evolution of ball",
+                "change of ball",
+                "evolution of candy",
+                "change of candy",
+                "action of battle frontier location",
+                "action of wailmer",
+                "action of ball",
+                "action of candy"
+            ]
+        ]
+    ],
+    "34": [
+        [
+            [
+                "location of game character",
+                "location of you"
+            ],
+            [
+                "coverage of route",
+                "coverage of the route",
+                "coverage of routes",
+                "appearance of route",
+                "appearance of the route",
+                "appearance of routes"
+            ]
+        ],
+        [
+            [
+                "location of game character",
+                "location of you"
+            ],
+            [
+                "location of pistol",
+                "availability of pistol"
+            ]
+        ],
+        [
+            [
+                "focus of game character",
+                "focus of you"
+            ],
+            [
+                "knowledge of route",
+                "knowledge of the route",
+                "knowledge of routes"
+            ]
+        ],
+        [
+            [
+                "focus of game character",
+                "focus of you"
+            ],
+            [
+                "skill of bomb"
+            ]
+        ],
+        [
+            [
+                "location of game character",
+                "location of you",
+                "focus of game character",
+                "focus of you"
+            ],
+            [
+                "skill of bomb"
+            ]
+        ]
+    ],
+    "35": [
+        [
+            [
+                "cleanness of the brush",
+                "cleanness of brush",
+                "cleanness of paintbrush",
+                "cleanness of paint brush",
+                "cleanness of brushes",
+                "location of the brush",
+                "location of brush",
+                "location of paintbrush",
+                "location of paint brush",
+                "location of brushes"
+            ],
+            [
+                "knowledge of the coating of paint",
+                "knowledge of paint base"
+            ],
+            [
+                "moisture of bare wood",
+                "wetness of bare wood",
+                "moisture of the wood",
+                "wetness of the wood",
+                "moisture of wood",
+                "wetness of wood",
+                "texture of bare wood",
+                "texture of the wood",
+                "texture of wood",
+                "location of bare wood",
+                "location of the wood",
+                "location of wood"
+            ],
+            [
+                "moisture of oil based paint",
+                "moisture of paint",
+                "location of oil based paint",
+                "location of paint",
+                "ownership of oil based paint",
+                "ownership of paint"
+            ],
+            [
+                "availability of floor",
+                "availability of drop clothq",
+                "availability of drop cloth",
+                "coverage of floor",
+                "coverage of drop clothq",
+                "coverage of drop cloth"
+            ]
+        ],
+        [
+            [
+                "cleanness of the brush",
+                "cleanness of brush",
+                "cleanness of paintbrush",
+                "cleanness of paint brush",
+                "cleanness of brushes",
+                "moisture of the brush",
+                "moisture of brush",
+                "moisture of paintbrush",
+                "moisture of paint brush",
+                "moisture of brushes",
+                "weight of the brush",
+                "weight of brush",
+                "weight of paintbrush",
+                "weight of paint brush",
+                "weight of brushes",
+                "color of the brush",
+                "color of brush",
+                "color of paintbrush",
+                "color of paint brush",
+                "color of brushes",
+                "orientation of the brush",
+                "orientation of brush",
+                "orientation of paintbrush",
+                "orientation of paint brush",
+                "orientation of brushes"
+            ],
+            [
+                "moisture of bare wood",
+                "wetness of bare wood",
+                "moisture of the wood",
+                "wetness of the wood",
+                "moisture of wood",
+                "wetness of wood",
+                "color of bare wood",
+                "color of the wood",
+                "color of wood",
+                "weight of bare wood",
+                "weight of the wood",
+                "weight of wood"
+            ],
+            [
+                "size of oil based paint",
+                "size of paint"
+            ],
+            [
+                "location of coat"
+            ],
+            [
+                "location of caulking gun",
+                "location of caulking compound"
+            ],
+            [
+                "direction of paint direction",
+                "direction of paint thickness",
+                "thickness of paint direction",
+                "thickness of paint thickness"
+            ],
+            [
+                "volume of tin"
+            ]
+        ],
+        [
+            [
+                "thickness of the coating of paint",
+                "thickness of paint base"
+            ],
+            [
+                "moisture of bare wood",
+                "wetness of bare wood",
+                "moisture of the wood",
+                "wetness of the wood",
+                "moisture of wood",
+                "wetness of wood",
+                "texture of bare wood",
+                "texture of the wood",
+                "texture of wood"
+            ],
+            [
+                "texture of oil based paint",
+                "texture of paint"
+            ],
+            [
+                "location of paint bubbles",
+                "location of bubbles"
+            ],
+            [
+                "location of coat"
+            ],
+            [
+                "magnitude of precision",
+                "magnitude of degree of care"
+            ],
+            [
+                "coverage of drips",
+                "coverage of pools",
+                "location of drips",
+                "location of pools"
+            ],
+            [
+                "volume of tin"
+            ]
+        ],
+        [
+            [
+                "cleanness of the brush",
+                "cleanness of brush",
+                "cleanness of paintbrush",
+                "cleanness of paint brush",
+                "cleanness of brushes",
+                "moisture of the brush",
+                "moisture of brush",
+                "moisture of paintbrush",
+                "moisture of paint brush",
+                "moisture of brushes",
+                "weight of the brush",
+                "weight of brush",
+                "weight of paintbrush",
+                "weight of paint brush",
+                "weight of brushes"
+            ],
+            [
+                "moisture of bare wood",
+                "wetness of bare wood",
+                "moisture of the wood",
+                "wetness of the wood",
+                "moisture of wood",
+                "wetness of wood"
+            ],
+            [
+                "awareness of oil based paint",
+                "awareness of paint"
+            ],
+            [
+                "skill of precision",
+                "skill of degree of care"
+            ]
+        ],
+        [
+            [
+                "moisture of oil based paint",
+                "moisture of paint"
+            ],
+            [
+                "location of floor",
+                "location of drop clothq",
+                "location of drop cloth"
+            ],
+            [
+                "location of linseed oil"
+            ]
+        ]
+    ],
+    "36": [
+        [
+            [
+                "composition of ingredient mixture",
+                "composition of seasoned salt",
+                "composition of salt",
+                "composition of mixture particles",
+                "composition of ingredients",
+                "composition of mixture",
+                "composition of dry mustard",
+                "composition of celery salt",
+                "composition of black pepper",
+                "organization of ingredient mixture",
+                "organization of seasoned salt",
+                "organization of salt",
+                "organization of mixture particles",
+                "organization of ingredients",
+                "organization of mixture",
+                "organization of dry mustard",
+                "organization of celery salt",
+                "organization of black pepper",
+                "location of ingredient mixture",
+                "location of seasoned salt",
+                "location of salt",
+                "location of mixture particles",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry mustard",
+                "location of celery salt",
+                "location of black pepper",
+                "complexity of ingredient mixture",
+                "complexity of seasoned salt",
+                "complexity of salt",
+                "complexity of mixture particles",
+                "complexity of ingredients",
+                "complexity of mixture",
+                "complexity of dry mustard",
+                "complexity of celery salt",
+                "complexity of black pepper"
+            ],
+            [
+                "location of spoon",
+                "location of measuring cup",
+                "cleanness of spoon",
+                "cleanness of measuring cup"
+            ],
+            [
+                "fullness of bowl",
+                "contents of bowl"
+            ]
+        ],
+        [
+            [
+                "location of ingredient mixture",
+                "location of seasoned salt",
+                "location of salt",
+                "location of mixture particles",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry mustard",
+                "location of celery salt",
+                "location of black pepper",
+                "composition of ingredient mixture",
+                "composition of seasoned salt",
+                "composition of salt",
+                "composition of mixture particles",
+                "composition of ingredients",
+                "composition of mixture",
+                "composition of dry mustard",
+                "composition of celery salt",
+                "composition of black pepper"
+            ],
+            [
+                "fullness of container cover",
+                "fullness of air-tight container",
+                "fullness of storage container",
+                "fullness of cover",
+                "fullness of container",
+                "location of container cover",
+                "location of air-tight container",
+                "location of storage container",
+                "location of cover",
+                "location of container",
+                "strength of container cover",
+                "strength of air-tight container",
+                "strength of storage container",
+                "strength of cover",
+                "strength of container"
+            ],
+            [
+                "location of spoon",
+                "location of measuring cup"
+            ],
+            [
+                "fullness of bowl",
+                "contents of bowl"
+            ],
+            [
+                "accessibility of lid"
+            ]
+        ],
+        [
+            [
+                "taste of ingredient mixture",
+                "taste of seasoned salt",
+                "taste of salt",
+                "taste of mixture particles",
+                "taste of ingredients",
+                "taste of mixture",
+                "taste of dry mustard",
+                "taste of celery salt",
+                "taste of black pepper",
+                "location of ingredient mixture",
+                "location of seasoned salt",
+                "location of salt",
+                "location of mixture particles",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry mustard",
+                "location of celery salt",
+                "location of black pepper"
+            ],
+            [
+                "flavor of salads",
+                "flavor of food",
+                "flavor of soups",
+                "flavor of dips",
+                "flavor of sandwiches",
+                "flavor of salad dressings",
+                "location of salads",
+                "location of food",
+                "location of soups",
+                "location of dips",
+                "location of sandwiches",
+                "location of salad dressings",
+                "seasoning of salads",
+                "seasoning of food",
+                "seasoning of soups",
+                "seasoning of dips",
+                "seasoning of sandwiches",
+                "seasoning of salad dressings"
+            ]
+        ],
+        [
+            [
+                "composition of ingredient mixture",
+                "composition of seasoned salt",
+                "composition of salt",
+                "composition of mixture particles",
+                "composition of ingredients",
+                "composition of mixture",
+                "composition of dry mustard",
+                "composition of celery salt",
+                "composition of black pepper",
+                "location of ingredient mixture",
+                "location of seasoned salt",
+                "location of salt",
+                "location of mixture particles",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry mustard",
+                "location of celery salt",
+                "location of black pepper",
+                "wholeness of ingredient mixture",
+                "wholeness of seasoned salt",
+                "wholeness of salt",
+                "wholeness of mixture particles",
+                "wholeness of ingredients",
+                "wholeness of mixture",
+                "wholeness of dry mustard",
+                "wholeness of celery salt",
+                "wholeness of black pepper",
+                "shape of ingredient mixture",
+                "shape of seasoned salt",
+                "shape of salt",
+                "shape of mixture particles",
+                "shape of ingredients",
+                "shape of mixture",
+                "shape of dry mustard",
+                "shape of celery salt",
+                "shape of black pepper"
+            ],
+            [
+                "fullness of pestle",
+                "fullness of mortar",
+                "fullness of mortar and pestle",
+                "cleaness of pestle",
+                "cleanness of pestle",
+                "cleaness of mortar",
+                "cleanness of mortar",
+                "cleaness of mortar and pestle",
+                "cleanness of mortar and pestle",
+                "location of pestle",
+                "location of mortar",
+                "location of mortar and pestle",
+                "location of pestle",
+                "status of pestle",
+                "location of mortar",
+                "status of mortar",
+                "location of mortar and pestle",
+                "status of mortar and pestle"
+            ],
+            [
+                "volume of salt shaker",
+                "volume of pepper mill"
+            ]
+        ],
+        [
+            [
+                "location of ingredient mixture",
+                "location of seasoned salt",
+                "location of salt",
+                "location of mixture particles",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry mustard",
+                "location of celery salt",
+                "location of black pepper"
+            ],
+            [
+                "fullness of container cover",
+                "fullness of air-tight container",
+                "fullness of storage container",
+                "fullness of cover",
+                "fullness of container",
+                "contents of container cover",
+                "contents of air-tight container",
+                "contents of storage container",
+                "contents of cover",
+                "contents of container"
+            ]
+        ]
+    ],
+    "37": [
+        [
+            [
+                "location of weapon"
+            ],
+            [
+                "organization of equipment",
+                "equipment of equipment"
+            ],
+            [
+                "location of rucksack"
+            ],
+            [
+                "location of vehicle"
+            ],
+            [
+                "location of webbing"
+            ],
+            [
+                "fullness of surface"
+            ]
+        ],
+        [
+            [
+                "location of camouflage",
+                "location of leaves",
+                "location of hay"
+            ],
+            [
+                "visibility of rucksack",
+                "decoration of rucksack"
+            ]
+        ],
+        [
+            [
+                "location of camouflage",
+                "location of leaves",
+                "location of hay"
+            ],
+            [
+                "decoration of helmet",
+                "decoration of hat",
+                "visibility of helmet",
+                "visibility of hat"
+            ]
+        ],
+        [
+            [
+                "location of camouflage",
+                "location of leaves",
+                "location of hay"
+            ],
+            [
+                "attention of webbing",
+                "visibility of webbing"
+            ]
+        ],
+        [
+            [
+                "attention of weapon",
+                "location of weapon",
+                "decoration of weapon"
+            ]
+        ],
+        [
+            [
+                "coverage of vehicle camouflage net",
+                "location of vehicle camouflage net",
+                "coverage of camouflage net",
+                "location of camouflage net",
+                "location of vehicle camouflage net",
+                "location of camouflage net"
+            ],
+            [
+                "visibility of vehicle",
+                "vehicle of vehicle"
+            ]
+        ]
+    ],
+    "38": [
+        [
+            [
+                "location of oil",
+                "location of oil tank"
+            ],
+            [
+                "position of bung",
+                "location of bung",
+                "position of the bung",
+                "location of the bung",
+                "composition of bung",
+                "composition of the bung",
+                "volume of bung",
+                "volume of the bung"
+            ]
+        ],
+        [
+            [
+                "volume of oil",
+                "volume of oil tank",
+                "location of oil",
+                "location of oil tank"
+            ],
+            [
+                "position of air",
+                "location of air",
+                "position of oil cap",
+                "location of oil cap"
+            ]
+        ],
+        [
+            [
+                "position of oil filter",
+                "location of oil filter"
+            ]
+        ],
+        [
+            [
+                "position of bung",
+                "location of bung",
+                "position of the bung",
+                "location of the bung",
+                "composition of bung",
+                "composition of the bung"
+            ]
+        ],
+        [
+            [
+                "volume of oil",
+                "volume of oil tank",
+                "location of oil",
+                "location of oil tank"
+            ]
+        ],
+        [
+            [
+                "volume of oil",
+                "volume of oil tank",
+                "cleanness of oil",
+                "cleanness of oil tank"
+            ],
+            [
+                "location of old oil"
+            ],
+            [
+                "cleanness of oil bottle",
+                "cleanness of oil can",
+                "cleanness of jug",
+                "cleanness of oil container",
+                "cleanness of funnel",
+                "volume of oil bottle",
+                "volume of oil can",
+                "volume of jug",
+                "volume of oil container",
+                "volume of funnel"
+            ]
+        ]
+    ],
+    "39": [
+        [
+            [
+                "length of tape",
+                "size of tape",
+                "length of duct tape",
+                "size of duct tape",
+                "location of tape",
+                "location of duct tape"
+            ]
+        ],
+        [
+            [
+                "length of tape",
+                "size of tape",
+                "length of duct tape",
+                "size of duct tape"
+            ],
+            [
+                "knowledge of duct table"
+            ]
+        ],
+        [
+            [
+                "shape of tape",
+                "shape of duct tape"
+            ]
+        ],
+        [
+            [
+                "length of tape",
+                "size of tape",
+                "length of duct tape",
+                "size of duct tape",
+                "shape of tape",
+                "shape of duct tape",
+                "texture of tape",
+                "texture of duct tape"
+            ]
+        ],
+        [
+            [
+                "length of tape",
+                "size of tape",
+                "length of duct tape",
+                "size of duct tape",
+                "composition of tape",
+                "composition of duct tape"
+            ],
+            [
+                "organization of tape ends",
+                "organization of ends",
+                "form of tape ends",
+                "form of ends"
+            ]
+        ],
+        []
+    ],
+    "40": [
+        [
+            [
+                "location of buds",
+                "location of plant",
+                "location of fir",
+                "cost of buds",
+                "cost of plant",
+                "cost of fir"
+            ],
+            [
+                "weight of shovel",
+                "weight of hands"
+            ],
+            [
+                "location of bag",
+                "location of money",
+                "value of bag",
+                "value of money"
+            ]
+        ],
+        [
+            [
+                "location of buds",
+                "location of plant",
+                "location of fir"
+            ],
+            [
+                "location of shovel",
+                "location of hands"
+            ],
+            [
+                "location of bag",
+                "location of money",
+                "amount of bag",
+                "amount of money"
+            ]
+        ],
+        [
+            [
+                "weight of buds",
+                "weight of plant",
+                "weight of fir",
+                "cleanness of buds",
+                "cleanness of plant",
+                "cleanness of fir"
+            ],
+            [
+                "location of soil"
+            ],
+            [
+                "location of bag",
+                "location of money",
+                "amount of bag",
+                "amount of money"
+            ]
+        ],
+        [
+            [
+                "weight of buds",
+                "weight of plant",
+                "weight of fir",
+                "container of buds",
+                "container of plant",
+                "container of fir",
+                "location of buds",
+                "location of plant",
+                "location of fir"
+            ],
+            [
+                "cleanness of shovel",
+                "cleanness of hands",
+                "location of shovel",
+                "location of hands"
+            ]
+        ],
+        [
+            [
+                "wetness of buds",
+                "watered of buds",
+                "wetness of plant",
+                "watered of plant",
+                "wetness of fir",
+                "watered of fir",
+                "contentment of buds",
+                "contentment of plant",
+                "contentment of fir",
+                "wetness of buds",
+                "wetness of plant",
+                "wetness of fir"
+            ],
+            [
+                "location of water",
+                "knob of water"
+            ]
+        ],
+        [
+            [
+                "contents of containers",
+                "contents of container"
+            ],
+            [
+                "volume of buds",
+                "volume of plant",
+                "volume of fir",
+                "location of buds",
+                "location of plant",
+                "location of fir"
+            ]
+        ]
+    ],
+    "41": [
+        [
+            [
+                "knowledge of area"
+            ]
+        ],
+        [
+            [
+                "organization of twigs",
+                "organization of fairy house frame",
+                "organization of sticks",
+                "organization of bundle",
+                "availability of twigs",
+                "availability of fairy house frame",
+                "availability of sticks",
+                "availability of bundle"
+            ]
+        ],
+        [
+            [
+                "location of twigs",
+                "location of fairy house frame",
+                "location of sticks",
+                "location of bundle",
+                "organization of twigs",
+                "organization of fairy house frame",
+                "organization of sticks",
+                "organization of bundle"
+            ]
+        ],
+        [
+            [
+                "composition of twigs",
+                "composition of fairy house frame",
+                "composition of sticks",
+                "composition of bundle"
+            ],
+            [
+                "location of walls"
+            ]
+        ],
+        [
+            [
+                "tightness of twigs",
+                "tightness of fairy house frame",
+                "tightness of sticks",
+                "tightness of bundle"
+            ]
+        ],
+        [
+            [
+                "composition of fairy house"
+            ],
+            [
+                "location of walls"
+            ]
+        ]
+    ],
+    "42": [
+        [
+            [
+                "location of mixing bowl",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry and wet ingredients",
+                "location of mixture in bowl",
+                "location of flour and salt",
+                "volume of mixing bowl",
+                "volume of ingredients",
+                "volume of mixture",
+                "volume of dry and wet ingredients",
+                "volume of mixture in bowl",
+                "volume of flour and salt",
+                "weight of mixing bowl",
+                "weight of ingredients",
+                "weight of mixture",
+                "weight of dry and wet ingredients",
+                "weight of mixture in bowl",
+                "weight of flour and salt",
+                "composition of mixing bowl",
+                "composition of ingredients",
+                "composition of mixture",
+                "composition of dry and wet ingredients",
+                "composition of mixture in bowl",
+                "composition of flour and salt"
+            ],
+            [
+                "cleanness of bowl"
+            ]
+        ],
+        [
+            [
+                "moisture of mixing bowl",
+                "wetness of mixing bowl",
+                "moisture of ingredients",
+                "wetness of ingredients",
+                "moisture of mixture",
+                "wetness of mixture",
+                "moisture of dry and wet ingredients",
+                "wetness of dry and wet ingredients",
+                "moisture of mixture in bowl",
+                "wetness of mixture in bowl",
+                "moisture of flour and salt",
+                "wetness of flour and salt",
+                "composition of mixing bowl",
+                "composition of ingredients",
+                "composition of mixture",
+                "composition of dry and wet ingredients",
+                "composition of mixture in bowl",
+                "composition of flour and salt"
+            ],
+            [
+                "location of oil",
+                "composition of oil"
+            ]
+        ],
+        [
+            [
+                "location of mixing bowl",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry and wet ingredients",
+                "location of mixture in bowl",
+                "location of flour and salt"
+            ],
+            [
+                "location of pastry",
+                "location of dough"
+            ],
+            [
+                "weight of bowl"
+            ],
+            [
+                "area of wax paper"
+            ]
+        ],
+        [
+            [
+                "location of mixing bowl",
+                "location of ingredients",
+                "location of mixture",
+                "location of dry and wet ingredients",
+                "location of mixture in bowl",
+                "location of flour and salt",
+                "temperature of mixing bowl",
+                "temperature of ingredients",
+                "temperature of mixture",
+                "temperature of dry and wet ingredients",
+                "temperature of mixture in bowl",
+                "temperature of flour and salt"
+            ],
+            [
+                "location of pastry",
+                "location of dough",
+                "temperature of pastry",
+                "temperature of dough"
+            ],
+            [
+                "electric conductivity of fridge light",
+                "electric conductivity of fridge door",
+                "openness of fridge light",
+                "openness of fridge door"
+            ]
+        ],
+        [
+            [
+                "size of mixing bowl",
+                "size of ingredients",
+                "size of mixture",
+                "size of dry and wet ingredients",
+                "size of mixture in bowl",
+                "size of flour and salt"
+            ],
+            [
+                "location of pastry",
+                "location of dough"
+            ],
+            [
+                "volume of pie dish",
+                "weight of pie dish",
+                "cleanness of pie dish"
+            ]
+        ],
+        [
+            [
+                "texture of pastry",
+                "texture of dough"
+            ],
+            [
+                "texture of edge",
+                "texture of edges",
+                "texture of fork",
+                "shape of edge",
+                "shape of edges",
+                "shape of fork",
+                "location of edge",
+                "location of edges",
+                "location of fork"
+            ]
+        ]
+    ],
+    "43": [
+        [
+            [
+                "cost of moss",
+                "cost of plant",
+                "cost of fairy moss"
+            ]
+        ],
+        [
+            [
+                "location of container",
+                "location of continer",
+                "location of containter"
+            ]
+        ],
+        [
+            [
+                "volume of container",
+                "volume of continer",
+                "volume of containter"
+            ],
+            [
+                "location of water",
+                "location of bowl contents",
+                "location of bowl",
+                "wetness of water",
+                "wetness of bowl contents",
+                "wetness of bowl",
+                "container of water",
+                "container of bowl contents",
+                "container of bowl"
+            ]
+        ],
+        [
+            [
+                "wetness of moss",
+                "wetness of plant",
+                "wetness of fairy moss",
+                "position of moss",
+                "position of plant",
+                "position of fairy moss"
+            ],
+            [
+                "composition of water",
+                "composition of bowl contents",
+                "composition of bowl"
+            ]
+        ],
+        [
+            [
+                "location of container",
+                "location of continer",
+                "location of containter"
+            ],
+            [
+                "position of water",
+                "position of bowl contents",
+                "position of bowl"
+            ]
+        ],
+        [
+            [
+                "size of moss",
+                "size of plant",
+                "size of fairy moss",
+                "shape of moss",
+                "shape of plant",
+                "shape of fairy moss"
+            ]
+        ]
+    ],
+    "44": [
+        [
+            [
+                "cost of chocolate bars",
+                "cost of chocolate",
+                "cost of chocolates",
+                "cost of choclate"
+            ],
+            [
+                "location of molds, mug, chocolate",
+                "location of ingredients"
+            ]
+        ],
+        [
+            [
+                "texture of chocolate bars",
+                "texture of chocolate",
+                "texture of chocolates",
+                "texture of choclate",
+                "temperature of chocolate bars",
+                "temperature of chocolate",
+                "temperature of chocolates",
+                "temperature of choclate",
+                "location of chocolate bars",
+                "location of chocolate",
+                "location of chocolates",
+                "location of choclate"
+            ],
+            [
+                "power of microwave"
+            ],
+            [
+                "cleanness of spoon"
+            ]
+        ],
+        [
+            [
+                "texture of chocolate bars",
+                "texture of chocolate",
+                "texture of chocolates",
+                "texture of choclate"
+            ],
+            [
+                "container of molds",
+                "container of mold",
+                "fullness of molds",
+                "fullness of mold",
+                "cleanness of molds",
+                "cleanness of mold",
+                "temperature of molds",
+                "temperature of mold",
+                "weight of molds",
+                "weight of mold"
+            ]
+        ],
+        [
+            [
+                "texture of chocolate bars",
+                "texture of chocolate",
+                "texture of chocolates",
+                "texture of choclate",
+                "hardness of chocolate bars",
+                "hardness of chocolate",
+                "hardness of chocolates",
+                "hardness of choclate",
+                "temperature of chocolate bars",
+                "temperature of chocolate",
+                "temperature of chocolates",
+                "temperature of choclate",
+                "ease of release of chocolate bars",
+                "ease of release of chocolate",
+                "ease of release of chocolates",
+                "ease of release of choclate"
+            ],
+            [
+                "temperature of molds",
+                "temperature of mold"
+            ]
+        ],
+        [
+            [
+                "texture of chocolate bars",
+                "texture of chocolate",
+                "texture of chocolates",
+                "texture of choclate",
+                "form of chocolate bars",
+                "shape of chocolate bars",
+                "form of chocolate",
+                "shape of chocolate",
+                "form of chocolates",
+                "shape of chocolates",
+                "form of choclate",
+                "shape of choclate"
+            ],
+            [
+                "fullness of molds",
+                "fullness of mold",
+                "weight of molds",
+                "weight of mold"
+            ]
+        ],
+        [
+            [
+                "texture of chocolate bars",
+                "texture of chocolate",
+                "texture of chocolates",
+                "texture of choclate"
+            ]
+        ]
+    ],
+    "45": [
+        [
+            [
+                "moisture of soap",
+                "moisture of mixture",
+                "moisture of water",
+                "moisture of mixing jar",
+                "moisture of bubble solution",
+                "moisture of bowl",
+                "weight of soap",
+                "weight of mixture",
+                "weight of water",
+                "weight of mixing jar",
+                "weight of bubble solution",
+                "weight of bowl",
+                "location of soap",
+                "location of mixture",
+                "location of water",
+                "location of mixing jar",
+                "location of bubble solution",
+                "location of bowl",
+                "composition of soap",
+                "composition of mixture",
+                "composition of water",
+                "composition of mixing jar",
+                "composition of bubble solution",
+                "composition of bowl",
+                "fullness of soap",
+                "fullness of mixture",
+                "fullness of water",
+                "fullness of mixing jar",
+                "fullness of bubble solution",
+                "fullness of bowl"
+            ],
+            [
+                "composition of water surface"
+            ]
+        ],
+        [],
+        [
+            [
+                "shape of wire",
+                "shape of hanger",
+                "shape of bubble want",
+                "shape of coat hanger"
+            ]
+        ],
+        [
+            [
+                "shape of wire",
+                "shape of hanger",
+                "shape of bubble want",
+                "shape of coat hanger",
+                "use of wire",
+                "use of hanger",
+                "use of bubble want",
+                "use of coat hanger"
+            ]
+        ],
+        [
+            [
+                "location of bubbles"
+            ],
+            [
+                "location of wire",
+                "location of hanger",
+                "location of bubble want",
+                "location of coat hanger"
+            ],
+            [
+                "location of person"
+            ]
+        ],
+        [
+            [
+                "location of bubbles"
+            ],
+            [
+                "wetness of wire",
+                "wetness of hanger",
+                "wetness of bubble want",
+                "wetness of coat hanger"
+            ]
+        ]
+    ],
+    "46": [
+        [
+            [
+                "container of trash bags",
+                "container of waste baskets",
+                "container of waste basket",
+                "container of trash cans",
+                "container of trash bag",
+                "container of trash",
+                "location of trash bags",
+                "location of waste baskets",
+                "location of waste basket",
+                "location of trash cans",
+                "location of trash bag",
+                "location of trash"
+            ],
+            [
+                "messiness of house",
+                "cleanness of house",
+                "messiness of rooms",
+                "cleanness of rooms"
+            ],
+            [
+                "location of straw items",
+                "location of items",
+                "messiness of straw items",
+                "messiness of items"
+            ]
+        ],
+        [
+            [
+                "messiness of house",
+                "cleanness of house",
+                "messiness of rooms",
+                "cleanness of rooms",
+                "cleanness of house",
+                "cleanness of rooms"
+            ],
+            [
+                "cleanness of glass surfaces",
+                "cleanness of surfaces"
+            ],
+            [
+                "location of dust",
+                "location of duster"
+            ]
+        ],
+        [
+            [
+                "container of trash bags",
+                "container of waste baskets",
+                "container of waste basket",
+                "container of trash cans",
+                "container of trash bag",
+                "container of trash",
+                "location of trash bags",
+                "location of waste baskets",
+                "location of waste basket",
+                "location of trash cans",
+                "location of trash bag",
+                "location of trash",
+                "weight of trash bags",
+                "weight of waste baskets",
+                "weight of waste basket",
+                "weight of trash cans",
+                "weight of trash bag",
+                "weight of trash",
+                "shape of trash bags",
+                "shape of waste baskets",
+                "shape of waste basket",
+                "shape of trash cans",
+                "shape of trash bag",
+                "shape of trash"
+            ]
+        ],
+        [
+            [
+                "cleanness of glass surfaces",
+                "cleanness of surfaces",
+                "wetness of glass surfaces",
+                "wetness of surfaces"
+            ],
+            [
+                "location of spray cleaner"
+            ]
+        ],
+        [
+            [
+                "cleanness of rugs",
+                "cleanness of throw rugs and inside door mats",
+                "cleanness of throw rugs",
+                "cleanness of door mats",
+                "cleanness of mats"
+            ],
+            [
+                "location of dust",
+                "location of duster"
+            ]
+        ],
+        [
+            [
+                "cleanness of house",
+                "cleanness of rooms"
+            ]
+        ]
+    ],
+    "47": [
+        [
+            [
+                "availability of gems"
+            ]
+        ],
+        [
+            [
+                "location of stuff"
+            ]
+        ],
+        [
+            [
+                "location of screens"
+            ]
+        ],
+        [
+            [
+                "availability of kids room",
+                "availability of living/dining room",
+                "availability of master bedroom",
+                "availability of living room"
+            ]
+        ],
+        [
+            [
+                "availability of outside area",
+                "step of outside area"
+            ]
+        ],
+        []
+    ],
+    "48": [
+        [
+            [
+                "container of pitcher",
+                "wetness of pitcher",
+                "cleanness of pitcher",
+                "weight of pitcher"
+            ],
+            [
+                "location of rum and coconut",
+                "location of liquid",
+                "location of ingredients",
+                "location of mixture"
+            ],
+            [
+                "locaion of rum"
+            ]
+        ],
+        [
+            [
+                "composition of rum and coconut",
+                "composition of liquid",
+                "composition of ingredients",
+                "composition of mixture"
+            ],
+            [
+                "cleanness of mixing spoon",
+                "cleanness of spoon",
+                "location of mixing spoon",
+                "location of spoon",
+                "wetness of mixing spoon",
+                "wetness of spoon"
+            ]
+        ],
+        [
+            [
+                "weight of refrigerator",
+                "fullness of refrigerator"
+            ],
+            [
+                "location of rum and coconut",
+                "location of liquid",
+                "location of ingredients",
+                "location of mixture",
+                "temperature of rum and coconut",
+                "temperature of liquid",
+                "temperature of ingredients",
+                "temperature of mixture"
+            ]
+        ],
+        [
+            [
+                "container of pitcher",
+                "weight of pitcher",
+                "cleanness of pitcher"
+            ],
+            [
+                "cleanness of glass",
+                "cleanness of tall glasses",
+                "cleanness of side of each glass",
+                "cleanness of glasses",
+                "wetness of glass",
+                "wetness of tall glasses",
+                "wetness of side of each glass",
+                "wetness of glasses",
+                "weight of glass",
+                "weight of tall glasses",
+                "weight of side of each glass",
+                "weight of glasses"
+            ],
+            [
+                "location of rum and coconut",
+                "location of liquid",
+                "location of ingredients",
+                "location of mixture"
+            ]
+        ],
+        [
+            [
+                "cleanness of glass",
+                "cleanness of tall glasses",
+                "cleanness of side of each glass",
+                "cleanness of glasses",
+                "taste of glass",
+                "taste of tall glasses",
+                "taste of side of each glass",
+                "taste of glasses",
+                "weight of glass",
+                "weight of tall glasses",
+                "weight of side of each glass",
+                "weight of glasses",
+                "decoration of glass",
+                "decoration of tall glasses",
+                "decoration of side of each glass",
+                "decoration of glasses"
+            ],
+            [
+                "shape of honeydew",
+                "shape of honeydew melon",
+                "size of honeydew",
+                "size of honeydew melon",
+                "location of honeydew",
+                "location of honeydew melon"
+            ]
+        ],
+        [
+            [
+                "completion of task"
+            ]
+        ]
+    ],
+    "49": [
+        [
+            [
+                "volume of blender",
+                "volume of contents of blender",
+                "volume of blender blades",
+                "volume of the blender",
+                "cleanness of blender",
+                "cleanness of contents of blender",
+                "cleanness of blender blades",
+                "cleanness of the blender",
+                "wetness of blender",
+                "wetness of contents of blender",
+                "wetness of blender blades",
+                "wetness of the blender",
+                "container of blender",
+                "container of contents of blender",
+                "container of blender blades",
+                "container of the blender"
+            ],
+            [
+                "size of the ingredients",
+                "size of the pineapple",
+                "size of ingredients",
+                "size of the sugar or syrup",
+                "size of pineapple",
+                "location of the ingredients",
+                "location of the pineapple",
+                "location of ingredients",
+                "location of the sugar or syrup",
+                "location of pineapple",
+                "shape of the ingredients",
+                "shape of the pineapple",
+                "shape of ingredients",
+                "shape of the sugar or syrup",
+                "shape of pineapple",
+                "temperature of the ingredients",
+                "temperature of the pineapple",
+                "temperature of ingredients",
+                "temperature of the sugar or syrup",
+                "temperature of pineapple"
+            ]
+        ],
+        [
+            [
+                "location of the milk",
+                "location of milk"
+            ],
+            [
+                "location of extract",
+                "location of the extract"
+            ],
+            [
+                "volume of blender",
+                "volume of contents of blender",
+                "volume of blender blades",
+                "volume of the blender",
+                "weight of blender",
+                "weight of contents of blender",
+                "weight of blender blades",
+                "weight of the blender"
+            ],
+            [
+                "location of the ingredients",
+                "location of the pineapple",
+                "location of ingredients",
+                "location of the sugar or syrup",
+                "location of pineapple",
+                "wetness of the ingredients",
+                "wetness of the pineapple",
+                "wetness of ingredients",
+                "wetness of the sugar or syrup",
+                "wetness of pineapple"
+            ]
+        ],
+        [
+            [
+                "composition of blender",
+                "composition of contents of blender",
+                "composition of blender blades",
+                "composition of the blender",
+                "power of blender",
+                "power of contents of blender",
+                "power of blender blades",
+                "power of the blender",
+                "movement of blender",
+                "movement of contents of blender",
+                "movement of blender blades",
+                "movement of the blender"
+            ],
+            [
+                "composition of the ingredients",
+                "composition of the pineapple",
+                "composition of ingredients",
+                "composition of the sugar or syrup",
+                "composition of pineapple",
+                "temperature of the ingredients",
+                "temperature of the pineapple",
+                "temperature of ingredients",
+                "temperature of the sugar or syrup",
+                "temperature of pineapple",
+                "texture of the ingredients",
+                "texture of the pineapple",
+                "texture of ingredients",
+                "texture of the sugar or syrup",
+                "texture of pineapple"
+            ]
+        ],
+        [
+            [
+                "volume of blender",
+                "volume of contents of blender",
+                "volume of blender blades",
+                "volume of the blender",
+                "container of blender",
+                "container of contents of blender",
+                "container of blender blades",
+                "container of the blender"
+            ],
+            [
+                "volume of the baking dish",
+                "volume of the plate",
+                "volume of the wax paper",
+                "volume of baking dish",
+                "weight of the baking dish",
+                "weight of the plate",
+                "weight of the wax paper",
+                "weight of baking dish",
+                "cleanness of the baking dish",
+                "cleanness of the plate",
+                "cleanness of the wax paper",
+                "cleanness of baking dish",
+                "wetness of the baking dish",
+                "wetness of the plate",
+                "wetness of the wax paper",
+                "wetness of baking dish"
+            ],
+            [
+                "location of the mixture",
+                "location of the sherbet",
+                "location of sherbet",
+                "location of mixture"
+            ]
+        ],
+        [
+            [
+                "temperature of the baking dish",
+                "temperature of the plate",
+                "temperature of the wax paper",
+                "temperature of baking dish",
+                "location of the baking dish",
+                "location of the plate",
+                "location of the wax paper",
+                "location of baking dish"
+            ],
+            [
+                "volume of the refrigerator",
+                "volume of freezer",
+                "weight of the refrigerator",
+                "weight of freezer"
+            ],
+            [
+                "location of the mixture",
+                "location of the sherbet",
+                "location of sherbet",
+                "location of mixture",
+                "temperature of the mixture",
+                "temperature of the sherbet",
+                "temperature of sherbet",
+                "temperature of mixture"
+            ]
+        ],
+        [
+            [
+                "volume of the baking dish",
+                "volume of the plate",
+                "volume of the wax paper",
+                "volume of baking dish",
+                "weight of the baking dish",
+                "weight of the plate",
+                "weight of the wax paper",
+                "weight of baking dish",
+                "location of the baking dish",
+                "location of the plate",
+                "location of the wax paper",
+                "location of baking dish",
+                "cleanness of the baking dish",
+                "cleanness of the plate",
+                "cleanness of the wax paper",
+                "cleanness of baking dish"
+            ],
+            [
+                "wetness of scoop",
+                "cleanness of scoop"
+            ],
+            [
+                "location of the mixture",
+                "location of the sherbet",
+                "location of sherbet",
+                "location of mixture",
+                "size of the mixture",
+                "size of the sherbet",
+                "size of sherbet",
+                "size of mixture",
+                "shape of the mixture",
+                "shape of the sherbet",
+                "shape of sherbet",
+                "shape of mixture"
+            ]
+        ]
+    ],
+    "50": [
+        [
+            [
+                "cleanness of ketchup bottle",
+                "cleanness of bottle",
+                "wetness of ketchup bottle",
+                "wetness of bottle"
+            ],
+            [
+                "wetness of sink",
+                "wetness of scrubber",
+                "cleanness of sink",
+                "cleanness of scrubber"
+            ],
+            [
+                "power of faucet"
+            ],
+            [
+                "wetness of hands"
+            ]
+        ],
+        [
+            [
+                "location of funnel"
+            ]
+        ],
+        [
+            [
+                "container of pancake batter",
+                "container of bowl",
+                "container of batter",
+                "emptiness of pancake batter",
+                "emptiness of bowl",
+                "emptiness of batter"
+            ],
+            [
+                "cleanness of ketchup bottle",
+                "cleanness of bottle",
+                "weight of ketchup bottle",
+                "weight of bottle",
+                "emptiness of ketchup bottle",
+                "emptiness of bottle"
+            ],
+            [
+                "cleanness of funnel",
+                "wetness of funnel"
+            ]
+        ],
+        [
+            [
+                "orientation of ketchup bottle",
+                "orientation of bottle",
+                "clarity of ketchup bottle",
+                "clarity of bottle"
+            ],
+            [
+                "location of pen"
+            ]
+        ],
+        [
+            [
+                "temperature of pancake batter",
+                "temperature of bowl",
+                "temperature of batter"
+            ],
+            [
+                "location of ketchup bottle",
+                "location of bottle",
+                "temperature of ketchup bottle",
+                "temperature of bottle"
+            ],
+            [
+                "volume of fridge"
+            ]
+        ],
+        [
+            [
+                "container of pancake batter",
+                "container of bowl",
+                "container of batter"
+            ],
+            [
+                "cleanness of pan",
+                "emptiness of pan"
+            ]
+        ]
+    ],
+    "51": [
+        [
+            [
+                "fullness of soap bottle",
+                "weight of soap bottle",
+                "fullness of soap",
+                "weight of soap",
+                "fullness of water and dish soap on window",
+                "weight of water and dish soap on window",
+                "fullness of water and dish soap",
+                "weight of water and dish soap",
+                "location of soap bottle",
+                "location of soap",
+                "location of water and dish soap on window",
+                "location of water and dish soap",
+                "mixture of soap bottle",
+                "mixture of soap",
+                "mixture of water and dish soap on window",
+                "mixture of water and dish soap"
+            ],
+            [
+                "temperature of bucket",
+                "moisture of bucket",
+                "wetness of bucket",
+                "weight of bucket",
+                "fullness of bucket"
+            ],
+            [
+                "location of items needed"
+            ]
+        ],
+        [
+            [
+                "moisture of window",
+                "wetness of window",
+                "temperature of window"
+            ],
+            [
+                "location of soap bottle",
+                "location of soap",
+                "location of water and dish soap on window",
+                "location of water and dish soap"
+            ],
+            [
+                "moisture of paint"
+            ],
+            [
+                "moisture of sponge",
+                "moisture of cloth",
+                "location of sponge",
+                "location of cloth"
+            ],
+            [
+                "weight of bucket",
+                "fullness of bucket"
+            ]
+        ],
+        [
+            [
+                "openness of razor blade package",
+                "composition of razor blade package"
+            ],
+            [
+                "position of razor blade",
+                "location of razor blade",
+                "position of blade",
+                "location of blade",
+                "contact of razor blade",
+                "contact of blade"
+            ]
+        ],
+        [
+            [
+                "cleanness of window",
+                "transparency of window",
+                "weight of window"
+            ],
+            [
+                "power of paint",
+                "location of paint",
+                "wholeness of paint"
+            ],
+            [
+                "sharpness of razor blade",
+                "sharpness of blade",
+                "cleanness of razor blade",
+                "cleanness of blade"
+            ]
+        ],
+        [
+            [
+                "moisture of window",
+                "wetness of window",
+                "cleanness of window"
+            ],
+            [
+                "fullness of glass cleaner bottle",
+                "weight of glass cleaner bottle"
+            ],
+            [
+                "location of paint"
+            ],
+            [
+                "location of solvent",
+                "location of glass cleaner",
+                "location of chemicals",
+                "location of chemical solvents"
+            ],
+            [
+                "location of paint splatter",
+                "location of small paint splatters",
+                "location of all of the paint",
+                "location of splatters",
+                "wholeness of paint splatter",
+                "wholeness of small paint splatters",
+                "wholeness of all of the paint",
+                "wholeness of splatters"
+            ],
+            [
+                "wetness of sponge",
+                "cleanness of sponge",
+                "wetness of cloth",
+                "cleanness of cloth"
+            ]
+        ],
+        [
+            [
+                "transparency of window",
+                "cleanness of window"
+            ],
+            [
+                "fullness of solvent container",
+                "weight of solvent container"
+            ],
+            [
+                "location of solvent",
+                "location of glass cleaner",
+                "location of chemicals",
+                "location of chemical solvents"
+            ],
+            [
+                "color of paint splatter",
+                "color of small paint splatters",
+                "color of all of the paint",
+                "color of splatters",
+                "location of paint splatter",
+                "location of small paint splatters",
+                "location of all of the paint",
+                "location of splatters",
+                "texture of paint splatter",
+                "texture of small paint splatters",
+                "texture of all of the paint",
+                "texture of splatters"
+            ],
+            [
+                "cleanness of sponge",
+                "cleanness of cloth"
+            ]
+        ]
+    ],
+    "52": [
+        [
+            [
+                "connection of microphone",
+                "electric conductivity of microphone",
+                "availability of microphone",
+                "operation of microphone"
+            ],
+            [
+                "selection of voice panel",
+                "selection of panels",
+                "selection of panel",
+                "selection of audio options",
+                "selection of menu options"
+            ]
+        ],
+        [
+            [
+                "knowledge of voice panel",
+                "visibility of voice panel",
+                "knowledge of panels",
+                "visibility of panels",
+                "knowledge of panel",
+                "visibility of panel",
+                "knowledge of audio options",
+                "visibility of audio options",
+                "knowledge of menu options",
+                "visibility of menu options",
+                "availability of voice panel",
+                "availability of panels",
+                "availability of panel",
+                "availability of audio options",
+                "availability of menu options"
+            ]
+        ],
+        [
+            [
+                "knowledge of voice panel",
+                "visibility of voice panel",
+                "knowledge of panels",
+                "visibility of panels",
+                "knowledge of panel",
+                "visibility of panel",
+                "knowledge of audio options",
+                "visibility of audio options",
+                "knowledge of menu options",
+                "visibility of menu options",
+                "availability of voice panel",
+                "availability of panels",
+                "availability of panel",
+                "availability of audio options",
+                "availability of menu options"
+            ]
+        ],
+        [
+            [
+                "connection of microphone"
+            ],
+            [
+                "availability of communication",
+                "availability of voice",
+                "sound of communication",
+                "sound of voice"
+            ],
+            [
+                "volume of team",
+                "volume of person"
+            ]
+        ],
+        [
+            [
+                "availability of microphone"
+            ],
+            [
+                "stability of communication",
+                "stability of voice",
+                "sound of communication",
+                "sound of voice"
+            ]
+        ],
+        [
+            [
+                "availability of game plans",
+                "availability of advice",
+                "ownership of game plans",
+                "ownership of advice"
+            ],
+            [
+                "stability of team",
+                "stability of person"
+            ]
+        ]
+    ],
+    "53": [
+        [
+            [
+                "location of oil/water/pasta/salt",
+                "location of macaroni",
+                "temperature of oil/water/pasta/salt",
+                "speed of oil/water/pasta/salt",
+                "thermal conductivity of oil/water/pasta/salt",
+                "time of oil/water/pasta/salt",
+                "cooking of oil/water/pasta/salt",
+                "temperature of macaroni",
+                "speed of macaroni",
+                "thermal conductivity of macaroni",
+                "time of macaroni",
+                "cooking of macaroni",
+                "odor of oil/water/pasta/salt",
+                "texture of oil/water/pasta/salt",
+                "taste of oil/water/pasta/salt",
+                "oiliness of oil/water/pasta/salt",
+                "color of oil/water/pasta/salt",
+                "odor of macaroni",
+                "texture of macaroni",
+                "taste of macaroni",
+                "oiliness of macaroni",
+                "color of macaroni"
+            ],
+            [
+                "location of oil"
+            ],
+            [
+                "composition of sun",
+                "mixture of sun",
+                "composition of spatula",
+                "mixture of spatula",
+                "composition of fork",
+                "mixture of fork",
+                "composition of pan",
+                "mixture of pan",
+                "composition of oil/macaroni",
+                "mixture of oil/macaroni",
+                "composition of flavorings macaroni",
+                "mixture of flavorings macaroni",
+                "composition of salt",
+                "mixture of salt",
+                "composition of mixture",
+                "mixture of mixture",
+                "composition of salt and oil",
+                "mixture of salt and oil",
+                "composition of saucepan",
+                "mixture of saucepan",
+                "composition of stirring tool",
+                "mixture of stirring tool",
+                "location of sun",
+                "location of spatula",
+                "location of fork",
+                "location of pan",
+                "location of oil/macaroni",
+                "location of flavorings macaroni",
+                "location of salt",
+                "location of mixture",
+                "location of salt and oil",
+                "location of saucepan",
+                "location of stirring tool"
+            ],
+            [
+                "temperature of water",
+                "temperature of boiling pot",
+                "fullness of water",
+                "fullness of boiling pot"
+            ],
+            [
+                "power of stove burner"
+            ]
+        ],
+        [
+            [
+                "temperature of oil/water/pasta/salt",
+                "speed of oil/water/pasta/salt",
+                "thermal conductivity of oil/water/pasta/salt",
+                "time of oil/water/pasta/salt",
+                "cooking of oil/water/pasta/salt",
+                "temperature of macaroni",
+                "speed of macaroni",
+                "thermal conductivity of macaroni",
+                "time of macaroni",
+                "cooking of macaroni",
+                "odor of oil/water/pasta/salt",
+                "texture of oil/water/pasta/salt",
+                "taste of oil/water/pasta/salt",
+                "oiliness of oil/water/pasta/salt",
+                "color of oil/water/pasta/salt",
+                "odor of macaroni",
+                "texture of macaroni",
+                "taste of macaroni",
+                "oiliness of macaroni",
+                "color of macaroni"
+            ],
+            [
+                "location of sun",
+                "location of spatula",
+                "location of fork",
+                "location of pan",
+                "location of oil/macaroni",
+                "location of flavorings macaroni",
+                "location of salt",
+                "location of mixture",
+                "location of salt and oil",
+                "location of saucepan",
+                "location of stirring tool"
+            ],
+            [
+                "location of water",
+                "location of boiling pot"
+            ],
+            [
+                "volume of sink",
+                "volume of strainer",
+                "location of sink",
+                "location of strainer",
+                "cleanness of sink",
+                "cleanness of strainer",
+                "wetness of sink",
+                "wetness of strainer"
+            ],
+            [
+                "time of task",
+                "time of the time",
+                "time of you",
+                "age of task",
+                "age of the time",
+                "age of you"
+            ]
+        ],
+        [
+            [
+                "location of oil/water/pasta/salt",
+                "location of macaroni",
+                "temperature of oil/water/pasta/salt",
+                "speed of oil/water/pasta/salt",
+                "thermal conductivity of oil/water/pasta/salt",
+                "time of oil/water/pasta/salt",
+                "cooking of oil/water/pasta/salt",
+                "temperature of macaroni",
+                "speed of macaroni",
+                "thermal conductivity of macaroni",
+                "time of macaroni",
+                "cooking of macaroni",
+                "odor of oil/water/pasta/salt",
+                "texture of oil/water/pasta/salt",
+                "taste of oil/water/pasta/salt",
+                "oiliness of oil/water/pasta/salt",
+                "color of oil/water/pasta/salt",
+                "odor of macaroni",
+                "texture of macaroni",
+                "taste of macaroni",
+                "oiliness of macaroni",
+                "color of macaroni"
+            ],
+            [
+                "temperature of oil",
+                "location of oil"
+            ],
+            [
+                "cleanness of sun",
+                "cleanness of spatula",
+                "cleanness of fork",
+                "cleanness of pan",
+                "cleanness of oil/macaroni",
+                "cleanness of flavorings macaroni",
+                "cleanness of salt",
+                "cleanness of mixture",
+                "cleanness of salt and oil",
+                "cleanness of saucepan",
+                "cleanness of stirring tool",
+                "weight of sun",
+                "weight of spatula",
+                "weight of fork",
+                "weight of pan",
+                "weight of oil/macaroni",
+                "weight of flavorings macaroni",
+                "weight of salt",
+                "weight of mixture",
+                "weight of salt and oil",
+                "weight of saucepan",
+                "weight of stirring tool",
+                "fullness of sun",
+                "fullness of spatula",
+                "fullness of fork",
+                "fullness of pan",
+                "fullness of oil/macaroni",
+                "fullness of flavorings macaroni",
+                "fullness of salt",
+                "fullness of mixture",
+                "fullness of salt and oil",
+                "fullness of saucepan",
+                "fullness of stirring tool",
+                "composition of sun",
+                "composition of spatula",
+                "composition of fork",
+                "composition of pan",
+                "composition of oil/macaroni",
+                "composition of flavorings macaroni",
+                "composition of salt",
+                "composition of mixture",
+                "composition of salt and oil",
+                "composition of saucepan",
+                "composition of stirring tool",
+                "location of sun",
+                "location of spatula",
+                "location of fork",
+                "location of pan",
+                "location of oil/macaroni",
+                "location of flavorings macaroni",
+                "location of salt",
+                "location of mixture",
+                "location of salt and oil",
+                "location of saucepan",
+                "location of stirring tool"
+            ]
+        ],
+        [
+            [
+                "odor of oil/water/pasta/salt",
+                "texture of oil/water/pasta/salt",
+                "taste of oil/water/pasta/salt",
+                "oiliness of oil/water/pasta/salt",
+                "color of oil/water/pasta/salt",
+                "odor of macaroni",
+                "texture of macaroni",
+                "taste of macaroni",
+                "oiliness of macaroni",
+                "color of macaroni"
+            ],
+            [
+                "fullness of sun",
+                "fullness of spatula",
+                "fullness of fork",
+                "fullness of pan",
+                "fullness of oil/macaroni",
+                "fullness of flavorings macaroni",
+                "fullness of salt",
+                "fullness of mixture",
+                "fullness of salt and oil",
+                "fullness of saucepan",
+                "fullness of stirring tool",
+                "composition of sun",
+                "composition of spatula",
+                "composition of fork",
+                "composition of pan",
+                "composition of oil/macaroni",
+                "composition of flavorings macaroni",
+                "composition of salt",
+                "composition of mixture",
+                "composition of salt and oil",
+                "composition of saucepan",
+                "composition of stirring tool",
+                "location of sun",
+                "location of spatula",
+                "location of fork",
+                "location of pan",
+                "location of oil/macaroni",
+                "location of flavorings macaroni",
+                "location of salt",
+                "location of mixture",
+                "location of salt and oil",
+                "location of saucepan",
+                "location of stirring tool"
+            ],
+            [
+                "location of soy sauce",
+                "location of ajino moto",
+                "location of white vinegar",
+                "location of red chilli powder"
+            ],
+            [
+                "mixture of ingredients",
+                "mixture of food"
+            ]
+        ],
+        [
+            [
+                "temperature of oil/water/pasta/salt",
+                "speed of oil/water/pasta/salt",
+                "thermal conductivity of oil/water/pasta/salt",
+                "time of oil/water/pasta/salt",
+                "cooking of oil/water/pasta/salt",
+                "temperature of macaroni",
+                "speed of macaroni",
+                "thermal conductivity of macaroni",
+                "time of macaroni",
+                "cooking of macaroni"
+            ],
+            [
+                "temperature of sun",
+                "temperature of spatula",
+                "temperature of fork",
+                "temperature of pan",
+                "temperature of oil/macaroni",
+                "temperature of flavorings macaroni",
+                "temperature of salt",
+                "temperature of mixture",
+                "temperature of salt and oil",
+                "temperature of saucepan",
+                "temperature of stirring tool",
+                "cleanness of sun",
+                "cleanness of spatula",
+                "cleanness of fork",
+                "cleanness of pan",
+                "cleanness of oil/macaroni",
+                "cleanness of flavorings macaroni",
+                "cleanness of salt",
+                "cleanness of mixture",
+                "cleanness of salt and oil",
+                "cleanness of saucepan",
+                "cleanness of stirring tool",
+                "location of sun",
+                "location of spatula",
+                "location of fork",
+                "location of pan",
+                "location of oil/macaroni",
+                "location of flavorings macaroni",
+                "location of salt",
+                "location of mixture",
+                "location of salt and oil",
+                "location of saucepan",
+                "location of stirring tool"
+            ],
+            [
+                "age of task",
+                "age of the time",
+                "age of you"
+            ],
+            [
+                "mixture of ingredients",
+                "mixture of food",
+                "temperature of ingredients",
+                "temperature of food"
+            ]
+        ],
+        [
+            [
+                "location of oil/water/pasta/salt",
+                "location of macaroni",
+                "temperature of oil/water/pasta/salt",
+                "speed of oil/water/pasta/salt",
+                "thermal conductivity of oil/water/pasta/salt",
+                "time of oil/water/pasta/salt",
+                "cooking of oil/water/pasta/salt",
+                "temperature of macaroni",
+                "speed of macaroni",
+                "thermal conductivity of macaroni",
+                "time of macaroni",
+                "cooking of macaroni"
+            ],
+            [
+                "location of chilled drinks",
+                "location of drinking glass",
+                "location of drinks"
+            ],
+            [
+                "cleanness of sun",
+                "cleanness of spatula",
+                "cleanness of fork",
+                "cleanness of pan",
+                "cleanness of oil/macaroni",
+                "cleanness of flavorings macaroni",
+                "cleanness of salt",
+                "cleanness of mixture",
+                "cleanness of salt and oil",
+                "cleanness of saucepan",
+                "cleanness of stirring tool"
+            ],
+            [
+                "cleanness of serving dish",
+                "cleanness of plate",
+                "fullness of serving dish",
+                "fullness of plate",
+                "location of serving dish",
+                "location of plate"
+            ],
+            [
+                "completion of task",
+                "completion of the time",
+                "completion of you"
+            ],
+            [
+                "location of ingredients",
+                "location of food",
+                "completion of ingredients",
+                "completion of food"
+            ]
+        ]
+    ],
+    "54": [
+        [
+            [
+                "length of elastic",
+                "size of elastic",
+                "length of the strip of elastic",
+                "size of the strip of elastic",
+                "shape of elastic",
+                "shape of the strip of elastic",
+                "location of elastic",
+                "location of the strip of elastic"
+            ]
+        ],
+        [
+            [
+                "location of the beads",
+                "location of bead",
+                "location of the bead",
+                "location of small bead",
+                "location of beads",
+                "organization of the beads",
+                "organization of bead",
+                "organization of the bead",
+                "organization of small bead",
+                "organization of beads",
+                "shape of the beads",
+                "shape of bead",
+                "shape of the bead",
+                "shape of small bead",
+                "shape of beads"
+            ],
+            [
+                "length of elastic",
+                "size of elastic",
+                "length of the strip of elastic",
+                "size of the strip of elastic",
+                "color of elastic",
+                "color of the strip of elastic",
+                "weight of elastic",
+                "weight of the strip of elastic"
+            ]
+        ],
+        [
+            [
+                "location of the beads",
+                "location of bead",
+                "location of the bead",
+                "location of small bead",
+                "location of beads"
+            ],
+            [
+                "length of elastic",
+                "size of elastic",
+                "length of the strip of elastic",
+                "size of the strip of elastic",
+                "color of elastic",
+                "color of the strip of elastic"
+            ],
+            [
+                "orientation of elastic ends",
+                "orientation of tail",
+                "orientation of tails"
+            ]
+        ],
+        [
+            [
+                "location of the beads",
+                "location of bead",
+                "location of the bead",
+                "location of small bead",
+                "location of beads",
+                "composition of the beads",
+                "composition of bead",
+                "composition of the bead",
+                "composition of small bead",
+                "composition of beads"
+            ],
+            [
+                "length of elastic",
+                "size of elastic",
+                "length of the strip of elastic",
+                "size of the strip of elastic",
+                "color of elastic",
+                "color of the strip of elastic",
+                "shape of elastic",
+                "shape of the strip of elastic"
+            ]
+        ],
+        [
+            [
+                "shape of the beads",
+                "shape of bead",
+                "shape of the bead",
+                "shape of small bead",
+                "shape of beads"
+            ],
+            [
+                "orientation of elastic ends",
+                "orientation of tail",
+                "orientation of tails"
+            ]
+        ],
+        [
+            [
+                "focus of you"
+            ]
+        ]
+    ],
+    "55": [
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "cleanness of quality undies",
+                "cleanness of underpants",
+                "cleanness of underwears",
+                "cleanness of underwear",
+                "cleanness of underwear strips",
+                "cleanness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "use of quality undies",
+                "use of underpants",
+                "use of underwears",
+                "use of underwear",
+                "use of underwear strips",
+                "use of bundle of old underwear"
+            ]
+        ],
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "size of quality undies",
+                "size of underpants",
+                "size of underwears",
+                "size of underwear",
+                "size of underwear strips",
+                "size of bundle of old underwear",
+                "use of quality undies",
+                "use of underpants",
+                "use of underwears",
+                "use of underwear",
+                "use of underwear strips",
+                "use of bundle of old underwear"
+            ],
+            [
+                "form of garden plants",
+                "form of plants",
+                "decoration of garden plants",
+                "decoration of plants"
+            ],
+            [
+                "location of scissors"
+            ]
+        ],
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "size of quality undies",
+                "size of underpants",
+                "size of underwears",
+                "size of underwear",
+                "size of underwear strips",
+                "size of bundle of old underwear",
+                "shape of quality undies",
+                "shape of underpants",
+                "shape of underwears",
+                "shape of underwear",
+                "shape of underwear strips",
+                "shape of bundle of old underwear",
+                "use of quality undies",
+                "use of underpants",
+                "use of underwears",
+                "use of underwear",
+                "use of underwear strips",
+                "use of bundle of old underwear"
+            ],
+            [
+                "location of scissors"
+            ]
+        ],
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "use of quality undies",
+                "use of underpants",
+                "use of underwears",
+                "use of underwear",
+                "use of underwear strips",
+                "use of bundle of old underwear"
+            ],
+            [
+                "location of pillow case",
+                "content of pillow case"
+            ]
+        ],
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "use of quality undies",
+                "use of underpants",
+                "use of underwears",
+                "use of underwear",
+                "use of underwear strips",
+                "use of bundle of old underwear"
+            ],
+            [
+                "look of pants",
+                "look of child",
+                "covering of pants",
+                "covering of child"
+            ]
+        ],
+        [
+            [
+                "newness of quality undies",
+                "newness of underpants",
+                "newness of underwears",
+                "newness of underwear",
+                "newness of underwear strips",
+                "newness of bundle of old underwear",
+                "location of quality undies",
+                "location of underpants",
+                "location of underwears",
+                "location of underwear",
+                "location of underwear strips",
+                "location of bundle of old underwear",
+                "ownership of quality undies",
+                "ownership of underpants",
+                "ownership of underwears",
+                "ownership of underwear",
+                "ownership of underwear strips",
+                "ownership of bundle of old underwear"
+            ],
+            [
+                "location of donation box"
+            ]
+        ]
+    ]
+}

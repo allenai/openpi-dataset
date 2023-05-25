@@ -1,0 +1,5784 @@
+{
+    "How to Make a Simple Inside Windshield Cleaner": {
+        "Purchase a blackboard eraser.": {
+            "bank account": [
+                3,
+                0
+            ],
+            "money": [
+                3,
+                0
+            ],
+            "eraser": [
+                13,
+                0
+            ],
+            "receipt printer": [
+                1,
+                0
+            ],
+            "hand": [
+                1,
+                0
+            ],
+            "cash register": [
+                1,
+                0
+            ],
+            "eraser shelf at the store": [
+                3,
+                0
+            ],
+            "bag": [
+                1,
+                0
+            ],
+            "the blackboard eraser": [
+                2,
+                1
+            ]
+        },
+        "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.": {
+            "glovebox": [
+                3,
+                0
+            ],
+            "glove box": [
+                6,
+                1
+            ],
+            "eraser": [
+                6,
+                0
+            ],
+            "the blackboard eraser": [
+                3,
+                0
+            ]
+        },
+        "Use the eraser to clean the inner side of the windshield.": {
+            "eraser": [
+                14,
+                1
+            ],
+            "Hands": [
+                1,
+                0
+            ],
+            "windshield": [
+                3,
+                0
+            ],
+            "the blackboard eraser": [
+                3,
+                0
+            ],
+            "inside windshield": [
+                3,
+                0
+            ],
+            "debris": [
+                1,
+                0
+            ],
+            "hands": [
+                3,
+                0
+            ]
+        },
+        "Replace after use.": {
+            "eraser": [
+                14,
+                0
+            ],
+            "hands": [
+                3,
+                0
+            ],
+            "the blackboard eraser": [
+                3,
+                0
+            ],
+            "trash": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make Carob Fruit Balls": {
+        "Mix all of the ingredients together.": {
+            "mixing bowl": [
+                2,
+                1
+            ],
+            "spoon": [
+                3,
+                0
+            ],
+            "ingredients": [
+                9,
+                0
+            ],
+            "carob": [
+                1,
+                2
+            ]
+        },
+        "Roll into small balls.": {
+            "bowl": [
+                3,
+                1
+            ],
+            "ingredients": [
+                9,
+                0
+            ],
+            "dough pieces": [
+                3,
+                0
+            ],
+            "dough": [
+                3,
+                0
+            ],
+            "hand": [
+                6,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ]
+        },
+        "Place in the freezer for half an hour.": {
+            "plate": [
+                6,
+                0
+            ],
+            "balls": [
+                17,
+                1
+            ],
+            "time": [
+                1,
+                0
+            ]
+        },
+        "Serve.": {
+            "carob fruit balls": [
+                9,
+                1
+            ]
+        }
+    },
+    "How to Freeze Baked Cookies or Biscuits": {
+        "Place the biscuits or cookies into a rigid, airtight container.": {
+            "biscuits": [
+                3,
+                0
+            ],
+            "dough": [
+                1,
+                0
+            ],
+            "container": [
+                12,
+                0
+            ],
+            "cookies": [
+                7,
+                0
+            ],
+            "the cookies": [
+                3,
+                0
+            ],
+            "counter": [
+                1,
+                0
+            ],
+            "tray": [
+                2,
+                1
+            ],
+            "plate": [
+                1,
+                0
+            ],
+            "hands": [
+                1,
+                0
+            ]
+        },
+        "Separate the biscuits and cookies using freezer paper, baking paper, or foil.": {
+            "cookies": [
+                13,
+                0
+            ],
+            "freezer paper": [
+                8,
+                1
+            ],
+            "the biscuits and cookies": [
+                3,
+                0
+            ],
+            "foil": [
+                4,
+                0
+            ],
+            "aluminum foil": [
+                3,
+                0
+            ],
+            "foil roll": [
+                1,
+                0
+            ]
+        },
+        "Place biscuits in freezer.": {
+            "cookies": [
+                9,
+                1
+            ],
+            "biscuits": [
+                12,
+                0
+            ],
+            "freezer": [
+                2,
+                1
+            ],
+            "the bowl": [
+                3,
+                0
+            ],
+            "freezer door": [
+                1,
+                0
+            ]
+        },
+        "Thaw.": {
+            "biscuits": [
+                9,
+                0
+            ],
+            "cookies": [
+                5,
+                1
+            ],
+            "the aluminum foil": [
+                3,
+                0
+            ],
+            "freezer": [
+                3,
+                0
+            ],
+            "the cookies and biscuits": [
+                6,
+                0
+            ]
+        }
+    },
+    "How to Make a Pipe Cleaner Bird": {
+        "Bend one pipe cleaner in half to form the legs.": {
+            "pipe cleaner": [
+                11,
+                1
+            ],
+            "Pipe cleaner ends": [
+                1,
+                0
+            ],
+            "Pipe cleaner": [
+                1,
+                0
+            ]
+        },
+        "Shape another pipe cleaner to form the body.": {
+            "pipe cleaner": [
+                9,
+                0
+            ],
+            "pipe cleaners": [
+                2,
+                1
+            ]
+        },
+        "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.": {
+            "your fingers": [
+                2,
+                1
+            ],
+            "tip": [
+                3,
+                0
+            ]
+        },
+        "Use 2 pipe cleaners to enlarge the torso.": {
+            "the torso": [
+                5,
+                1
+            ],
+            "pipe cleaners": [
+                6,
+                0
+            ]
+        }
+    },
+    "How to Spool Knit a Winter Hat": {
+        "Knit eighty-four inches of flat web.": {
+            "the yarn": [
+                4,
+                2
+            ],
+            "yarn": [
+                4,
+                2
+            ]
+        },
+        "Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.": {
+            "the yarn": [
+                3,
+                0
+            ],
+            "the webbing": [
+                2,
+                1
+            ]
+        },
+        "Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.": {
+            "the ends": [
+                5,
+                1
+            ],
+            "the webbing": [
+                3,
+                0
+            ],
+            "ends": [
+                1,
+                2
+            ],
+            "the top": [
+                2,
+                1
+            ]
+        },
+        "After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel.": {
+            "the hat": [
+                2,
+                1
+            ],
+            "the piece": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Get a Headshot in Gears of War": {
+        "Sniper \u2014 Simply aim at the head and pull the trigger, unless you&#x27;re the host, in which case you will need to aim in front of where they&#x27;re going.": {
+            "gun": [
+                4,
+                3
+            ],
+            "Muzzle": [
+                1,
+                0
+            ],
+            "trigger": [
+                1,
+                0
+            ],
+            "Bullet": [
+                1,
+                0
+            ],
+            "Magazine": [
+                1,
+                0
+            ],
+            "weapon": [
+                2,
+                1
+            ],
+            "Gun": [
+                1,
+                0
+            ],
+            "Rifle": [
+                1,
+                0
+            ],
+            "you": [
+                2,
+                1
+            ]
+        },
+        "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.": {
+            "Aim": [
+                1,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "Shotgun": [
+                1,
+                0
+            ]
+        },
+        "Pistol \u2014 I&#x27;m not sure because I haven&#x27;t played in a while, but it&#x27;s either six or seven shots to the head with the standard-issue pistol for a headshot.": {
+            "Pistol": [
+                1,
+                0
+            ],
+            "enemy": [
+                1,
+                0
+            ],
+            "Muzzle": [
+                1,
+                0
+            ],
+            "Magazine": [
+                1,
+                0
+            ],
+            "Bullets": [
+                1,
+                0
+            ],
+            "trigger": [
+                3,
+                1
+            ],
+            "Aim": [
+                1,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ]
+        },
+        "BoomShot \u2014 BoomShot headshots are possible \u2014 don&#x27;t let anyone tell you they&#x27;re not but the chance of one happening is about a million to one.": {
+            "weapon": [
+                7,
+                0
+            ],
+            "head": [
+                2,
+                1
+            ],
+            "Ammo": [
+                1,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Connect a Wii to HD TV": {
+        "Plug in your HDMI cord to the cable.": {
+            "hdmi cord": [
+                6,
+                0
+            ],
+            "plug": [
+                3,
+                1
+            ],
+            "the hdmi cord": [
+                3,
+                0
+            ]
+        },
+        "Plug it into your TV&#x27;s HDMI input.": {
+            "hdmi cord": [
+                3,
+                0
+            ],
+            "the hdmi": [
+                3,
+                0
+            ],
+            "tv's hdmi input": [
+                3,
+                0
+            ],
+            "hdmi converter cable": [
+                3,
+                0
+            ]
+        },
+        "Plug it into your wii&#x27;s AV Composite Output instead of putting in the Composite cord that comes with the Wii.": {
+            "cord": [
+                3,
+                0
+            ],
+            "hdmi converter cable": [
+                3,
+                0
+            ],
+            "wii": [
+                2,
+                1
+            ],
+            "wii's av composite output": [
+                3,
+                0
+            ],
+            "the cord": [
+                3,
+                0
+            ]
+        },
+        "Plug your HDMI cord (assuming you have one) into the converter and your TV.": {
+            "hdmi cord": [
+                3,
+                0
+            ],
+            "cord": [
+                4,
+                0
+            ],
+            "tv": [
+                6,
+                0
+            ],
+            "converter": [
+                3,
+                0
+            ],
+            "the hdmi cord": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Fold Bath Towels for Quick Hanging at Home": {
+        "Fold the towel in thirds lengthwise.": {
+            "hand": [
+                2,
+                1
+            ],
+            "towel": [
+                10,
+                2
+            ],
+            "Towel": [
+                1,
+                0
+            ],
+            "the towels": [
+                5,
+                1
+            ],
+            "table": [
+                1,
+                0
+            ],
+            "Towels": [
+                1,
+                0
+            ],
+            "hand muscles": [
+                2,
+                1
+            ]
+        },
+        "Fold in half, and then in half again.": {
+            "the towels": [
+                3,
+                0
+            ],
+            "Area": [
+                1,
+                0
+            ],
+            "towel": [
+                3,
+                0
+            ],
+            "height": [
+                2,
+                1
+            ]
+        },
+        "Store the towel in the linen closet.": {
+            "the towels": [
+                3,
+                0
+            ],
+            "towel": [
+                4,
+                2
+            ],
+            "Towel": [
+                1,
+                0
+            ],
+            "closet": [
+                3,
+                0
+            ]
+        },
+        "To go from the closet for hanging, simply unfold the final fold and hang on the towel rack.": {
+            "towel": [
+                7,
+                2
+            ],
+            "towel rack": [
+                2,
+                1
+            ],
+            "closet": [
+                1,
+                0
+            ],
+            "Towel": [
+                1,
+                0
+            ],
+            "the towels": [
+                2,
+                1
+            ],
+            "final fold": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Be a Spy With Friends": {
+        "Set-up your spy group You will need a trustworthy 2-5 person group.": {
+            "your spy group": [
+                1,
+                2
+            ],
+            "people": [
+                3,
+                1
+            ],
+            "co-conspirators": [
+                2,
+                1
+            ]
+        },
+        "It&#x27;s good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.": {
+            "clubhouse": [
+                1,
+                2
+            ],
+            "Clubhouse": [
+                1,
+                0
+            ],
+            "you": [
+                1,
+                2
+            ]
+        },
+        "Get some gear To be a good spy, you and your friends must have gear that will help with missions.": {
+            "gear": [
+                1,
+                2
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "list": [
+                3,
+                1
+            ],
+            "money": [
+                1,
+                0
+            ]
+        },
+        "Find your first &quot;victim&quot; The victim is the person you will be watching and spying on.": {
+            "you": [
+                1,
+                2
+            ],
+            "You": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Defeat a Thug on Dead Island": {
+        "There is no chance in hell you will kill a Thug using just your bear hands and feet.": {
+            "you": [
+                2,
+                1
+            ],
+            "you thought you": [
+                1,
+                0
+            ]
+        },
+        "Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs&#x27; health is below 50%.": {
+            "you": [
+                3,
+                1
+            ],
+            "grenades": [
+                3,
+                0
+            ],
+            "molotov cocktails": [
+                3,
+                0
+            ],
+            "thug": [
+                2,
+                1
+            ]
+        },
+        "Make sure your guns have enough ammo, and your knives are up to scratch.": {
+            "player": [
+                2,
+                2
+            ],
+            "enough ammo": [
+                2,
+                1
+            ],
+            "knifes": [
+                3,
+                0
+            ],
+            "knives": [
+                4,
+                0
+            ],
+            "guns": [
+                1,
+                0
+            ],
+            "you": [
+                4,
+                0
+            ],
+            "ammo": [
+                3,
+                0
+            ]
+        },
+        "Attack!": {
+            "you": [
+                3,
+                0
+            ],
+            "weapons": [
+                4,
+                0
+            ],
+            "zombies": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Make Rhubarb Cordial": {
+        "Simmer the rhubarb with the sugar, cloves and water.": {
+            "rhubarb": [
+                11,
+                4
+            ],
+            "Stove": [
+                2,
+                0
+            ],
+            "sugar": [
+                4,
+                2
+            ],
+            "cloves": [
+                4,
+                2
+            ],
+            "pot": [
+                3,
+                0
+            ],
+            "Pot": [
+                2,
+                0
+            ],
+            "water": [
+                2,
+                1
+            ]
+        },
+        "Simmer until the rhubarb becomes soft.": {
+            "rhubarb": [
+                5,
+                4
+            ],
+            "water": [
+                2,
+                1
+            ]
+        },
+        "Remove from the heat.": {
+            "cloves": [
+                4,
+                2
+            ],
+            "water": [
+                1,
+                2
+            ],
+            "rhubarb": [
+                7,
+                8
+            ],
+            "stove": [
+                2,
+                1
+            ]
+        },
+        "Add the mint leaves for decoration.": {
+            "cordial": [
+                2,
+                1
+            ],
+            "mint leaves": [
+                3,
+                3
+            ],
+            "rhubarb": [
+                2,
+                1
+            ],
+            "rhubarb cordial": [
+                1,
+                2
+            ]
+        }
+    },
+    "How to Get Under the Stage in Dragonball Z Budokai Tenkaichi 2": {
+        "Choose VS Duel, 2 players.": {
+            "players": [
+                3,
+                0
+            ],
+            "vs duel": [
+                3,
+                0
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "mode": [
+                3,
+                0
+            ],
+            "companion": [
+                3,
+                0
+            ]
+        },
+        "Choose Goku as player one, as well as player two.": {
+            "goku": [
+                5,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "player": [
+                3,
+                0
+            ],
+            "player two": [
+                2,
+                1
+            ]
+        },
+        "Choose Mountain Road as the stage.": {
+            "you": [
+                2,
+                1
+            ],
+            "stage": [
+                3,
+                0
+            ]
+        },
+        "Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage.": {
+            "players": [
+                6,
+                0
+            ],
+            "character": [
+                2,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Slow Cooker Hot Cocoa": {
+        "Make the initial cocoa mixture.": {
+            "whisk": [
+                3,
+                0
+            ],
+            "bowl": [
+                5,
+                1
+            ],
+            "cocoa powder": [
+                3,
+                0
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "mixture ingredients": [
+                2,
+                1
+            ],
+            "the ingredients": [
+                3,
+                0
+            ],
+            "cocoa mixture": [
+                2,
+                1
+            ]
+        },
+        "Add all the ingredients in a slow cooker.": {
+            "the slow cooker": [
+                6,
+                0
+            ],
+            "bowl": [
+                3,
+                0
+            ],
+            "ingredients": [
+                7,
+                2
+            ],
+            "the ingredients": [
+                3,
+                0
+            ],
+            "slow cooker": [
+                9,
+                0
+            ],
+            "the mixture": [
+                2,
+                1
+            ]
+        },
+        "Allow the mixture to heat for 3 hours on a low setting.": {
+            "mixture": [
+                9,
+                1
+            ],
+            "the outside": [
+                3,
+                0
+            ],
+            "the slow cooker": [
+                6,
+                0
+            ],
+            "time": [
+                1,
+                0
+            ],
+            "smell": [
+                2,
+                1
+            ],
+            "the mixture": [
+                3,
+                0
+            ],
+            "cooker": [
+                3,
+                0
+            ],
+            "slow cooker": [
+                3,
+                0
+            ],
+            "ingredients": [
+                3,
+                0
+            ],
+            "liquid": [
+                2,
+                1
+            ]
+        },
+        "Serve immediately or keep the slow cooker on a &quot;Keep Warm&quot; setting.": {
+            "the knob": [
+                2,
+                1
+            ],
+            "mixture": [
+                6,
+                0
+            ],
+            "the slow cooker": [
+                6,
+                0
+            ],
+            "the cocoa": [
+                3,
+                0
+            ],
+            "mug": [
+                9,
+                0
+            ]
+        }
+    },
+    "How to Grow a Rose Bush from Rose Bush Cuttings": {
+        "Prepare the pot or area in your yard where you plan to plant your clipping.": {
+            "ground": [
+                3,
+                0
+            ],
+            "pot": [
+                2,
+                1
+            ],
+            "the shovel": [
+                3,
+                0
+            ],
+            "area": [
+                1,
+                2
+            ],
+            "you": [
+                1,
+                0
+            ],
+            "yard": [
+                3,
+                0
+            ],
+            "the ground": [
+                3,
+                0
+            ],
+            "cutting": [
+                4,
+                2
+            ]
+        },
+        "Take a cutting from the rose bush you would like to grow your new bush from.": {
+            "the pruning shears": [
+                3,
+                0
+            ],
+            "cutting": [
+                6,
+                3
+            ],
+            "soil": [
+                2,
+                1
+            ],
+            "pruning shears": [
+                2,
+                1
+            ],
+            "the cutting": [
+                3,
+                0
+            ],
+            "rose bush": [
+                5,
+                1
+            ],
+            "the rose bush": [
+                3,
+                0
+            ]
+        },
+        "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.": {
+            "clipping": [
+                8,
+                4
+            ],
+            "soil": [
+                2,
+                1
+            ],
+            "rooting hormone": [
+                3,
+                0
+            ],
+            "water": [
+                3,
+                0
+            ],
+            "the clipping": [
+                3,
+                0
+            ]
+        },
+        "Immediately plant the cutting.": {
+            "cutting": [
+                7,
+                2
+            ],
+            "pot": [
+                2,
+                1
+            ],
+            "soil": [
+                2,
+                1
+            ],
+            "the cutting": [
+                2,
+                1
+            ],
+            "hole in ground": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Evolve Vulpix in Pok\u00e9mon": {
+        "######Catch or trade for a Vulpix.": {
+            "vulpix": [
+                10,
+                2
+            ],
+            "Vulpix": [
+                1,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ]
+        },
+        "######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).": {
+            "fire or ice stone": [
+                3,
+                0
+            ],
+            "Character": [
+                1,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "fire stone": [
+                4,
+                2
+            ],
+            "character": [
+                3,
+                0
+            ]
+        },
+        "Go to your bag and select the stone required.": {
+            "stone": [
+                5,
+                1
+            ],
+            "the stone": [
+                3,
+                0
+            ],
+            "Player": [
+                1,
+                0
+            ],
+            "Bag": [
+                1,
+                0
+            ],
+            "Game": [
+                1,
+                0
+            ],
+            "bag": [
+                3,
+                0
+            ]
+        },
+        "######Wait for the evolution animation to pop up.": {
+            "Vulpix": [
+                2,
+                0
+            ],
+            "animation": [
+                6,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Polish a Faucet With a Lemon": {
+        "######Cut a lemon in half.": {
+            "lemon": [
+                17,
+                4
+            ],
+            "juice": [
+                1,
+                2
+            ],
+            "knife": [
+                4,
+                2
+            ],
+            "Lemon": [
+                1,
+                0
+            ]
+        },
+        "######Squeeze out the juice.": {
+            "lemon": [
+                9,
+                2
+            ],
+            "juice": [
+                7,
+                2
+            ]
+        },
+        "######Take the squeezed out lemon half and rub vigorously over the faucets.": {
+            "lemon": [
+                3,
+                1
+            ],
+            "faucet": [
+                4,
+                2
+            ],
+            "stains": [
+                2,
+                1
+            ],
+            "faucets": [
+                11,
+                1
+            ],
+            "juice": [
+                2,
+                1
+            ],
+            "facuets": [
+                2,
+                1
+            ],
+            "Faucets": [
+                1,
+                0
+            ]
+        },
+        "######Wash the tap after scouring with the lemon half.": {
+            "lemon juice": [
+                2,
+                1
+            ],
+            "Tap": [
+                1,
+                0
+            ],
+            "water": [
+                2,
+                1
+            ],
+            "faucet": [
+                8,
+                1
+            ],
+            "tap": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Taco Filling": {
+        "Brown the meat and the onion in a medium sized frying pan.": {
+            "frying pan": [
+                2,
+                0
+            ],
+            "knife": [
+                2,
+                0
+            ],
+            "meat": [
+                21,
+                0
+            ],
+            "skillet": [
+                4,
+                0
+            ],
+            "cutting board": [
+                2,
+                0
+            ],
+            "onion": [
+                15,
+                1
+            ],
+            "spatula": [
+                3,
+                0
+            ],
+            "stove": [
+                3,
+                0
+            ]
+        },
+        "Drain the excess fat.": {
+            "strainer": [
+                3,
+                0
+            ],
+            "sink": [
+                6,
+                0
+            ],
+            "meat": [
+                9,
+                1
+            ],
+            "fat": [
+                12,
+                0
+            ],
+            "grease c ontainer": [
+                3,
+                0
+            ],
+            "beef": [
+                3,
+                0
+            ],
+            "pan": [
+                4,
+                0
+            ],
+            "grease": [
+                3,
+                0
+            ]
+        },
+        "Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.": {
+            "skillet": [
+                6,
+                0
+            ],
+            "ingredients": [
+                15,
+                0
+            ],
+            "tomato": [
+                9,
+                1
+            ],
+            "spices": [
+                3,
+                0
+            ],
+            "meat": [
+                3,
+                0
+            ],
+            "knife": [
+                3,
+                0
+            ]
+        },
+        "Finished.": {
+            "serving bowl": [
+                9,
+                0
+            ],
+            "pan": [
+                3,
+                0
+            ],
+            "stove": [
+                3,
+                1
+            ],
+            "cheese": [
+                9,
+                0
+            ],
+            "flavor": [
+                3,
+                0
+            ],
+            "hot sauce": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Remove Black Skid Marks from Linoleum": {
+        "Obtain a decent sized eraser that you can hold comfortable in your fingers.": {
+            "eraser": [
+                9,
+                6
+            ],
+            "hand": [
+                2,
+                1
+            ],
+            "fingers": [
+                1,
+                0
+            ],
+            "hand muscles": [
+                2,
+                1
+            ]
+        },
+        "Kneel down next to the linoleum and use the eraser to rub along the skid mark.": {
+            "skid mark": [
+                4,
+                2
+            ],
+            "eraser": [
+                4,
+                2
+            ],
+            "person": [
+                4,
+                2
+            ],
+            "floor": [
+                4,
+                2
+            ],
+            "lineoleum": [
+                2,
+                1
+            ],
+            "body": [
+                1,
+                2
+            ],
+            "you": [
+                2,
+                1
+            ]
+        },
+        "Continue rubbing until the black mark lifts.": {
+            "floor": [
+                3,
+                3
+            ],
+            "hand": [
+                2,
+                1
+            ],
+            "black mark": [
+                2,
+                1
+            ],
+            "linoleum": [
+                2,
+                1
+            ],
+            "mark": [
+                4,
+                2
+            ]
+        },
+        "Wash and dry as usual.": {
+            "floor": [
+                9,
+                6
+            ],
+            "linoleum": [
+                4,
+                2
+            ],
+            "water": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Create a Character in Lego Star Wars": {
+        "When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.": {
+            "Leia": [
+                1,
+                0
+            ],
+            "game": [
+                2,
+                1
+            ],
+            "you": [
+                2,
+                1
+            ]
+        },
+        "Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.": {
+            "up/down and left/right arrows": [
+                2,
+                1
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "character parts": [
+                3,
+                0
+            ]
+        },
+        "Press &quot;triangle&quot; to name it, and &quot;O&quot; to save and exit.": {
+            "triangle": [
+                2,
+                1
+            ],
+            "character": [
+                3,
+                0
+            ],
+            "triangle buttom": [
+                2,
+                1
+            ],
+            "game": [
+                2,
+                1
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "o button": [
+                2,
+                1
+            ]
+        },
+        "Now enter a completed level and turn on free play.": {
+            "completed level": [
+                3,
+                0
+            ],
+            "free play": [
+                1,
+                2
+            ],
+            "you": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Make Marshmallow Cream Cheese Fruit Dip": {
+        "Blend the cream cheese and marshmallow cream until combined.": {
+            "marshmallow cream": [
+                6,
+                0
+            ],
+            "cream cheese and marshmallow": [
+                3,
+                0
+            ],
+            "cream cheese": [
+                12,
+                0
+            ],
+            "blender": [
+                6,
+                0
+            ],
+            "marshmallow": [
+                3,
+                0
+            ],
+            "the marshmallow cream": [
+                3,
+                0
+            ],
+            "the cream cheese": [
+                6,
+                0
+            ],
+            "the bowl": [
+                3,
+                0
+            ]
+        },
+        "Pour the mixture into a clean bowl.": {
+            "bowl": [
+                15,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ],
+            "mixtre": [
+                3,
+                0
+            ],
+            "blender": [
+                6,
+                0
+            ],
+            "the mixing bowl": [
+                3,
+                0
+            ],
+            "the mixture": [
+                3,
+                0
+            ],
+            "the clean bowl": [
+                6,
+                0
+            ]
+        },
+        "Serve with fruit or whatever else you like.": {
+            "the knife": [
+                6,
+                0
+            ],
+            "the fruit": [
+                4,
+                2
+            ],
+            "fruit": [
+                3,
+                0
+            ]
+        },
+        "Finished.": {
+            "Marshmallow Cream Cheese Fruit Dip": [
+                1,
+                0
+            ],
+            "the task": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Clean Synthetic Hiking Gear": {
+        "Read all of the instructions first.": {
+            "instructions": [
+                9,
+                0
+            ],
+            "manual": [
+                1,
+                0
+            ]
+        },
+        "Wash Gore-Tex and other breathable, waterproof synthetic outer shell clothing following the instructions on the label.": {
+            "clothing": [
+                4,
+                0
+            ],
+            "dirt": [
+                3,
+                0
+            ],
+            "gore-tex": [
+                3,
+                0
+            ],
+            "clothng": [
+                3,
+                0
+            ],
+            "detergent container": [
+                1,
+                0
+            ],
+            "detergent": [
+                3,
+                0
+            ]
+        },
+        "Be careful with synthetic boots.": {
+            "Synthetic boots": [
+                1,
+                0
+            ]
+        },
+        "Take care cleaning synthetic jackets containing down.": {
+            "Synthetic Jackets": [
+                1,
+                0
+            ]
+        },
+        "Wash polar fleece (microfleece or micrafleece) in the washing machine.": {
+            "washing machine motor": [
+                1,
+                0
+            ],
+            "washing machine": [
+                6,
+                0
+            ],
+            "fleece": [
+                3,
+                0
+            ],
+            "polar fleece": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Get on a Bike": {
+        "To get on the bike, swing your non-dominant leg over the shaft of the bike.": {
+            "bicycle": [
+                5,
+                2
+            ],
+            "ability to ride a bike": [
+                2,
+                1
+            ],
+            "ability to identify non-dominant leg": [
+                2,
+                1
+            ],
+            "foot": [
+                2,
+                1
+            ],
+            "ability to identify bike shaft": [
+                2,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "hands": [
+                3,
+                0
+            ]
+        },
+        "Put your dominant foot on the pedal.": {
+            "ability to identify dominant foot": [
+                2,
+                1
+            ],
+            "your weight": [
+                2,
+                1
+            ],
+            "bike": [
+                2,
+                1
+            ],
+            "both feet": [
+                2,
+                1
+            ],
+            "pedals": [
+                2,
+                1
+            ],
+            "dominant foot": [
+                3,
+                0
+            ],
+            "foot": [
+                2,
+                1
+            ],
+            "bicycle": [
+                2,
+                1
+            ],
+            "your foot": [
+                3,
+                0
+            ],
+            "grip on bike": [
+                2,
+                1
+            ]
+        },
+        "Hold on to the handlebars for support and to keep the bike straight.": {
+            "non-dominant foot": [
+                3,
+                0
+            ],
+            "handlebars": [
+                1,
+                2
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "bike": [
+                3,
+                3
+            ],
+            "hands": [
+                5,
+                1
+            ],
+            "ability to identify handlebars": [
+                2,
+                1
+            ]
+        },
+        "Keeping your weight center and even, pedal with your feet.": {
+            "bike": [
+                9,
+                0
+            ],
+            "the chain": [
+                2,
+                1
+            ],
+            "feet": [
+                2,
+                1
+            ],
+            "you": [
+                7,
+                2
+            ],
+            "weight": [
+                2,
+                1
+            ],
+            "pedals": [
+                3,
+                0
+            ],
+            "center": [
+                2,
+                1
+            ],
+            "the tires": [
+                3,
+                0
+            ],
+            "bicycle": [
+                1,
+                0
+            ]
+        },
+        "Stopping.": {
+            "the tires": [
+                2,
+                1
+            ],
+            "brakes": [
+                2,
+                1
+            ],
+            "feet": [
+                2,
+                1
+            ],
+            "bike": [
+                6,
+                1
+            ],
+            "handbrakes": [
+                2,
+                1
+            ],
+            "your foot": [
+                2,
+                1
+            ],
+            "bicycle": [
+                2,
+                1
+            ],
+            "speed": [
+                3,
+                0
+            ],
+            "the chain": [
+                2,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "your weight": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Board a Small Boat": {
+        "Prefer boarding across a solid platform if possible.": {
+            "guests": [
+                1,
+                2
+            ],
+            "boarding plank": [
+                2,
+                1
+            ],
+            "person": [
+                2,
+                1
+            ],
+            "water": [
+                1,
+                2
+            ],
+            "dock": [
+                0,
+                3
+            ],
+            "boat": [
+                3,
+                1
+            ],
+            "room on boat": [
+                0,
+                3
+            ]
+        },
+        "If you are crossing using a platform, hold on to the rails provided.": {
+            "handrails": [
+                3,
+                0
+            ],
+            "handrail": [
+                0,
+                3
+            ],
+            "movement": [
+                3,
+                0
+            ],
+            "hands": [
+                6,
+                0
+            ],
+            "platform": [
+                1,
+                0
+            ],
+            "person": [
+                2,
+                1
+            ],
+            "stance": [
+                3,
+                0
+            ],
+            "center": [
+                2,
+                1
+            ]
+        },
+        "Avoid plonking one leg in the boat and leaving one on the jetty - this will cause wobbling and you might fall into the water.": {
+            "paddle": [
+                1,
+                2
+            ],
+            "legs": [
+                3,
+                0
+            ],
+            "passenger": [
+                2,
+                2
+            ],
+            "Wobbling": [
+                1,
+                0
+            ],
+            "boat": [
+                3,
+                1
+            ],
+            "Falling": [
+                1,
+                0
+            ],
+            "jumping": [
+                1,
+                2
+            ]
+        },
+        "Once in the boat, always remain in the centre line to move around it and lower yourself to a crouch level so that you reduce your centre of gravity and keep the craft as still as possible.": {
+            "passenger position": [
+                3,
+                0
+            ],
+            "person": [
+                5,
+                1
+            ],
+            "cargo": [
+                1,
+                2
+            ],
+            "boat": [
+                5,
+                4
+            ],
+            "plank": [
+                1,
+                0
+            ],
+            "arms": [
+                2,
+                1
+            ],
+            "passenger": [
+                3,
+                0
+            ],
+            "Centre": [
+                1,
+                0
+            ]
+        },
+        "Keep the craft steady as others board.": {
+            "person": [
+                3,
+                0
+            ],
+            "boat": [
+                5,
+                5
+            ],
+            "other passengers": [
+                3,
+                0
+            ],
+            "passenger in boat": [
+                1,
+                2
+            ],
+            "other person": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make a Banana Strawberry Rum Smoothie": {
+        "Place the yogurt, bananas, and sorbet in a blender.": {
+            "sorber": [
+                1,
+                2
+            ],
+            "ingredients": [
+                4,
+                2
+            ],
+            "bananas": [
+                4,
+                2
+            ],
+            "blender": [
+                9,
+                3
+            ],
+            "yogurt": [
+                4,
+                2
+            ],
+            "sorbet": [
+                2,
+                1
+            ],
+            "banana": [
+                2,
+                1
+            ],
+            "fruit": [
+                1,
+                2
+            ],
+            "banana peel": [
+                1,
+                0
+            ],
+            "fruit and sorbet": [
+                2,
+                1
+            ]
+        },
+        "Blend the mixture until it&#x27;s smooth in texture.": {
+            "blender": [
+                7,
+                6
+            ],
+            "mixture": [
+                2,
+                1
+            ],
+            "ingredients": [
+                8,
+                4
+            ],
+            "blade": [
+                1,
+                0
+            ],
+            "items": [
+                2,
+                1
+            ],
+            "wall socket": [
+                1,
+                0
+            ]
+        },
+        "Pour the rum in and quickly blend again.": {
+            "liquid": [
+                2,
+                1
+            ],
+            "blender": [
+                4,
+                1
+            ],
+            "rum": [
+                8,
+                4
+            ],
+            "rum bottle": [
+                1,
+                0
+            ],
+            "bottle": [
+                4,
+                2
+            ],
+            "mixture": [
+                2,
+                1
+            ]
+        },
+        "Pour the smoothie into chilled glasses.": {
+            "glasses": [
+                10,
+                5
+            ],
+            "smoothie": [
+                4,
+                2
+            ],
+            "mixture": [
+                2,
+                1
+            ],
+            "blender": [
+                4,
+                2
+            ]
+        },
+        "Garnish each glass with a strawberry.": {
+            "glass": [
+                5,
+                2
+            ],
+            "rim": [
+                1,
+                0
+            ],
+            "glasses": [
+                2,
+                1
+            ],
+            "strawberry": [
+                5,
+                2
+            ],
+            "cutting board": [
+                1,
+                0
+            ],
+            "knife": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make a Pinwheel Wreath": {
+        "Select suitable paper to make the pinwheels.": {
+            "suitable paper for pinwheels": [
+                2,
+                1
+            ],
+            "paper": [
+                6,
+                0
+            ]
+        },
+        "Make enough pinwheels to create a wreath.": {
+            "pinwheels": [
+                7,
+                2
+            ],
+            "paper": [
+                3,
+                0
+            ]
+        },
+        "Find a suitable base, such as a Styrofoam/cane/cardboard wreath base.": {
+            "Wreath base": [
+                1,
+                0
+            ],
+            "wreath base": [
+                3,
+                0
+            ]
+        },
+        "If the wreath base lacks a hanger, add some twine or ribbon to create one.": {
+            "twine": [
+                8,
+                0
+            ],
+            "ribbon": [
+                8,
+                0
+            ],
+            "wreath base": [
+                5,
+                0
+            ],
+            "ribbon holder": [
+                1,
+                0
+            ],
+            "wreath": [
+                1,
+                0
+            ],
+            "twine spool": [
+                1,
+                0
+            ]
+        },
+        "Finished.": {
+            "task": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make a Wreath with Clothes Hangers": {
+        "Untwist wire hanger and shape into a circle, using pliers as needed.": {
+            "pliers": [
+                7,
+                0
+            ],
+            "wire": [
+                6,
+                0
+            ],
+            "hanger": [
+                6,
+                0
+            ],
+            "hands": [
+                3,
+                1
+            ],
+            "wire hanger": [
+                3,
+                0
+            ],
+            "fingers": [
+                2,
+                1
+            ]
+        },
+        "Gently crumple 3&quot; squares of wax paper or crepe paper and thread hanger through center of each square.": {
+            "hanger": [
+                3,
+                0
+            ],
+            "Wax paper": [
+                1,
+                0
+            ],
+            "wax paper": [
+                9,
+                0
+            ],
+            "hands": [
+                2,
+                1
+            ],
+            "squares": [
+                3,
+                0
+            ],
+            "table": [
+                3,
+                0
+            ],
+            "crepe paper": [
+                6,
+                0
+            ]
+        },
+        "When you have threaded enough squares to fill length of hanger, gently push squares away from ends and use pliers to twist ends together.": {
+            "hanger ends": [
+                3,
+                0
+            ],
+            "tool": [
+                3,
+                0
+            ],
+            "wire": [
+                3,
+                0
+            ],
+            "pliers": [
+                3,
+                0
+            ],
+            "square ends": [
+                3,
+                0
+            ],
+            "Wire": [
+                1,
+                0
+            ],
+            "squares": [
+                3,
+                0
+            ],
+            "ends": [
+                3,
+                0
+            ],
+            "fingers": [
+                3,
+                0
+            ]
+        },
+        "Gently slide squares of paper back toward the joined ends of wire hanger, scrunching paper more for additional fullness.": {
+            "hanger": [
+                6,
+                1
+            ],
+            "paper": [
+                6,
+                0
+            ],
+            "ends": [
+                3,
+                0
+            ],
+            "wire": [
+                3,
+                0
+            ],
+            "paper squares": [
+                3,
+                0
+            ],
+            "squares": [
+                3,
+                0
+            ]
+        },
+        "Finished.": {
+            "Wire": [
+                1,
+                0
+            ],
+            "wreath": [
+                2,
+                1
+            ],
+            "wire": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Potato Ribbons": {
+        "Wash especially well if you intend to keep the peel intact.": {
+            "potatoes": [
+                13,
+                0
+            ],
+            "potato": [
+                3,
+                0
+            ],
+            "Hands": [
+                1,
+                0
+            ],
+            "water faucet": [
+                3,
+                0
+            ],
+            "sink": [
+                6,
+                0
+            ]
+        },
+        "Cut round and round, keeping the peel as thin as possible as you go.": {
+            "peeler": [
+                6,
+                0
+            ],
+            "potaoto": [
+                3,
+                0
+            ],
+            "potato": [
+                10,
+                0
+            ],
+            "Potato": [
+                1,
+                0
+            ],
+            "kitchen counter": [
+                3,
+                0
+            ],
+            "vegetable peeler": [
+                4,
+                0
+            ],
+            "potatoes": [
+                3,
+                0
+            ],
+            "bowl": [
+                3,
+                0
+            ]
+        },
+        "Drain the potatoes dry on a clean cloth.": {
+            "potato pieces": [
+                6,
+                0
+            ],
+            "cloth": [
+                13,
+                0
+            ],
+            "potatoes": [
+                4,
+                0
+            ],
+            "water": [
+                3,
+                0
+            ],
+            "potato": [
+                3,
+                0
+            ],
+            "peels": [
+                3,
+                0
+            ]
+        },
+        "Fry the ribbons in deep, hot fat.": {
+            "pan": [
+                6,
+                0
+            ],
+            "potatoes": [
+                6,
+                0
+            ],
+            "stove burner": [
+                3,
+                0
+            ],
+            "spatula": [
+                3,
+                0
+            ],
+            "ribbons": [
+                3,
+                0
+            ],
+            "stove": [
+                6,
+                0
+            ],
+            "peels": [
+                6,
+                0
+            ],
+            "oil": [
+                3,
+                0
+            ]
+        },
+        "Serve.": {
+            "peels": [
+                9,
+                0
+            ],
+            "serving dish": [
+                7,
+                0
+            ],
+            "potatoes": [
+                6,
+                0
+            ],
+            "platter": [
+                4,
+                0
+            ],
+            "pan": [
+                3,
+                0
+            ],
+            "table": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Open a Rusty Bolt": {
+        "Obtain some fizzy drink.": {
+            "cup": [
+                11,
+                2
+            ],
+            "drink": [
+                8,
+                2
+            ],
+            "fizzy drink": [
+                2,
+                1
+            ]
+        },
+        "Pour the fizzy drink over the bolt.": {
+            "Ground": [
+                1,
+                0
+            ],
+            "fizzy drink": [
+                3,
+                0
+            ],
+            "drink": [
+                3,
+                0
+            ],
+            "bolt": [
+                11,
+                0
+            ],
+            "hands": [
+                6,
+                0
+            ],
+            "Fizzy drink": [
+                1,
+                0
+            ],
+            "bottle": [
+                3,
+                0
+            ],
+            "Bottle": [
+                2,
+                0
+            ]
+        },
+        "Wipe it clean with kitchen towel.": {
+            "kitchen towel": [
+                10,
+                2
+            ],
+            "bolt": [
+                14,
+                0
+            ],
+            "towel": [
+                9,
+                0
+            ],
+            "soda": [
+                3,
+                0
+            ]
+        },
+        "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.": {
+            "rust": [
+                6,
+                0
+            ],
+            "assembly": [
+                3,
+                0
+            ],
+            "Bolt": [
+                1,
+                0
+            ],
+            "wrench": [
+                2,
+                1
+            ],
+            "bolt": [
+                9,
+                0
+            ],
+            "bolt threads": [
+                3,
+                0
+            ]
+        },
+        "Replace the rusty bolt.": {
+            "bolt": [
+                7,
+                3
+            ],
+            "old bolt": [
+                6,
+                0
+            ],
+            "new bolt": [
+                5,
+                1
+            ],
+            "rusty bolt": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Asparagus in Serrano Ham": {
+        "Preheat your oven beforehand to 400\u00b0F (200\u00b0C or Gas Mark 6).": {
+            "oven racks": [
+                3,
+                0
+            ],
+            "temperature": [
+                3,
+                0
+            ],
+            "air in oven": [
+                1,
+                0
+            ],
+            "oven door": [
+                2,
+                1
+            ],
+            "display": [
+                2,
+                1
+            ],
+            "heating element": [
+                2,
+                1
+            ],
+            "oven rock": [
+                3,
+                0
+            ],
+            "gas": [
+                3,
+                0
+            ],
+            "oven": [
+                11,
+                1
+            ],
+            "Air around oven": [
+                2,
+                0
+            ]
+        },
+        "Add your olive oil into a baking or roasting tin large enough to hold all of your asparagus spears.": {
+            "oil": [
+                3,
+                0
+            ],
+            "pan": [
+                4,
+                2
+            ],
+            "olive oil": [
+                3,
+                0
+            ],
+            "asparagus": [
+                1,
+                2
+            ],
+            "oven": [
+                2,
+                1
+            ],
+            "container": [
+                2,
+                1
+            ],
+            "roasting pan": [
+                3,
+                0
+            ],
+            "tin": [
+                5,
+                1
+            ],
+            "oil container": [
+                2,
+                1
+            ],
+            "baking tin": [
+                3,
+                0
+            ]
+        },
+        "Cut off the ends of the asparagus spears and wrap enough Serrano ham around each asparagus spear until it is mostly covered but with top jagged part still open.": {
+            "ends": [
+                1,
+                0
+            ],
+            "asparagus": [
+                12,
+                3
+            ],
+            "pieces": [
+                2,
+                1
+            ],
+            "ham": [
+                3,
+                0
+            ],
+            "spears": [
+                3,
+                0
+            ],
+            "blade": [
+                2,
+                1
+            ],
+            "rubber band": [
+                3,
+                0
+            ],
+            "knife": [
+                3,
+                0
+            ],
+            "vegetables": [
+                3,
+                0
+            ]
+        },
+        "Roast the asparagus in the oven for 8-10 minutes.": {
+            "room": [
+                2,
+                1
+            ],
+            "pan": [
+                3,
+                0
+            ],
+            "asparagus": [
+                13,
+                2
+            ],
+            "moisture": [
+                1,
+                0
+            ],
+            "food": [
+                3,
+                0
+            ],
+            "ham": [
+                3,
+                0
+            ],
+            "oil": [
+                5,
+                1
+            ],
+            "oven": [
+                3,
+                0
+            ]
+        },
+        "Serve immediately with a main dish so your asparagus acts as a side order.": {
+            "main dish": [
+                2,
+                1
+            ],
+            "Dish": [
+                1,
+                0
+            ],
+            "tin": [
+                2,
+                1
+            ],
+            "ham": [
+                3,
+                0
+            ],
+            "oven": [
+                4,
+                2
+            ],
+            "oven door": [
+                2,
+                1
+            ],
+            "asparagus": [
+                9,
+                0
+            ],
+            "Asparagus": [
+                1,
+                0
+            ],
+            "timer": [
+                3,
+                0
+            ],
+            "dish": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Prevent a Wick Lamp or Stove from Smoking": {
+        "Pour some white vinegar into a small container deep enough for dipping.": {
+            "vinegar": [
+                9,
+                0
+            ],
+            "pot": [
+                3,
+                1
+            ],
+            "container": [
+                8,
+                1
+            ],
+            "bottle": [
+                3,
+                1
+            ]
+        },
+        "Remove the wick from the lamp or stove, or use wicks yet to be inserted.": {
+            "wick": [
+                4,
+                0
+            ],
+            "lamp": [
+                3,
+                1
+            ],
+            "wicks": [
+                1,
+                2
+            ]
+        },
+        "Dip each wick into the vinegar.": {
+            "vinegar container": [
+                1,
+                0
+            ],
+            "wick": [
+                11,
+                0
+            ],
+            "vinegar": [
+                2,
+                1
+            ]
+        },
+        "Allow to dry thoroughly.": {
+            "wick": [
+                14,
+                0
+            ]
+        },
+        "Use once dry.": {
+            "wick": [
+                10,
+                3
+            ],
+            "air": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Learn Photography by Shooting Macro": {
+        "Create a very small studio.": {
+            "studio": [
+                9,
+                1
+            ],
+            "space": [
+                1,
+                0
+            ],
+            "Equipment": [
+                1,
+                0
+            ]
+        },
+        "Have the appropriate sized reflectors.": {
+            "reflector": [
+                1,
+                0
+            ],
+            "reflectors": [
+                4,
+                0
+            ]
+        },
+        "Have a closeup lens.": {
+            "closeup lens": [
+                2,
+                0
+            ]
+        },
+        "Again, they don&#x27;t need to be that big, but big enough to diffuse light for your small subject.": {
+            "light": [
+                4,
+                1
+            ]
+        },
+        "Start experimenting.": {
+            "Camera": [
+                1,
+                0
+            ],
+            "pictures": [
+                3,
+                0
+            ],
+            "camera": [
+                1,
+                0
+            ],
+            "film": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Cheese Sauce with Jalape\u00f1o Peppers": {
+        "First cut the Velveeta in to tiny squares and set aside.": {
+            "knife": [
+                11,
+                2
+            ],
+            "velveeta": [
+                30,
+                0
+            ],
+            "cutting board": [
+                3,
+                0
+            ],
+            "package": [
+                3,
+                0
+            ]
+        },
+        "Set the burner on a medium to low setting, before that you begin adding the cheese product.": {
+            "burner": [
+                6,
+                0
+            ],
+            "pan": [
+                3,
+                1
+            ],
+            "sauce pan": [
+                6,
+                0
+            ],
+            "stove burner": [
+                3,
+                0
+            ],
+            "velveeta": [
+                12,
+                0
+            ],
+            "pot": [
+                6,
+                0
+            ],
+            "stove": [
+                9,
+                0
+            ],
+            "stove knob": [
+                3,
+                0
+            ],
+            "cheese": [
+                3,
+                0
+            ]
+        },
+        "Wait until the Velveeta has melted lower the heat somewhat and add in the (Rotel) tomatoes.": {
+            "stove top burner": [
+                3,
+                0
+            ],
+            "velveeta": [
+                11,
+                1
+            ],
+            "rotel can": [
+                3,
+                0
+            ],
+            "burner": [
+                3,
+                0
+            ],
+            "rotel": [
+                6,
+                0
+            ],
+            "tomatoes": [
+                18,
+                0
+            ]
+        },
+        "Add in the Jalapeno peppers, and black olives if desired.": {
+            "peppers": [
+                18,
+                0
+            ],
+            "jalapeno": [
+                3,
+                0
+            ],
+            "pepper can": [
+                1,
+                0
+            ],
+            "black olives": [
+                6,
+                0
+            ],
+            "olives": [
+                14,
+                1
+            ],
+            "olive can": [
+                1,
+                0
+            ],
+            "pan": [
+                1,
+                0
+            ],
+            "can": [
+                2,
+                1
+            ],
+            "cheese dip": [
+                3,
+                0
+            ]
+        },
+        "Cheese sauce is at its best if served very warm.": {
+            "cheese sauce": [
+                7,
+                0
+            ],
+            "Cheese": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Get Wailord in Pok\u00e9mon Emerald": {
+        "This is the pre-evolution of Wailord.": {
+            "ball": [
+                1,
+                2
+            ],
+            "you": [
+                1,
+                0
+            ]
+        },
+        "This Wailmer can be pretty annoying to train, so be patient.": {
+            "wailmer": [
+                1,
+                5
+            ],
+            "Wailmer": [
+                2,
+                0
+            ],
+            "player": [
+                1,
+                2
+            ],
+            "You": [
+                1,
+                0
+            ]
+        },
+        "Train it until it evolves.": {
+            "the wailmer": [
+                3,
+                0
+            ],
+            "wailmer": [
+                11,
+                1
+            ],
+            "Character": [
+                1,
+                0
+            ]
+        },
+        "Go to battle frontier and copy some rare candies.": {
+            "rare candies": [
+                3,
+                0
+            ],
+            "candies": [
+                2,
+                1
+            ],
+            "candy": [
+                3,
+                0
+            ],
+            "battle frontier location": [
+                3,
+                0
+            ]
+        },
+        "Give the rare candies to a Wailmer and evolve it into a Wailord using them.": {
+            "wailmer": [
+                13,
+                2
+            ]
+        }
+    },
+    "How to Ninja Defuse in Call of Duty": {
+        "Move in and cover your route to the bomb site.": {
+            "You": [
+                1,
+                0
+            ],
+            "the route": [
+                2,
+                1
+            ],
+            "you": [
+                4,
+                0
+            ],
+            "route": [
+                5,
+                1
+            ]
+        },
+        "Find a hiding spot and pull out your pistol.": {
+            "game character": [
+                4,
+                0
+            ],
+            "pistol": [
+                7,
+                2
+            ],
+            "your pistol": [
+                2,
+                1
+            ],
+            "you": [
+                2,
+                1
+            ],
+            "pistal": [
+                1,
+                0
+            ]
+        },
+        "Investigate your enemy&#x27;s routes.": {
+            "Enemy": [
+                1,
+                0
+            ],
+            "routes": [
+                2,
+                1
+            ],
+            "You": [
+                1,
+                0
+            ],
+            "you": [
+                2,
+                1
+            ]
+        },
+        "Wait until enemy does start to plant the bomb.": {
+            "bomb": [
+                5,
+                1
+            ],
+            "Enemy": [
+                2,
+                0
+            ],
+            "You": [
+                1,
+                0
+            ],
+            "you": [
+                2,
+                1
+            ]
+        },
+        "Start defusing once the bomb has been planted.": {
+            "you": [
+                6,
+                0
+            ],
+            "Enemy": [
+                1,
+                0
+            ],
+            "bomb": [
+                10,
+                0
+            ]
+        }
+    },
+    "How to Paint Bare Wood": {
+        "Acquire oil based paints, which air dry slowly.": {
+            "the paints": [
+                2,
+                1
+            ],
+            "floor": [
+                3,
+                0
+            ],
+            "paint": [
+                7,
+                2
+            ],
+            "wood": [
+                6,
+                4
+            ],
+            "paint brush": [
+                3,
+                0
+            ],
+            "bare wood": [
+                3,
+                0
+            ],
+            "paints to use": [
+                3,
+                0
+            ],
+            "oil based paint": [
+                3,
+                0
+            ],
+            "paint base": [
+                3,
+                0
+            ]
+        },
+        "The under-coat should be thin, and smooth, move your paint brush down the wood, don&#x27;t paint up or horizontally.": {
+            "paintbrush": [
+                7,
+                0
+            ],
+            "caulking gun": [
+                1,
+                2
+            ],
+            "brush": [
+                7,
+                0
+            ],
+            "coat": [
+                3,
+                0
+            ],
+            "can": [
+                1,
+                0
+            ],
+            "the brush": [
+                6,
+                0
+            ],
+            "paint direction": [
+                3,
+                0
+            ],
+            "undercoat": [
+                3,
+                0
+            ],
+            "gouges": [
+                3,
+                0
+            ],
+            "wood": [
+                6,
+                0
+            ],
+            "the wood": [
+                9,
+                0
+            ],
+            "paint": [
+                3,
+                0
+            ],
+            "paint thickness": [
+                3,
+                0
+            ]
+        },
+        "Paint the second coat, but be much more careful this time, make sure there are no paint bubbles appearing and smooth out any drips or pools left over from the under-coat.": {
+            "drips": [
+                6,
+                0
+            ],
+            "coat": [
+                3,
+                0
+            ],
+            "wood": [
+                10,
+                0
+            ],
+            "can": [
+                1,
+                0
+            ],
+            "paint": [
+                3,
+                0
+            ],
+            "degree": [
+                3,
+                0
+            ],
+            "second coat": [
+                3,
+                0
+            ],
+            "pools": [
+                4,
+                0
+            ],
+            "paint bubbles": [
+                3,
+                0
+            ],
+            "bubbles": [
+                2,
+                1
+            ],
+            "the coating": [
+                3,
+                0
+            ]
+        },
+        "Be the most precise with this.": {
+            "paintbrush": [
+                3,
+                6
+            ],
+            "paint": [
+                3,
+                1
+            ],
+            "wood": [
+                2,
+                4
+            ],
+            "topcoat": [
+                1,
+                2
+            ],
+            "paint surface": [
+                1,
+                2
+            ],
+            "precision": [
+                2,
+                1
+            ]
+        },
+        "Finished.": {
+            "brushes": [
+                3,
+                1
+            ],
+            "paint": [
+                3,
+                0
+            ],
+            "drop cloth": [
+                2,
+                1
+            ],
+            "linseed oil": [
+                2,
+                1
+            ],
+            "you": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Seasoned Salt": {
+        "Mix the ingredients together thoroughly.": {
+            "ingredients": [
+                12,
+                0
+            ],
+            "celery salt": [
+                4,
+                0
+            ],
+            "measuring cup": [
+                4,
+                0
+            ],
+            "black pepper": [
+                3,
+                0
+            ],
+            "bowl": [
+                8,
+                0
+            ],
+            "celery salt container": [
+                1,
+                0
+            ],
+            "pepper container": [
+                1,
+                0
+            ],
+            "pepper mill": [
+                3,
+                0
+            ],
+            "salt": [
+                6,
+                0
+            ],
+            "salt container": [
+                1,
+                0
+            ],
+            "spoon": [
+                4,
+                0
+            ]
+        },
+        "Pour into an air-tight container with a lid.": {
+            "cover": [
+                3,
+                0
+            ],
+            "ingredients": [
+                6,
+                0
+            ],
+            "lid": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ],
+            "container": [
+                10,
+                0
+            ],
+            "bowl": [
+                4,
+                0
+            ],
+            "air-tight container": [
+                6,
+                0
+            ],
+            "Container": [
+                1,
+                0
+            ],
+            "ingredient mixture": [
+                3,
+                0
+            ],
+            "spoon": [
+                3,
+                0
+            ],
+            "seasoned salt": [
+                3,
+                0
+            ]
+        },
+        "It goes well in dips, salad dressings, soups and on sandwiches.": {
+            "ingredients": [
+                3,
+                0
+            ],
+            "salad dressings": [
+                3,
+                0
+            ],
+            "sandwiches": [
+                6,
+                0
+            ],
+            "container": [
+                1,
+                0
+            ],
+            "dips": [
+                7,
+                0
+            ],
+            "seasoned salt": [
+                3,
+                0
+            ],
+            "soups": [
+                3,
+                0
+            ],
+            "food": [
+                3,
+                0
+            ],
+            "salads": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ]
+        },
+        "Grind the ingredients together in a mortar and pestle.": {
+            "mortar": [
+                9,
+                0
+            ],
+            "seasoned salt": [
+                3,
+                0
+            ],
+            "pestle": [
+                10,
+                0
+            ],
+            "salt shaker": [
+                2,
+                1
+            ],
+            "salt": [
+                3,
+                0
+            ],
+            "mixture particles": [
+                3,
+                0
+            ],
+            "ingredients": [
+                9,
+                0
+            ],
+            "mortar and pestle": [
+                3,
+                0
+            ]
+        },
+        "Transfer to a storage container as needed.": {
+            "container": [
+                6,
+                0
+            ],
+            "mortar": [
+                1,
+                0
+            ],
+            "ingredients": [
+                3,
+                0
+            ],
+            "storage container": [
+                3,
+                0
+            ],
+            "seasoned salt": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Camouflage Equipment": {
+        "Firstly, lay out all the equipment you are going to use-whatever pattern it is.": {
+            "surface": [
+                2,
+                1
+            ],
+            "equipment": [
+                4,
+                5
+            ],
+            "webbing": [
+                1,
+                2
+            ],
+            "rucksack": [
+                1,
+                2
+            ],
+            "vehicle": [
+                1,
+                2
+            ],
+            "hat": [
+                1,
+                2
+            ],
+            "weapon": [
+                1,
+                2
+            ]
+        },
+        "Start with your rucksack, this is the biggest piece of your personal kit so needs the most camouflage.": {
+            "leaves": [
+                2,
+                4
+            ],
+            "camouflage": [
+                2,
+                1
+            ],
+            "rucksack": [
+                4,
+                5
+            ]
+        },
+        "Next, move on to the helmet.": {
+            "leaves": [
+                2,
+                4
+            ],
+            "helmet": [
+                3,
+                6
+            ],
+            "camouflage": [
+                2,
+                1
+            ]
+        },
+        "Be careful with webbing.": {
+            "webbing": [
+                2,
+                4
+            ],
+            "leaves": [
+                1,
+                5
+            ]
+        },
+        "Be extremely cautious when disguising your weapon.": {
+            "weapon": [
+                3,
+                6
+            ],
+            "hay": [
+                2,
+                4
+            ]
+        },
+        "Vehicles really need a vehicle camouflage net.": {
+            "camouflage net": [
+                4,
+                2
+            ],
+            "vehicle": [
+                1,
+                5
+            ],
+            "vehicle camouflage net": [
+                5,
+                1
+            ]
+        }
+    },
+    "How to Change the Oil on a Yamaha Virago XV250": {
+        "Remove the bung to let the oil out to drain.": {
+            "the bung": [
+                3,
+                0
+            ],
+            "oil": [
+                5,
+                1
+            ],
+            "bung": [
+                9,
+                3
+            ]
+        },
+        "Remove the oil cap to let the oil drain fully and let air in to help drain the old oil out.": {
+            "oil tank": [
+                2,
+                1
+            ],
+            "oil container": [
+                2,
+                1
+            ],
+            "oil": [
+                5,
+                1
+            ],
+            "air": [
+                4,
+                2
+            ],
+            "oil cap": [
+                11,
+                1
+            ]
+        },
+        "Remove the oil filter.": {
+            "oil filter": [
+                9,
+                3
+            ]
+        },
+        "Screw the bung back on.": {
+            "bung": [
+                9,
+                3
+            ]
+        },
+        "Fill the oil back up.": {
+            "oil": [
+                5,
+                1
+            ],
+            "oil bottle": [
+                2,
+                1
+            ],
+            "oil container": [
+                5,
+                1
+            ],
+            "oil tank": [
+                3,
+                0
+            ]
+        },
+        "Recycle the old oil.": {
+            "oil": [
+                8,
+                1
+            ],
+            "jug": [
+                2,
+                1
+            ],
+            "old oil": [
+                1,
+                2
+            ],
+            "oil can": [
+                2,
+                1
+            ],
+            "funnel": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Make a Duct Tape Necklace": {
+        "Take one roll of duct tape and make a piece about a little bigger than your head.": {
+            "duct tape": [
+                5,
+                1
+            ],
+            "tape": [
+                3,
+                4
+            ]
+        },
+        "Measure it around your head, and cut it off the roll.": {
+            "duct table": [
+                2,
+                1
+            ],
+            "tape": [
+                8,
+                4
+            ],
+            "duct tape": [
+                2,
+                1
+            ]
+        },
+        "Fold it halfway through the middle, like shown.": {
+            "tape": [
+                4,
+                5
+            ],
+            "Tape": [
+                1,
+                0
+            ],
+            "duct tape": [
+                3,
+                0
+            ]
+        },
+        "Fold the other half so there is no sticky part showing.": {
+            "tape": [
+                4,
+                6
+            ],
+            "duct tape": [
+                5,
+                1
+            ]
+        },
+        "Tape the ends together.": {
+            "tape ends": [
+                3,
+                0
+            ],
+            "Tape": [
+                1,
+                0
+            ],
+            "ends": [
+                3,
+                0
+            ],
+            "tape": [
+                3,
+                3
+            ]
+        },
+        "And you are done!": {
+            "Duct Tape Necklace": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Grow Dwarf Balsam Fir": {
+        "Choose the plant from a nursery or garden center.": {
+            "plant": [
+                5,
+                4
+            ],
+            "money": [
+                4,
+                2
+            ],
+            "Plant": [
+                1,
+                0
+            ],
+            "hands": [
+                2,
+                1
+            ]
+        },
+        "This plant spreads and flattens as it grows, so select a broad sized container, preferably with a rounded shape.": {
+            "hands": [
+                2,
+                1
+            ],
+            "container": [
+                3,
+                1
+            ],
+            "money": [
+                3,
+                3
+            ]
+        },
+        "Choose the potting soil.": {
+            "soil": [
+                4,
+                2
+            ],
+            "container": [
+                5,
+                1
+            ],
+            "bag": [
+                2,
+                1
+            ],
+            "money": [
+                4,
+                2
+            ]
+        },
+        "Plant the fir in the container.": {
+            "fir": [
+                3,
+                3
+            ],
+            "shovel": [
+                4,
+                2
+            ],
+            "container": [
+                4,
+                2
+            ],
+            "plant": [
+                2,
+                1
+            ]
+        },
+        "Keep this up until the tree is well established.": {
+            "roots": [
+                1,
+                0
+            ],
+            "plant": [
+                4,
+                2
+            ],
+            "container": [
+                2,
+                1
+            ],
+            "water": [
+                3,
+                3
+            ],
+            "fir": [
+                2,
+                1
+            ]
+        },
+        "Re-pot occasionally.": {
+            "container": [
+                1,
+                2
+            ],
+            "pot": [
+                1,
+                0
+            ],
+            "buds": [
+                2,
+                1
+            ],
+            "containers": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Make a Fairy House in the Woods": {
+        "Find a small area with slightly damp dirt.": {
+            "area": [
+                5,
+                1
+            ],
+            "location": [
+                3,
+                0
+            ]
+        },
+        "Collect many twigs and sticks.": {
+            "sticks": [
+                7,
+                2
+            ],
+            "twigs": [
+                5,
+                1
+            ],
+            "bundle": [
+                1,
+                2
+            ]
+        },
+        "Using the sticks, create either a square formation, circle formation, or a Teepee formation.": {
+            "sticks": [
+                7,
+                2
+            ],
+            "shape": [
+                2,
+                1
+            ]
+        },
+        "Build your exterior walls.": {
+            "walls": [
+                2,
+                1
+            ],
+            "fairy house frame": [
+                3,
+                0
+            ]
+        },
+        "You can use either a leaf or a wide strip of bark.": {
+            "sticks": [
+                2,
+                1
+            ]
+        },
+        "Decorate.": {
+            "walls": [
+                2,
+                1
+            ],
+            "fairy house": [
+                2,
+                1
+            ],
+            "Designs": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make Whole Wheat Pastry With Canola": {
+        "Place the whole wheat flour and salt into the mixing bowl.": {
+            "flour and salt": [
+                5,
+                7
+            ],
+            "ingredients": [
+                2,
+                1
+            ],
+            "mixing bowl": [
+                2,
+                4
+            ],
+            "bowl": [
+                2,
+                1
+            ],
+            "flour and salt packages": [
+                1,
+                0
+            ]
+        },
+        "Pour in the oil.": {
+            "oil": [
+                3,
+                6
+            ],
+            "mixture": [
+                1,
+                2
+            ],
+            "dry and wet ingredients": [
+                1,
+                2
+            ],
+            "oil bottle": [
+                1,
+                0
+            ],
+            "mixture in bowl": [
+                2,
+                1
+            ]
+        },
+        "Place the pastry onto a sheet of wax paper.": {
+            "pastry": [
+                3,
+                3
+            ],
+            "mixture": [
+                2,
+                1
+            ],
+            "wax paper": [
+                1,
+                2
+            ],
+            "bowl": [
+                2,
+                1
+            ]
+        },
+        "Remove from the fridge.": {
+            "fridge light": [
+                1,
+                2
+            ],
+            "fridge door": [
+                1,
+                2
+            ],
+            "mixture": [
+                4,
+                5
+            ],
+            "dough": [
+                1,
+                2
+            ],
+            "pastry": [
+                4,
+                2
+            ]
+        },
+        "Press the pastry into the pie dish.": {
+            "pastry": [
+                3,
+                3
+            ],
+            "pie dish": [
+                4,
+                5
+            ],
+            "mixture": [
+                2,
+                1
+            ]
+        },
+        "Create an edge with the sides of a fork.": {
+            "edge": [
+                1,
+                2
+            ],
+            "fork": [
+                2,
+                1
+            ],
+            "pastry": [
+                1,
+                2
+            ],
+            "edges": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Grow Fairy Moss Indoors": {
+        "Ask for it at a nursery or garden center that specializes in pond plant varieties.": {
+            "moss": [
+                5,
+                0
+            ],
+            "plant": [
+                3,
+                0
+            ],
+            "Researched plant online": [
+                1,
+                0
+            ]
+        },
+        "Find a suitable container.": {
+            "container": [
+                9,
+                1
+            ]
+        },
+        "Fill the bowl with water.": {
+            "bowl": [
+                8,
+                2
+            ],
+            "continer": [
+                1,
+                2
+            ],
+            "containter": [
+                3,
+                0
+            ],
+            "water": [
+                2,
+                1
+            ]
+        },
+        "Add the fairy moss.": {
+            "fairy moss": [
+                5,
+                1
+            ],
+            "bowl": [
+                1,
+                0
+            ],
+            "bowl contents": [
+                2,
+                1
+            ]
+        },
+        "Place in a suitable position.": {
+            "bowl": [
+                4,
+                0
+            ],
+            "container": [
+                3,
+                0
+            ]
+        },
+        "Prune.": {
+            "moss": [
+                4,
+                1
+            ],
+            "fairy moss": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Make Chocolate Hearts for Valentine&#x27;s Day": {
+        "Assemble the ingredients needed.": {
+            "molds, mug, chocolate": [
+                3,
+                0
+            ],
+            "ingredients": [
+                3,
+                1
+            ],
+            "Chocolate": [
+                1,
+                0
+            ],
+            "chocolate": [
+                3,
+                0
+            ]
+        },
+        "Melt the chocolate bars in the microwave until you have no lumps left after stirring.": {
+            "chocolate": [
+                14,
+                5
+            ],
+            "chocolate bars": [
+                4,
+                2
+            ],
+            "spoon": [
+                2,
+                1
+            ],
+            "microwave": [
+                2,
+                1
+            ]
+        },
+        "Pour the melted chocolate into the heart shaped molds.": {
+            "molds": [
+                13,
+                3
+            ],
+            "mold": [
+                2,
+                1
+            ],
+            "chocolate": [
+                5,
+                1
+            ]
+        },
+        "Put the chocolate into the freezer until hardened.": {
+            "molds": [
+                3,
+                0
+            ],
+            "chocolate": [
+                8,
+                4
+            ],
+            "release": [
+                2,
+                1
+            ],
+            "choclate": [
+                3,
+                0
+            ]
+        },
+        "Leave them out for one minute and pop out of molds, Or, cut heart shapes in the tray.": {
+            "molds": [
+                5,
+                2
+            ],
+            "chocolate": [
+                7,
+                2
+            ],
+            "chocolates": [
+                3,
+                0
+            ]
+        },
+        "Enjoy then and there, or box them up and give away!": {
+            "Chocolates": [
+                1,
+                0
+            ],
+            "chocolates": [
+                6,
+                0
+            ]
+        }
+    },
+    "How to Make Soap Bubbles for Your Children": {
+        "Mix soap and water.": {
+            "water": [
+                4,
+                5
+            ],
+            "soap": [
+                7,
+                2
+            ],
+            "bowl": [
+                1,
+                2
+            ],
+            "Height in tub": [
+                1,
+                0
+            ],
+            "mixing jar": [
+                4,
+                5
+            ],
+            "mixture": [
+                2,
+                4
+            ],
+            "Water": [
+                1,
+                0
+            ],
+            "water surface": [
+                2,
+                1
+            ]
+        },
+        "Enhance your bubble solution.": {
+            "bubble solution": [
+                3,
+                0
+            ],
+            "mixture": [
+                2,
+                1
+            ]
+        },
+        "Make a little bubble wand.": {
+            "Bubble": [
+                1,
+                0
+            ],
+            "wire": [
+                4,
+                5
+            ],
+            "bubble wand": [
+                3,
+                0
+            ]
+        },
+        "Make a giant bubble wand.": {
+            "hanger": [
+                4,
+                2
+            ],
+            "wire": [
+                1,
+                2
+            ],
+            "coat hanger": [
+                2,
+                1
+            ]
+        },
+        "First go outside, since bubbles look most beautiful when the sun shines through their iridescent swirls.": {
+            "person": [
+                2,
+                1
+            ],
+            "bubbles": [
+                5,
+                1
+            ],
+            "Persons": [
+                1,
+                0
+            ],
+            "bubble solution": [
+                1,
+                2
+            ],
+            "bubble want": [
+                1,
+                2
+            ]
+        },
+        "Make giant bubbles.": {
+            "bubble want": [
+                1,
+                2
+            ],
+            "bubble solution": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Clean Your Home Efficiently": {
+        "######Pick up and put away stray items and throw trash into waste baskets.": {
+            "straw items": [
+                2,
+                1
+            ],
+            "trash": [
+                9,
+                0
+            ],
+            "rooms": [
+                3,
+                0
+            ],
+            "items": [
+                5,
+                1
+            ],
+            "waste basket": [
+                3,
+                0
+            ]
+        },
+        "######Dust, again going through the entire house room by room.": {
+            "surfaces": [
+                3,
+                0
+            ],
+            "rooms": [
+                6,
+                0
+            ],
+            "duster": [
+                2,
+                1
+            ],
+            "house": [
+                2,
+                1
+            ],
+            "dust": [
+                3,
+                0
+            ]
+        },
+        "######Take a large trash bag and go through each room emptying the waste baskets and trash cans.": {
+            "trash bag": [
+                5,
+                1
+            ],
+            "trash cans": [
+                6,
+                0
+            ],
+            "trash": [
+                3,
+                0
+            ],
+            "waste baskets": [
+                9,
+                0
+            ],
+            "trash bags": [
+                4,
+                2
+            ]
+        },
+        "######Use a spray cleaner and rags or paper towels to clean any glass surfaces, including the TV screens.": {
+            "surfaces": [
+                5,
+                1
+            ],
+            "cleaning cloths": [
+                1,
+                0
+            ],
+            "glass surfaces": [
+                4,
+                2
+            ],
+            "spray cleaner": [
+                3,
+                0
+            ]
+        },
+        "First pick up any throw rugs and inside door mats and shake them outside.": {
+            "throw rugs": [
+                2,
+                1
+            ],
+            "mats": [
+                2,
+                1
+            ],
+            "dust": [
+                2,
+                1
+            ],
+            "Dust": [
+                1,
+                0
+            ],
+            "door mats": [
+                3,
+                0
+            ],
+            "rugs": [
+                3,
+                0
+            ],
+            "throw rugs and inside door mats": [
+                3,
+                0
+            ]
+        },
+        "######Enjoy your clean home!": {
+            "house": [
+                2,
+                1
+            ],
+            "rooms": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make Your Den Look Like a Home on Animal Jam (Non Members)": {
+        "Get lots of gems.": {
+            "gem": [
+                3,
+                1
+            ],
+            "gems": [
+                2,
+                1
+            ]
+        },
+        "for a family home you will need quite a lot of stuff.": {
+            "stuff": [
+                2,
+                1
+            ]
+        },
+        "Try to get room shoji screens so you can section things off into smaller rooms.": {
+            "screen": [
+                1,
+                2
+            ],
+            "screens": [
+                2,
+                1
+            ]
+        },
+        "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.": {
+            "master bedroom": [
+                5,
+                1
+            ],
+            "living/dining room": [
+                3,
+                0
+            ],
+            "kids room": [
+                4,
+                2
+            ],
+            "living room": [
+                2,
+                1
+            ]
+        },
+        "Make an outside area.": {
+            "outside area": [
+                6,
+                3
+            ]
+        },
+        "Keep your family safe.": {
+            "family": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make a Pitcher of Melon Pina Coladas": {
+        "Pour the ingredients (except the garnish) into a pitcher that can hold 100 ounces.": {
+            "rum": [
+                3,
+                0
+            ],
+            "pitcher": [
+                11,
+                10
+            ],
+            "ingredients": [
+                5,
+                1
+            ]
+        },
+        "Ensure everything is mixed thoroughly.": {
+            "spoon": [
+                5,
+                1
+            ],
+            "mixing spoon": [
+                2,
+                1
+            ],
+            "rum and coconut": [
+                2,
+                1
+            ],
+            "ingredients": [
+                6,
+                3
+            ],
+            "mixture": [
+                1,
+                2
+            ]
+        },
+        "Allow the mixture to chill in the refrigerator until ready to serve.": {
+            "refrigerator": [
+                4,
+                2
+            ],
+            "mixture": [
+                9,
+                3
+            ],
+            "liquid": [
+                2,
+                1
+            ]
+        },
+        "Pour the mixture into tall glasses.": {
+            "tall glasses": [
+                7,
+                2
+            ],
+            "mixture": [
+                5,
+                1
+            ],
+            "pitcher": [
+                6,
+                3
+            ],
+            "glass": [
+                3,
+                0
+            ]
+        },
+        "Add a chunk of honeydew melon on the side of each glass.": {
+            "glasses": [
+                2,
+                1
+            ],
+            "glass": [
+                5,
+                1
+            ],
+            "honeydew": [
+                7,
+                2
+            ],
+            "side": [
+                2,
+                1
+            ],
+            "honeydew melon": [
+                2,
+                1
+            ]
+        },
+        "Finished.": {
+            "task": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make Pineapple Sherbet": {
+        "Blend the pineapple if it&#x27;s fresh.": {
+            "the pineapple": [
+                8,
+                1
+            ],
+            "blender": [
+                10,
+                2
+            ],
+            "the blender": [
+                8,
+                1
+            ],
+            "pineapple": [
+                11,
+                2
+            ]
+        },
+        "Pour in the milk, oil, sugar or syrup and extract.": {
+            "sugar": [
+                6,
+                1
+            ],
+            "milk": [
+                6,
+                1
+            ],
+            "blender": [
+                3,
+                0
+            ],
+            "the sugar or syrup": [
+                3,
+                0
+            ],
+            "extract": [
+                3,
+                0
+            ],
+            "the oil": [
+                3,
+                0
+            ],
+            "the blender": [
+                6,
+                0
+            ],
+            "oil": [
+                3,
+                0
+            ],
+            "the extract": [
+                3,
+                0
+            ],
+            "the milk": [
+                3,
+                0
+            ]
+        },
+        "Blend all of the ingredients together until smooth.": {
+            "blender": [
+                3,
+                0
+            ],
+            "blender blades": [
+                3,
+                0
+            ],
+            "contents": [
+                2,
+                1
+            ],
+            "ingredients": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ],
+            "blender motor": [
+                1,
+                0
+            ],
+            "the ingredients": [
+                8,
+                1
+            ]
+        },
+        "Pour into a baking dish with decent sides.": {
+            "the baking dish": [
+                9,
+                0
+            ],
+            "the mixture": [
+                3,
+                0
+            ],
+            "baking dish": [
+                8,
+                1
+            ],
+            "sherbet": [
+                3,
+                1
+            ],
+            "the blender": [
+                6,
+                0
+            ],
+            "blender": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ]
+        },
+        "Place in the freezer.": {
+            "baking dish": [
+                6,
+                0
+            ],
+            "the wax paper": [
+                1,
+                2
+            ],
+            "the baking dish": [
+                6,
+                0
+            ],
+            "the mixture": [
+                3,
+                0
+            ],
+            "the refrigerator": [
+                6,
+                0
+            ],
+            "sherbet": [
+                6,
+                0
+            ],
+            "freezer": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ]
+        },
+        "To serve: Simply scoop or cut out pieces of the sherbet.": {
+            "the baking dish": [
+                9,
+                0
+            ],
+            "sherbet": [
+                6,
+                3
+            ],
+            "the plate": [
+                7,
+                0
+            ],
+            "the sherbet": [
+                2,
+                1
+            ],
+            "scoop": [
+                6,
+                0
+            ]
+        }
+    },
+    "How to Make a Pancake Mix Container from a Recycled Ketchup Bottle": {
+        "Scrub the ketchup bottle thoroughly.": {
+            "Ketchup": [
+                2,
+                0
+            ],
+            "sink": [
+                2,
+                1
+            ],
+            "Hands": [
+                1,
+                0
+            ],
+            "ketchup bottle": [
+                3,
+                3
+            ],
+            "bottle": [
+                4,
+                2
+            ],
+            "Bottle": [
+                2,
+                0
+            ],
+            "scrubber": [
+                3,
+                1
+            ],
+            "faucet": [
+                2,
+                1
+            ],
+            "Faucet": [
+                1,
+                0
+            ],
+            "hands": [
+                2,
+                1
+            ]
+        },
+        "Place the funnel over the mouth of the bottle.": {
+            "Funnel": [
+                1,
+                0
+            ],
+            "funnel": [
+                7,
+                2
+            ],
+            "bottle": [
+                2,
+                1
+            ]
+        },
+        "Pour pancake batter through the funnel into the empty ketchup bottle.": {
+            "bottle": [
+                10,
+                2
+            ],
+            "batter": [
+                4,
+                2
+            ],
+            "funnel": [
+                4,
+                2
+            ],
+            "pancake batter": [
+                2,
+                1
+            ],
+            "Batter": [
+                1,
+                0
+            ],
+            "bowl": [
+                3,
+                0
+            ]
+        },
+        "Replace the lid and label the bottle.": {
+            "bottle": [
+                4,
+                2
+            ],
+            "lid": [
+                4,
+                2
+            ],
+            "Bottle": [
+                1,
+                0
+            ],
+            "pen": [
+                2,
+                1
+            ]
+        },
+        "Place the bottle in refrigerator.": {
+            "bottle": [
+                6,
+                3
+            ],
+            "fridge": [
+                2,
+                1
+            ],
+            "pancake batter": [
+                3,
+                0
+            ],
+            "batter": [
+                2,
+                1
+            ],
+            "Batter": [
+                1,
+                0
+            ]
+        },
+        "Finished.": {
+            "pan": [
+                4,
+                2
+            ],
+            "pancake batter": [
+                2,
+                1
+            ],
+            "Batter": [
+                1,
+                0
+            ],
+            "batter": [
+                2,
+                1
+            ]
+        }
+    },
+    "How to Remove Paint from Windows": {
+        "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.": {
+            "bucket": [
+                17,
+                4
+            ],
+            "items needed": [
+                2,
+                1
+            ],
+            "water and dish soap": [
+                3,
+                0
+            ],
+            "soap bottle": [
+                4,
+                2
+            ],
+            "soap": [
+                2,
+                1
+            ]
+        },
+        "Wet the window with the water and dish soap.": {
+            "bucket": [
+                9,
+                0
+            ],
+            "window": [
+                7,
+                5
+            ],
+            "water and dish soap": [
+                3,
+                0
+            ],
+            "water and dish soap on window": [
+                3,
+                0
+            ],
+            "paint": [
+                2,
+                1
+            ],
+            "sponge": [
+                4,
+                2
+            ]
+        },
+        "Position the razor blade.": {
+            "blade": [
+                3,
+                0
+            ],
+            "razor blade": [
+                9,
+                3
+            ],
+            "razor blade package": [
+                6,
+                0
+            ]
+        },
+        "Using slow, smooth motions, start scraping the paint from the window.": {
+            "paint": [
+                14,
+                4
+            ],
+            "window": [
+                11,
+                1
+            ],
+            "blade": [
+                2,
+                1
+            ],
+            "razor blade": [
+                4,
+                2
+            ]
+        },
+        "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.": {
+            "cloth": [
+                6,
+                3
+            ],
+            "all": [
+                5,
+                1
+            ],
+            "paint": [
+                3,
+                0
+            ],
+            "glass cleaner bottle": [
+                6,
+                0
+            ],
+            "window": [
+                7,
+                2
+            ],
+            "glass cleaner": [
+                6,
+                0
+            ]
+        },
+        "Remove small paint splatters with chemical solvents.": {
+            "paint splatter": [
+                2,
+                1
+            ],
+            "solvent": [
+                2,
+                1
+            ],
+            "chemical solvents": [
+                3,
+                0
+            ],
+            "window": [
+                7,
+                2
+            ],
+            "splatters": [
+                2,
+                1
+            ],
+            "solvent container": [
+                4,
+                2
+            ],
+            "chemicals": [
+                2,
+                1
+            ],
+            "sponge": [
+                3,
+                0
+            ],
+            "small paint splatters": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Use a Mic in Team Fortress 2": {
+        "Make sure that your microphone is working and connected first.": {
+            "microphone": [
+                17,
+                4
+            ],
+            "audio options": [
+                1,
+                2
+            ]
+        },
+        "Find various panels at the top like &quot;Multiplayer&quot;, &quot;Mouse&quot;, &quot;Audio&quot;, etc.": {
+            "panels": [
+                3,
+                1
+            ],
+            "search feature": [
+                1,
+                0
+            ],
+            "top panels": [
+                3,
+                0
+            ],
+            "menu options": [
+                3,
+                0
+            ]
+        },
+        "Click on the Voice panel.": {
+            "voice panel": [
+                3,
+                3
+            ],
+            "panel": [
+                3,
+                0
+            ],
+            "Mouse clicker": [
+                1,
+                0
+            ]
+        },
+        "Start talking with other players using your microphone!": {
+            "communication": [
+                3,
+                0
+            ],
+            "voice": [
+                2,
+                1
+            ],
+            "person": [
+                2,
+                1
+            ],
+            "microphone": [
+                3,
+                0
+            ]
+        },
+        "Use the microphone to communicate with your team in a more efficient manner and demand that your voice is heard!": {
+            "voice": [
+                2,
+                2
+            ],
+            "microphone": [
+                3,
+                0
+            ],
+            "communication": [
+                2,
+                1
+            ]
+        },
+        "Advise teammates as well as make game plans to help and support your team.": {
+            "teammates": [
+                3,
+                0
+            ],
+            "advice": [
+                1,
+                2
+            ],
+            "game plans": [
+                2,
+                1
+            ],
+            "team": [
+                2,
+                1
+            ],
+            "plans": [
+                1,
+                0
+            ]
+        }
+    },
+    "How to Make Chinese Macaroni in Just 20 Minutes": {
+        "Boil macaroni in hot boiling water with some salt and oil for 10-15 minutes.": {
+            "macaroni": [
+                23,
+                1
+            ],
+            "salt and oil": [
+                6,
+                0
+            ],
+            "boiling pot": [
+                6,
+                0
+            ],
+            "salt": [
+                8,
+                1
+            ],
+            "oil": [
+                9,
+                0
+            ],
+            "oil/water/pasta/salt": [
+                3,
+                0
+            ],
+            "water": [
+                6,
+                0
+            ],
+            "stove burner": [
+                3,
+                0
+            ],
+            "saucepan": [
+                3,
+                0
+            ]
+        },
+        "After the macaroni has boiled put under running water for about 15 seconds to prevent over cooking.": {
+            "you": [
+                3,
+                0
+            ],
+            "water": [
+                3,
+                0
+            ],
+            "sink": [
+                3,
+                0
+            ],
+            "strainer": [
+                14,
+                1
+            ],
+            "macaroni": [
+                11,
+                1
+            ],
+            "sun": [
+                3,
+                0
+            ],
+            "the time": [
+                3,
+                0
+            ]
+        },
+        "In another pan add some oil and toss in the macaroni.": {
+            "macaroni": [
+                18,
+                0
+            ],
+            "pan": [
+                15,
+                0
+            ],
+            "oil/macaroni": [
+                3,
+                0
+            ],
+            "oil": [
+                8,
+                1
+            ],
+            "spatula": [
+                3,
+                0
+            ],
+            "person": [
+                3,
+                0
+            ]
+        },
+        "Add salt, red chilli powder ,soy sauce,white vinegar and ajino moto.": {
+            "macaroni": [
+                9,
+                0
+            ],
+            "salt": [
+                8,
+                1
+            ],
+            "white vinegar": [
+                9,
+                0
+            ],
+            "ajino moto": [
+                9,
+                0
+            ],
+            "red chilli powder": [
+                9,
+                0
+            ],
+            "pan": [
+                6,
+                0
+            ],
+            "soy sauce": [
+                9,
+                0
+            ],
+            "flavorings macaroni": [
+                3,
+                0
+            ],
+            "ingredients": [
+                3,
+                0
+            ]
+        },
+        "Cook for some seconds.": {
+            "stirring tool": [
+                6,
+                0
+            ],
+            "macaroni": [
+                5,
+                1
+            ],
+            "food": [
+                9,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ],
+            "sun": [
+                3,
+                0
+            ],
+            "pan": [
+                3,
+                0
+            ],
+            "mixture": [
+                3,
+                0
+            ]
+        },
+        "Serve hot with chilled drinks.": {
+            "macaroni": [
+                8,
+                1
+            ],
+            "fork": [
+                3,
+                0
+            ],
+            "task": [
+                3,
+                0
+            ],
+            "food": [
+                9,
+                0
+            ],
+            "serving dish": [
+                6,
+                0
+            ],
+            "drinking glass": [
+                3,
+                0
+            ],
+            "chilled drinks": [
+                3,
+                0
+            ],
+            "drinks": [
+                3,
+                0
+            ],
+            "plate": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Make a Bead Ring": {
+        "Cut a strip of elastic.": {
+            "the strip": [
+                9,
+                0
+            ],
+            "elastic": [
+                8,
+                4
+            ]
+        },
+        "Slip two larger beads at either side of the small bead.": {
+            "the strip": [
+                6,
+                0
+            ],
+            "beads": [
+                5,
+                4
+            ],
+            "small bead": [
+                2,
+                1
+            ],
+            "elastic": [
+                2,
+                1
+            ],
+            "the beads": [
+                3,
+                0
+            ]
+        },
+        "Slip a small bead on one tail.": {
+            "tail": [
+                5,
+                1
+            ],
+            "the strip": [
+                5,
+                1
+            ],
+            "the bead": [
+                3,
+                0
+            ],
+            "bead": [
+                3,
+                0
+            ],
+            "small bead": [
+                2,
+                1
+            ]
+        },
+        "Continue this pattern until you have enough beads to fit around the finger.": {
+            "elastic": [
+                2,
+                1
+            ],
+            "beads": [
+                6,
+                0
+            ],
+            "the strip": [
+                6,
+                0
+            ],
+            "band": [
+                2,
+                0
+            ],
+            "the beads": [
+                2,
+                1
+            ],
+            "finger": [
+                2,
+                1
+            ]
+        },
+        "Finish the ring by slipping the loose tails through the first small bead you placed on the elastic.": {
+            "elastic ends": [
+                3,
+                0
+            ],
+            "the beads": [
+                2,
+                1
+            ],
+            "the tails": [
+                3,
+                0
+            ],
+            "tails": [
+                3,
+                0
+            ]
+        },
+        "Finished.": {
+            "band": [
+                3,
+                0
+            ],
+            "you": [
+                3,
+                0
+            ]
+        }
+    },
+    "How to Recycle Underpants": {
+        "Turn the underpants into cleaning rags.": {
+            "underpants": [
+                7,
+                14
+            ],
+            "floor": [
+                3,
+                3
+            ]
+        },
+        "Use the underwear as garden ties.": {
+            "garden plants": [
+                1,
+                2
+            ],
+            "underwear": [
+                9,
+                6
+            ],
+            "scissors": [
+                1,
+                3
+            ],
+            "underwear strips": [
+                2,
+                1
+            ],
+            "underpants": [
+                2,
+                1
+            ],
+            "plants": [
+                1,
+                2
+            ]
+        },
+        "Turn quality undies into craft items.": {
+            "undies": [
+                3,
+                0
+            ],
+            "hair": [
+                1,
+                3
+            ],
+            "underwear": [
+                5,
+                4
+            ],
+            "underwear strips": [
+                1,
+                2
+            ],
+            "scissors": [
+                1,
+                2
+            ],
+            "quality undies": [
+                2,
+                1
+            ],
+            "underpants": [
+                2,
+                1
+            ]
+        },
+        "Use a bundle of old underwear as stuffing.": {
+            "pillow case": [
+                4,
+                5
+            ],
+            "pillowcases and": [
+                1,
+                0
+            ],
+            "underpants": [
+                1,
+                2
+            ],
+            "bundle": [
+                3,
+                0
+            ],
+            "underwears": [
+                3,
+                3
+            ]
+        },
+        "Children can wear old underwear on the outside of their pants to play superhero.": {
+            "underwear": [
+                7,
+                3
+            ],
+            "pants": [
+                1,
+                2
+            ],
+            "child": [
+                2,
+                4
+            ]
+        },
+        "Donate the underpants.": {
+            "underpants": [
+                9,
+                3
+            ],
+            "donation box": [
+                2,
+                2
+            ]
+        }
+    }
+}

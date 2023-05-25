@@ -1,0 +1,38 @@
+{
+    "43": [
+        {
+            "role": "user",
+            "content": "I am trying to Grow Fairy Moss Indoors. First, I ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I find a suitable container. Then, I fill the bowl with water. Then, I add the fairy moss. Then, I place in a suitable position. Then, I prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following objects: ['plant', 'moss', 'fairy moss', 'container', 'continer', 'containter', 'bowl contents', 'water', 'bowl']. Group those that refer to the same thing. You must include all the provided entities. Do not add any entity that is not provided in the list."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped objects are:\n- ['plant', 'moss', 'fairy moss']\n- ['container', 'continer', 'containter']\n- ['bowl contents']\n- ['water']\n- ['bowl']"
+        }
+    ],
+    "51": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following objects: ['window', 'water and dish soap on window', 'glass cleaner bottle', 'razor blade package', 'solvent container', 'soap bottle', 'paint', 'blade', 'soap', 'chemicals', 'splatters', 'solvent', 'chemical solvents', 'sponge', 'razor blade', 'glass cleaner', 'bucket', 'small paint splatters', 'water and dish soap', 'all of the paint', 'paint splatter', 'items needed', 'cloth']. Group those that refer to the same thing. You must include all the provided entities. Do not add any entity that is not provided in the list."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped objects are:\n- ['window']\n- ['soap', 'water and dish soap', 'water and dish soap on window']\n- ['glass cleaner bottle', 'solvent container', 'soap bottle']\n- ['razor blade package']\n- ['paint']\n- ['razor blade', 'blade']\n- ['splatters', 'small paint splatters', 'all of the paint', 'paint splatter']\n- ['solvent', 'chemical solvents', 'chemicals', 'glass cleaner']\n- ['sponge']\n- ['bucket']\n- ['items needed']\n- ['cloth']"
+        }
+    ]
+}

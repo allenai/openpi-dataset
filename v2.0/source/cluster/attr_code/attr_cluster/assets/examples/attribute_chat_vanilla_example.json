@@ -1,0 +1,272 @@
+{
+    "43_fairy moss": [
+        {
+            "role": "user",
+            "content": "I am trying to Grow Fairy Moss Indoors. First, I ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I find a suitable container. Then, I fill the bowl with water. Then, I add the fairy moss. Then, I place in a suitable position. Then, I prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('wetness', 'position', 'shape'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- wetness\n- position\n- shape"
+        }
+    ],
+    "43_bowl": [
+        {
+            "role": "user",
+            "content": "I am trying to Grow Fairy Moss Indoors. First, I ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I find a suitable container. Then, I fill the bowl with water. Then, I add the fairy moss. Then, I place in a suitable position. Then, I prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('wetness', 'container', 'position'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- wetness\n- container\n- position"
+        }
+    ],
+    "51_window | water and dish soap on window": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('wetness', 'moisture', 'composition', 'compostion', 'temperature', 'cleanness', 'transparency', 'covering', 'weight'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- wetness, moisture\n- composition, compostion\n- temperature\n- cleanness\n- transparency\n- covering\n- weight"
+        }
+    ],
+    "51_glass cleaner bottle": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('weight', 'fullness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- weight\n- fullness"
+        }
+    ],
+    "51_razor blade package": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('openness', 'composition'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- openness\n- composition"
+        }
+    ],
+    "51_solvent container": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('fullness', 'weight'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- fullness\n- weight"
+        }
+    ],
+    "51_soap bottle": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('fullness', 'weight'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- fullness\n- weight"
+        }
+    ],
+    "51_paint": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('moisture', 'power', 'location', 'cleanness', 'wholeness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- moisture\n- power\n- location\n- cleanness\n- wholeness"
+        }
+    ],
+    "51_blade": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('location', 'sharpness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- location\n- sharpness"
+        }
+    ],
+    "51_sponge": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('moisture', 'location', 'cleanness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- moisture\n- location\n- cleanness"
+        }
+    ],
+    "51_razor blade": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('location', 'position', 'contact', 'cleanness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- location\n- position\n- contact\n- cleanness"
+        }
+    ],
+    "51_bucket": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('temperature', 'moisture', 'wetness', 'weight', 'fullness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- temperature\n- moisture, wetness\n- weight\n- fullness"
+        }
+    ],
+    "51_water and dish soap": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('mixture', 'location'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- mixture\n- location"
+        }
+    ],
+    "51_all of the paint": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('location', 'wholeness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- location\n- wholeness"
+        }
+    ],
+    "51_cloth": [
+        {
+            "role": "user",
+            "content": "I am trying to Remove Paint from Windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "We have the following object attributes: ('wetness', 'cleanness'). Group those that are describing the same property of the object. You must include the provided attribute names in the answer. Do not add attribute names that do not exist in the given set."
+        },
+        {
+            "role": "assistant",
+            "content": "The grouped object states are:\n- wetness\n- cleanness"
+        }
+    ]
+}

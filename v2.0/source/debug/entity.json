@@ -1,0 +1,115 @@
+{
+  "49": {
+      "goal": "Make Pineapple Sherbet",
+      "steps": [
+          "Blend the pineapple if it's fresh.",
+          "Pour in the milk, oil, sugar or syrup and extract.",
+          "Blend all of the ingredients together until smooth.",
+          "Pour into a baking dish with decent sides.",
+          "Place in the freezer.",
+          "To serve: Simply scoop or cut out pieces of the sherbet."
+      ],
+      "entities": [
+          [
+              "the milk",
+              "milk",
+              "the oil",
+              "oil"
+          ],
+          [
+              "the extract",
+              "extract"
+          ],
+          [
+              "the blender"
+          ],
+          [
+              "the baking dish",
+              "baking dish"
+          ],
+          [
+              "pineapple"
+          ],
+          [
+              "the sugar or syrup",
+              "sugar"
+          ],
+          [
+              "the refrigerator",
+              "freezer"
+          ],
+          [
+              "the ingredients",
+              "mixture"
+          ],
+          [
+              "the pineapple"
+          ],
+          [
+              "the wax paper"
+          ],
+          [
+              "scoop"
+          ],
+          [
+              "the sherbet"
+          ],
+          [
+              "the plate"
+          ],
+          [
+              "sherbet",
+              "the mixture",
+              "mixture"
+          ],
+          [
+              "the mixture",
+              "mixture"
+          ],
+          [
+              "contents of blender"
+          ],
+          [
+              "blender"
+          ],
+          [
+              "blender blades"
+          ],
+          [
+              "ingredients"
+          ]
+      ],
+      "entities_flattened": [
+          "the milk",
+          "milk",
+          "the oil",
+          "oil",
+          "the extract",
+          "extract",
+          "the blender",
+          "the baking dish",
+          "baking dish",
+          "pineapple",
+          "the sugar or syrup",
+          "sugar",
+          "the refrigerator",
+          "freezer",
+          "the ingredients",
+          "mixture",
+          "the pineapple",
+          "the wax paper",
+          "scoop",
+          "the sherbet",
+          "the plate",
+          "sherbet",
+          "the mixture",
+          "mixture",
+          "the mixture",
+          "mixture",
+          "contents of blender",
+          "blender",
+          "blender blades",
+          "ingredients"
+      ]
+  }
+}

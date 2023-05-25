@@ -1,0 +1,283 @@
+{
+    "1": {
+        "the blackboard eraser": [
+            "eraser"
+        ],
+        "glovebox": [
+            "glove box"
+        ],
+        "eraser shelf at the store": [
+            "eraser display",
+            "eraser rack",
+            "eraser stand"
+        ],
+        "windshield": [
+            "inside windshield"
+        ],
+        "bank account": [
+            "money"
+        ],
+        "hands": [
+            "user hands",
+            "driver hands"
+        ]
+    },
+    "4": {
+        "tip of pipe cleaner": [
+            "end of pipe cleaner",
+            "tip of wire",
+            "end of wire"
+        ],
+        "pipe cleaner": [
+            "pipe cleaners",
+            "wire",
+            "craft wire",
+            "floral wire"
+        ],
+        "your fingers": [
+            "fingers",
+            "hand",
+            "hands",
+            "hand fingers"
+        ],
+        "the torso": [
+            "body",
+            "bird body"
+        ]
+    },
+    "7": {
+        "hdmi cord": [
+            "the hdmi cord",
+            "hdmi cable",
+            "cable"
+        ],
+        "hdmi converter cable": [
+            "hdmi to av converter",
+            "converter cable"
+        ],
+        "wii's av composite output": [
+            "composite output",
+            "av output",
+            "wii output"
+        ],
+        "tv's hdmi input": [
+            "hdmi input",
+            "tv input"
+        ],
+        "converter": [
+            "hdmi to av converter"
+        ],
+        "tv": [],
+        "plug": [],
+        "wii": []
+    },
+    "14": {
+        "the pruning shears": [
+            "pruning shears"
+        ],
+        "the clipping": [
+            "clipping",
+            "cutting"
+        ],
+        "hole in ground": [
+            "planting hole",
+            "plant hole",
+            "digging hole"
+        ],
+        "the rose bush": [
+            "rose bush",
+            "mother plant"
+        ],
+        "the shovel": [
+            "shovel",
+            "digging tool"
+        ],
+        "ground": [
+            "soil",
+            "earth"
+        ],
+        "rooting hormone": [
+            "plant hormone",
+            "plant growth hormone"
+        ],
+        "yard": [
+            "garden",
+            "outdoor area"
+        ]
+    },
+    "18": {
+        "eraser": [],
+        "floor": [
+            "linoleum",
+            "lineoleum"
+        ],
+        "skid mark": [
+            "black mark",
+            "stain"
+        ],
+        "hands": [
+            "fingers",
+            "hand muscles"
+        ],
+        "body": [
+            "person",
+            "you"
+        ],
+        "water": [
+            "cleaning solution",
+            "cleaning liquid"
+        ]
+    },
+    "22": {
+        "your weight": [
+            "weight"
+        ],
+        "ability to identify non-dominant leg": [
+            "non-dominant leg",
+            "leg"
+        ],
+        "ability to identify dominant foot": [
+            "dominant foot",
+            "foot"
+        ],
+        "foot": [
+            "your foot",
+            "both feet"
+        ],
+        "the tires": [
+            "bike tires"
+        ],
+        "the chain": [
+            "bike chain"
+        ],
+        "ability to identify bike shaft": [
+            "bike shaft",
+            "frame"
+        ],
+        "ability to identify handlebars": [
+            "handlebars",
+            "bike handlebars"
+        ]
+    },
+    "24": {
+        "rum": [],
+        "strawberry": [
+            "strawberries"
+        ],
+        "smoothie": [
+            "fruit smoothie",
+            "banana strawberry rum smoothie"
+        ],
+        "mixture": [
+            "blended mixture",
+            "smoothie mixture"
+        ],
+        "ingredients": [
+            "smoothie ingredients",
+            "recipe ingredients"
+        ],
+        "blender": [
+            "mixer",
+            "blender machine",
+            "mixing machine"
+        ],
+        "glasses": [
+            "drink glasses",
+            "serving glasses",
+            "beverage glasses"
+        ]
+    },
+    "28": {
+        "kitchen towel": [
+            "towel",
+            "cloth",
+            "rag"
+        ],
+        "drink": [
+            "soda",
+            "fizzy drink",
+            "carbonated drink"
+        ],
+        "bolt": [
+            "rusty bolt",
+            "old bolt",
+            "new bolt"
+        ],
+        "assembly": [
+            "bolt assembly",
+            "bolt and nut assembly"
+        ],
+        "rust": [],
+        "bottle": [
+            "drink bottle",
+            "soda bottle",
+            "fizzy drink bottle",
+            "carbonated drink bottle"
+        ],
+        "wrench": [
+            "spanner",
+            "adjustable wrench",
+            "adjustable spanner"
+        ]
+    },
+    "47": {
+        "screens": [
+            "shoji screens",
+            "room dividers",
+            "room screens"
+        ],
+        "master bedroom": [
+            "bedroom"
+        ],
+        "living room": [
+            "sitting room",
+            "family room",
+            "TV room"
+        ],
+        "living/dining room": [
+            "dining room",
+            "living space",
+            "living area",
+            "living and dining area",
+            "living and dining space"
+        ],
+        "stuff": [
+            "furniture",
+            "decorations",
+            "home items"
+        ],
+        "gems": [
+            "currency",
+            "in-game currency"
+        ]
+    },
+    "55": {
+        "underwear": [
+            "underwears",
+            "underpants"
+        ],
+        "floor": [],
+        "underwear strips": [
+            "underwear pieces",
+            "underwear rags",
+            "cleaning rags"
+        ],
+        "plants": [
+            "garden plants",
+            "greenery"
+        ],
+        "donation box": [
+            "charity box",
+            "charity donation box"
+        ],
+        "pillow case": [
+            "fabric bag",
+            "cloth bag",
+            "textile bag"
+        ],
+        "scissors": [
+            "cutting tool",
+            "shears"
+        ]
+    }
+}

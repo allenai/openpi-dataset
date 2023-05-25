@@ -1,0 +1,6 @@
+[
+  {"role": "user", "content": "{context}"},
+  {"role": "assistant", "content": "Yes, I understand."},
+  {"role": "user", "content": "{attr_context}"},
+  {"role": "assistant", "content": "Based on the given context, here are the extra attributes that describe the same property as the given attributes:\n{entity_ans}"}
+]

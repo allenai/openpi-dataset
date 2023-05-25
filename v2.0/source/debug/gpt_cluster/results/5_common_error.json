@@ -1,0 +1,265 @@
+{
+    "0": {
+        "gt": [
+            "glovebox",
+            "glvoe box"
+        ],
+        "pred": [
+            "glovebox"
+        ],
+        "count": 5
+    },
+    "1": {
+        "gt": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ],
+        "pred": [
+            "converter",
+            "hdmi converter cable"
+        ],
+        "count": 2
+    },
+    "2": {
+        "gt": [
+            "floor",
+            "lineoleum"
+        ],
+        "pred": [
+            "floor"
+        ],
+        "count": 2
+    },
+    "3": {
+        "gt": [
+            "floor",
+            "lineoleum"
+        ],
+        "pred": [
+            "lineoleum"
+        ],
+        "count": 2
+    },
+    "4": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "dominant foot",
+            "your foot"
+        ],
+        "count": 2
+    },
+    "5": {
+        "gt": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ],
+        "pred": [
+            "sorber"
+        ],
+        "count": 2
+    },
+    "6": {
+        "gt": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ],
+        "pred": [
+            "bundle of old underwear"
+        ],
+        "count": 2
+    },
+    "7": {
+        "gt": [
+            "cutting",
+            "the cutting"
+        ],
+        "pred": [
+            "the clipping",
+            "cutting",
+            "clipping"
+        ],
+        "count": 2
+    },
+    "8": {
+        "gt": [
+            "pipe cleaner",
+            "pipe cleaners"
+        ],
+        "pred": [
+            "tip of pipe cleaner",
+            "pipe cleaner"
+        ],
+        "count": 1
+    },
+    "9": {
+        "gt": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ],
+        "pred": [
+            "cord",
+            "hdmi cord",
+            "plug"
+        ],
+        "count": 1
+    },
+    "10": {
+        "gt": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ],
+        "pred": [
+            "the hdmi"
+        ],
+        "count": 1
+    },
+    "11": {
+        "gt": [
+            "the clipping",
+            "clipping"
+        ],
+        "pred": [
+            "the cutting",
+            "the clipping",
+            "cutting"
+        ],
+        "count": 1
+    },
+    "12": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "pedals",
+            "both feet"
+        ],
+        "count": 1
+    },
+    "13": {
+        "gt": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ],
+        "pred": [
+            "ability to identify dominant foot",
+            "foot",
+            "feet"
+        ],
+        "count": 1
+    },
+    "14": {
+        "gt": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ],
+        "pred": [
+            "mixture",
+            "fruit and sorbet",
+            "smoothie"
+        ],
+        "count": 1
+    },
+    "15": {
+        "gt": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ],
+        "pred": [
+            "mixture",
+            "fruit and sorbet",
+            "smoothie"
+        ],
+        "count": 1
+    },
+    "16": {
+        "gt": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ],
+        "pred": [
+            "ingredients",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "count": 1
+    },
+    "17": {
+        "gt": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ],
+        "pred": [
+            "ingredients",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "count": 1
+    },
+    "18": {
+        "gt": [
+            "banana",
+            "bananas"
+        ],
+        "pred": [
+            "ingredients",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "count": 1
+    },
+    "19": {
+        "gt": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ],
+        "pred": [
+            "underwears",
+            "underwear",
+            "underpants",
+            "quality undies"
+        ],
+        "count": 1
+    }
+}

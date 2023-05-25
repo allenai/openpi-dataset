@@ -1,0 +1,471 @@
+{
+    "1": {
+        "the blackboard eraser": {
+            "possession": [],
+            "ownership": [],
+            "location": [],
+            "placement": [],
+            "condition": [],
+            "cleanness": [],
+            "movement": []
+        },
+        "glovebox": {
+            "location": []
+        },
+        "eraser shelf at the store": {
+            "fullness": []
+        },
+        "windshield": {
+            "cleanness": []
+        },
+        "inside windshield": {
+            "cleanness": []
+        },
+        "bank account": {
+            "fullness": []
+        },
+        "glove box": {
+            "fullness": []
+        },
+        "money": {
+            "location": []
+        },
+        "hands": {
+            "activity": []
+        }
+    },
+    "4": {
+        "tip of pipe cleaner": {
+            "shape": []
+        },
+        "pipe cleaner": {
+            "position": [
+                "location"
+            ],
+            "shape": [],
+            "location": []
+        },
+        "your fingers": {
+            "location": []
+        },
+        "the torso": {
+            "width": [],
+            "weight": []
+        }
+    },
+    "7": {
+        "hdmi cord": {
+            "organization": [],
+            "power": [
+                "power"
+            ],
+            "connection": [
+                "connection"
+            ],
+            "attachment": []
+        },
+        "wii's av composite output": {
+            "container": []
+        },
+        "cord": {
+            "power": []
+        },
+        "tv's hdmi input": {
+            "container": []
+        },
+        "converter": {
+            "attachment": []
+        },
+        "tv": {
+            "power": [],
+            "attachment": []
+        },
+        "plug": {
+            "volume": []
+        },
+        "wii": {
+            "connection": []
+        },
+        "the hdmi": {
+            "power": []
+        },
+        "the cord": {
+            "power": []
+        }
+    },
+    "14": {
+        "the pruning shears": {
+            "wetness": [],
+            "moisture": [],
+            "cleanness": []
+        },
+        "the clipping": {
+            "moisture": [],
+            "wetness": [],
+            "location": [],
+            "composition": []
+        },
+        "hole in ground": {
+            "container": []
+        },
+        "the rose bush": {
+            "weight": []
+        },
+        "the shovel": {
+            "cleanness": []
+        },
+        "cutting": {
+            "location": []
+        },
+        "ground": {
+            "volume": []
+        },
+        "rose bush": {
+            "shape": []
+        },
+        "rooting hormone": {
+            "location": []
+        },
+        "yard": {
+            "readiness": []
+        },
+        "area": {
+            "readiness": []
+        },
+        "pot": {
+            "volume": []
+        },
+        "the cutting": {
+            "location": []
+        },
+        "water": {
+            "location": []
+        },
+        "roots": {
+            "moisture": []
+        },
+        "soil": {
+            "location": [],
+            "moisture": []
+        }
+    },
+    "18": {
+        "eraser": {
+            "location": [],
+            "ownership": [],
+            "cost": [],
+            "size": []
+        },
+        "floor": {
+            "cleanness": [],
+            "color": [],
+            "odor": [],
+            "wetness": [
+                "moisture"
+            ],
+            "moisture": []
+        },
+        "linoleum": {
+            "cleanness": [],
+            "wetness": []
+        },
+        "skid mark": {
+            "dampness": [],
+            "location": []
+        },
+        "hands": {
+            "motion": []
+        },
+        "hand muscles": {
+            "power": []
+        },
+        "body": {
+            "form": [],
+            "position": [],
+            "location": []
+        },
+        "you": {
+            "orientation": []
+        },
+        "water": {
+            "location": []
+        }
+    },
+    "22": {
+        "your weight": {
+            "weight": []
+        },
+        "ability to identify non-dominant leg": {
+            "knowledge": []
+        },
+        "ability to identify dominant foot": {
+            "knowledge": []
+        },
+        "weight": {
+            "placement": []
+        },
+        "foot": {
+            "location": []
+        },
+        "your foot": {
+            "placement": []
+        },
+        "both feet": {
+            "placement": []
+        },
+        "the tires": {
+            "movement": []
+        },
+        "the chain": {
+            "mechanical movement": []
+        },
+        "ability to identify bike shaft": {
+            "knowledge": []
+        },
+        "ability to identify handlebars": {
+            "knowledge": []
+        },
+        "ability to ride a bike": {
+            "skill": []
+        },
+        "you": {
+            "position": [],
+            "location": [],
+            "motion": [],
+            "action": [],
+            "balance": []
+        },
+        "bike": {
+            "stability": [],
+            "balance": [],
+            "movement": [
+                "movement"
+            ],
+            "orientation": [],
+            "motion": []
+        },
+        "bicycle": {
+            "location": [],
+            "weight": []
+        },
+        "non-dominant foot": {
+            "location": []
+        },
+        "center of gravity": {
+            "location": []
+        },
+        "pedals": {
+            "motion": []
+        },
+        "grip on bike": {
+            "strength": []
+        },
+        "handbrakes": {
+            "knowledge": []
+        },
+        "speed": {
+            "speed": []
+        }
+    },
+    "24": {
+        "rum": {
+            "location": [],
+            "rum": [],
+            "composition": []
+        },
+        "strawberry": {
+            "location": [],
+            "strawberry": []
+        },
+        "smoothie": {
+            "organization": [],
+            "texture": [
+                "smoothie"
+            ],
+            "smoothie": [],
+            "location": []
+        },
+        "blender": {
+            "cleanness": [],
+            "volume": [],
+            "blender": [],
+            "weight": [],
+            "electric conductivity": []
+        },
+        "glasses": {
+            "volume": [],
+            "temperature": [],
+            "glasses": [],
+            "weight": [],
+            "cleanness": [],
+            "moisture": [],
+            "appearance": []
+        },
+        "sorber": {
+            "location": []
+        },
+        "glass": {
+            "decoration": []
+        },
+        "yogurt": {
+            "location": []
+        },
+        "ingredients": {
+            "composition": []
+        },
+        "bottle": {
+            "weight": [],
+            "volume": []
+        },
+        "banana": {
+            "location": []
+        },
+        "fruit": {
+            "temperature": []
+        },
+        "items": {
+            "composition": []
+        },
+        "liquid": {
+            "composition": []
+        }
+    },
+    "28": {
+        "kitchen towel": {
+            "cleanness": [
+                "cleanness"
+            ],
+            "texture": [],
+            "color": [],
+            "wetness": [
+                "moisture"
+            ],
+            "moisture": []
+        },
+        "drink": {
+            "cost": [],
+            "sealing": [],
+            "availability": []
+        },
+        "bolt": {
+            "wetness": [
+                "moisture"
+            ],
+            "moisture": [],
+            "texture": [],
+            "cleanness": [],
+            "movement": [],
+            "age": [],
+            "location": []
+        },
+        "assembly": {
+            "texture": []
+        },
+        "new bolt": {
+            "location": [],
+            "orientation": []
+        },
+        "rust": {
+            "composition": []
+        },
+        "bottle": {
+            "weight": [],
+            "openness": []
+        },
+        "wrench": {
+            "location": []
+        },
+        "soda": {
+            "location": []
+        },
+        "cup": {
+            "fullness": [],
+            "cleanness": [],
+            "moisture": [],
+            "weight": []
+        },
+        "fizzy drink": {
+            "availability": [],
+            "location": []
+        },
+        "towel": {
+            "weight": []
+        },
+        "hands": {
+            "moisture": [],
+            "texture": []
+        }
+    },
+    "47": {
+        "screens": {
+            "location": []
+        },
+        "master bedroom": {
+            "availability": []
+        },
+        "stuff": {
+            "location": []
+        },
+        "gems": {
+            "availability": []
+        },
+        "outside area": {
+            "availability": [],
+            "step": []
+        },
+        "kids room": {
+            "availability": []
+        }
+    },
+    "55": {
+        "underwear": {
+            "newness": [],
+            "location": [],
+            "size": [],
+            "use": [],
+            "shape": []
+        },
+        "underpants": {
+            "newness": [],
+            "cleanness": [],
+            "location": [],
+            "use": [],
+            "shape": [],
+            "composition": [],
+            "size": [],
+            "ownership": [],
+            "availability": []
+        },
+        "underwear strips": {
+            "shape": []
+        },
+        "bundle of old underwear": {
+            "use": []
+        },
+        "plants": {
+            "form": []
+        },
+        "garden plants": {
+            "decoration": []
+        },
+        "donation box": {
+            "location": []
+        },
+        "pillow case": {
+            "location": [],
+            "content": []
+        },
+        "scissors": {
+            "location": []
+        },
+        "quality undies": {
+            "use": []
+        },
+        "child": {
+            "look": []
+        },
+        "pants": {
+            "covering": []
+        }
+    }
+}

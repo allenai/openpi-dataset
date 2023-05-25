@@ -1,0 +1,3567 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": [
+            "Purchase a blackboard eraser.",
+            "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+            "Use the eraser to clean the inner side of the windshield.",
+            "Replace after use."
+        ],
+        "entities": [
+            [
+                "the blackboard eraser",
+                "eraser"
+            ],
+            [
+                "glovebox"
+            ],
+            [
+                "eraser shelf at the store"
+            ],
+            [
+                "windshield"
+            ],
+            [
+                "inside windshield"
+            ],
+            [
+                "bank account"
+            ],
+            [
+                "glove box"
+            ],
+            [
+                "money"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "the blackboard eraser",
+            "eraser",
+            "glovebox",
+            "eraser shelf at the store",
+            "windshield",
+            "inside windshield",
+            "bank account",
+            "glove box",
+            "money",
+            "hands"
+        ]
+    },
+    "2": {
+        "goal": "Make Carob Fruit Balls",
+        "steps": [
+            "Mix all of the ingredients together.",
+            "Roll into small balls.",
+            "Place in the freezer for half an hour.",
+            "Serve."
+        ],
+        "entities": [
+            [
+                "ingredients"
+            ],
+            [
+                "dough",
+                "dough pieces"
+            ],
+            [
+                "carob fruit balls"
+            ],
+            [
+                "balls"
+            ],
+            [
+                "mixing bowl"
+            ],
+            [
+                "spoon"
+            ],
+            [
+                "plate"
+            ],
+            [
+                "mixture"
+            ],
+            [
+                "carob"
+            ],
+            [
+                "hand"
+            ],
+            [
+                "bowl"
+            ]
+        ],
+        "entities_flattened": [
+            "ingredients",
+            "dough",
+            "dough pieces",
+            "carob fruit balls",
+            "balls",
+            "mixing bowl",
+            "spoon",
+            "plate",
+            "mixture",
+            "carob",
+            "hand",
+            "bowl"
+        ]
+    },
+    "3": {
+        "goal": "Freeze Baked Cookies or Biscuits",
+        "steps": [
+            "Place the biscuits or cookies into a rigid, airtight container.",
+            "Separate the biscuits and cookies using freezer paper, baking paper, or foil.",
+            "Place biscuits in freezer.",
+            "Thaw."
+        ],
+        "entities": [
+            [
+                "the cookies and biscuits"
+            ],
+            [
+                "cookies",
+                "biscuits"
+            ],
+            [
+                "the aluminum foil"
+            ],
+            [
+                "aluminum foil"
+            ],
+            [
+                "the cookies"
+            ],
+            [
+                "the bowl"
+            ],
+            [
+                "freezer"
+            ],
+            [
+                "freezer paper"
+            ],
+            [
+                "baking paper"
+            ],
+            [
+                "foil"
+            ],
+            [
+                "container"
+            ],
+            [
+                "tray"
+            ]
+        ],
+        "entities_flattened": [
+            "the cookies and biscuits",
+            "cookies",
+            "biscuits",
+            "the aluminum foil",
+            "aluminum foil",
+            "the cookies",
+            "the bowl",
+            "freezer",
+            "freezer paper",
+            "baking paper",
+            "foil",
+            "container",
+            "tray"
+        ]
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": [
+            "Bend one pipe cleaner in half to form the legs.",
+            "Shape another pipe cleaner to form the body.",
+            "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+            "Use 2 pipe cleaners to enlarge the torso."
+        ],
+        "entities": [
+            [
+                "tip of pipe cleaner"
+            ],
+            [
+                "pipe cleaner",
+                "pipe cleaners"
+            ],
+            [
+                "your fingers"
+            ],
+            [
+                "the torso"
+            ]
+        ],
+        "entities_flattened": [
+            "tip of pipe cleaner",
+            "pipe cleaner",
+            "pipe cleaners",
+            "your fingers",
+            "the torso"
+        ]
+    },
+    "5": {
+        "goal": "Spool Knit a Winter Hat",
+        "steps": [
+            "Knit eighty-four inches of flat web.",
+            "Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.",
+            "Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.",
+            "After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel."
+        ],
+        "entities": [
+            [
+                "the webbing",
+                "the yarn"
+            ],
+            [
+                "the hat"
+            ],
+            [
+                "the piece of yarn"
+            ],
+            [
+                "the ends"
+            ]
+        ],
+        "entities_flattened": [
+            "the webbing",
+            "the yarn",
+            "the hat",
+            "the piece of yarn",
+            "the ends"
+        ]
+    },
+    "6": {
+        "goal": "Get a Headshot in Gears of War",
+        "steps": [
+            "Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.",
+            "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.",
+            "Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.",
+            "BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one."
+        ],
+        "entities": [
+            [
+                "gun",
+                "weapon"
+            ],
+            [
+                "you"
+            ]
+        ],
+        "entities_flattened": [
+            "gun",
+            "weapon",
+            "you"
+        ]
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": [
+            "Plug in your HDMI cord to the cable.",
+            "Plug it into your TV's HDMI input.",
+            "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+            "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+        ],
+        "entities": [
+            [
+                "hdmi cord",
+                "hdmi converter cable",
+                "the hdmi cord"
+            ],
+            [
+                "wii's av composite output"
+            ],
+            [
+                "cord"
+            ],
+            [
+                "tv's hdmi input"
+            ],
+            [
+                "converter"
+            ],
+            [
+                "tv"
+            ],
+            [
+                "plug"
+            ],
+            [
+                "wii"
+            ],
+            [
+                "the hdmi"
+            ],
+            [
+                "the cord"
+            ]
+        ],
+        "entities_flattened": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "wii's av composite output",
+            "cord",
+            "tv's hdmi input",
+            "converter",
+            "tv",
+            "plug",
+            "wii",
+            "the hdmi",
+            "the cord"
+        ]
+    },
+    "8": {
+        "goal": "Fold Bath Towels for Quick Hanging at Home",
+        "steps": [
+            "Fold the towel in thirds lengthwise.",
+            "Fold in half, and then in half again.",
+            "Store the towel in the linen closet.",
+            "To go from the closet for hanging, simply unfold the final fold and hang on the towel rack."
+        ],
+        "entities": [
+            [
+                "towel",
+                "the towels"
+            ],
+            [
+                "closet"
+            ],
+            [
+                "height of towel"
+            ],
+            [
+                "hand muscles"
+            ],
+            [
+                "final fold"
+            ],
+            [
+                "towel rack"
+            ],
+            [
+                "hand"
+            ]
+        ],
+        "entities_flattened": [
+            "towel",
+            "the towels",
+            "closet",
+            "height of towel",
+            "hand muscles",
+            "final fold",
+            "towel rack",
+            "hand"
+        ]
+    },
+    "9": {
+        "goal": "Be a Spy With Friends",
+        "steps": [
+            "Set-up your spy group You will need a trustworthy 2-5 person group.",
+            "It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.",
+            "Get some gear To be a good spy, you and your friends must have gear that will help with missions.",
+            "Find your first \"victim\" The victim is the person you will be watching and spying on."
+        ],
+        "entities": [
+            [
+                "co-conspirators"
+            ],
+            [
+                "gear"
+            ],
+            [
+                "your spy group"
+            ],
+            [
+                "you"
+            ]
+        ],
+        "entities_flattened": [
+            "co-conspirators",
+            "gear",
+            "your spy group",
+            "you"
+        ]
+    },
+    "10": {
+        "goal": "Defeat a Thug on Dead Island",
+        "steps": [
+            "There is no chance in hell you will kill a Thug using just your bear hands and feet.",
+            "Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.",
+            "Make sure your guns have enough ammo, and your knives are up to scratch.",
+            "Attack!"
+        ],
+        "entities": [
+            [
+                "you"
+            ],
+            [
+                "enough ammo"
+            ],
+            [
+                "zombies"
+            ],
+            [
+                "molotov cocktails"
+            ],
+            [
+                "grenades"
+            ],
+            [
+                "weapons"
+            ]
+        ],
+        "entities_flattened": [
+            "you",
+            "enough ammo",
+            "zombies",
+            "molotov cocktails",
+            "grenades",
+            "weapons"
+        ]
+    },
+    "11": {
+        "goal": "Make Rhubarb Cordial",
+        "steps": [
+            "Simmer the rhubarb with the sugar, cloves and water.",
+            "Simmer until the rhubarb becomes soft.",
+            "Remove from the heat.",
+            "Add the mint leaves for decoration."
+        ],
+        "entities": [
+            [
+                "rhubarb",
+                "rhubarb cordial"
+            ],
+            [
+                "cordial"
+            ],
+            [
+                "pot"
+            ],
+            [
+                "cloves"
+            ],
+            [
+                "sugar"
+            ],
+            [
+                "mint leaves"
+            ],
+            [
+                "stove"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "entities_flattened": [
+            "rhubarb",
+            "rhubarb cordial",
+            "cordial",
+            "pot",
+            "cloves",
+            "sugar",
+            "mint leaves",
+            "stove",
+            "water"
+        ]
+    },
+    "12": {
+        "goal": "Get Under the Stage in Dragonball Z Budokai Tenkaichi 2",
+        "steps": [
+            "Choose VS Duel, 2 players.",
+            "Choose Goku as player one, as well as player two.",
+            "Choose Mountain Road as the stage.",
+            "Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage."
+        ],
+        "entities": [
+            [
+                "players",
+                "player"
+            ],
+            [
+                "stage"
+            ],
+            [
+                "player two"
+            ],
+            [
+                "companion"
+            ],
+            [
+                "goku"
+            ],
+            [
+                "vs duel"
+            ],
+            [
+                "mode"
+            ],
+            [
+                "you"
+            ],
+            [
+                "character"
+            ]
+        ],
+        "entities_flattened": [
+            "players",
+            "player",
+            "stage",
+            "player two",
+            "companion",
+            "goku",
+            "vs duel",
+            "mode",
+            "you",
+            "character"
+        ]
+    },
+    "13": {
+        "goal": "Make Slow Cooker Hot Cocoa",
+        "steps": [
+            "Make the initial cocoa mixture.",
+            "Add all the ingredients in a slow cooker.",
+            "Allow the mixture to heat for 3 hours on a low setting.",
+            "Serve immediately or keep the slow cooker on a \"Keep Warm\" setting."
+        ],
+        "entities": [
+            [
+                "mixture ingredients",
+                "the ingredients",
+                "ingredients"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "slow cooker",
+                "the slow cooker"
+            ],
+            [
+                "mixture",
+                "the mixture"
+            ],
+            [
+                "cocoa powder"
+            ],
+            [
+                "liquid"
+            ],
+            [
+                "cooker"
+            ],
+            [
+                "whisk"
+            ],
+            [
+                "water"
+            ],
+            [
+                "smell"
+            ],
+            [
+                "the outside of the slow cooker"
+            ],
+            [
+                "bowl"
+            ],
+            [
+                "lid"
+            ],
+            [
+                "mug"
+            ],
+            [
+                "the slow cooker"
+            ],
+            [
+                "cocoa mixture"
+            ],
+            [
+                "the knob"
+            ]
+        ],
+        "entities_flattened": [
+            "mixture ingredients",
+            "the ingredients",
+            "ingredients",
+            "ingredients",
+            "slow cooker",
+            "the slow cooker",
+            "mixture",
+            "the mixture",
+            "cocoa powder",
+            "liquid",
+            "cooker",
+            "whisk",
+            "water",
+            "smell",
+            "the outside of the slow cooker",
+            "bowl",
+            "lid",
+            "mug",
+            "the slow cooker",
+            "cocoa mixture",
+            "the knob"
+        ]
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entities": [
+            [
+                "the pruning shears",
+                "pruning shears"
+            ],
+            [
+                "the clipping",
+                "clipping"
+            ],
+            [
+                "hole in ground"
+            ],
+            [
+                "the rose bush"
+            ],
+            [
+                "the shovel"
+            ],
+            [
+                "cutting"
+            ],
+            [
+                "ground"
+            ],
+            [
+                "rose bush"
+            ],
+            [
+                "rooting hormone"
+            ],
+            [
+                "yard"
+            ],
+            [
+                "area"
+            ],
+            [
+                "pot"
+            ],
+            [
+                "the cutting"
+            ],
+            [
+                "water"
+            ],
+            [
+                "roots"
+            ],
+            [
+                "soil"
+            ]
+        ],
+        "entities_flattened": [
+            "the pruning shears",
+            "pruning shears",
+            "the clipping",
+            "clipping",
+            "hole in ground",
+            "the rose bush",
+            "the shovel",
+            "cutting",
+            "ground",
+            "rose bush",
+            "rooting hormone",
+            "yard",
+            "area",
+            "pot",
+            "the cutting",
+            "water",
+            "roots",
+            "soil"
+        ]
+    },
+    "15": {
+        "goal": "Evolve Vulpix in Pok\u00e9mon",
+        "steps": [
+            "######Catch or trade for a Vulpix.",
+            "######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).",
+            "Go to your bag and select the stone required.",
+            "######Wait for the evolution animation to pop up."
+        ],
+        "entities": [
+            [
+                "stone"
+            ],
+            [
+                "fire or ice stone"
+            ],
+            [
+                "the stone"
+            ],
+            [
+                "bag"
+            ],
+            [
+                "vulpix"
+            ],
+            [
+                "fire stone"
+            ]
+        ],
+        "entities_flattened": [
+            "stone",
+            "fire or ice stone",
+            "the stone",
+            "bag",
+            "vulpix",
+            "fire stone"
+        ]
+    },
+    "16": {
+        "goal": "Polish a Faucet With a Lemon",
+        "steps": [
+            "######Cut a lemon in half.",
+            "######Squeeze out the juice.",
+            "######Take the squeezed out lemon half and rub vigorously over the faucets.",
+            "######Wash the tap after scouring with the lemon half."
+        ],
+        "entities": [
+            [
+                "faucets",
+                "faucet",
+                "tap"
+            ],
+            [
+                "lemon"
+            ],
+            [
+                "juice",
+                "facuets"
+            ],
+            [
+                "cutting board"
+            ],
+            [
+                "lemon juice"
+            ],
+            [
+                "knife"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "entities_flattened": [
+            "faucets",
+            "faucet",
+            "tap",
+            "lemon",
+            "juice",
+            "facuets",
+            "cutting board",
+            "lemon juice",
+            "knife",
+            "water"
+        ]
+    },
+    "17": {
+        "goal": "Make Taco Filling",
+        "steps": [
+            "Brown the meat and the onion in a medium sized frying pan.",
+            "Drain the excess fat.",
+            "Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "onion"
+            ],
+            [
+                "meat",
+                "fat",
+                "pan"
+            ],
+            [
+                "grease c ontainer"
+            ],
+            [
+                "tomato"
+            ],
+            [
+                "grease container"
+            ],
+            [
+                "ingredients",
+                "spices"
+            ],
+            [
+                "serving bowl"
+            ],
+            [
+                "hot sauce"
+            ],
+            [
+                "spatula"
+            ],
+            [
+                "skillet"
+            ],
+            [
+                "liquids"
+            ],
+            [
+                "grease"
+            ],
+            [
+                "cheese"
+            ],
+            [
+                "flavor"
+            ],
+            [
+                "recipe"
+            ],
+            [
+                "knife"
+            ],
+            [
+                "beef"
+            ],
+            [
+                "food"
+            ],
+            [
+                "frying pan"
+            ],
+            [
+                "bowl"
+            ],
+            [
+                "stove"
+            ],
+            [
+                "sink"
+            ]
+        ],
+        "entities_flattened": [
+            "onion",
+            "meat",
+            "fat",
+            "pan",
+            "grease c ontainer",
+            "tomato",
+            "grease container",
+            "ingredients",
+            "spices",
+            "serving bowl",
+            "hot sauce",
+            "spatula",
+            "skillet",
+            "liquids",
+            "grease",
+            "cheese",
+            "flavor",
+            "recipe",
+            "knife",
+            "beef",
+            "food",
+            "frying pan",
+            "bowl",
+            "stove",
+            "sink"
+        ]
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": [
+            "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+            "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+            "Continue rubbing until the black mark lifts.",
+            "Wash and dry as usual."
+        ],
+        "entities": [
+            [
+                "eraser"
+            ],
+            [
+                "floor",
+                "lineoleum"
+            ],
+            [
+                "linoleum"
+            ],
+            [
+                "skid mark"
+            ],
+            [
+                "hands"
+            ],
+            [
+                "hand muscles"
+            ],
+            [
+                "body",
+                "person"
+            ],
+            [
+                "you"
+            ],
+            [
+                "water"
+            ]
+        ],
+        "entities_flattened": [
+            "eraser",
+            "floor",
+            "lineoleum",
+            "linoleum",
+            "skid mark",
+            "hands",
+            "hand muscles",
+            "body",
+            "person",
+            "you",
+            "water"
+        ]
+    },
+    "19": {
+        "goal": "Create a Character in Lego Star Wars",
+        "steps": [
+            "When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.",
+            "Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.",
+            "Press \"triangle\" to name it, and \"O\" to save and exit.",
+            "Now enter a completed level and turn on free play."
+        ],
+        "entities": [
+            [
+                "up/down and left/right arrows"
+            ],
+            [
+                "you"
+            ],
+            [
+                "character parts"
+            ],
+            [
+                "completed level"
+            ],
+            [
+                "free play"
+            ],
+            [
+                "character"
+            ],
+            [
+                "game"
+            ]
+        ],
+        "entities_flattened": [
+            "up/down and left/right arrows",
+            "you",
+            "character parts",
+            "completed level",
+            "free play",
+            "character",
+            "game"
+        ]
+    },
+    "20": {
+        "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+        "steps": [
+            "Blend the cream cheese and marshmallow cream until combined.",
+            "Pour the mixture into a clean bowl.",
+            "Serve with fruit or whatever else you like.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "the cream cheese",
+                "cream cheese and marshmallow"
+            ],
+            [
+                "marshmallow"
+            ],
+            [
+                "the mixing bowl",
+                "the clean bowl"
+            ],
+            [
+                "mixtre",
+                "mixture"
+            ],
+            [
+                "the marshmallow cream",
+                "marshmallow cream",
+                "cream cheese"
+            ],
+            [
+                "the knife"
+            ],
+            [
+                "the fruit",
+                "fruit"
+            ],
+            [
+                "the mixture",
+                "bowl"
+            ],
+            [
+                "the bowl"
+            ],
+            [
+                "blender"
+            ],
+            [
+                "ingredients"
+            ]
+        ],
+        "entities_flattened": [
+            "the cream cheese",
+            "cream cheese and marshmallow",
+            "marshmallow",
+            "the mixing bowl",
+            "the clean bowl",
+            "mixtre",
+            "mixture",
+            "the marshmallow cream",
+            "marshmallow cream",
+            "cream cheese",
+            "the knife",
+            "the fruit",
+            "fruit",
+            "the mixture",
+            "bowl",
+            "the bowl",
+            "blender",
+            "ingredients"
+        ]
+    },
+    "21": {
+        "goal": "Clean Synthetic Hiking Gear",
+        "steps": [
+            "Read all of the instructions first.",
+            "Wash Gore-Tex and other breathable, waterproof synthetic outer shell clothing following the instructions on the label.",
+            "Be careful with synthetic boots.",
+            "Take care cleaning synthetic jackets containing down.",
+            "Wash polar fleece (microfleece or micrafleece) in the washing machine."
+        ],
+        "entities": [
+            [
+                "instructions"
+            ],
+            [
+                "washing machine"
+            ],
+            [
+                "clothing"
+            ],
+            [
+                "polar fleece"
+            ],
+            [
+                "fleece"
+            ],
+            [
+                "detergent"
+            ],
+            [
+                "gore-tex"
+            ],
+            [
+                "dirt"
+            ]
+        ],
+        "entities_flattened": [
+            "instructions",
+            "washing machine",
+            "clothing",
+            "polar fleece",
+            "fleece",
+            "detergent",
+            "gore-tex",
+            "dirt"
+        ]
+    },
+    "22": {
+        "goal": "Get on a Bike",
+        "steps": [
+            "To get on the bike, swing your non-dominant leg over the shaft of the bike.",
+            "Put your dominant foot on the pedal.",
+            "Hold on to the handlebars for support and to keep the bike straight.",
+            "Keeping your weight center and even, pedal with your feet.",
+            "Stopping."
+        ],
+        "entities": [
+            [
+                "your weight"
+            ],
+            [
+                "ability to identify non-dominant leg"
+            ],
+            [
+                "ability to identify dominant foot"
+            ],
+            [
+                "weight"
+            ],
+            [
+                "foot",
+                "dominant foot",
+                "feet"
+            ],
+            [
+                "your foot"
+            ],
+            [
+                "both feet"
+            ],
+            [
+                "the tires"
+            ],
+            [
+                "the chain"
+            ],
+            [
+                "ability to identify bike shaft"
+            ],
+            [
+                "ability to identify handlebars"
+            ],
+            [
+                "ability to ride a bike"
+            ],
+            [
+                "you",
+                "hands"
+            ],
+            [
+                "bike",
+                "bicycle"
+            ],
+            [
+                "bicycle"
+            ],
+            [
+                "non-dominant foot"
+            ],
+            [
+                "center of gravity"
+            ],
+            [
+                "pedals"
+            ],
+            [
+                "grip on bike"
+            ],
+            [
+                "handbrakes"
+            ],
+            [
+                "speed"
+            ]
+        ],
+        "entities_flattened": [
+            "your weight",
+            "ability to identify non-dominant leg",
+            "ability to identify dominant foot",
+            "weight",
+            "foot",
+            "dominant foot",
+            "feet",
+            "your foot",
+            "both feet",
+            "the tires",
+            "the chain",
+            "ability to identify bike shaft",
+            "ability to identify handlebars",
+            "ability to ride a bike",
+            "you",
+            "hands",
+            "bike",
+            "bicycle",
+            "bicycle",
+            "non-dominant foot",
+            "center of gravity",
+            "pedals",
+            "grip on bike",
+            "handbrakes",
+            "speed"
+        ]
+    },
+    "23": {
+        "goal": "Board a Small Boat",
+        "steps": [
+            "Prefer boarding across a solid platform if possible.",
+            "If you are crossing using a platform, hold on to the rails provided.",
+            "Avoid plonking one leg in the boat and leaving one on the jetty - this will cause wobbling and you might fall into the water.",
+            "Once in the boat, always remain in the centre line to move around it and lower yourself to a crouch level so that you reduce your centre of gravity and keep the craft as still as possible.",
+            "Keep the craft steady as others board."
+        ],
+        "entities": [
+            [
+                "passenger position"
+            ],
+            [
+                "other passengers"
+            ],
+            [
+                "boat",
+                "person"
+            ],
+            [
+                "boarding plank"
+            ],
+            [
+                "room on boat"
+            ],
+            [
+                "legs"
+            ],
+            [
+                "passenger"
+            ],
+            [
+                "jumping"
+            ],
+            [
+                "paddle"
+            ],
+            [
+                "plank"
+            ],
+            [
+                "dock"
+            ],
+            [
+                "arms"
+            ],
+            [
+                "gravity"
+            ],
+            [
+                "other person"
+            ],
+            [
+                "handrails"
+            ],
+            [
+                "water"
+            ],
+            [
+                "handrail"
+            ],
+            [
+                "movement"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "passenger position",
+            "other passengers",
+            "boat",
+            "person",
+            "boarding plank",
+            "room on boat",
+            "legs",
+            "passenger",
+            "jumping",
+            "paddle",
+            "plank",
+            "dock",
+            "arms",
+            "gravity",
+            "other person",
+            "handrails",
+            "water",
+            "handrail",
+            "movement",
+            "hands"
+        ]
+    },
+    "24": {
+        "goal": "Make a Banana Strawberry Rum Smoothie",
+        "steps": [
+            "Place the yogurt, bananas, and sorbet in a blender.",
+            "Blend the mixture until it's smooth in texture.",
+            "Pour the rum in and quickly blend again.",
+            "Pour the smoothie into chilled glasses.",
+            "Garnish each glass with a strawberry."
+        ],
+        "entities": [
+            [
+                "rum"
+            ],
+            [
+                "strawberry"
+            ],
+            [
+                "smoothie",
+                "mixture",
+                "ingredients"
+            ],
+            [
+                "blender"
+            ],
+            [
+                "glasses",
+                "glass"
+            ],
+            [
+                "sorber",
+                "fruit and sorbet",
+                "sorbet"
+            ],
+            [
+                "glass"
+            ],
+            [
+                "yogurt"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "bottle"
+            ],
+            [
+                "banana",
+                "bananas"
+            ],
+            [
+                "fruit"
+            ],
+            [
+                "items"
+            ],
+            [
+                "liquid"
+            ]
+        ],
+        "entities_flattened": [
+            "rum",
+            "strawberry",
+            "smoothie",
+            "mixture",
+            "ingredients",
+            "blender",
+            "glasses",
+            "glass",
+            "sorber",
+            "fruit and sorbet",
+            "sorbet",
+            "glass",
+            "yogurt",
+            "ingredients",
+            "bottle",
+            "banana",
+            "bananas",
+            "fruit",
+            "items",
+            "liquid"
+        ]
+    },
+    "25": {
+        "goal": "Make a Pinwheel Wreath",
+        "steps": [
+            "Select suitable paper to make the pinwheels.",
+            "Make enough pinwheels to create a wreath.",
+            "Find a suitable base, such as a Styrofoam/cane/cardboard wreath base.",
+            "If the wreath base lacks a hanger, add some twine or ribbon to create one.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "suitable paper for pinwheels"
+            ],
+            [
+                "wreath base"
+            ],
+            [
+                "pinwheels"
+            ],
+            [
+                "ribbon"
+            ],
+            [
+                "paper"
+            ],
+            [
+                "twine"
+            ]
+        ],
+        "entities_flattened": [
+            "suitable paper for pinwheels",
+            "wreath base",
+            "pinwheels",
+            "ribbon",
+            "paper",
+            "twine"
+        ]
+    },
+    "26": {
+        "goal": "Make a Wreath with Clothes Hangers",
+        "steps": [
+            "Untwist wire hanger and shape into a circle, using pliers as needed.",
+            "Gently crumple 3\" squares of wax paper or crepe paper and thread hanger through center of each square.",
+            "When you have threaded enough squares to fill length of hanger, gently push squares away from ends and use pliers to twist ends together.",
+            "Gently slide squares of paper back toward the joined ends of wire hanger, scrunching paper more for additional fullness.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "ends",
+                "square ends"
+            ],
+            [
+                "wax paper"
+            ],
+            [
+                "hanger",
+                "wire"
+            ],
+            [
+                "crepe paper"
+            ],
+            [
+                "hanger ends"
+            ],
+            [
+                "squares"
+            ],
+            [
+                "pliers"
+            ],
+            [
+                "wire hanger"
+            ],
+            [
+                "paper squares"
+            ],
+            [
+                "paper"
+            ],
+            [
+                "fingers"
+            ],
+            [
+                "wreath"
+            ],
+            [
+                "table"
+            ],
+            [
+                "tool"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "ends",
+            "square ends",
+            "wax paper",
+            "hanger",
+            "wire",
+            "crepe paper",
+            "hanger ends",
+            "squares",
+            "pliers",
+            "wire hanger",
+            "paper squares",
+            "paper",
+            "fingers",
+            "wreath",
+            "table",
+            "tool",
+            "hands"
+        ]
+    },
+    "27": {
+        "goal": "Make Potato Ribbons",
+        "steps": [
+            "Wash especially well if you intend to keep the peel intact.",
+            "Cut round and round, keeping the peel as thin as possible as you go.",
+            "Drain the potatoes dry on a clean cloth.",
+            "Fry the ribbons in deep, hot fat.",
+            "Serve."
+        ],
+        "entities": [
+            [
+                "potatoes",
+                "potato"
+            ],
+            [
+                "peels",
+                "peeler",
+                "pan",
+                "vegetable peeler"
+            ],
+            [
+                "cloth"
+            ],
+            [
+                "potato pieces"
+            ],
+            [
+                "water faucet"
+            ],
+            [
+                "serving dish"
+            ],
+            [
+                "stove",
+                "stove burner"
+            ],
+            [
+                "potaoto"
+            ],
+            [
+                "oil"
+            ],
+            [
+                "ribbons"
+            ],
+            [
+                "kitchen counter"
+            ],
+            [
+                "spatula"
+            ],
+            [
+                "platter"
+            ],
+            [
+                "water"
+            ],
+            [
+                "sink"
+            ],
+            [
+                "bowl"
+            ]
+        ],
+        "entities_flattened": [
+            "potatoes",
+            "potato",
+            "peels",
+            "peeler",
+            "pan",
+            "vegetable peeler",
+            "cloth",
+            "potato pieces",
+            "water faucet",
+            "serving dish",
+            "stove",
+            "stove burner",
+            "potaoto",
+            "oil",
+            "ribbons",
+            "kitchen counter",
+            "spatula",
+            "platter",
+            "water",
+            "sink",
+            "bowl"
+        ]
+    },
+    "28": {
+        "goal": "Open a Rusty Bolt",
+        "steps": [
+            "Obtain some fizzy drink.",
+            "Pour the fizzy drink over the bolt.",
+            "Wipe it clean with kitchen towel.",
+            "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.",
+            "Replace the rusty bolt."
+        ],
+        "entities": [
+            [
+                "kitchen towel",
+                "towel"
+            ],
+            [
+                "drink"
+            ],
+            [
+                "bolt"
+            ],
+            [
+                "assembly"
+            ],
+            [
+                "new bolt",
+                "old bolt"
+            ],
+            [
+                "rust"
+            ],
+            [
+                "bottle"
+            ],
+            [
+                "wrench"
+            ],
+            [
+                "soda"
+            ],
+            [
+                "cup"
+            ],
+            [
+                "fizzy drink"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "hands"
+            ]
+        ],
+        "entities_flattened": [
+            "kitchen towel",
+            "towel",
+            "drink",
+            "bolt",
+            "assembly",
+            "new bolt",
+            "old bolt",
+            "rust",
+            "bottle",
+            "wrench",
+            "soda",
+            "cup",
+            "fizzy drink",
+            "towel",
+            "hands"
+        ]
+    },
+    "29": {
+        "goal": "Make Asparagus in Serrano Ham",
+        "steps": [
+            "Preheat your oven beforehand to 400\u00b0F (200\u00b0C or Gas Mark 6).",
+            "Add your olive oil into a baking or roasting tin large enough to hold all of your asparagus spears.",
+            "Cut off the ends of the asparagus spears and wrap enough Serrano ham around each asparagus spear until it is mostly covered but with top jagged part still open.",
+            "Roast the asparagus in the oven for 8-10 minutes.",
+            "Serve immediately with a main dish so your asparagus acts as a side order."
+        ],
+        "entities": [
+            [
+                "asparagus"
+            ],
+            [
+                "heating element"
+            ],
+            [
+                "stove buttons"
+            ],
+            [
+                "oil container"
+            ],
+            [
+                "cutting board"
+            ],
+            [
+                "roasting pan"
+            ],
+            [
+                "oven",
+                "oven racks",
+                "oven rock"
+            ],
+            [
+                "rubber band"
+            ],
+            [
+                "tin",
+                "oil"
+            ],
+            [
+                "main dish"
+            ],
+            [
+                "display"
+            ],
+            [
+                "ham",
+                "pan"
+            ],
+            [
+                "oil"
+            ],
+            [
+                "knife",
+                "blade"
+            ],
+            [
+                "pan"
+            ],
+            [
+                "spears"
+            ],
+            [
+                "temperature"
+            ],
+            [
+                "baking tray"
+            ],
+            [
+                "baking tin"
+            ],
+            [
+                "vegetables"
+            ],
+            [
+                "oven mitts"
+            ],
+            [
+                "oven door"
+            ],
+            [
+                "olive oil"
+            ],
+            [
+                "container"
+            ],
+            [
+                "dish"
+            ],
+            [
+                "pieces"
+            ],
+            [
+                "timer"
+            ],
+            [
+                "room"
+            ],
+            [
+                "food"
+            ]
+        ],
+        "entities_flattened": [
+            "asparagus",
+            "heating element",
+            "stove buttons",
+            "oil container",
+            "cutting board",
+            "roasting pan",
+            "oven",
+            "oven racks",
+            "oven rock",
+            "rubber band",
+            "tin",
+            "oil",
+            "main dish",
+            "display",
+            "ham",
+            "pan",
+            "oil",
+            "knife",
+            "blade",
+            "pan",
+            "spears",
+            "temperature",
+            "baking tray",
+            "baking tin",
+            "vegetables",
+            "oven mitts",
+            "oven door",
+            "olive oil",
+            "container",
+            "dish",
+            "pieces",
+            "timer",
+            "room",
+            "food"
+        ]
+    },
+    "30": {
+        "goal": "Prevent a Wick Lamp or Stove from Smoking",
+        "steps": [
+            "Pour some white vinegar into a small container deep enough for dipping.",
+            "Remove the wick from the lamp or stove, or use wicks yet to be inserted.",
+            "Dip each wick into the vinegar.",
+            "Allow to dry thoroughly.",
+            "Use once dry."
+        ],
+        "entities": [
+            [
+                "wicks"
+            ],
+            [
+                "wick"
+            ],
+            [
+                "vinegar"
+            ],
+            [
+                "container"
+            ],
+            [
+                "lamp"
+            ],
+            [
+                "bottle"
+            ],
+            [
+                "pot"
+            ]
+        ],
+        "entities_flattened": [
+            "wicks",
+            "wick",
+            "vinegar",
+            "container",
+            "lamp",
+            "bottle",
+            "pot"
+        ]
+    },
+    "31": {
+        "goal": "Learn Photography by Shooting Macro",
+        "steps": [
+            "Create a very small studio.",
+            "Have the appropriate sized reflectors.",
+            "Have a closeup lens.",
+            "Again, they don't need to be that big, but big enough to diffuse light for your small subject.",
+            "Start experimenting."
+        ],
+        "entities": [
+            [
+                "light"
+            ],
+            [
+                "studio"
+            ]
+        ],
+        "entities_flattened": [
+            "light",
+            "studio"
+        ]
+    },
+    "32": {
+        "goal": "Make Cheese Sauce with Jalape\u00f1o Peppers",
+        "steps": [
+            "First cut the Velveeta in to tiny squares and set aside.",
+            "Set the burner on a medium to low setting, before that you begin adding the cheese product.",
+            "Wait until the Velveeta has melted lower the heat somewhat and add in the (Rotel) tomatoes.",
+            "Add in the Jalapeno peppers, and black olives if desired.",
+            "Cheese sauce is at its best if served very warm."
+        ],
+        "entities": [
+            [
+                "velveeta"
+            ],
+            [
+                "stove burner",
+                "burner",
+                "stove"
+            ],
+            [
+                "olives",
+                "jalapeno"
+            ],
+            [
+                "cheese"
+            ],
+            [
+                "knife",
+                "cutting board"
+            ],
+            [
+                "tomatoes"
+            ],
+            [
+                "stove top burner"
+            ],
+            [
+                "peppers"
+            ],
+            [
+                "black olives"
+            ],
+            [
+                "cheese sauce"
+            ],
+            [
+                "stove knob"
+            ],
+            [
+                "cheese dip"
+            ],
+            [
+                "sauce pan",
+                "pot",
+                "pan"
+            ],
+            [
+                "rotel can"
+            ],
+            [
+                "package"
+            ],
+            [
+                "rotel"
+            ],
+            [
+                "can"
+            ]
+        ],
+        "entities_flattened": [
+            "velveeta",
+            "stove burner",
+            "burner",
+            "stove",
+            "olives",
+            "jalapeno",
+            "cheese",
+            "knife",
+            "cutting board",
+            "tomatoes",
+            "stove top burner",
+            "peppers",
+            "black olives",
+            "cheese sauce",
+            "stove knob",
+            "cheese dip",
+            "sauce pan",
+            "pot",
+            "pan",
+            "rotel can",
+            "package",
+            "rotel",
+            "can"
+        ]
+    },
+    "33": {
+        "goal": "Get Wailord in Pok\u00e9mon Emerald",
+        "steps": [
+            "This is the pre-evolution of Wailord.",
+            "This Wailmer can be pretty annoying to train, so be patient.",
+            "Train it until it evolves.",
+            "Go to battle frontier and copy some rare candies.",
+            "Give the rare candies to a Wailmer and evolve it into a Wailord using them."
+        ],
+        "entities": [
+            [
+                "wailmer"
+            ],
+            [
+                "battle frontier location"
+            ],
+            [
+                "candy"
+            ],
+            [
+                "ball"
+            ]
+        ],
+        "entities_flattened": [
+            "wailmer",
+            "battle frontier location",
+            "candy",
+            "ball"
+        ]
+    },
+    "34": {
+        "goal": "Ninja Defuse in Call of Duty",
+        "steps": [
+            "Move in and cover your route to the bomb site.",
+            "Find a hiding spot and pull out your pistol.",
+            "Investigate your enemy's routes.",
+            "Wait until enemy does start to plant the bomb.",
+            "Start defusing once the bomb has been planted."
+        ],
+        "entities": [
+            [
+                "game character"
+            ],
+            [
+                "the route"
+            ],
+            [
+                "route"
+            ],
+            [
+                "bomb"
+            ],
+            [
+                "pistol"
+            ],
+            [
+                "you"
+            ],
+            [
+                "routes"
+            ]
+        ],
+        "entities_flattened": [
+            "game character",
+            "the route",
+            "route",
+            "bomb",
+            "pistol",
+            "you",
+            "routes"
+        ]
+    },
+    "35": {
+        "goal": "Paint Bare Wood",
+        "steps": [
+            "Acquire oil based paints, which air dry slowly.",
+            "The under-coat should be thin, and smooth, move your paint brush down the wood, don't paint up or horizontally.",
+            "Paint the second coat, but be much more careful this time, make sure there are no paint bubbles appearing and smooth out any drips or pools left over from the under-coat.",
+            "Be the most precise with this.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "paintbrush",
+                "the brush"
+            ],
+            [
+                "the coating of paint"
+            ],
+            [
+                "wood",
+                "the wood"
+            ],
+            [
+                "paint",
+                "brushes"
+            ],
+            [
+                "bubbles"
+            ],
+            [
+                "coat"
+            ],
+            [
+                "caulking compound"
+            ],
+            [
+                "oil based paint"
+            ],
+            [
+                "paint direction"
+            ],
+            [
+                "paint thickness"
+            ],
+            [
+                "degree of care"
+            ],
+            [
+                "paint bubbles"
+            ],
+            [
+                "caulking gun"
+            ],
+            [
+                "paint brush"
+            ],
+            [
+                "drop clothq"
+            ],
+            [
+                "linseed oil"
+            ],
+            [
+                "paint base"
+            ],
+            [
+                "drop cloth"
+            ],
+            [
+                "bare wood"
+            ],
+            [
+                "precision"
+            ],
+            [
+                "brush"
+            ],
+            [
+                "drips"
+            ],
+            [
+                "pools"
+            ],
+            [
+                "tin"
+            ],
+            [
+                "floor"
+            ]
+        ],
+        "entities_flattened": [
+            "paintbrush",
+            "the brush",
+            "the coating of paint",
+            "wood",
+            "the wood",
+            "paint",
+            "brushes",
+            "bubbles",
+            "coat",
+            "caulking compound",
+            "oil based paint",
+            "paint direction",
+            "paint thickness",
+            "degree of care",
+            "paint bubbles",
+            "caulking gun",
+            "paint brush",
+            "drop clothq",
+            "linseed oil",
+            "paint base",
+            "drop cloth",
+            "bare wood",
+            "precision",
+            "brush",
+            "drips",
+            "pools",
+            "tin",
+            "floor"
+        ]
+    },
+    "36": {
+        "goal": "Make Seasoned Salt",
+        "steps": [
+            "Mix the ingredients together thoroughly.",
+            "Pour into an air-tight container with a lid.",
+            "It goes well in dips, salad dressings, soups and on sandwiches.",
+            "Grind the ingredients together in a mortar and pestle.",
+            "Transfer to a storage container as needed."
+        ],
+        "entities": [
+            [
+                "ingredients",
+                "seasoned salt"
+            ],
+            [
+                "air-tight container",
+                "container"
+            ],
+            [
+                "sandwiches"
+            ],
+            [
+                "salads"
+            ],
+            [
+                "mortar",
+                "mortar and pestle"
+            ],
+            [
+                "ingredient mixture"
+            ],
+            [
+                "soups"
+            ],
+            [
+                "mixture particles"
+            ],
+            [
+                "dips"
+            ],
+            [
+                "pestle"
+            ],
+            [
+                "salt",
+                "celery salt"
+            ],
+            [
+                "black pepper",
+                "pepper mill"
+            ],
+            [
+                "mixture"
+            ],
+            [
+                "storage container"
+            ],
+            [
+                "container cover"
+            ],
+            [
+                "salad dressings"
+            ],
+            [
+                "measuring cup"
+            ],
+            [
+                "dry mustard"
+            ],
+            [
+                "salt shaker"
+            ],
+            [
+                "spoon"
+            ],
+            [
+                "bowl"
+            ],
+            [
+                "cover"
+            ],
+            [
+                "lid"
+            ],
+            [
+                "food"
+            ]
+        ],
+        "entities_flattened": [
+            "ingredients",
+            "seasoned salt",
+            "air-tight container",
+            "container",
+            "sandwiches",
+            "salads",
+            "mortar",
+            "mortar and pestle",
+            "ingredient mixture",
+            "soups",
+            "mixture particles",
+            "dips",
+            "pestle",
+            "salt",
+            "celery salt",
+            "black pepper",
+            "pepper mill",
+            "mixture",
+            "storage container",
+            "container cover",
+            "salad dressings",
+            "measuring cup",
+            "dry mustard",
+            "salt shaker",
+            "spoon",
+            "bowl",
+            "cover",
+            "lid",
+            "food"
+        ]
+    },
+    "37": {
+        "goal": "Camouflage Equipment",
+        "steps": [
+            "Firstly, lay out all the equipment you are going to use-whatever pattern it is.",
+            "Start with your rucksack, this is the biggest piece of your personal kit so needs the most camouflage.",
+            "Next, move on to the helmet.",
+            "Be careful with webbing.",
+            "Be extremely cautious when disguising your weapon.",
+            "Vehicles really need a vehicle camouflage net."
+        ],
+        "entities": [
+            [
+                "camouflage net"
+            ],
+            [
+                "camouflage"
+            ],
+            [
+                "weapon",
+                "hat",
+                "hay"
+            ],
+            [
+                "vehicle camouflage net"
+            ],
+            [
+                "equipment"
+            ],
+            [
+                "rucksack"
+            ],
+            [
+                "vehicle"
+            ],
+            [
+                "webbing"
+            ],
+            [
+                "surface"
+            ],
+            [
+                "leaves"
+            ],
+            [
+                "helmet"
+            ]
+        ],
+        "entities_flattened": [
+            "camouflage net",
+            "camouflage",
+            "weapon",
+            "hat",
+            "hay",
+            "vehicle camouflage net",
+            "equipment",
+            "rucksack",
+            "vehicle",
+            "webbing",
+            "surface",
+            "leaves",
+            "helmet"
+        ]
+    },
+    "38": {
+        "goal": "Change the Oil on a Yamaha Virago XV250",
+        "steps": [
+            "Remove the bung to let the oil out to drain.",
+            "Remove the oil cap to let the oil drain fully and let air in to help drain the old oil out.",
+            "Remove the oil filter.",
+            "Screw the bung back on.",
+            "Fill the oil back up.",
+            "Recycle the old oil."
+        ],
+        "entities": [
+            [
+                "oil tank",
+                "oil container",
+                "oil can",
+                "oil"
+            ],
+            [
+                "oil",
+                "air",
+                "oil bottle"
+            ],
+            [
+                "bung",
+                "the bung"
+            ],
+            [
+                "oil filter"
+            ],
+            [
+                "old oil"
+            ],
+            [
+                "oil cap"
+            ],
+            [
+                "funnel"
+            ],
+            [
+                "jug"
+            ]
+        ],
+        "entities_flattened": [
+            "oil tank",
+            "oil container",
+            "oil can",
+            "oil",
+            "oil",
+            "air",
+            "oil bottle",
+            "bung",
+            "the bung",
+            "oil filter",
+            "old oil",
+            "oil cap",
+            "funnel",
+            "jug"
+        ]
+    },
+    "39": {
+        "goal": "Make a Duct Tape Necklace",
+        "steps": [
+            "Take one roll of duct tape and make a piece about a little bigger than your head.",
+            "Measure it around your head, and cut it off the roll.",
+            "Fold it halfway through the middle, like shown.",
+            "Fold the other half so there is no sticky part showing.",
+            "Tape the ends together.",
+            "And you are done!"
+        ],
+        "entities": [
+            [
+                "tape",
+                "duct tape"
+            ],
+            [
+                "duct table"
+            ],
+            [
+                "duct tape"
+            ],
+            [
+                "ends"
+            ],
+            [
+                "tape ends"
+            ]
+        ],
+        "entities_flattened": [
+            "tape",
+            "duct tape",
+            "duct table",
+            "duct tape",
+            "ends",
+            "tape ends"
+        ]
+    },
+    "40": {
+        "goal": "Grow Dwarf Balsam Fir",
+        "steps": [
+            "Choose the plant from a nursery or garden center.",
+            "This plant spreads and flattens as it grows, so select a broad sized container, preferably with a rounded shape.",
+            "Choose the potting soil.",
+            "Plant the fir in the container.",
+            "Keep this up until the tree is well established.",
+            "Re-pot occasionally."
+        ],
+        "entities": [
+            [
+                "containers"
+            ],
+            [
+                "plant",
+                "container",
+                "bag"
+            ],
+            [
+                "soil"
+            ],
+            [
+                "shovel"
+            ],
+            [
+                "money"
+            ],
+            [
+                "hands"
+            ],
+            [
+                "water"
+            ],
+            [
+                "buds"
+            ],
+            [
+                "fir"
+            ]
+        ],
+        "entities_flattened": [
+            "containers",
+            "plant",
+            "container",
+            "bag",
+            "soil",
+            "shovel",
+            "money",
+            "hands",
+            "water",
+            "buds",
+            "fir"
+        ]
+    },
+    "41": {
+        "goal": "Make a Fairy House in the Woods",
+        "steps": [
+            "Find a small area with slightly damp dirt.",
+            "Collect many twigs and sticks.",
+            "Using the sticks, create either a square formation, circle formation, or a Teepee formation.",
+            "Build your exterior walls.",
+            "You can use either a leaf or a wide strip of bark.",
+            "Decorate."
+        ],
+        "entities": [
+            [
+                "fairy house frame"
+            ],
+            [
+                "sticks",
+                "twigs"
+            ],
+            [
+                "fairy house"
+            ],
+            [
+                "twigs"
+            ],
+            [
+                "walls"
+            ],
+            [
+                "bundle"
+            ],
+            [
+                "area"
+            ]
+        ],
+        "entities_flattened": [
+            "fairy house frame",
+            "sticks",
+            "twigs",
+            "fairy house",
+            "twigs",
+            "walls",
+            "bundle",
+            "area"
+        ]
+    },
+    "42": {
+        "goal": "Make Whole Wheat Pastry With Canola",
+        "steps": [
+            "Place the whole wheat flour and salt into the mixing bowl.",
+            "Pour in the oil.",
+            "Place the pastry onto a sheet of wax paper.",
+            "Remove from the fridge.",
+            "Press the pastry into the pie dish.",
+            "Create an edge with the sides of a fork."
+        ],
+        "entities": [
+            [
+                "flour and salt"
+            ],
+            [
+                "mixture",
+                "mixture in bowl"
+            ],
+            [
+                "pastry"
+            ],
+            [
+                "edges"
+            ],
+            [
+                "dough"
+            ],
+            [
+                "dry and wet ingredients"
+            ],
+            [
+                "bowl"
+            ],
+            [
+                "edge"
+            ],
+            [
+                "fork"
+            ],
+            [
+                "fridge light"
+            ],
+            [
+                "mixing bowl"
+            ],
+            [
+                "fridge door"
+            ],
+            [
+                "pie dish"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "oil"
+            ],
+            [
+                "wax paper"
+            ]
+        ],
+        "entities_flattened": [
+            "flour and salt",
+            "mixture",
+            "mixture in bowl",
+            "pastry",
+            "edges",
+            "dough",
+            "dry and wet ingredients",
+            "bowl",
+            "edge",
+            "fork",
+            "fridge light",
+            "mixing bowl",
+            "fridge door",
+            "pie dish",
+            "ingredients",
+            "oil",
+            "wax paper"
+        ]
+    },
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "entities": [
+            [
+                "plant"
+            ],
+            [
+                "moss"
+            ],
+            [
+                "fairy moss"
+            ],
+            [
+                "container"
+            ],
+            [
+                "continer"
+            ],
+            [
+                "containter"
+            ],
+            [
+                "bowl contents"
+            ],
+            [
+                "water"
+            ],
+            [
+                "bowl"
+            ]
+        ],
+        "entities_flattened": [
+            "plant",
+            "moss",
+            "fairy moss",
+            "container",
+            "continer",
+            "containter",
+            "bowl contents",
+            "water",
+            "bowl"
+        ]
+    },
+    "44": {
+        "goal": "Make Chocolate Hearts for Valentine&#x27;s Day",
+        "steps": [
+            "Assemble the ingredients needed.",
+            "Melt the chocolate bars in the microwave until you have no lumps left after stirring.",
+            "Pour the melted chocolate into the heart shaped molds.",
+            "Put the chocolate into the freezer until hardened.",
+            "Leave them out for one minute and pop out of molds, Or, cut heart shapes in the tray.",
+            "Enjoy then and there, or box them up and give away!"
+        ],
+        "entities": [
+            [
+                "chocolate",
+                "chocolates",
+                "choclate"
+            ],
+            [
+                "molds, mug, chocolate"
+            ],
+            [
+                "molds",
+                "mold"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "microwave"
+            ],
+            [
+                "chocolate bars"
+            ],
+            [
+                "spoon"
+            ]
+        ],
+        "entities_flattened": [
+            "chocolate",
+            "chocolates",
+            "choclate",
+            "molds, mug, chocolate",
+            "molds",
+            "mold",
+            "ingredients",
+            "microwave",
+            "chocolate bars",
+            "spoon"
+        ]
+    },
+    "45": {
+        "goal": "Make Soap Bubbles for Your Children",
+        "steps": [
+            "Mix soap and water.",
+            "Enhance your bubble solution.",
+            "Make a little bubble wand.",
+            "Make a giant bubble wand.",
+            "First go outside, since bubbles look most beautiful when the sun shines through their iridescent swirls.",
+            "Make giant bubbles."
+        ],
+        "entities": [
+            [
+                "bubbles",
+                "bubble solution"
+            ],
+            [
+                "coat hanger"
+            ],
+            [
+                "mixing jar"
+            ],
+            [
+                "soap",
+                "water"
+            ],
+            [
+                "mixture"
+            ],
+            [
+                "person"
+            ],
+            [
+                "water surface"
+            ],
+            [
+                "bubble want"
+            ],
+            [
+                "hanger"
+            ],
+            [
+                "bowl"
+            ],
+            [
+                "wire"
+            ]
+        ],
+        "entities_flattened": [
+            "bubbles",
+            "bubble solution",
+            "coat hanger",
+            "mixing jar",
+            "soap",
+            "water",
+            "mixture",
+            "person",
+            "water surface",
+            "bubble want",
+            "hanger",
+            "bowl",
+            "wire"
+        ]
+    },
+    "46": {
+        "goal": "Clean Your Home Efficiently",
+        "steps": [
+            "######Pick up and put away stray items and throw trash into waste baskets.",
+            "######Dust, again going through the entire house room by room.",
+            "######Take a large trash bag and go through each room emptying the waste baskets and trash cans.",
+            "######Use a spray cleaner and rags or paper towels to clean any glass surfaces, including the TV screens.",
+            "First pick up any throw rugs and inside door mats and shake them outside.",
+            "######Enjoy your clean home!"
+        ],
+        "entities": [
+            [
+                "throw rugs and inside door mats",
+                "rugs"
+            ],
+            [
+                "waste basket",
+                "waste baskets"
+            ],
+            [
+                "rooms"
+            ],
+            [
+                "trash cans"
+            ],
+            [
+                "throw rugs",
+                "door mats"
+            ],
+            [
+                "house",
+                "duster"
+            ],
+            [
+                "trash"
+            ],
+            [
+                "surfaces",
+                "glass surfaces"
+            ],
+            [
+                "spray cleaner"
+            ],
+            [
+                "straw items"
+            ],
+            [
+                "trash bag",
+                "trash bags"
+            ],
+            [
+                "mats"
+            ],
+            [
+                "dust"
+            ],
+            [
+                "items"
+            ]
+        ],
+        "entities_flattened": [
+            "throw rugs and inside door mats",
+            "rugs",
+            "waste basket",
+            "waste baskets",
+            "rooms",
+            "trash cans",
+            "throw rugs",
+            "door mats",
+            "house",
+            "duster",
+            "trash",
+            "surfaces",
+            "glass surfaces",
+            "spray cleaner",
+            "straw items",
+            "trash bag",
+            "trash bags",
+            "mats",
+            "dust",
+            "items"
+        ]
+    },
+    "47": {
+        "goal": "Make Your Den Look Like a Home on Animal Jam (Non Members)",
+        "steps": [
+            "Get lots of gems.",
+            "for a family home you will need quite a lot of stuff.",
+            "Try to get room shoji screens so you can section things off into smaller rooms.",
+            "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.",
+            "Make an outside area.",
+            "Keep your family safe."
+        ],
+        "entities": [
+            [
+                "screens"
+            ],
+            [
+                "master bedroom",
+                "living room",
+                "living/dining room"
+            ],
+            [
+                "stuff"
+            ],
+            [
+                "gems"
+            ],
+            [
+                "outside area"
+            ],
+            [
+                "kids room"
+            ]
+        ],
+        "entities_flattened": [
+            "screens",
+            "master bedroom",
+            "living room",
+            "living/dining room",
+            "stuff",
+            "gems",
+            "outside area",
+            "kids room"
+        ]
+    },
+    "48": {
+        "goal": "Make a Pitcher of Melon Pina Coladas",
+        "steps": [
+            "Pour the ingredients (except the garnish) into a pitcher that can hold 100 ounces.",
+            "Ensure everything is mixed thoroughly.",
+            "Allow the mixture to chill in the refrigerator until ready to serve.",
+            "Pour the mixture into tall glasses.",
+            "Add a chunk of honeydew melon on the side of each glass.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "pitcher"
+            ],
+            [
+                "refrigerator"
+            ],
+            [
+                "side of each glass"
+            ],
+            [
+                "glass",
+                "tall glasses"
+            ],
+            [
+                "mixture",
+                "liquid"
+            ],
+            [
+                "honeydew"
+            ],
+            [
+                "honeydew melon"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "mixing spoon"
+            ],
+            [
+                "spoon"
+            ],
+            [
+                "task"
+            ],
+            [
+                "rum and coconut"
+            ],
+            [
+                "glasses"
+            ],
+            [
+                "rum"
+            ]
+        ],
+        "entities_flattened": [
+            "pitcher",
+            "refrigerator",
+            "side of each glass",
+            "glass",
+            "tall glasses",
+            "mixture",
+            "liquid",
+            "honeydew",
+            "honeydew melon",
+            "ingredients",
+            "mixing spoon",
+            "spoon",
+            "task",
+            "rum and coconut",
+            "glasses",
+            "rum"
+        ]
+    },
+    "49": {
+        "goal": "Make Pineapple Sherbet",
+        "steps": [
+            "Blend the pineapple if it's fresh.",
+            "Pour in the milk, oil, sugar or syrup and extract.",
+            "Blend all of the ingredients together until smooth.",
+            "Pour into a baking dish with decent sides.",
+            "Place in the freezer.",
+            "To serve: Simply scoop or cut out pieces of the sherbet."
+        ],
+        "entities": [
+            [
+                "the milk",
+                "milk",
+                "the oil",
+                "oil"
+            ],
+            [
+                "the extract",
+                "extract"
+            ],
+            [
+                "the blender"
+            ],
+            [
+                "the baking dish",
+                "baking dish"
+            ],
+            [
+                "pineapple"
+            ],
+            [
+                "the sugar or syrup",
+                "sugar"
+            ],
+            [
+                "the refrigerator",
+                "freezer"
+            ],
+            [
+                "the ingredients",
+                "mixture"
+            ],
+            [
+                "the pineapple"
+            ],
+            [
+                "the wax paper"
+            ],
+            [
+                "scoop"
+            ],
+            [
+                "the sherbet"
+            ],
+            [
+                "the plate"
+            ],
+            [
+                "sherbet",
+                "the mixture",
+                "mixture"
+            ],
+            [
+                "the mixture",
+                "mixture"
+            ],
+            [
+                "contents of blender"
+            ],
+            [
+                "blender"
+            ],
+            [
+                "blender blades"
+            ],
+            [
+                "ingredients"
+            ]
+        ],
+        "entities_flattened": [
+            "the milk",
+            "milk",
+            "the oil",
+            "oil",
+            "the extract",
+            "extract",
+            "the blender",
+            "the baking dish",
+            "baking dish",
+            "pineapple",
+            "the sugar or syrup",
+            "sugar",
+            "the refrigerator",
+            "freezer",
+            "the ingredients",
+            "mixture",
+            "the pineapple",
+            "the wax paper",
+            "scoop",
+            "the sherbet",
+            "the plate",
+            "sherbet",
+            "the mixture",
+            "mixture",
+            "the mixture",
+            "mixture",
+            "contents of blender",
+            "blender",
+            "blender blades",
+            "ingredients"
+        ]
+    },
+    "50": {
+        "goal": "Make a Pancake Mix Container from a Recycled Ketchup Bottle",
+        "steps": [
+            "Scrub the ketchup bottle thoroughly.",
+            "Place the funnel over the mouth of the bottle.",
+            "Pour pancake batter through the funnel into the empty ketchup bottle.",
+            "Replace the lid and label the bottle.",
+            "Place the bottle in refrigerator.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "batter",
+                "pancake batter"
+            ],
+            [
+                "ketchup bottle"
+            ],
+            [
+                "funnel"
+            ],
+            [
+                "bottle",
+                "lid"
+            ],
+            [
+                "sink"
+            ],
+            [
+                "pen"
+            ],
+            [
+                "pan"
+            ],
+            [
+                "scrubber"
+            ],
+            [
+                "fridge"
+            ],
+            [
+                "faucet"
+            ],
+            [
+                "hands"
+            ],
+            [
+                "bowl"
+            ]
+        ],
+        "entities_flattened": [
+            "batter",
+            "pancake batter",
+            "ketchup bottle",
+            "funnel",
+            "bottle",
+            "lid",
+            "sink",
+            "pen",
+            "pan",
+            "scrubber",
+            "fridge",
+            "faucet",
+            "hands",
+            "bowl"
+        ]
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "entities": [
+            [
+                "window",
+                "water and dish soap on window"
+            ],
+            [
+                "glass cleaner bottle"
+            ],
+            [
+                "razor blade package"
+            ],
+            [
+                "solvent container"
+            ],
+            [
+                "soap bottle"
+            ],
+            [
+                "paint"
+            ],
+            [
+                "blade"
+            ],
+            [
+                "soap"
+            ],
+            [
+                "chemicals"
+            ],
+            [
+                "splatters"
+            ],
+            [
+                "solvent",
+                "chemical solvents"
+            ],
+            [
+                "sponge"
+            ],
+            [
+                "razor blade"
+            ],
+            [
+                "glass cleaner"
+            ],
+            [
+                "bucket"
+            ],
+            [
+                "small paint splatters"
+            ],
+            [
+                "water and dish soap"
+            ],
+            [
+                "all of the paint"
+            ],
+            [
+                "paint splatter"
+            ],
+            [
+                "items needed"
+            ],
+            [
+                "cloth"
+            ]
+        ],
+        "entities_flattened": [
+            "window",
+            "water and dish soap on window",
+            "glass cleaner bottle",
+            "razor blade package",
+            "solvent container",
+            "soap bottle",
+            "paint",
+            "blade",
+            "soap",
+            "chemicals",
+            "splatters",
+            "solvent",
+            "chemical solvents",
+            "sponge",
+            "razor blade",
+            "glass cleaner",
+            "bucket",
+            "small paint splatters",
+            "water and dish soap",
+            "all of the paint",
+            "paint splatter",
+            "items needed",
+            "cloth"
+        ]
+    },
+    "52": {
+        "goal": "Use a Mic in Team Fortress 2",
+        "steps": [
+            "Make sure that your microphone is working and connected first.",
+            "Find various panels at the top like \"Multiplayer\", \"Mouse\", \"Audio\", etc.",
+            "Click on the Voice panel.",
+            "Start talking with other players using your microphone!",
+            "Use the microphone to communicate with your team in a more efficient manner and demand that your voice is heard!",
+            "Advise teammates as well as make game plans to help and support your team."
+        ],
+        "entities": [
+            [
+                "microphone"
+            ],
+            [
+                "panels",
+                "panel"
+            ],
+            [
+                "audio options"
+            ],
+            [
+                "communication"
+            ],
+            [
+                "menu options"
+            ],
+            [
+                "voice panel"
+            ],
+            [
+                "voice"
+            ],
+            [
+                "game plans"
+            ],
+            [
+                "team"
+            ],
+            [
+                "advice"
+            ],
+            [
+                "person"
+            ]
+        ],
+        "entities_flattened": [
+            "microphone",
+            "panels",
+            "panel",
+            "audio options",
+            "communication",
+            "menu options",
+            "voice panel",
+            "voice",
+            "game plans",
+            "team",
+            "advice",
+            "person"
+        ]
+    },
+    "53": {
+        "goal": "Make Chinese Macaroni in Just 20 Minutes",
+        "steps": [
+            "Boil macaroni in hot boiling water with some salt and oil for 10-15 minutes.",
+            "After the macaroni has boiled put under running water for about 15 seconds to prevent over cooking.",
+            "In another pan add some oil and toss in the macaroni.",
+            "Add salt, red chilli powder ,soy sauce,white vinegar and ajino moto.",
+            "Cook for some seconds.",
+            "Serve hot with chilled drinks."
+        ],
+        "entities": [
+            [
+                "macaroni"
+            ],
+            [
+                "oil"
+            ],
+            [
+                "drinking glass",
+                "drinks"
+            ],
+            [
+                "salt and oil",
+                "oil/water/pasta/salt"
+            ],
+            [
+                "water"
+            ],
+            [
+                "pan",
+                "stirring tool"
+            ],
+            [
+                "chilled drinks"
+            ],
+            [
+                "serving dish"
+            ],
+            [
+                "red chilli powder"
+            ],
+            [
+                "saucepan"
+            ],
+            [
+                "strainer"
+            ],
+            [
+                "the time"
+            ],
+            [
+                "fork"
+            ],
+            [
+                "white vinegar"
+            ],
+            [
+                "plate"
+            ],
+            [
+                "sink"
+            ],
+            [
+                "task"
+            ],
+            [
+                "ajino moto"
+            ],
+            [
+                "soy sauce"
+            ],
+            [
+                "stove burner"
+            ],
+            [
+                "flavorings macaroni"
+            ],
+            [
+                "food"
+            ],
+            [
+                "salt"
+            ],
+            [
+                "oil/macaroni"
+            ],
+            [
+                "boiling pot"
+            ],
+            [
+                "spatula"
+            ],
+            [
+                "sun"
+            ],
+            [
+                "mixture"
+            ],
+            [
+                "ingredients"
+            ],
+            [
+                "you"
+            ]
+        ],
+        "entities_flattened": [
+            "macaroni",
+            "oil",
+            "drinking glass",
+            "drinks",
+            "salt and oil",
+            "oil/water/pasta/salt",
+            "water",
+            "pan",
+            "stirring tool",
+            "chilled drinks",
+            "serving dish",
+            "red chilli powder",
+            "saucepan",
+            "strainer",
+            "the time",
+            "fork",
+            "white vinegar",
+            "plate",
+            "sink",
+            "task",
+            "ajino moto",
+            "soy sauce",
+            "stove burner",
+            "flavorings macaroni",
+            "food",
+            "salt",
+            "oil/macaroni",
+            "boiling pot",
+            "spatula",
+            "sun",
+            "mixture",
+            "ingredients",
+            "you"
+        ]
+    },
+    "54": {
+        "goal": "Make a Bead Ring",
+        "steps": [
+            "Cut a strip of elastic.",
+            "Slip two larger beads at either side of the small bead.",
+            "Slip a small bead on one tail.",
+            "Continue this pattern until you have enough beads to fit around the finger.",
+            "Finish the ring by slipping the loose tails through the first small bead you placed on the elastic.",
+            "Finished."
+        ],
+        "entities": [
+            [
+                "the beads",
+                "beads",
+                "the bead",
+                "bead"
+            ],
+            [
+                "the strip of elastic"
+            ],
+            [
+                "elastic ends"
+            ],
+            [
+                "elastic"
+            ],
+            [
+                "tail",
+                "tails"
+            ],
+            [
+                "small bead"
+            ],
+            [
+                "you"
+            ]
+        ],
+        "entities_flattened": [
+            "the beads",
+            "beads",
+            "the bead",
+            "bead",
+            "the strip of elastic",
+            "elastic ends",
+            "elastic",
+            "tail",
+            "tails",
+            "small bead",
+            "you"
+        ]
+    },
+    "55": {
+        "goal": "Recycle Underpants",
+        "steps": [
+            "Turn the underpants into cleaning rags.",
+            "Use the underwear as garden ties.",
+            "Turn quality undies into craft items.",
+            "Use a bundle of old underwear as stuffing.",
+            "Children can wear old underwear on the outside of their pants to play superhero.",
+            "Donate the underpants."
+        ],
+        "entities": [
+            [
+                "underwear",
+                "underwears"
+            ],
+            [
+                "underpants",
+                "floor"
+            ],
+            [
+                "underwear strips"
+            ],
+            [
+                "bundle of old underwear"
+            ],
+            [
+                "plants"
+            ],
+            [
+                "garden plants"
+            ],
+            [
+                "donation box"
+            ],
+            [
+                "pillow case"
+            ],
+            [
+                "scissors"
+            ],
+            [
+                "quality undies"
+            ],
+            [
+                "child"
+            ],
+            [
+                "pants"
+            ]
+        ],
+        "entities_flattened": [
+            "underwear",
+            "underwears",
+            "underpants",
+            "floor",
+            "underwear strips",
+            "bundle of old underwear",
+            "plants",
+            "garden plants",
+            "donation box",
+            "pillow case",
+            "scissors",
+            "quality undies",
+            "child",
+            "pants"
+        ]
+    }
+}

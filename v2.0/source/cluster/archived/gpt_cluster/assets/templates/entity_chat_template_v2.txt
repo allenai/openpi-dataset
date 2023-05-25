@@ -1,0 +1,4 @@
+[
+    {"role": "user", "content": "We have the following objects: {entities}. Group those that refer to the same thing."},
+    {"role": "assistant", "content": "The grouped objects are:\n{grouped_entities}"},
+]

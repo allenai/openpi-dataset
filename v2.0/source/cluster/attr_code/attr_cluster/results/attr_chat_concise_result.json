@@ -1,0 +1,846 @@
+{
+    "1": {
+        "the blackboard eraser | eraser": {
+            "possession of the blackboard eraser": [
+                "ownership of the blackboard eraser"
+            ],
+            "location of the blackboard eraser": [
+                "placement of the blackboard eraser",
+                "movement of the blackboard eraser"
+            ],
+            "condition of the blackboard eraser": [
+                "cleanness of the blackboard eraser"
+            ]
+        },
+        "glovebox": {
+            "location of glovebox": [
+                "placement of glovebox",
+                "position of glovebox"
+            ]
+        },
+        "eraser shelf at the store": {},
+        "windshield": {
+            "cleanness of windshield": [
+                "dirtiness of windshield",
+                "cleanliness level of windshield",
+                "level of dirt on windshield"
+            ]
+        },
+        "inside windshield": {
+            "cleanness of inside windshield": [
+                "dirtiness of inside windshield",
+                "cleanliness level of inside windshield"
+            ]
+        },
+        "bank account": {
+            "fullness of bank account": [
+                "balance of bank account",
+                "funds in bank account",
+                "amount of money in bank account"
+            ]
+        },
+        "glove box": {
+            "fullness of glove box": [
+                "capacity of glove box",
+                "occupancy of glove box"
+            ]
+        },
+        "money": {},
+        "hands": {}
+    },
+    "4": {
+        "tip of pipe cleaner": {
+            "shape of tip of pipe cleaner": [
+                "form of tip of pipe cleaner",
+                "structure of tip of pipe cleaner"
+            ]
+        },
+        "pipe cleaner | pipe cleaners": {
+            "position of pipe cleaner": [
+                "placement of pipe cleaner"
+            ],
+            "shape of pipe cleaner": [
+                "form of pipe cleaner"
+            ],
+            "location of pipe cleaner": [
+                "position of pipe cleaner"
+            ]
+        },
+        "your fingers": {
+            "location of your fingers": [
+                "placement of your fingers",
+                "position of your fingers",
+                "orientation of your fingers"
+            ]
+        },
+        "the torso": {
+            "width of the torso": [
+                "thickness of the torso",
+                "girth of the torso",
+                "diameter of the torso"
+            ],
+            "weight of the torso": [
+                "heaviness of the torso",
+                "mass of the torso"
+            ]
+        }
+    },
+    "7": {
+        "hdmi cord | hdmi converter cable | the hdmi cord": {
+            "organization of hdmi cord": [
+                "arrangement of hdmi cord",
+                "placement of hdmi cord"
+            ],
+            "power of hdmi cord": [
+                "electricity of hdmi cord",
+                "energy of hdmi cord"
+            ],
+            "connection of hdmi cord": [
+                "link of hdmi cord",
+                "attachment of hdmi cord"
+            ]
+        },
+        "wii's av composite output": {
+            "container of wii's av composite output": [
+                "location of wii's av composite output"
+            ]
+        },
+        "cord": {},
+        "tv's hdmi input": {},
+        "converter": {
+            "attachment of converter": [
+                "connection of converter",
+                "linking of converter",
+                "coupling of converter"
+            ]
+        },
+        "tv": {
+            "power of tv": [
+                "on/off state of tv",
+                "energy state of tv"
+            ],
+            "attachment of tv": [
+                "connection of tv",
+                "link of tv",
+                "hookup of tv"
+            ]
+        },
+        "plug": {},
+        "wii": {
+            "connection of wii": [
+                "plugging in of wii",
+                "attachment of wii"
+            ],
+            "HDMI cord": [
+                "composite cord"
+            ],
+            "HDMI input": [
+                "AV composite output"
+            ],
+            "HD TV": [
+                "converter"
+            ]
+        },
+        "the hdmi": {},
+        "the cord": {
+            "power of the cord.": []
+        }
+    },
+    "14": {
+        "the pruning shears | pruning shears": {
+            "wetness of the pruning shears": [
+                "moisture of the pruning shears",
+                "dryness of the pruning shears"
+            ],
+            "cleanness of the pruning shears": [
+                "cleanliness of the pruning shears"
+            ]
+        },
+        "the clipping | clipping": {
+            "moisture of the clipping": [
+                "dryness of the clipping",
+                "dampness of the clipping"
+            ],
+            "wetness of the clipping": [],
+            "location of the clipping": [
+                "placement of the clipping"
+            ],
+            "composition of the clipping": [
+                "contents of the clipping"
+            ]
+        },
+        "hole in ground": {},
+        "the rose bush": {},
+        "the shovel": {},
+        "cutting": {
+            "location of cutting": [
+                "placement of cutting"
+            ]
+        },
+        "ground": {
+            "volume of ground": [
+                "fullness of ground",
+                "emptiness of ground",
+                "capacity of ground",
+                "occupancy of ground"
+            ]
+        },
+        "rose bush": {
+            "shape of rose bush": [
+                "appearance of rose bush"
+            ]
+        },
+        "rooting hormone": {
+            "location of rooting hormone": [
+                "placement of rooting hormone",
+                "position of rooting hormone"
+            ]
+        },
+        "yard": {},
+        "area": {
+            "readiness of area": [
+                "preparedness of area"
+            ]
+        },
+        "pot": {
+            "volume of pot": [
+                "fullness of pot",
+                "emptiness of pot",
+                "capacity of pot",
+                "occupancy of pot"
+            ]
+        },
+        "the cutting": {
+            "location of the cutting": [
+                "placement of the cutting",
+                "position of the cutting"
+            ]
+        },
+        "water": {},
+        "roots": {
+            "moisture of roots": [
+                "wetness of roots",
+                "dryness of roots",
+                "hydration of roots",
+                "dampness of roots"
+            ]
+        },
+        "soil": {
+            "location of soil": [
+                "placement of soil"
+            ],
+            "moisture of soil": [
+                "dryness of soil",
+                "wetness of soil",
+                "dampness of soil"
+            ]
+        }
+    },
+    "18": {
+        "eraser": {
+            "location of eraser": [
+                "placement of eraser"
+            ],
+            "ownership of eraser": [
+                "possession of eraser"
+            ],
+            "cost of eraser": [
+                "value of eraser"
+            ],
+            "size of eraser": [
+                "dimensions of eraser"
+            ]
+        },
+        "floor | lineoleum": {
+            "cleanness of floor": [
+                "dirtiness of floor",
+                "cleanliness of skid mark"
+            ],
+            "color of floor": [
+                "hue of floor",
+                "shade of floor",
+                "color of skid mark"
+            ],
+            "odor of floor": [
+                "scent of floor",
+                "smell of floor",
+                "odor of skid mark"
+            ],
+            "wetness of floor": [
+                "dryness of floor",
+                "dampness of floor",
+                "humidity of floor",
+                "wetness of skid mark"
+            ],
+            "moisture of floor": [
+                "dryness of floor",
+                "dampness of floor",
+                "humidity of floor",
+                "moisture of skid mark"
+            ]
+        },
+        "linoleum": {
+            "cleanness of linoleum": [
+                "dirtiness of linoleum",
+                "cleanliness level of linoleum"
+            ],
+            "wetness of linoleum": [
+                "dryness of linoleum",
+                "moisture level of linoleum"
+            ]
+        },
+        "skid mark": {
+            "dampness of skid mark": [
+                "moisture of skid mark",
+                "dryness of skid mark"
+            ],
+            "location of skid mark": [
+                "position of skid mark"
+            ]
+        },
+        "hands": {
+            "motion of hands": [
+                "movement of hands",
+                "action of hands",
+                "gestures of hands"
+            ]
+        },
+        "hand muscles": {},
+        "body | person": {
+            "form of body": [
+                "shape of body",
+                "size of body"
+            ],
+            "position of body": [
+                "posture of body",
+                "orientation of body"
+            ],
+            "location of body": [
+                "placement of body"
+            ]
+        },
+        "you": {},
+        "water": {}
+    },
+    "22": {
+        "your weight": {},
+        "ability to identify non-dominant leg": {},
+        "ability to identify dominant foot": {},
+        "weight": {
+            "placement of weight": [
+                "distribution of weight",
+                "balance of weight"
+            ]
+        },
+        "foot | dominant foot | feet": {
+            "location of foot": [
+                "placement of foot",
+                "position of foot",
+                "orientation of foot"
+            ]
+        },
+        "your foot": {
+            "placement of your foot": [
+                "position of your foot",
+                "location of your foot"
+            ]
+        },
+        "both feet": {
+            "placement of both feet": [
+                "position of both feet",
+                "location of both feet"
+            ]
+        },
+        "the tires": {
+            "movement of the tires": [
+                "rotation of the tires",
+                "speed of the tires"
+            ]
+        },
+        "the chain": {
+            "mechanical movement of the chain": [
+                "movement of the chain",
+                "function of the chain",
+                "operation of the chain"
+            ]
+        },
+        "ability to identify bike shaft": {},
+        "ability to identify handlebars": {},
+        "ability to ride a bike": {
+            "skill of ability to ride a bike": [
+                "proficiency of ability to ride a bike",
+                "competence of ability to ride a bike",
+                "expertise of ability to ride a bike"
+            ]
+        },
+        "you | hands": {
+            "position of you": [
+                "placement of you"
+            ],
+            "location of you": [
+                "whereabouts of you"
+            ],
+            "motion of you": [
+                "movement of you"
+            ],
+            "action of you": [
+                "activity of you"
+            ],
+            "balance of you": [
+                "stability of you"
+            ]
+        },
+        "bike | bicycle": {
+            "stability of bike": [
+                "steadiness of bike",
+                "firmness of bike"
+            ],
+            "balance of bike": [
+                "equilibrium of bike"
+            ],
+            "movement of bike": [
+                "speed of bike",
+                "pace of bike"
+            ],
+            "orientation of bike": [
+                "direction of bike",
+                "angle of bike"
+            ],
+            "motion of bike": [
+                "movement of bike",
+                "velocity of bike"
+            ]
+        },
+        "bicycle": {
+            "location of bicycle": [
+                "placement of bicycle",
+                "position of bicycle"
+            ],
+            "weight of bicycle": [
+                "mass of bicycle"
+            ]
+        },
+        "non-dominant foot": {
+            "location of non-dominant foot": [
+                "position of non-dominant foot",
+                "placement of non-dominant foot"
+            ]
+        },
+        "center of gravity": {
+            "location of center of gravity": [
+                "position of center of gravity",
+                "balance of bike"
+            ]
+        },
+        "pedals": {
+            "motion of pedals": [
+                "movement of pedals",
+                "rotation of pedals",
+                "spin of pedals"
+            ]
+        },
+        "grip on bike": {
+            "strength of grip on bike": [
+                "tightness of grip on bike",
+                "looseness of grip on bike"
+            ]
+        },
+        "handbrakes": {
+            "knowledge of handbrakes": []
+        },
+        "speed": {}
+    },
+    "24": {
+        "rum": {
+            "location of rum": [
+                "placement of rum"
+            ],
+            "rum of rum": [
+                "type of rum"
+            ],
+            "composition of rum": [
+                "ingredients of rum"
+            ]
+        },
+        "strawberry": {
+            "location of strawberry": [
+                "placement of strawberry"
+            ],
+            "strawberry of strawberry": [
+                "appearance of strawberry"
+            ]
+        },
+        "smoothie | mixture | ingredients": {
+            "organization of smoothie": [
+                "arrangement of smoothie",
+                "order of smoothie"
+            ],
+            "texture of smoothie": [
+                "consistency of smoothie"
+            ],
+            "smoothie of smoothie": [
+                "mixture of smoothie"
+            ],
+            "location of smoothie": [
+                "placement of smoothie"
+            ]
+        },
+        "blender": {
+            "cleanness of blender": [
+                "dirtiness of blender",
+                "hygienic condition of blender"
+            ],
+            "volume of blender": [
+                "capacity of blender",
+                "size of blender"
+            ],
+            "blender of blender": [
+                "model of blender",
+                "make of blender"
+            ],
+            "weight of blender": [
+                "mass of blender"
+            ],
+            "electric conductivity of blender": [
+                "power of blender"
+            ]
+        },
+        "glasses | glass": {
+            "volume of glasses": [
+                "capacity of glasses",
+                "size of glasses"
+            ],
+            "temperature of glasses": [
+                "warmth of glasses",
+                "coolness of glasses",
+                "chillness of glasses"
+            ],
+            "glasses of glasses": [
+                "material of glasses",
+                "type of glasses"
+            ],
+            "weight of glasses": [
+                "heaviness of glasses",
+                "lightness of glasses"
+            ],
+            "cleanness of glasses": [
+                "dirtiness of glasses",
+                "cleanliness of glasses"
+            ],
+            "moisture of glasses": [
+                "wetness of glasses",
+                "dryness of glasses"
+            ],
+            "appearance of glasses": [
+                "design of glasses",
+                "style of glasses"
+            ]
+        },
+        "sorber | fruit and sorbet | sorbet": {
+            "location of sorbet": [
+                "placement of sorbet"
+            ]
+        },
+        "glass": {
+            "decoration of glass": [
+                "garnish of glass",
+                "adornment of glass"
+            ]
+        },
+        "yogurt": {
+            "location of yogurt": [
+                "placement of yogurt",
+                "container of yogurt"
+            ]
+        },
+        "ingredients": {
+            "composition of ingredients": [
+                "contents of ingredients"
+            ]
+        },
+        "bottle": {
+            "weight of bottle": [
+                "heaviness of bottle"
+            ],
+            "volume of bottle": [
+                "capacity of bottle",
+                "size of bottle"
+            ]
+        },
+        "banana | bananas": {
+            "location of banana": []
+        },
+        "fruit": {
+            "temperature of fruit": [
+                "coldness of fruit",
+                "chillness of fruit"
+            ]
+        },
+        "items": {
+            "composition of items": [
+                "contents of items"
+            ]
+        },
+        "liquid": {
+            "composition of liquid": [
+                "contents of liquid."
+            ]
+        }
+    },
+    "28": {
+        "kitchen towel | towel": {
+            "cleanness of kitchen towel": [
+                "dirtiness of kitchen towel"
+            ],
+            "texture of kitchen towel": [
+                "softness of kitchen towel",
+                "roughness of kitchen towel"
+            ],
+            "color of kitchen towel": [
+                "hue of kitchen towel",
+                "shade of kitchen towel"
+            ],
+            "wetness of kitchen towel": [
+                "dryness of kitchen towel",
+                "dampness of kitchen towel",
+                "moisture of kitchen towel"
+            ]
+        },
+        "drink": {
+            "cost of drink": [
+                "price of drink"
+            ],
+            "sealing of drink": [
+                "opening of drink"
+            ],
+            "availability of drink": [
+                "stock of drink"
+            ]
+        },
+        "bolt": {
+            "wetness of bolt": [
+                "dryness of bolt",
+                "dampness of bolt"
+            ],
+            "moisture of bolt": [],
+            "texture of bolt": [
+                "surface of bolt"
+            ],
+            "cleanness of bolt": [
+                "dirtiness of bolt"
+            ],
+            "movement of bolt": [
+                "stiffness of bolt",
+                "looseness of bolt"
+            ],
+            "age of bolt": [
+                "lifespan of bolt"
+            ],
+            "location of bolt": [
+                "placement of bolt"
+            ]
+        },
+        "assembly": {},
+        "new bolt | old bolt": {
+            "location of new bolt": [
+                "placement of new bolt"
+            ],
+            "orientation of new bolt": [
+                "direction of new bolt"
+            ]
+        },
+        "rust": {
+            "composition of rust": [
+                "chemical makeup of rust",
+                "content of rust"
+            ]
+        },
+        "bottle": {
+            "weight of bottle": [
+                "heaviness of bottle"
+            ],
+            "openness of bottle": [
+                "lid of bottle",
+                "cap of bottle",
+                "seal of bottle"
+            ]
+        },
+        "wrench": {
+            "location of wrench": [
+                "placement of wrench"
+            ]
+        },
+        "soda": {
+            "location of soda": [
+                "placement of soda"
+            ]
+        },
+        "cup": {
+            "fullness of cup": [
+                "emptiness of cup",
+                "capacity of cup",
+                "occupancy of cup"
+            ],
+            "cleanness of cup": [
+                "dirtiness of cup",
+                "hygienic state of cup"
+            ],
+            "moisture of cup": [
+                "dryness of cup",
+                "dampness of cup"
+            ],
+            "weight of cup": [
+                "heaviness of cup",
+                "lightness of cup"
+            ]
+        },
+        "fizzy drink": {
+            "availability of fizzy drink": [
+                "possession of fizzy drink"
+            ],
+            "location of fizzy drink": [
+                "placement of fizzy drink"
+            ]
+        },
+        "towel": {},
+        "hands": {
+            "moisture of hands": [
+                "dryness of hands",
+                "wetness of hands",
+                "dampness of hands"
+            ],
+            "texture of hands": [
+                "roughness of hands",
+                "smoothness of hands"
+            ]
+        }
+    },
+    "47": {
+        "screens": {
+            "location of screens": [
+                "placement of screens"
+            ]
+        },
+        "master bedroom | living room | living/dining room": {
+            "availability of master bedroom": [
+                "presence of master bedroom"
+            ]
+        },
+        "stuff": {
+            "location of stuff": [
+                "position of stuff",
+                "placement of stuff",
+                "arrangement of stuff"
+            ]
+        },
+        "gems": {
+            "availability of gems": [
+                "possession of gems"
+            ]
+        },
+        "outside area": {
+            "availability of outside area": [
+                "presence of outside area",
+                "existence of outside area"
+            ],
+            "step of outside area": [
+                "progress of outside area",
+                "completion of outside area"
+            ]
+        },
+        "kids room": {
+            "availability of kids room": [
+                "presence of kids room",
+                "existence of kids room"
+            ]
+        }
+    },
+    "55": {
+        "underwear | underwears": {
+            "newness of underwear": [
+                "freshness of underwear",
+                "age of underwear",
+                "condition of underwear"
+            ],
+            "location of underwear": [
+                "placement of underwear"
+            ],
+            "size of underwear": [
+                "dimensions of underwear"
+            ],
+            "use of underwear": [
+                "purpose of underwear",
+                "function of underwear"
+            ],
+            "shape of underwear": [
+                "form of underwear"
+            ]
+        },
+        "underpants | floor": {
+            "newness of underpants": [
+                "age of underpants",
+                "freshness of underpants"
+            ],
+            "cleanness of underpants": [
+                "dirtiness of underpants",
+                "soiledness of underpants"
+            ],
+            "location of underpants": [
+                "placement of underpants",
+                "position of underpants"
+            ],
+            "use of underpants": [
+                "purpose of underpants",
+                "function of underpants"
+            ],
+            "shape of underpants": [
+                "form of underpants",
+                "appearance of underpants"
+            ],
+            "composition of underpants": [
+                "material of underpants",
+                "fabric of underpants"
+            ],
+            "size of underpants": [
+                "dimensions of underpants",
+                "measurement of underpants"
+            ],
+            "ownership of underpants": []
+        },
+        "underwear strips": {},
+        "bundle of old underwear": {
+            "use of bundle of old underwear": [
+                "purpose of bundle of old underwear",
+                "function of bundle of old underwear"
+            ]
+        },
+        "plants": {},
+        "garden plants": {},
+        "donation box": {
+            "location of donation box": [
+                "placement of donation box"
+            ]
+        },
+        "pillow case": {},
+        "scissors": {
+            "location of scissors": [
+                "placement of scissors"
+            ]
+        },
+        "quality undies": {
+            "use of quality undies": [
+                "repurposing of quality undies",
+                "recycling of quality undies",
+                "upcycling of quality undies",
+                "transformation of quality undies"
+            ]
+        },
+        "child": {},
+        "pants": {
+            "covering of pants": [
+                "outerwear of pants",
+                "layer of pants"
+            ]
+        }
+    }
+}

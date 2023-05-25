@@ -1,0 +1,236 @@
+{
+    "0": {
+        "generation": [
+            "glovebox"
+        ],
+        "gold": [
+            "glovebox",
+            "glvoe box"
+        ]
+    },
+    "1": {
+        "generation": [
+            "converter",
+            "hdmi converter cable"
+        ],
+        "gold": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ]
+    },
+    "2": {
+        "generation": [
+            "plug",
+            "hdmi cord",
+            "the hdmi cord",
+            "the hdmi"
+        ],
+        "gold": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ]
+    },
+    "3": {
+        "generation": [
+            "the cord",
+            "cord"
+        ],
+        "gold": [
+            "hdmi cord",
+            "hdmi converter cable",
+            "the hdmi cord",
+            "cord",
+            "the cord",
+            "the hdmi"
+        ]
+    },
+    "4": {
+        "generation": [
+            "area",
+            "ground",
+            "hole in ground",
+            "pot",
+            "water",
+            "soil"
+        ],
+        "gold": [
+            "yard",
+            "area"
+        ]
+    },
+    "5": {
+        "generation": [
+            "clipping",
+            "the clipping",
+            "the cutting"
+        ],
+        "gold": [
+            "cutting",
+            "the cutting"
+        ]
+    },
+    "6": {
+        "generation": [
+            "yard"
+        ],
+        "gold": [
+            "yard",
+            "area"
+        ]
+    },
+    "7": {
+        "generation": [
+            "floor"
+        ],
+        "gold": [
+            "floor",
+            "lineoleum"
+        ]
+    },
+    "8": {
+        "generation": [
+            "lineoleum"
+        ],
+        "gold": [
+            "floor",
+            "lineoleum"
+        ]
+    },
+    "9": {
+        "generation": [
+            "ability to identify dominant foot",
+            "dominant foot",
+            "your foot"
+        ],
+        "gold": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ]
+    },
+    "10": {
+        "generation": [
+            "both feet",
+            "feet"
+        ],
+        "gold": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ]
+    },
+    "11": {
+        "generation": [
+            "foot"
+        ],
+        "gold": [
+            "foot",
+            "feet",
+            "your foot",
+            "both feet"
+        ]
+    },
+    "12": {
+        "generation": [
+            "mixture",
+            "blender"
+        ],
+        "gold": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ]
+    },
+    "13": {
+        "generation": [
+            "sorber",
+            "ingredients",
+            "fruit and sorbet"
+        ],
+        "gold": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ]
+    },
+    "14": {
+        "generation": [
+            "sorber",
+            "ingredients",
+            "fruit and sorbet"
+        ],
+        "gold": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ]
+    },
+    "15": {
+        "generation": [
+            "smoothie"
+        ],
+        "gold": [
+            "smoothie",
+            "mixture",
+            "ingredients"
+        ]
+    },
+    "16": {
+        "generation": [
+            "sorbet"
+        ],
+        "gold": [
+            "sorber",
+            "fruit and sorbet",
+            "sorbet"
+        ]
+    },
+    "17": {
+        "generation": [
+            "bundle of old underwear"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    },
+    "18": {
+        "generation": [
+            "quality undies",
+            "underpants"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    },
+    "19": {
+        "generation": [
+            "underwear",
+            "underwears"
+        ],
+        "gold": [
+            "underwear",
+            "underwears",
+            "bundle of old underwear",
+            "quality undies",
+            "underpants"
+        ]
+    }
+}

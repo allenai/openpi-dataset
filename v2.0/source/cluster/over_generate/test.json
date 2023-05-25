@@ -1,0 +1,54 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "I am trying to change the oil on a yamaha virago xv250. First, I remove the bung to let the oil out to drain. Then, I remove the oil cap to let the oil drain fully and let air in to help drain the old oil out. Then, I remove the oil filter. Then, I screw the bung back on. Then, I fill the oil back up. Then, I recycle the old oil. Do you get the procedure?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I understand."
+    },
+    {
+        "role": "user",
+        "content": "Here are a group of entity names describing the same object: ['bung', 'the bung']. What are some alternative names for this object? What are some alternative names for this object? Organize them in a list. Answer \"None\" if there is no alternative name."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the given context, here are the extra entities that are referring to the same object as the given entities:\n['cork', 'plug']"
+    },
+    {
+        "role": "user",
+        "content": "I am trying to change the oil on a yamaha virago xv250. First, I remove the bung to let the oil out to drain. Then, I remove the oil cap to let the oil drain fully and let air in to help drain the old oil out. Then, I remove the oil filter. Then, I screw the bung back on. Then, I fill the oil back up. Then, I recycle the old oil. Do you get the procedure?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I understand."
+    },
+    {
+        "role": "user",
+        "content": "Here are a group of entity names describing the same object: ['oil filter']. What are some alternative names for this object? What are some alternative names for this object? Organize them in a list. Answer \"None\" if there is no alternative name."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the given context, here are the extra entities that are referring to the same object as the given entities:\n['filter']"
+    },
+    {
+        "role": "user",
+        "content": "I am trying to remove paint from windows. First, I you will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I wet the window with the water and dish soap. Then, I position the razor blade. Then, I using slow, smooth motions, start scraping the paint from the window. Then, I once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I remove small paint splatters with chemical solvents. Do you get the procedure?"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I understand."
+    },
+    {
+        "role": "user",
+        "content": "Here are a group of entity names describing the same object: ['items needed']. What are some alternative names for this object? What are some alternative names for this object? Organize them in a list. Answer \"None\" if there is no alternative name."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the given context, here are the extra entities that are referring to the same object as the given entities:\n['required items', 'necessary items', 'must-have items']"
+    }
+]

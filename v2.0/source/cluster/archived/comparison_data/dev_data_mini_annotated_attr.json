@@ -1,0 +1,538 @@
+{
+    "1": {
+        "goal": "Make a Simple Inside Windshield Cleaner",
+        "steps": [
+            "Purchase a blackboard eraser.",
+            "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+            "Use the eraser to clean the inner side of the windshield.",
+            "Replace after use."
+        ],
+        "entity_attr_dict": {
+            "the blackboard eraser | eraser": [
+                "possession | ownership",
+                "location | placement",
+                "condition",
+                "cleanness",
+                "movement"
+            ],
+            "glovebox": [
+                "location"
+            ],
+            "eraser shelf at the store": [
+                "fullness"
+            ],
+            "windshield": [
+                "cleanness"
+            ],
+            "inside windshield": [
+                "cleanness"
+            ],
+            "bank account": [
+                "fullness"
+            ],
+            "glove box": [
+                "fullness"
+            ],
+            "money": [
+                "location"
+            ],
+            "hands": [
+                "activity"
+            ]
+        }
+    },
+    "4": {
+        "goal": "Make a Pipe Cleaner Bird",
+        "steps": [
+            "Bend one pipe cleaner in half to form the legs.",
+            "Shape another pipe cleaner to form the body.",
+            "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+            "Use 2 pipe cleaners to enlarge the torso."
+        ],
+        "entity_attr_dict": {
+            "tip of pipe cleaner": [
+                "shape"
+            ],
+            "pipe cleaner | pipe cleaners": [
+                "shape",
+                "position",
+                "location"
+            ],
+            "your fingers": [
+                "location"
+            ],
+            "the torso": [
+                "width",
+                "weight"
+            ]
+        }
+    },
+    "7": {
+        "goal": "Connect a Wii to HD TV",
+        "steps": [
+            "Plug in your HDMI cord to the cable.",
+            "Plug it into your TV's HDMI input.",
+            "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+            "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+        ],
+        "entity_attr_dict": {
+            "hdmi cord | hdmi converter cable | the hdmi cord": [
+                "organization",
+                "power",
+                "power | connection",
+                "attachment"
+            ],
+            "wii's av composite output": [
+                "container"
+            ],
+            "cord": [
+                "power"
+            ],
+            "tv's hdmi input": [
+                "container"
+            ],
+            "converter": [
+                "attachment"
+            ],
+            "tv": [
+                "power",
+                "attachment"
+            ],
+            "plug": [
+                "volume"
+            ],
+            "wii": [
+                "connection"
+            ],
+            "the hdmi": [
+                "power"
+            ],
+            "the cord": [
+                "power"
+            ]
+        }
+    },
+    "14": {
+        "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+        "steps": [
+            "Prepare the pot or area in your yard where you plan to plant your clipping.",
+            "Take a cutting from the rose bush you would like to grow your new bush from.",
+            "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+            "Immediately plant the cutting."
+        ],
+        "entity_attr_dict": {
+            "the pruning shears | pruning shears": [
+                "wetness | moisture",
+                "cleanness"
+            ],
+            "the clipping | clipping": [
+                "moisture | wetness",
+                "location",
+                "composition"
+            ],
+            "hole in ground": [
+                "container"
+            ],
+            "the rose bush": [
+                "weight"
+            ],
+            "the shovel": [
+                "cleanness"
+            ],
+            "cutting": [
+                "location"
+            ],
+            "ground": [
+                "volume"
+            ],
+            "rose bush": [
+                "shape"
+            ],
+            "rooting hormone": [
+                "location"
+            ],
+            "yard": [
+                "readiness"
+            ],
+            "area": [
+                "readiness"
+            ],
+            "pot": [
+                "volume"
+            ],
+            "the cutting": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "roots": [
+                "moisture"
+            ],
+            "soil": [
+                "location",
+                "moisture"
+            ]
+        }
+    },
+    "18": {
+        "goal": "Remove Black Skid Marks from Linoleum",
+        "steps": [
+            "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+            "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+            "Continue rubbing until the black mark lifts.",
+            "Wash and dry as usual."
+        ],
+        "entity_attr_dict": {
+            "eraser": [
+                "ownership",
+                "location",
+                "cost",
+                "size"
+            ],
+            "floor | lineoleum": [
+                "cleanness",
+                "odor",
+                "color",
+                "wetness | moisture"
+            ],
+            "linoleum": [
+                "cleanness | wetness"
+            ],
+            "skid mark": [
+                "dampness",
+                "location"
+            ],
+            "hands": [
+                "motion"
+            ],
+            "hand muscles": [
+                "power"
+            ],
+            "body | person": [
+                "form | position",
+                "location"
+            ],
+            "you": [
+                "orientation"
+            ],
+            "water": [
+                "location"
+            ]
+        }
+    },
+    "22": {
+        "goal": "Get on a Bike",
+        "steps": [
+            "To get on the bike, swing your non-dominant leg over the shaft of the bike.",
+            "Put your dominant foot on the pedal.",
+            "Hold on to the handlebars for support and to keep the bike straight.",
+            "Keeping your weight center and even, pedal with your feet.",
+            "Stopping."
+        ],
+        "entity_attr_dict": {
+            "your weight": [
+                "weight"
+            ],
+            "ability to identify non-dominant leg": [
+                "knowledge"
+            ],
+            "ability to identify dominant foot": [
+                "knowledge"
+            ],
+            "weight": [
+                "placement"
+            ],
+            "foot | dominant foot | feet": [
+                "location"
+            ],
+            "your foot": [
+                "placement"
+            ],
+            "both feet": [
+                "placement"
+            ],
+            "the tires": [
+                "movement"
+            ],
+            "the chain": [
+                "mechanical movement"
+            ],
+            "ability to identify bike shaft": [
+                "knowledge"
+            ],
+            "ability to identify handlebars": [
+                "knowledge"
+            ],
+            "ability to ride a bike": [
+                "skill"
+            ],
+            "you | hands": [
+                "position | location",
+                "motion",
+                "action",
+                "balance"
+            ],
+            "bike | bicycle": [
+                "stability",
+                "balance",
+                "orientation",
+                "movement | motion"
+            ],
+            "bicycle": [
+                "location",
+                "weight"
+            ],
+            "non-dominant foot": [
+                "location"
+            ],
+            "center of gravity": [
+                "location"
+            ],
+            "pedals": [
+                "motion"
+            ],
+            "grip on bike": [
+                "strength"
+            ],
+            "handbrakes": [
+                "knowledge"
+            ],
+            "speed": [
+                "speed"
+            ]
+        }
+    },
+    "24": {
+        "goal": "Make a Banana Strawberry Rum Smoothie",
+        "steps": [
+            "Place the yogurt, bananas, and sorbet in a blender.",
+            "Blend the mixture until it's smooth in texture.",
+            "Pour the rum in and quickly blend again.",
+            "Pour the smoothie into chilled glasses.",
+            "Garnish each glass with a strawberry."
+        ],
+        "entity_attr_dict": {
+            "rum": [
+                "rum",
+                "location",
+                "composition"
+            ],
+            "strawberry": [
+                "strawberry",
+                "location"
+            ],
+            "smoothie | mixture | ingredients": [
+                "organization",
+                "texture",
+                "smoothie",
+                "location"
+            ],
+            "blender": [
+                "cleanness",
+                "volume",
+                "blender",
+                "weight",
+                "electric conductivity"
+            ],
+            "glasses | glass": [
+                "volume",
+                "glasses",
+                "temperature",
+                "weight",
+                "cleanness",
+                "moisture",
+                "appearance"
+            ],
+            "sorber | fruit and sorbet | sorbet": [
+                "location"
+            ],
+            "glass": [
+                "decoration"
+            ],
+            "yogurt": [
+                "location"
+            ],
+            "ingredients": [
+                "composition"
+            ],
+            "bottle": [
+                "weight",
+                "volume"
+            ],
+            "banana | bananas": [
+                "location"
+            ],
+            "fruit": [
+                "temperature"
+            ],
+            "items": [
+                "composition"
+            ],
+            "liquid": [
+                "composition"
+            ]
+        }
+    },
+    "28": {
+        "goal": "Open a Rusty Bolt",
+        "steps": [
+            "Obtain some fizzy drink.",
+            "Pour the fizzy drink over the bolt.",
+            "Wipe it clean with kitchen towel.",
+            "The fizzy drink should have dissolved the rust build-up causing the bolt to stick.",
+            "Replace the rusty bolt."
+        ],
+        "entity_attr_dict": {
+            "kitchen towel | towel": [
+                "texture",
+                "cleanness",
+                "color",
+                "wetness | moisture"
+            ],
+            "drink": [
+                "cost",
+                "sealing",
+                "availability"
+            ],
+            "bolt": [
+                "wetness | moisture",
+                "texture",
+                "cleanness",
+                "movement",
+                "age",
+                "location"
+            ],
+            "assembly": [
+                "texture"
+            ],
+            "new bolt | old bolt": [
+                "location",
+                "orientation"
+            ],
+            "rust": [
+                "composition"
+            ],
+            "bottle": [
+                "weight",
+                "openness"
+            ],
+            "wrench": [
+                "location"
+            ],
+            "soda": [
+                "location"
+            ],
+            "cup": [
+                "fullness",
+                "cleanness",
+                "moisture",
+                "weight"
+            ],
+            "fizzy drink": [
+                "availability",
+                "location"
+            ],
+            "towel": [
+                "weight"
+            ],
+            "hands": [
+                "moisture",
+                "texture"
+            ]
+        }
+    },
+    "47": {
+        "goal": "Make Your Den Look Like a Home on Animal Jam (Non Members)",
+        "steps": [
+            "Get lots of gems.",
+            "for a family home you will need quite a lot of stuff.",
+            "Try to get room shoji screens so you can section things off into smaller rooms.",
+            "If you can get shoji screens, try making a kids room, a master bedroom, and a living/dining room.",
+            "Make an outside area.",
+            "Keep your family safe."
+        ],
+        "entity_attr_dict": {
+            "screens": [
+                "location"
+            ],
+            "master bedroom | living room | living/dining room": [
+                "availability"
+            ],
+            "stuff": [
+                "location"
+            ],
+            "gems": [
+                "availability"
+            ],
+            "outside area": [
+                "availability | step"
+            ],
+            "kids room": [
+                "availability"
+            ]
+        }
+    },
+    "55": {
+        "goal": "Recycle Underpants",
+        "steps": [
+            "Turn the underpants into cleaning rags.",
+            "Use the underwear as garden ties.",
+            "Turn quality undies into craft items.",
+            "Use a bundle of old underwear as stuffing.",
+            "Children can wear old underwear on the outside of their pants to play superhero.",
+            "Donate the underpants."
+        ],
+        "entity_attr_dict": {
+            "underwear | underwears": [
+                "newness",
+                "location",
+                "size",
+                "use",
+                "shape"
+            ],
+            "underpants | floor": [
+                "newness",
+                "cleanness",
+                "location",
+                "use",
+                "shape",
+                "composition",
+                "size",
+                "ownership",
+                "availability"
+            ],
+            "underwear strips": [
+                "shape"
+            ],
+            "bundle of old underwear": [
+                "use"
+            ],
+            "plants": [
+                "form"
+            ],
+            "garden plants": [
+                "decoration"
+            ],
+            "donation box": [
+                "location"
+            ],
+            "pillow case": [
+                "location",
+                "content"
+            ],
+            "scissors": [
+                "location"
+            ],
+            "quality undies": [
+                "use"
+            ],
+            "child": [
+                "look"
+            ],
+            "pants": [
+                "covering"
+            ]
+        }
+    }
+}

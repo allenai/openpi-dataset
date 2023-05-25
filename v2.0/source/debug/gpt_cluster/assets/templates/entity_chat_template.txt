@@ -1,0 +1,2 @@
+{"role": "user", "content": "Here is a procedure for '{goal}'. The steps are as follows. {steps} Here are some entity names: ({entities}). Are the entity names referring to the same object? Answer with yes or no."}
+{"role": "assistant", "content": "{annotation}"}

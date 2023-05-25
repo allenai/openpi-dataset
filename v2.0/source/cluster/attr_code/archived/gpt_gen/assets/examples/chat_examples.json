@@ -1,0 +1,542 @@
+{
+    "43_0": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The possession of plant is for sale at nursery before and purchased from nursery afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The possession of fairy moss is for sale at nursery before and purchased from nursery afterwards."
+        }
+    ],
+    "43_1": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The size of moss is larger before and smaller afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The size of fairy moss is larger before and smaller afterwards.\n- The size of plant is larger before and smaller afterwards."
+        }
+    ],
+    "43_2": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The wetness of fairy moss is dry before and wetter afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The wetness of plant is dry before and wetter afterwards.\n- The wetness of moss is dry before and wetter afterwards."
+        }
+    ],
+    "43_3": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of container is in cabinet before and on countertop afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of vessel is in cabinet before and on countertop afterwards.\n- The location of vase is in cabinet before and on countertop afterwards."
+        }
+    ],
+    "43_4": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The volume of continer is empty before and fuller afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The volume of container is empty before and fuller afterwards.\n- The volume of vessel is empty before and fuller afterwards.\n- The volume of vase is empty before and fuller afterwards."
+        }
+    ],
+    "43_5": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The volume of containter is empty before and full afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The volume of container is empty before and full afterwards.\n- The volume of vessel is empty before and full afterwards.\n- The volume of vase is empty before and full afterwards."
+        }
+    ],
+    "43_6": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The composition of bowl is just water before and now mixed with fairy moss afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The composition of container is just water before and now mixed with fairy moss afterwards.\n- The composition of vase is just water before and now mixed with fairy moss afterwards.\n- The composition of vessel is just water before and now mixed with fairy moss afterwards."
+        }
+    ],
+    "43_7": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of water is outside bowl before and inside bowl afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "None"
+        }
+    ],
+    "43_8": [
+        {
+            "role": "user",
+            "content": "I am trying to grow fairy moss indoors. First, I Ask for it at a nursery or garden center that specializes in pond plant varieties. Then, I Find a suitable container. Then, I Fill the bowl with water. Then, I Add the fairy moss. Then, I Place in a suitable position. Then, I Prune. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The wetness of bowl is dry before and wet afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The wetness of container is dry before and wet afterwards.\n- The wetness of vessel is dry before and wet afterwards.\n- The wetness of vase is dry before and wet afterwards."
+        }
+    ],
+    "51_0": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The wetness of window is dry before and wet afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "None"
+        }
+    ],
+    "51_1": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The weight of glass cleaner bottle is heavier before and lighter afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The weight of spray bottle is heavier before and lighter afterwards.\n- The weight of spray can is heavier before and lighter afterwards.\n- The weight of spray container is heavier before and lighter afterwards.\n- The weight of spray dispenser is heavier before and lighter afterwards."
+        }
+    ],
+    "51_2": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The openness of razor blade package is closed before and open afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The openness of razor blade container is closed before and open afterwards.\n- The openness of razor blade box is closed before and open afterwards."
+        }
+    ],
+    "51_3": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The fullness of solvent container is more full before and less full afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The fullness of solvent bottle is more full before and less full afterwards.\n- The fullness of solvent can is more full before and less full afterwards.\n- The fullness of solvent dispenser is more full before and less full afterwards."
+        }
+    ],
+    "51_4": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The fullness of soap bottle is more full before and less full afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The fullness of soap container is more full before and less full afterwards.\n- The fullness of soap dispenser is more full before and less full afterwards."
+        }
+    ],
+    "51_5": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The moisture of paint is dry before and wet afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The moisture of paint stain is dry before and wet afterwards.\n- The moisture of paint spot is dry before and wet afterwards.\n- The moisture of paint mark is dry before and wet afterwards."
+        }
+    ],
+    "51_6": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of blade is in box before and in hand afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of razor blade is in box before and in hand afterwards.\n- The location of razor is in box before and in hand afterwards.\n- The location of scraper is in box before and in hand afterwards.\n- The location of window scraper is in box before and in hand afterwards."
+        }
+    ],
+    "51_7": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of soap is in bottle before and in bucket afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "None"
+        }
+    ],
+    "51_8": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of chemicals is in bottles before and on floor afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of chemical solvents is in bottles before and on floor afterwards.\n- The location of solvent is in bottles before and on floor afterwards.\n- The location of cleaning chemicals is in bottles before and on floor afterwards."
+        }
+    ],
+    "51_9": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The color of splatters is dark before and light afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The color of paint splatters is dark before and light afterwards.\n- The color of paint stains is dark before and light afterwards.\n- The color of paint spots is dark before and light afterwards.\n- The color of paint marks is dark before and light afterwards."
+        }
+    ],
+    "51_10": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of solvent is in container before and on window afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of chemical solvents is in container before and on window afterwards.\n- The location of cleaning chemicals is in container before and on window afterwards.\n- The location of chemicals is in container before and on window afterwards."
+        }
+    ],
+    "51_11": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The moisture of sponge is dry before and wet afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The moisture of scrubber is dry before and wet afterwards.\n- The moisture of scrubbing sponge is dry before and wet afterwards.\n- The moisture of scrubbing pad is dry before and wet afterwards.\n- The moisture of scrubbing tool is dry before and wet afterwards."
+        }
+    ],
+    "51_12": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of razor blade is in package before and in hand afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of blade is in package before and in hand afterwards.\n- The location of razor is in package before and in hand afterwards.\n- The location of scraper is in package before and in hand afterwards.\n- The location of window scraper is in package before and in hand afterwards."
+        }
+    ],
+    "51_13": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of glass cleaner is in bottle before and on window afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of cleaning solution is in bottle before and on window afterwards.\n- The location of cleaning chemical is in bottle before and on window afterwards.\n- The location of solvent is in bottle before and on window afterwards.\n- The location of chemical solvent is in bottle before and on window afterwards.\n- The location of chemical is in bottle before and on window afterwards."
+        }
+    ],
+    "51_14": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The temperature of bucket is cold before and hot afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The temperature of container is cold before and hot afterwards.\n- The temperature of water bucket is cold before and hot afterwards."
+        }
+    ],
+    "51_15": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of small paint splatters is on window before and removed afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of paint splatter is on window before and removed afterwards.\n- The location of paint is on window before and removed afterwards.\n- The location of paint droplet is on window before and removed afterwards.\n- The location of paint drop is on window before and removed afterwards.\n- The location of paint spot is on window before and removed afterwards."
+        }
+    ],
+    "51_16": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The mixture of water and dish soap is separate before and mixed together afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The mixture of water and soap is separate before and mixed together afterwards.\n- The mixture of water and detergent is separate before and mixed together afterwards.\n- The mixture of water and cleaning solution is separate before and mixed together afterwards.\n- The mixture of water and cleaning chemical is separate before and mixed together afterwards.\n- The mixture of water and solvent is separate before and mixed together afterwards.\n- The mixture of water and chemical solvent is separate before and mixed together afterwards.\n- The mixture of water and chemical is separate before and mixed together afterwards."
+        }
+    ],
+    "51_17": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of all of the paint is on window before and scraped away from window afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of paint is on window before and scraped away from window afterwards.\n- The location of paint splatter is on window before and scraped away from window afterwards.\n- The location of paint splatters is on window before and scraped away from window afterwards.\n- The location of paint droplet is on window before and scraped away from window afterwards.\n- The location of paint drop is on window before and scraped away from window afterwards.\n- The location of paint spot is on window before and scraped away from window afterwards."
+        }
+    ],
+    "51_18": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The texture of paint splatter is solid before and liquid afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The texture of paint droplet is solid before and liquid afterwards.\n- The texture of paint drop is solid before and liquid afterwards.\n- The texture of paint spot is solid before and liquid afterwards."
+        }
+    ],
+    "51_19": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The location of items needed is in places before and ready for use afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The location of items is in places before and ready for use afterwards.\n- The location of items required is in places before and ready for use afterwards.\n- The location of items required for cleaning is in places before and ready for use afterwards.\n- The location of items required for cleaning window is in places before and ready for use afterwards.\n- The location of items required for cleaning windows is in places before and ready for use afterwards.\n- The location of items required for cleaning a window is in places before and ready for use afterwards.\n- The location of items required for cleaning the window is in places before and ready for use afterwards.\n- The location of items required for cleaning the windows is in places before and ready for use afterwards.\n- The location of cleaning equipments is in places before and ready for use afterwards.\n- The location of cleaning tools is in places before and ready for use afterwards.\n- The location of cleaning supplies is in places before and ready for use afterwards.\n- The location of cleaning materials is in places before and ready for use afterwards.\n- The location of cleaning products is in places before and ready for use afterwards."
+        }
+    ],
+    "51_20": [
+        {
+            "role": "user",
+            "content": "I am trying to remove paint from windows. First, I You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner. Then, I Wet the window with the water and dish soap. Then, I Position the razor blade. Then, I Using slow, smooth motions, start scraping the paint from the window. Then, I Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean. Then, I Remove small paint splatters with chemical solvents. Do you get it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes."
+        },
+        {
+            "role": "user",
+            "content": "The wetness of cloth is dry before and wet afterwards. What are the alternative ways to describe this object?"
+        },
+        {
+            "role": "assistant",
+            "content": "- The wetness of towel is dry before and wet afterwards.\n- The wetness of rag is dry before and wet afterwards."
+        }
+    ]
+}

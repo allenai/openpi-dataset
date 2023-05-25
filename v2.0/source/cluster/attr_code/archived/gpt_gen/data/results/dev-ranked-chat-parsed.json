@@ -1,0 +1,74 @@
+[
+    {
+        "The location of battle frontier location is unattained before and now attained afterwards.": {
+            "attribute": "location",
+            "entity": "battle frontier",
+            "before": "inaccessible | unreached | unvisited",
+            "after": "now visited | now reached | now accessible"
+        }
+    },
+    {
+        "The full of wailmer is hungry before and full afterwards.": {
+            "attribute": "fullness | hunger | satiety",
+            "entity": "Wailmer",
+            "before": "empty | low",
+            "after": "high | full"
+        }
+    },
+    {
+        "The action of ball is unused before and used afterwards.": {
+            "attribute": "state",
+            "entity": "ball",
+            "before": "unused | inactive",
+            "after": "utilized | active"
+        }
+    },
+    {
+        "The knowledge of wailmer is untrained before and trained afterwards.": {
+            "attribute": "skill set | ability | proficiency | capacity | knowledge | knowledge",
+            "entity": "Wailmer | wailmer | training Wailmer | trainer's knowledge about training a Wailmer",
+            "before": "untrained | unfamiliar | untrained",
+            "after": "trained | trained | known"
+        }
+    },
+    {
+        "The going of wailmer is still before and going afterwards.": {
+            "attribute": "movement | mobility | position",
+            "entity": "Wailmer",
+            "before": "stationary | fixed | still",
+            "after": "mobile | moving | active"
+        }
+    },
+    {
+        "The change of wailmer is unevolved before and evolved afterwards.": {
+            "attribute": "change | state | development | growth | maturity | progression | developmental stage | transformation",
+            "entity": "Wailmer | wailmer",
+            "before": "unevolved | unevolved | pre-evolution | juvenile | unevolved | pre-evolution",
+            "after": "evolution | evolved | evolution | evolved | mature | evolved"
+        }
+    },
+    {
+        "The evolution of wailmer is wailmer before and wailord afterwards.": {
+            "attribute": "evolution | status",
+            "entity": "wailmer | the pokemon",
+            "before": "unevolved | wailmer",
+            "after": "wailord |  | evolved"
+        }
+    },
+    {
+        "The items of candy is uncopied before and copied afterwards.": {
+            "attribute": "quantity",
+            "entity": "rare candies",
+            "before": "one",
+            "after": "many"
+        }
+    },
+    {
+        "The action of wailmer is without rare candies before and now holder of rare candy afterwards.": {
+            "attribute": "state | possession",
+            "entity": "rare candies | Wailmer",
+            "before": "absent in Wailmer | without rare candies",
+            "after": "now in possession | now owning rare candy"
+        }
+    }
+]

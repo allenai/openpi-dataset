@@ -1,0 +1,779 @@
+{
+    "43": {
+        "goal": "Grow Fairy Moss Indoors",
+        "steps": [
+            "Ask for it at a nursery or garden center that specializes in pond plant varieties.",
+            "Find a suitable container.",
+            "Fill the bowl with water.",
+            "Add the fairy moss.",
+            "Place in a suitable position.",
+            "Prune."
+        ],
+        "topics": "Home and Garden",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/0/0e/Grow-Fairy-Moss-Indoors-Step-1.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-1.jpg",
+            "https://www.wikihow.com/images/thumb/b/b0/Grow-Fairy-Moss-Indoors-Step-2.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-2.jpg",
+            "https://www.wikihow.com/images/thumb/8/86/Grow-Fairy-Moss-Indoors-Step-3.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-3.jpg",
+            "https://www.wikihow.com/images/thumb/c/c0/Grow-Fairy-Moss-Indoors-Step-4.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-4.jpg",
+            "https://www.wikihow.com/images/thumb/f/f6/Grow-Fairy-Moss-Indoors-Step-5.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-5.jpg",
+            "https://www.wikihow.com/images/thumb/a/aa/Grow-Fairy-Moss-Indoors-Step-6.jpg/aid3716229-v4-728px-Grow-Fairy-Moss-Indoors-Step-6.jpg"
+        ],
+        "states": [
+            {
+                "entity": "plant | fairy moss",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "possession | availability",
+                            "before": "for sale at nursery",
+                            "after": "purchased from nursery",
+                            "saliency": 0.6854594680681637
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "moss | fairy moss | plant", 
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "size",
+                            "before": "larger",
+                            "after": "smaller",
+                            "saliency": 0.5102723363592929
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "fairy moss | plant | moss",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "wetness | moisture | dryness",
+                            "before": "dry",
+                            "after": "wetter",
+                            "saliency": 0.6297181079789775
+                        },
+                        {
+                            "attribute": "position | location | placement",
+                            "before": "outside of bowl",
+                            "after": "inside of bowl",
+                            "saliency": 0.33675744545309766
+                        }
+                    ],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "shape | appearance",
+                            "before": "mess",
+                            "after": "pruned",
+                            "saliency": 0.2908637256463344
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "container | vessel | vase",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location | placement",
+                            "before": "in cabinet",
+                            "after": "on countertop",
+                            "saliency": 0.627408823060997
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location | placement",
+                            "before": "on countertop",
+                            "after": "on table",
+                            "saliency": 0.4721293199554069
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "continer | container | vessel | vase",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "fuller",
+                            "saliency": 0.589902850772416
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "containter | container | vessel | vase",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "volume | fullness | emptiness | capacity | occupancy",
+                            "before": "empty",
+                            "after": "full",
+                            "saliency": 0.3887760789934703
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "bowl | container | vase | vessel",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "composition | contents",
+                            "before": "just water",
+                            "after": "now mixed with fairy moss",
+                            "saliency": 0.5341614906832298
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "water",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "outside bowl",
+                            "after": "inside bowl",
+                            "saliency": 0.5301799649625737
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "bowl | container | vessel | vase",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "wetness | dryness | moisture | dampness",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.32669745713223974
+                        },
+                        {
+                            "attribute": "volume | fullness | emptiness | capacity | occupancy",
+                            "before": "empty",
+                            "after": "full | filled",
+                            "saliency": 0.2693303073737856
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "position | placement",
+                            "before": "in unsuitable position",
+                            "after": "in suitable position",
+                            "saliency": 0.26550583072322204
+                        }
+                    ],
+                    "step6": []
+                }
+            }
+        ]
+    },
+    "51": {
+        "goal": "Remove Paint from Windows",
+        "steps": [
+            "You will need a bucket of hot water mixed with dish soap, a clean cloth or sponge, a new safety razor blade and some glass cleaner.",
+            "Wet the window with the water and dish soap.",
+            "Position the razor blade.",
+            "Using slow, smooth motions, start scraping the paint from the window.",
+            "Once all of the paint has been scraped away, spritz the window with some glass cleaner and use a clean, dry cloth to buff the windows clean.",
+            "Remove small paint splatters with chemical solvents."
+        ],
+        "topics": "Home and Garden",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/c/c6/Remove-Paint-from-Windows-Step-1.jpg/aid17292-v4-728px-Remove-Paint-from-Windows-Step-1.jpg",
+            "https://www.wikihow.com/video/a/ae/Remove Paint from Windows Step 2.360p.mp4",
+            "https://www.wikihow.com/images/thumb/1/17/Remove-Paint-from-Windows-Step-3.jpg/aid17292-v4-728px-Remove-Paint-from-Windows-Step-3.jpg",
+            "https://www.wikihow.com/video/0/06/Remove Paint from Windows Step 4.360p.mp4",
+            "https://www.wikihow.com/video/e/e1/Remove Paint from Windows Step 5.360p.mp4",
+            "https://www.wikihow.com/video/8/8a/Remove Paint from Windows Step 6.360p.mp4"
+        ],
+        "states": [
+            {
+                "entity": "window",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "wetness | moisture | dryness | dampness",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.616315181279792
+                        },
+                        {
+                            "attribute": "temperature",
+                            "before": "cooler | warmer",
+                            "after": "warmer | cooler",
+                            "saliency": 0.5040685637247821
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "cleanness | dirtiness",
+                            "before": "dirty",
+                            "after": "clean",
+                            "saliency": 0.3678920506524147
+                        },
+                        {
+                            "attribute": "transparency | covering | opaqueness",
+                            "before": "more opaque | more covered",
+                            "after": "more transparent | more bare",
+                            "saliency": 0.22088609626526712
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.14377196783667967
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "wetness | moisture | dryness | dampness",
+                            "before": "wet | dry",
+                            "after": "dry | wet",
+                            "saliency": 0.6292551398719245
+                        },
+                        {
+                            "attribute": "cleanness | dirtiness",
+                            "before": "dirty",
+                            "after": "clean",
+                            "saliency": 0.25143242332322213
+                        }
+                    ],
+                    "step6": [
+                        {
+                            "attribute": "transparency | covering | opaqueness",
+                            "before": "more opaque | more covered",
+                            "after": "more transparent | more bare",
+                            "saliency": 0.18206622048886964
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "dirtier",
+                            "after": "cleaner",
+                            "saliency": 0.17379267177042707
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "glass cleaner bottle | spray bottle | spray can | spray container | spray dispenser",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "weight | fullness | emptiness | capacity",
+                            "before": "heavier | more full",
+                            "after": "lighter | less full",
+                            "saliency": 0.6894409937888198
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "razor blade package | razor blade container | razor blade box",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "openness | accessibility",
+                            "before": "closed | whole",
+                            "after": "open | cut open",
+                            "saliency": 0.6774038230054408
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "solvent container | solvent bottle | solvent can | solvent dispenser",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "fullness | weight | capacity | emptiness",
+                            "before": "more full | heavier",
+                            "after": "less full | lighter",
+                            "saliency": 0.6533294814386826
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "soap bottle | soap container | soap dispenser",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "fullness | weight | capacity | emptiness",
+                            "before": "more full | heavier",
+                            "after": "less full | lighter",
+                            "saliency": 0.5811064567384082
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "paint | paint stain | paint spot | paint mark",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "moisture | wetness | dryness | dampness",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.4607347489046174
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "power | strength | adhesiveness | stickiness",
+                            "before": "stuck on",
+                            "after": "peeling off",
+                            "saliency": 0.31597974545396185
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "on window",
+                            "after": "on blade | scraped off window | removed",
+                            "saliency": 0.30650247965718136
+                        },
+                        {
+                            "attribute": "wholeness | completeness | brokenness",
+                            "before": "more whole",
+                            "after": "scarped into pieces",
+                            "saliency": 0.10825027685492801
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "on window",
+                            "after": "in trash",
+                            "saliency": 0.4100221483942414
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "blade | razor blade | razor | scraper | window scraper",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "in box",
+                            "after": "in hand",
+                            "saliency": 0.49955462468101497
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "sharpness | dullness | bluntness",
+                            "before": "sharper",
+                            "after": "more dull",
+                            "saliency": 0.3230535894843276
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "soap",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in bottle",
+                            "after": "in bucket",
+                            "saliency": 0.4935360392893255
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "chemicals | chemical solvents | solvent | cleaning chemicals",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "location",
+                            "before": "in bottles",
+                            "after": "on floor",
+                            "saliency": 0.5236289662477731
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "splatters | paint splatters | paint stains | paint spots | paint marks",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "color",
+                            "before": "dark",
+                            "after": "light",
+                            "saliency": 0.5236289662477731
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "solvent | chemical solvents | cleaning chemicals | chemicals",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "location",
+                            "before": "in container | in containers",
+                            "after": "on window | used on window",
+                            "saliency": 0.5155038759689923
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "sponge | scrubber | scrubbing sponge | scrubbing pad | scrubbing tool",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "moisture | wetness | dryness | dampness",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.46675333429630705
+                        },
+                        {
+                            "attribute": "location | placement",
+                            "before": "on ground",
+                            "after": "in bucket",
+                            "saliency": 0.32907217487601714
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "cleanness | dirtiness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.2831784550692538
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "razor blade | blade | razor | scraper | window scraper",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "location",
+                            "before": "in package",
+                            "after": "in hand",
+                            "saliency": 0.49684626125475473
+                        },
+                        {
+                            "attribute": "position | orientation",
+                            "before": "flat | out of position",
+                            "after": "at angle | positioned",
+                            "saliency": 0.32034522605806737
+                        },
+                        {
+                            "attribute": "contact",
+                            "before": "in contact with box",
+                            "after": "in contact with window",
+                            "saliency": 0.31327138202770155
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "cleanness | dirtiness",
+                            "before": "clean",
+                            "after": "dirty | dirtier",
+                            "saliency": 0.2126847705715249
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "glass cleaner | cleaning solution | cleaning chemical | solvent | chemical solvent | chemical",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "in bottle | in  its container",
+                            "after": "on window | out of its container",
+                            "saliency": 0.4312436804853388
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "bucket | container | water bucket",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "temperature",
+                            "before": "cold | cooler",
+                            "after": "hot | warmer",
+                            "saliency": 0.42793345851990955
+                        },
+                        {
+                            "attribute": "moisture | wetness | dryness | dampness",
+                            "before": "dry",
+                            "after": "wet",
+                            "saliency": 0.34441956762482545
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.3219983308456513
+                        },
+                        {
+                            "attribute": "fullness | emptiness",
+                            "before": "empty",
+                            "after": "full | fuller",
+                            "saliency": 0.22141171938947468
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.2831784550692538
+                        },
+                        {
+                            "attribute": "fullness",
+                            "before": "more full | fuller",
+                            "after": "less full | emptier",
+                            "saliency": 0.18259184361307718
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "small paint splatters | paint splatter | paint | paint droplet | paint drop | paint spot",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "location",
+                            "before": "on window",
+                            "after": "removed",
+                            "saliency": 0.40175261206606
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "water and dish soap | water and soap | water and detergent | water and cleaning solution | water and cleaning chemical | water and solvent | water and chemical solvent | water and chemical",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "mixture | separation",
+                            "before": "separate",
+                            "after": "mixed together",
+                            "saliency": 0.38971544128268093
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in bucket",
+                            "after": "on window",
+                            "saliency": 0.2520342818623911
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "all of the paint | paint | paint splatter | paint splatters | paint droplet | paint drop | paint spot",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "on window",
+                            "after": "scraped away from window",
+                            "saliency": 0.3716596851076123
+                        },
+                        {
+                            "attribute": "wholeness | completeness",
+                            "before": "more whole",
+                            "after": "scraped into pieces",
+                            "saliency": 0.23397852568732244
+                        }
+                    ],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "paint splatter | paint droplet | paint drop | paint spot",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "texture",
+                            "before": "solid",
+                            "after": "liquid",
+                            "saliency": 0.35962251432423326
+                        }
+                    ]
+                }
+            },
+            {
+                "entity": "items needed | items | items required | items required for cleaning | items required for cleaning window | items required for cleaning windows | items required for cleaning a window | items required for cleaning the window | items required for cleaning the windows | cleaning equipments | cleaning tools | cleaning supplies | cleaning materials | cleaning products",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "in places",
+                            "after": "ready for use",
+                            "saliency": 0.34758534354085413
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                }
+            },
+            {
+                "entity": "cloth | towel | rag",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "wetness | dryness | dampness | moisture",
+                            "before": "dry | clean",
+                            "after": "wet | dirty | dirtier",
+                            "saliency": 0.28942173431556645
+                        }
+                    ],
+                    "step6": []
+                }
+            }
+        ]
+    }
+}

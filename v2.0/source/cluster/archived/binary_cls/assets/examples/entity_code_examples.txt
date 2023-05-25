@@ -1,0 +1,103 @@
+"""
+This is a correference resolution task. Given a goal and a series of steps. The model is to determine whether the entity names are referring to the same object or not.
+"""
+
+# the overall goal of the procedure
+goal = "Build a Campfire Pit"
+# the steps of the procedure
+steps = ['Survey your camping site for a place that is safe to build your fire pit that is safe for you and for your surroundings.', 'Dig a pit with a shovel to a depth of at least 12” (304.8 mm).', 'Place rocks around the perimeter of your fire pit.', 'Fill the pit 2/3 full with dry kindling and firewood.', 'Have a bucket of water and a shovel nearby so that you can quickly extinguish the fire should it threaten to get out of control.', 'Pour water on the fire when you are ready to leave.']
+# entity names
+entities = ['pit', 'fire pit area', 'fire pit']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+
+# the overall goal of the procedure
+goal = "Make Salt Glaze"
+# the steps of the procedure
+steps = ['Put the water into a small saucepan.', 'Pour in the salt and cook over gentle heat until the salt dissolves.', 'Remove from heat and allow to cool.', 'Use a pastry brush to coat the savoury baked items with the cooled salt glaze.']
+# entity names
+entities = ['water', 'towel']
+# determine whether the entity names are referring to the same object
+entities_same_object = False
+
+# the overall goal of the procedure
+goal = "Make Salt Glaze"
+# the steps of the procedure
+steps = ['Put the water into a small saucepan.', 'Pour in the salt and cook over gentle heat until the salt dissolves.', 'Remove from heat and allow to cool.', 'Use a pastry brush to coat the savoury baked items with the cooled salt glaze.']
+# entity names
+entities = ['brush', 'pasty brush']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+
+# the overall goal of the procedure
+goal = "Make Salt Glaze"
+# the steps of the procedure
+steps = ['Put the water into a small saucepan.', 'Pour in the salt and cook over gentle heat until the salt dissolves.', 'Remove from heat and allow to cool.', 'Use a pastry brush to coat the savoury baked items with the cooled salt glaze.']
+# entity names
+entities = ['measuring cup', 'pot', 'mixture']
+# determine whether the entity names are referring to the same object
+entities_same_object = False
+
+# the overall goal of the procedure
+goal = "Remove Copper Stains from Baths and Showers"
+# the steps of the procedure
+steps = ['Make up a paste.', 'Spread the paste across the blue-green stain.', 'Leave the paste to work on the stain.', 'Rinse off the paste.']
+# entity names
+entities = ['baking powder and cream of tartar', 'baking soda']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+
+# the overall goal of the procedure
+goal = "Make an Avocado Dessert"
+# the steps of the procedure
+steps = ['To easily scoop out the meat of the avocado, slice across the avocado until your knife hits the pit.', 'Scoop out the meat into the bowl.', 'Drizzle the avocado with the condensed milk.', 'Chill in the fridge or in the freezer.', 'Serve.']
+# entity names
+entities = ['bowl', 'mixture']
+# determine whether the entity names are referring to the same object
+entities_same_object = False
+
+# the overall goal of the procedure
+goal = "Make an Avocado Dessert"
+# the steps of the procedure
+steps = ['To easily scoop out the meat of the avocado, slice across the avocado until your knife hits the pit.', 'Scoop out the meat into the bowl.', 'Drizzle the avocado with the condensed milk.', 'Chill in the fridge or in the freezer.', 'Serve.']
+# entity names
+entities = ['flesh', 'meat']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+
+# the overall goal of the procedure
+goal = "Make Ramen Chicken Salad"
+# the steps of the procedure
+steps = ['Prepare ramen noodles as directed on package, but discard the soup base.', 'Cook the chicken pieces until thoroughly cooked or browned.', 'Layer the bacon on top of the chicken.', 'Dress and finish the salad with a generous helping of croutons and salad dressing.']
+# entity names
+entities = ['chicken', 'chicken pieces']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+
+# the overall goal of the procedure
+goal = "Make Ramen Chicken Salad"
+# the steps of the procedure
+steps = ['Prepare ramen noodles as directed on package, but discard the soup base.', 'Cook the chicken pieces until thoroughly cooked or browned.', 'Layer the bacon on top of the chicken.', 'Dress and finish the salad with a generous helping of croutons and salad dressing.']
+# entity names
+entities = ['dressing, croutons', 'crouton']
+# determine whether the entity names are referring to the same object
+entities_same_object = False
+
+# the overall goal of the procedure
+goal = "Make Ramen Chicken Salad"
+# the steps of the procedure
+steps = ['Prepare ramen noodles as directed on package, but discard the soup base.', 'Cook the chicken pieces until thoroughly cooked or browned.', 'Layer the bacon on top of the chicken.', 'Dress and finish the salad with a generous helping of croutons and salad dressing.']
+# entity names
+entities = ['ramen, pot']
+# determine whether the entity names are referring to the same object
+entities_same_object = False
+
+# the overall goal of the procedure
+goal = "Make Ramen Chicken Salad"
+# the steps of the procedure
+steps = ['Prepare ramen noodles as directed on package, but discard the soup base.', 'Cook the chicken pieces until thoroughly cooked or browned.', 'Layer the bacon on top of the chicken.', 'Dress and finish the salad with a generous helping of croutons and salad dressing.']
+# entity names
+entities = ['salad', 'salad dressing']
+# determine whether the entity names are referring to the same object
+entities_same_object = True
+

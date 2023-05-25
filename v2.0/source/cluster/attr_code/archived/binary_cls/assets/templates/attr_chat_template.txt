@@ -1,0 +1,2 @@
+{"role": "user", "content": "I'm trying to {goal}. {steps} Here are two properties of an object involved in the procedure: {attributes}. Are the these names referring to the same property of the object? Answer with yes or no."}
+{"role": "assistant", "content": "{annotation}"}

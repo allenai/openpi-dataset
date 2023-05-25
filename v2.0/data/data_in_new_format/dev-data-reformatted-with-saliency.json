@@ -1,0 +1,876 @@
+{
+    "goal": "Make a Simple Inside Windshield Cleaner",
+    "steps": [
+        "Purchase a blackboard eraser.",
+        "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+        "Use the eraser to clean the inner side of the windshield.",
+        "Replace after use."
+    ],
+    "topics": "Cars & Other Vehicles",
+    "image_urls": [
+        "https://www.wikihow.com/images/thumb/a/ab/Make-a-Simple-Inside-Windshield-Cleaner-Step-1.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-1.jpg",
+        "https://www.wikihow.com/images/thumb/c/cc/Make-a-Simple-Inside-Windshield-Cleaner-Step-2.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-2.jpg",
+        "https://www.wikihow.com/images/thumb/4/42/Make-a-Simple-Inside-Windshield-Cleaner-Step-3.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-3.jpg",
+        "https://www.wikihow.com/images/thumb/e/e0/Make-a-Simple-Inside-Windshield-Cleaner-Step-4.jpg/aid514012-v4-728px-Make-a-Simple-Inside-Windshield-Cleaner-Step-4.jpg"
+    ],
+    "states": [
+        {
+            "entity": "the blackboard eraser | eraser",
+            "answers": {
+                "step1": [
+                    {
+                        "attribute": "possession",
+                        "before": "at store",
+                        "after": "now owned by you",
+                        "attribute_mention": "possession",
+                        "before_mention": "at store",
+                        "after_mention": "now owned by you"
+                    },
+                    {
+                        "attribute": "location",
+                        "before": "in store",
+                        "after": "at customer's house",
+                        "attribute_mention": "location",
+                        "before_mention": "in store",
+                        "after_mention": "at customer's house"
+                    }
+                ],
+                "step2": [
+                    {
+                        "attribute": "placement",
+                        "before": "outside of car",
+                        "after": "now stored in car",
+                        "attribute_mention": "placement",
+                        "before_mention": "outside of car",
+                        "after_mention": "now stored in car"
+                    },
+                    {
+                        "attribute": "location",
+                        "before": "in house",
+                        "after": "in glovebox",
+                        "attribute_mention": "location",
+                        "before_mention": "in house",
+                        "after_mention": "in glovebox"
+                    }
+                ],
+                "step3": [
+                    {
+                        "attribute": "condition",
+                        "before": "new",
+                        "after": "used",
+                        "attribute_mention": "condition",
+                        "before_mention": "new",
+                        "after_mention": "used"
+                    },
+                    {
+                        "attribute": "location",
+                        "before": "in glovebox",
+                        "after": "on windshield",
+                        "attribute_mention": "location",
+                        "before_mention": "in glovebox",
+                        "after_mention": "on windshield"
+                    },
+                    {
+                        "attribute": "cleanness",
+                        "before": "clean",
+                        "after": "dirty",
+                        "attribute_mention": "cleanness",
+                        "before_mention": "clean",
+                        "after_mention": "dirty"
+                    },
+                    {
+                        "attribute": "movement",
+                        "before": "sitting",
+                        "after": "rubbing",
+                        "attribute_mention": "movement",
+                        "before_mention": "sitting",
+                        "after_mention": "rubbing"
+                    }
+                ],
+                "step4": [
+                    {
+                        "attribute": "location",
+                        "before": "on windshield",
+                        "after": "in glovebox",
+                        "attribute_mention": "location",
+                        "before_mention": "on windshield",
+                        "after_mention": "in glovebox"
+                    },
+                    {
+                        "attribute": "movement",
+                        "before": "rubbing",
+                        "after": "resting",
+                        "attribute_mention": "movement",
+                        "before_mention": "rubbing",
+                        "after_mention": "resting"
+                    }
+                ]
+            }
+        },
+        {
+            "entity": "glovebox",
+            "answers": {
+                "step1": [],
+                "step2": [
+                    {
+                        "attribute": "location",
+                        "before": "away from car",
+                        "after": "inside car",
+                        "attribute_mention": "location",
+                        "before_mention": "away from car",
+                        "after_mention": "inside car"
+                    }
+                ],
+                "step3": [],
+                "step4": []
+            }
+        },
+        {
+            "entity": "eraser shelf at the store",
+            "answers": {
+                "step1": [
+                    {
+                        "attribute": "fullness",
+                        "before": "more full",
+                        "after": "more empty",
+                        "attribute_mention": "fullness",
+                        "before_mention": "more full",
+                        "after_mention": "more empty"
+                    }
+                ],
+                "step2": [],
+                "step3": [],
+                "step4": []
+            }
+        },
+        {
+            "entity": "windshield",
+            "answers": {
+                "step1": [],
+                "step2": [],
+                "step3": [
+                    {
+                        "attribute": "cleanness",
+                        "before": "dirty",
+                        "after": "clean",
+                        "attribute_mention": "cleanness",
+                        "before_mention": "dirty",
+                        "after_mention": "clean"
+                    }
+                ],
+                "step4": []
+            }
+        },
+        {
+            "entity": "inside windshield",
+            "answers": {
+                "step1": [],
+                "step2": [],
+                "step3": [
+                    {
+                        "attribute": "cleanness",
+                        "before": "dirty",
+                        "after": "cleaned with eraser",
+                        "attribute_mention": "cleanness",
+                        "before_mention": "dirty",
+                        "after_mention": "cleaned with eraser"
+                    }
+                ],
+                "step4": []
+            },
+            "entity_mention": "inside windshield"
+        },
+        {
+            "entity": "bank account",
+            "answers": {
+                "step1": [
+                    {
+                        "attribute": "fullness",
+                        "before": "full",
+                        "after": "depleted",
+                        "attribute_mention": "fullness",
+                        "before_mention": "full",
+                        "after_mention": "depleted"
+                    }
+                ],
+                "step2": [],
+                "step3": [],
+                "step4": []
+            }
+        },
+        {
+            "entity": "glove box",
+            "answers": {
+                "step1": [],
+                "step2": [
+                    {
+                        "attribute": "fullness",
+                        "before": "less full",
+                        "after": "more full",
+                        "attribute_mention": "fullness",
+                        "before_mention": "less full",
+                        "after_mention": "more full"
+                    }
+                ],
+                "step3": [],
+                "step4": []
+            }
+        },
+        {
+            "entity": "money",
+            "answers": {
+                "step1": [
+                    {
+                        "attribute": "location",
+                        "before": "in customer's hand",
+                        "after": "in cashier's hand",
+                        "attribute_mention": "location",
+                        "before_mention": "in customer's hand",
+                        "after_mention": "in cashier's hand"
+                    }
+                ],
+                "step2": [],
+                "step3": [],
+                "step4": []
+            }
+        },
+        {
+            "entity": "hands",
+            "answers": {
+                "step1": [],
+                "step2": [],
+                "step3": [
+                    {
+                        "attribute": "activity",
+                        "before": "relaxed",
+                        "after": "active",
+                        "attribute_mention": "activity",
+                        "before_mention": "relaxed",
+                        "after_mention": "active"
+                    }
+                ],
+                "step4": [
+                    {
+                        "attribute": "activity",
+                        "before": "working on windshield",
+                        "after": "relaxed",
+                        "attribute_mention": "activity",
+                        "before_mention": "working on windshield",
+                        "after_mention": "relaxed"
+                    }
+                ]
+            }
+        }
+    ],
+    "entities": [
+        {
+            "canonical_name": "wii",
+            "other_names": [
+                "wii"
+            ],
+            "people_annotated": [
+                "A5TI9UQEPLNWI"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "pants",
+            "other_names": [
+                "pants"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "containter",
+            "other_names": [
+                "storage container",
+                "plant",
+                "contents in the container",
+                "dipping container",
+                "potting soil",
+                "soil in the container",
+                "plant container",
+                "water in the container",
+                "pot",
+                "soil",
+                "containter",
+                "container",
+                "baking or roasting tin",
+                "seasoning mixture"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "inside windshield",
+            "other_names": [
+                "inside windshield"
+            ],
+            "people_annotated": [
+                "A24LB89P1BPKKF"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "balls",
+            "other_names": [
+                "balls"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "A37QEBDK240IFZ",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "hand muscles",
+            "other_names": [
+                "hand muscles"
+            ],
+            "people_annotated": [
+                "AISNLDPD2DFEG"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "can",
+            "other_names": [
+                "can"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "mixing jar",
+            "other_names": [
+                "mixing jar",
+                "moisture in jar",
+                "liquid in jar",
+                "jar"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "hand",
+            "other_names": [
+                "ingredients in hand",
+                "hand"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AISNLDPD2DFEG"
+            ],
+            "num_people_annotated": 2
+        }
+    ],
+    "attributes": [
+        {
+            "canonical_name": "possession",
+            "other_names": [
+                "ownership"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "ownership",
+            "other_names": [
+                "possession",
+                "ownership"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "location",
+                "location"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "placement",
+            "other_names": [
+                "location",
+                "position",
+                "placement"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "location"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "condition",
+            "other_names": [
+                "state",
+                "status",
+                "state",
+                "condition"
+            ],
+            "people_annotated": [
+                "A24LB89P1BPKKF",
+                "A37QEBDK240IFZ",
+                "AISNLDPD2DFEG"
+            ],
+            "num_people_annotated": 3
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "placement",
+                "location"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "cleanness",
+            "other_names": [
+                "cleanliness",
+                "cleanness"
+            ],
+            "people_annotated": [
+                "AOBTFLJU2BEPR"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "movement",
+            "other_names": [],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "placement",
+                "location",
+                "position"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "movement",
+            "other_names": [
+                "action",
+                "motion",
+                "movement"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "position",
+                "location"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "fullness",
+            "other_names": [
+                "stock",
+                "quantity",
+                "number"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "cleanness",
+            "other_names": [
+                "cleanliness of the inner side",
+                "cleanliness",
+                "degree"
+            ],
+            "people_annotated": [
+                "AOBTFLJU2BEPR"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "cleanness",
+            "other_names": [],
+            "people_annotated": [
+                "AOBTFLJU2BEPR"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "fullness",
+            "other_names": [],
+            "people_annotated": [
+                "A2RMJNF6IPI42F"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "fullness",
+            "other_names": [
+                "fullness",
+                "capacity",
+                "occupancy"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F"
+            ],
+            "num_people_annotated": 1
+        },
+        {
+            "canonical_name": "location",
+            "other_names": [
+                "placement"
+            ],
+            "people_annotated": [
+                "A2RMJNF6IPI42F",
+                "AOBTFLJU2BEPR",
+                "A2ZZW6KME1FUDU",
+                "A3NC9MZKCOD3T4"
+            ],
+            "num_people_annotated": 4
+        },
+        {
+            "canonical_name": "activity",
+            "other_names": [
+                "activity level",
+                "activity",
+                "activity",
+                "activity"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        },
+        {
+            "canonical_name": "activity",
+            "other_names": [
+                "activity"
+            ],
+            "people_annotated": [],
+            "num_people_annotated": 0
+        }
+    ],
+    "conditions": [
+        {
+            "canonical_name": "at store",
+            "other_names": [
+                "at the store"
+            ]
+        },
+        {
+            "canonical_name": "at store",
+            "other_names": [
+                "at store",
+                "in the store"
+            ]
+        },
+        {
+            "canonical_name": "in store",
+            "other_names": [
+                "in the shop",
+                "in the store"
+            ]
+        },
+        {
+            "canonical_name": "outside of car",
+            "other_names": [
+                "outside the car",
+                "outside the car",
+                "external to the car"
+            ]
+        },
+        {
+            "canonical_name": "in house",
+            "other_names": [
+                "inside the house"
+            ]
+        },
+        {
+            "canonical_name": "new",
+            "other_names": [
+                "unused",
+                "new",
+                "clean",
+                "pristine"
+            ]
+        },
+        {
+            "canonical_name": "in glovebox",
+            "other_names": [
+                "in the glovebox",
+                "in the car's interior"
+            ]
+        },
+        {
+            "canonical_name": "clean",
+            "other_names": [
+                "pristine",
+                "spotless"
+            ]
+        },
+        {
+            "canonical_name": "sitting",
+            "other_names": []
+        },
+        {
+            "canonical_name": "on windshield",
+            "other_names": [
+                "on windshield",
+                "on dashboard",
+                "on windshield"
+            ]
+        },
+        {
+            "canonical_name": "rubbing",
+            "other_names": [
+                "scrubbing",
+                "rubbing",
+                "back-and-forth rubbing"
+            ]
+        },
+        {
+            "canonical_name": "now owned by you",
+            "other_names": [
+                "now owned by you"
+            ]
+        },
+        {
+            "canonical_name": "now owned by you",
+            "other_names": [
+                "now owned by you",
+                "now in your possession"
+            ]
+        },
+        {
+            "canonical_name": "at customer's house",
+            "other_names": [
+                "at the customer's residence",
+                "delivered to the customer's house"
+            ]
+        },
+        {
+            "canonical_name": "now stored in car",
+            "other_names": [
+                "now inside the car",
+                "now in storage in the car",
+                "now internal to the car"
+            ]
+        },
+        {
+            "canonical_name": "in glovebox",
+            "other_names": [
+                "inside the glovebox"
+            ]
+        },
+        {
+            "canonical_name": "used",
+            "other_names": [
+                "used",
+                "soiled",
+                "dirty",
+                "worn-out"
+            ]
+        },
+        {
+            "canonical_name": "on windshield",
+            "other_names": [
+                "on/near the windshield",
+                "on the windshield"
+            ]
+        },
+        {
+            "canonical_name": "dirty",
+            "other_names": [
+                "soiled",
+                "dusty"
+            ]
+        },
+        {
+            "canonical_name": "rubbing",
+            "other_names": []
+        },
+        {
+            "canonical_name": "in glovebox",
+            "other_names": [
+                "in glovebox",
+                "in glovebox",
+                "in glovebox"
+            ]
+        },
+        {
+            "canonical_name": "resting",
+            "other_names": [
+                "stillness",
+                "halted",
+                "static"
+            ]
+        },
+        {
+            "canonical_name": "away from car",
+            "other_names": [
+                "outside of the car",
+                "not in the car"
+            ]
+        },
+        {
+            "canonical_name": "inside car",
+            "other_names": [
+                "inside the car",
+                "inside the car"
+            ]
+        },
+        {
+            "canonical_name": "more full",
+            "other_names": [
+                "more full",
+                "more",
+                "more"
+            ]
+        },
+        {
+            "canonical_name": "more empty",
+            "other_names": [
+                "less full",
+                "fewer",
+                "fewer"
+            ]
+        },
+        {
+            "canonical_name": "dirty",
+            "other_names": [
+                "dirty",
+                "dirty",
+                "high"
+            ]
+        },
+        {
+            "canonical_name": "clean",
+            "other_names": [
+                "clean",
+                "clean",
+                "low"
+            ]
+        },
+        {
+            "canonical_name": "dirty",
+            "other_names": []
+        },
+        {
+            "canonical_name": "cleaned with eraser",
+            "other_names": []
+        },
+        {
+            "canonical_name": "full",
+            "other_names": []
+        },
+        {
+            "canonical_name": "depleted",
+            "other_names": []
+        },
+        {
+            "canonical_name": "less full",
+            "other_names": [
+                "less",
+                "less",
+                "less"
+            ]
+        },
+        {
+            "canonical_name": "more full",
+            "other_names": [
+                "more",
+                "more",
+                "more"
+            ]
+        },
+        {
+            "canonical_name": "in customer's hand",
+            "other_names": [
+                "in customer's hand"
+            ]
+        },
+        {
+            "canonical_name": "in cashier's hand",
+            "other_names": [
+                "in cashier's hand"
+            ]
+        },
+        {
+            "canonical_name": "relaxed",
+            "other_names": [
+                "at rest",
+                "inactive",
+                "stationary",
+                "at ease"
+            ]
+        },
+        {
+            "canonical_name": "working on windshield",
+            "other_names": [
+                "engaged in cleaning the windshield"
+            ]
+        },
+        {
+            "canonical_name": "active",
+            "other_names": [
+                "in use",
+                "active",
+                "in motion",
+                "engaged"
+            ]
+        },
+        {
+            "canonical_name": "relaxed",
+            "other_names": [
+                "at rest"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "The location of battle frontier location is unattained before and now attained afterwards.": {
+            "attribute": "accessibility",
+            "entity": "the Battle Frontier location",
+            "before": "unattained",
+            "after": "now attained"
+        }
+    },
+    {
+        "The going of wailmer is still before and going afterwards.": {
+            "attribute": "size",
+            "entity": "Wailmer",
+            "before": "smaller",
+            "after": "larger"
+        }
+    },
+    {
+        "The action of wailmer is without rare candies before and now holder of rare candy afterwards.": {
+            "attribute": "\"item\" attribute | \"evolution\" attribute",
+            "entity": "\"Wailmer\"",
+            "before": "\"un-evolved\" | \"none\"",
+            "after": "\"evolved\" into \"Wailord\" | \"rare candy\""
+        }
+    },
+    {
+        "The action of ball is unused before and used afterwards.": {
+            "attribute": "'status'",
+            "entity": "the 'ball'",
+            "before": "'unused'",
+            "after": "'used'"
+        }
+    },
+    {
+        "The evolution of wailmer is wailmer before and wailord afterwards.": {
+            "attribute": "appearance | evolution",
+            "entity": "wailmer | Wailmer",
+            "before": "small and blue | wailmer",
+            "after": "large and blue with noticeable fins on its back as Wailord | wailord"
+        }
+    },
+    {
+        "The knowledge of wailmer is untrained before and trained afterwards.": {
+            "attribute": "level | knowledge | skill level",
+            "entity": "wailmer | Wailmer",
+            "before": "untrained | low | novice",
+            "after": "advanced | high | trained"
+        }
+    },
+    {
+        "The full of wailmer is hungry before and full afterwards.": {
+            "attribute": "hunger level",
+            "entity": "the Wailmer",
+            "before": "low",
+            "after": "high"
+        }
+    },
+    {
+        "The items of candy is uncopied before and copied afterwards.": {
+            "attribute": "'availability'",
+            "entity": "'candy items'",
+            "before": "'not copied'",
+            "after": "'copied'"
+        }
+    },
+    {
+        "The change of wailmer is unevolved before and evolved afterwards.": {
+            "attribute": "size | appearance | level of experience | strength | change",
+            "entity": "wailmer | Wailmer",
+            "before": "less imposing | weak | low | small | unevolved",
+            "after": "large | high | more impressive | strong |  | evolved"
+        }
+    }
+]

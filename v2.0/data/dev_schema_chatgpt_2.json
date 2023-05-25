@@ -1,0 +1,2178 @@
+{
+    "1": [
+        [
+            "existence of blackboard eraser was absent before and present after",
+            "location of the eraser was in the store before and in person's hand after",
+            "owner of the eraser was the store before and the person after"
+        ],
+        [
+            "location of the eraser was in person's hand before and in glove box or attached on/near car door after",
+            "location of eraser in the store was on the shelf before and sold after",
+            "location of glove box was empty before and filled with eraser after",
+            "accessibility of eraser was hard before and easy after"
+        ],
+        [
+            "existence of dirt was present on the inner side of windshield before and absent after",
+            "existence of eraser was in glove box or attached on/near car door before and in person's hand after",
+            "amount of dirt was high before and low after",
+            "cleanliness of windshield was dirty before and clean after",
+            "level of visibility through windshield was low before and high after"
+        ],
+        [
+            "location of eraser was in person's hand before and in glove box or attached on/near car door after use",
+            "condition of eraser was clean before and dirty after use",
+            "existence of dirt was absent on the eraser before and present after use"
+        ]
+    ],
+    "2": [
+        [
+            "cleanness of mixing bowl was clean before and dirty after",
+            "weight of mixing bowl was light before and heavy after",
+            "wetness of mixing bowl was dry before and wet after",
+            "composition of ingredients was separated before and mixed together after"
+        ],
+        [
+            "composition of mixture was in mixing bowl before and in small balls after",
+            "size of mixture was big before and small after",
+            "shape of mixture was undefined before and ball-shaped after",
+            "location of mixture was in mixing bowl before and in plate after",
+            "location of plate was in cabinet before and on counter after"
+        ],
+        [
+            "location of carob balls was on plate before and in freezer after",
+            "temperature of freezer was cold before and colder after",
+            "state of carob balls was soft before and harder after"
+        ],
+        [
+            "location of carob balls was in freezer before and on plate after",
+            "state of carob balls was colder before and at room temperature after",
+            "composition of plate was empty before and full of carob balls after",
+            "location of plate was in freezer before and on table after"
+        ]
+    ],
+    "3": [
+        [
+            "location of cookies was on tray before and in container after",
+            "location of container was on counter before and in freezer after",
+            "cleanliness of container was clean before and dusty after",
+            "weight of container was lighter before and heavier after",
+            "wetness of container was dry before and moist after",
+            "firmness of cookies was soft before and harder after",
+            "volume of container was empty before and full of cookies after."
+        ],
+        [
+            "separation of cookies was not present before and freezer paper, baking paper, or foil used after",
+            "tangibility of biscuits and cookies was soft before and harder after",
+            "location of freezer paper, baking paper, or foil was on counter before and in container after",
+            "volume of container was full before and partly empty after",
+            "structure of freezer paper, baking paper, or foil was in roll before and in use after"
+        ],
+        [
+            "location of container was in freezer door or on counter before and inside the freezer after",
+            "temperature of freezer was cooling before and freezing after",
+            "location of biscuits was in container before and in freezer after",
+            "state of biscuits was solid before and frozen after",
+            "volume of freezer containing biscuits was empty before and partly full after"
+        ],
+        [
+            "location of container was in the freezer before and on the counter after",
+            "state of biscuits was frozen before and thawed after",
+            "stability of container was stable before and wet after",
+            "temperature of biscuits was cold before and room temperature after",
+            "volume of biscuits was solid before and soft or/and crumbly after"
+        ]
+    ],
+    "4": [
+        [
+            "length of pipe cleaner was long before and shortened after",
+            "shape of pipe cleaner was straight before and bent after",
+            "location of pipe cleaner was on the table before and in person's hand after",
+            "thickness of pipe cleaner was single before and double after",
+            "size of pipe cleaner was long before and short after"
+        ],
+        [
+            "shape of pipe cleaner was straight before and bent after",
+            "length of pipe cleaner was long before and shortened after",
+            "location of pipe cleaner was on the table before and in person's hand after",
+            "thickness of pipe cleaner was single before and double after",
+            "size of pipe cleaner was long before and short after",
+            "curvature of pipe cleaner was flat before and curved after",
+            "width of pipe cleaner was narrow before and wide after",
+            "circumference of pipe cleaner was small before and large after"
+        ],
+        [
+            "length of pipe cleaner was short before and longer after",
+            "location of pipe cleaner was on the table before and in person's hand after",
+            "position of pipe cleaner was still before and moved after"
+        ],
+        [
+            "size of torso was small before and large after",
+            "number of pipe cleaners was 2 before and 4 after",
+            "shape of pipe cleaners was thin before and thick after",
+            "location of pipe cleaners was on the table before and in person's hand after",
+            "length of pipe cleaners was long before and shortened after",
+            "thickness of pipe cleaners was single before and double after",
+            "shape of pipe cleaners was straight before and bent after"
+        ]
+    ],
+    "5": [
+        [
+            "length of flat web was 0 before and 84 inches after",
+            "composition of flat web was nonexistent before and existing after",
+            "width of flat web remained the same throughout the step",
+            "location of flat web was in spool before and out of spool after",
+            "tension of flat web increased gradually throughout the step",
+            "diameter of spool decreased gradually throughout the step",
+            "weight of spool decreased gradually throughout the step",
+            "amount of yarn in spool decreased gradually throughout the step",
+            "position of knitter's hands was constant throughout the step"
+        ],
+        [
+            "length of flat web was 84 inches before and 79 inches after",
+            "composition of flat web remained the same throughout the step",
+            "location of flat web was in knitter's hands before and in knitter's hands after",
+            "location of sewing material was in storage before and in knitter's hands after",
+            "shape of flat web was straight before and L-shaped after",
+            "size of flat web was narrower before and wider after",
+            "texture of flat web was soft before and folded after",
+            "location of sewing material was in knitter's hands before and on the table after",
+            "shape of sewing material was spool before and thread after",
+            "position of knitter's hand turned by 90 degrees after the step",
+            "length of sewing material increased gradually throughout the step",
+            "size of rectangular form was 0 before and 5x8 after",
+            "position of rectangular form was nonexistent before and on the table after",
+            "shape of rectangular form was flat before and rectangular after",
+            "location of sewing equipment was in storage before and in knitter's hands after",
+            "position of knitter's hands was changed for sewing"
+        ],
+        [
+            "size of rectangular form remained the same throughout the step",
+            "position of rectangular form was on table before and in knitter's hands after",
+            "shape of rectangular form was flat before and tubular after",
+            "location of sewing equipment was in knitter's hands before and on table after",
+            "size of needle remained the same throughout the step",
+            "position of needle was in storage before and in knitter's hands after",
+            "shape of needle remained the same throughout the step",
+            "length of sewing material remained constant throughout the step",
+            "width of sewing material remained constant throughout the step",
+            "location of sewing material was on table before and in knitter's hands after",
+            "texture of sewing material was soft before and stretched after",
+            "position of knitter's hands was changed throughout the step",
+            "size of tube was narrower before and wider after",
+            "location of knitting equipment was in storage before and in knitter's hands after",
+            "position of knitting equipment was changed throughout the step",
+            "size of the hat was 0 before and hat-sized after"
+        ],
+        [
+            "shape of tube remained the same throughout the step",
+            "location of knitting equipment was in knitter's hands before and on table after",
+            "size of needle remained the same throughout the step",
+            "position of needle was in knitter's hands before and on table after",
+            "shape of needle remained the same throughout the step",
+            "length of yarn for the cord was 0 before and a particular length after",
+            "size of cord was narrow before and wider after",
+            "shape of cord was straight before and folded after",
+            "location of yarn was in knitting equipment before and in knitter's hands after",
+            "texture of yarn was soft before and stretched after",
+            "position of knitter's hands was changed throughout the step",
+            "length of strands of yarn was a particular length before and longer after",
+            "size of tassel was narrow before and wider after",
+            "location of yarn for the tassel was in knitting equipment before and in knitter's hands after",
+            "texture of yarn for tassel was soft before and stretched after",
+            "position of knitter's hands was changed throughout the step",
+            "shape of tassel was nonexistent before and tassel after"
+        ]
+    ],
+    "6": [
+        [
+            "location of sniper was in hand before and at ready position after",
+            "location of gun was pointed in direction before and at the person's head after",
+            "position of person was standing before and after being taken down",
+            "status of person was alive before and dead after",
+            "sound of gunshot was quiet before and loud after",
+            "location of bullet was in gun before and in person's head after"
+        ],
+        [
+            "location of shotgun was in hand before and at ready position after",
+            "location of gun was aimed in front of person before and at the person's head after",
+            "ammo of shotgun was loaded before and empty after",
+            "position of person was standing before and after being taken down",
+            "status of person was alive before and dead after",
+            "sound of gunshot was quiet before and loud after",
+            "location of bullet was in gun before and in person's head after"
+        ],
+        [
+            "location of pistol was in hand before and at ready position after",
+            "location of gun was aimed in front of person before and at the person's head after",
+            "ammo of pistol was loaded before and reduced by either 6 or 7 after",
+            "position of person was standing before and after being taken down",
+            "status of person was alive before and dead after",
+            "sound of gunshot was quiet before and loud after",
+            "location of bullet was in gun before and in person's head after"
+        ],
+        [
+            "location of boomshot was in hand before and at ready position after",
+            "location of gun was aimed in front of person before and at the person's head after",
+            "status of boomshot was loaded before and empty after",
+            "position of person was standing before and after being taken down",
+            "status of person was alive before and dead after",
+            "sound of explosive was quiet before and loud after",
+            "location of explosive was in boomshot before and in person's head after"
+        ]
+    ],
+    "7": [
+        [
+            "location of HDMI cord was in the package before and in person's hand after",
+            "cleanness of HDMI cord was clean before and dirty after",
+            "location of person was in front of TV before and behind TV after",
+            "location of HDMI port was empty before and connected to cable after",
+            "location of cable was on floor before and connected to the TV after",
+            "color of TV screen was black before and changed after",
+            "attribute_name of TV was off before and on after"
+        ],
+        [
+            "location of HDMI cord was in person's hand before and connected to the TV after",
+            "location of HDMI port was connected to cable before and connected to TV after",
+            "location of HDMI port on TV was unoccupied before and occupied after",
+            "location of cable was connected to TV before and on floor after",
+            "color of HDMI port was dark before and light after",
+            "frequency of input signal was unstable before and stable after"
+        ],
+        [
+            "location of HDMI cord was connected to the TV before and in person's hand after",
+            "location of AV Composite Output was empty before and connected to HDMI cord after",
+            "location of HDMI port on TV was occupied before and unoccupied after",
+            "location of person was behind the TV before and in front of Wii after",
+            "location of Composite cord was in the box before and on the shelf after",
+            "composite cord was not connected before and after this step",
+            "location of AV Composite Output on Wii was unoccupied before and occupied after",
+            "color of AV Composite Output was dark before and bright after",
+            "signal quality of AV Composite Output was unstable before and stable after"
+        ],
+        [
+            "location of HDMI cord was in person's hand before and connected to the converter after",
+            "location of converter was on the shelf before and in person's hand after",
+            "location of person was in front of the TV before and behind the TV after",
+            "location of converter's HDMI port was unoccupied before and connected to HDMI cord after",
+            "location of HDMI cord on TV was disconnected before and connected to converter after",
+            "color of output signal on converter was black before and changed after",
+            "attribute_name of converter was off before and turned on after",
+            "location of power cable was on the ground before and connected to the converter after",
+            "power input of converter was unoccupied before and connected to the power cable after",
+            "picture quality on TV was unrecognizable before and clear after."
+        ]
+    ],
+    "8": [
+        [
+            "dimension of towel was unfolded before and folded in thirds lengthwise afterwards",
+            "shape of towel was flat before and rectangular after",
+            "orientation of towel was arbitrary before and fixed in lengthwise after",
+            "location of towel was on bed before and on table after",
+            "edges of towel were mismatched before and aligned after"
+        ],
+        [
+            "dimension of towel was folded in thirds lengthwise before and folded in half lengthwise afterwards",
+            "axis of symmetry of towel was arbitrary before and down the middle after",
+            "location of towel was on table before and still on table after",
+            "dimension of towel was length x width before and length/2 x width/2 after",
+            "dimension of towel was folded in half lengthwise before and folded in half width-wise afterwards",
+            "shape of towel was rectangular before and square after",
+            "location of towel was on table before and still on table after",
+            "edges of towel were aligned before and still aligned after"
+        ],
+        [
+            "location of towel was on table before and in linen closet after",
+            "location of linen closet was closed before and open after",
+            "location of towel before folding was arbitrary, but it was probably in the linen closet before and out of the closet after",
+            "position of towel in the linen closet is at least slightly different before and after this step."
+        ],
+        [
+            "location of towel was in linen closet before and on the rack after",
+            "dimension of towel was length/2 x width/2 before and original length x width after",
+            "orientation of towel was fixed and symmetrical before and arbitrary after",
+            "location of towel rack was empty before and holding towel after"
+        ]
+    ],
+    "9": [
+        [
+            "existence of spy group was nonexistent before and existed after",
+            "number of spy group members was 0 before and between 2-5 after",
+            "location of spy group members was separate before and grouped together after",
+            "trustworthiness of spy group members was unknown before and trusted after"
+        ],
+        [
+            "location of spy gear was unknown before and has a designated place after",
+            "existence of meeting place was nonexistent before and existed after",
+            "location of meeting place was unknown before and now it's determined",
+            "privacy of conversation was impossible before and no worries about being overheard anymore",
+            "location of conversation topic was in public place before and private place after"
+        ],
+        [
+            "existence of spy gear was nonexistent before and existed after",
+            "locations of spy gear were unknown before and purchased/obtained after",
+            "knowledge of spy equipment was minimal before and sufficient after",
+            "possession of spy equipment was not owned before and owned after",
+            "awareness of spy equipment features was unknown before and understood after"
+        ],
+        [
+            "existence of victim was nonexistent before and existed after",
+            "identity of victim was unknown before and determined after",
+            "location of victim was unknown before and determined after",
+            "status of victim being spied on was free before and monitored after",
+            "spy group had no objective before and has a target now after"
+        ]
+    ],
+    "10": [
+        [
+            "possibility of winning fight was high before and low after",
+            "health of person was full before and decreased after",
+            "presence of weapons was absent before and needed after",
+            "energy of person was high before and low after"
+        ],
+        [
+            "possession of incendiary weapons was absent before and acquired after",
+            "possession of grenades was absent before and acquired after",
+            "possession of molotov cocktails was absent before and acquired after",
+            "health of the thug was full before and decreased after",
+            "health of person was full before and decreased after",
+            "energy of person was high before and low after",
+            "distance between thug and person was close before and far after",
+            "size of thug was big before and reduced after"
+        ],
+        [
+            "possession of guns was absent before and acquired after",
+            "possession of knives was present before and checked after",
+            "sharpness of knives was dull before and sharpened after",
+            "state of guns' ammo was empty before and full after"
+        ],
+        [
+            "health of thug was high before and decreased after",
+            "health of person was full before and decreased after",
+            "location of person was close to thug before and far after",
+            "energy of person was high before and low after",
+            "possession of weapons was used after"
+        ]
+    ],
+    "11": [
+        [
+            "location of rhubarb was in fridge before and in saucepan after",
+            "state of rhubarb was solid before and softened after",
+            "amount of rhubarb was more before and less after",
+            "amount of cloves was none before and some after",
+            "amount of sugar was less before and more after",
+            "state of sugar was solid before and dissolved after",
+            "location of sugar was in jar before and in saucepan after",
+            "temperature of saucepan was room temperature before and warm after",
+            "state of water was liquid before and boiling after",
+            "amount of water was more before and less after",
+            "location of cloves was in cabinet before and in saucepan after",
+            "container of saucepan had nothing before and contents after",
+            "cleanness of saucepan was clean before and dirty after."
+        ],
+        [
+            "state of rhubarb was being softened before and softened after",
+            "location of saucepan was on stove before and on stove after",
+            "state of stove was off before and on after",
+            "time of simmer was small before and large after",
+            "temperature of saucepan was warm before and hot after."
+        ],
+        [
+            "state of stove was on before and off after",
+            "location of saucepan was on stove before and on trivet after",
+            "cleanness of trivet was clean before and dirty after."
+        ],
+        [
+            "amount of mint leaves was none before and some after",
+            "location of mint leaves was in refrigerator before and on countertop after",
+            "location of mint leaves was on countertop before and in cordial after."
+        ]
+    ],
+    "12": [
+        [
+            "game mode was in main menu before and in VS Duel mode after",
+            "players attribute of game was 1 before and 2 after",
+            "difficulty level was easy before and unchanged after",
+            "opponent choice was CPU before and person's choice after",
+            "locations of controller were 1 in bag before and in 2 person's hands after",
+            "state of controllers was off before and on after",
+            "characters attribute of game was default before and showing all available characters to choose from after"
+        ],
+        [
+            "location of selection was in available characters screen before and on Goku after",
+            "state of selected character was not selected before and selected after",
+            "player attribute of character was none before and player 1 after",
+            "location of selection was in available characters screen before and on Goku after",
+            "state of selected character was not selected before and selected after",
+            "player attribute of character was none before and player 2 after"
+        ],
+        [
+            "location of selection was on screen before and on Mountain Road after",
+            "state of selected stage was not selected before and selected after",
+            "attributes of stage such as terrain, music, scenery were default before and matching Mountain Road after",
+            "confirmation of stage selection was no before and yes after",
+            "background music attribute of game was default before and matching Mountain Road after"
+        ],
+        [
+            "location of player one was in middle of screen before and against Mountain Road wall after",
+            "location of player two was in middle of screen before and against Mountain Road wall after",
+            "direction of character of player one was in default direction before and facing player two after",
+            "direction of character of player two was in default direction before and facing player one after",
+            "distance between players was far in the middle of screen before and close against opposite walls after",
+            "views of both players were switched from showing both to just showing themselves after"
+        ]
+    ],
+    "13": [
+        [
+            "volume of cocoa powder was in container before and in bowl after",
+            "location of cocoa powder container was in cabinet before and on counter after",
+            "volume of sugar was in container before and in bowl after",
+            "location of sugar container was in cabinet before and on counter after",
+            "volume of hot water was none before and in bowl after",
+            "temperature of hot water was cold before and hot after",
+            "mixing of cocoa, sugar, and hot water produced a mixture before and after",
+            "state of mixture was dry before and wet after",
+            "location of bowl was on counter after",
+            "location of spoon was in drawer before and in bowl after"
+        ],
+        [
+            "location of mixture was in bowl before and in slow cooker after",
+            "temperature of slow cooker was cool before and warm after",
+            "state of slow cooker was empty before and full after",
+            "location of slow cooker was on counter before and in plug after",
+            "setting of slow cooker was off before and on after",
+            "volume of milk was in container before and added to the slow cooker after",
+            "location of milk container was in fridge before and on counter after",
+            "volume of vanilla extract was in bottle before and added to the slow cooker after",
+            "location of vanilla extract was in pantry before and on counter after",
+            "volume of salt was in container before and added to the slow cooker after",
+            "location of salt container was in pantry before and on counter after",
+            "splash of cream added to slow cooker",
+            "location of cream was in fridge before and poured into slow cooker after."
+        ],
+        [
+            "setting of slow cooker was on low before and after",
+            "time on slow cooker was set to 0 before and 3 hours after",
+            "temperature of the mixture was cool before and hot after",
+            "consistency of the mixture was dry before and moist after",
+            "location of the slow cooker was on the counter before and in the same location after",
+            "state of the milk in the mixture was uncooked before and cooked after"
+        ],
+        [
+            "setting of slow cooker was on low before and changed to \"Keep Warm\" after",
+            "volume of hot chocolate was in the slow cooker before and in the person's cup after",
+            "location of cup was in cabinet before and on the counter after",
+            "temperature of hot chocolate was hot before and after",
+            "location of slow cooker was on the counter before and in the same location after"
+        ]
+    ],
+    "14": [
+        [
+            "location of plant was in storage before and pot/yard after",
+            "location of pot was in storage before and ground after",
+            "location of soil was in bag before and in pot after",
+            "weight of soil was light before and heavy after",
+            "location of gardening gloves was on table before and on hand after",
+            "state of soil was loose before and compacted after",
+            "dryness of soil was dry before and moist after",
+            "cleanliness of pot was dirty before and clean after",
+            "temperature of pot was room temperature before and ambient temperature after",
+            "container of water was empty before and full after",
+            "location of watering can was on the shelf before and in hand after"
+        ],
+        [
+            "location of scissors was in drawer before and in hand after",
+            "length of stem of clipping was attached to main plant before and detached after",
+            "location of clipping was on bush before and in hand after",
+            "state of clipping was healthy before and damaged after",
+            "location of leaves were on plant before and removed after",
+            "location of thorns were on plant before and removed after",
+            "length of clipping was long before and short after",
+            "number of clippings was none before and one after",
+            "weight of clipping was light before and heavy after",
+            "location of plant was in pot/yard before and in hand after"
+        ],
+        [
+            "moisture of clipping was dry before and moistened after",
+            "location of rooting hormone was on table before and on hand after",
+            "weight of rooting hormone was light before and heavy after",
+            "coating of hormone on stem was none before and present after",
+            "length of stem was long before and short after",
+            "location of plant was in hand before and in pot/yard after."
+        ],
+        [
+            "location of plant was in hand before and in soil after",
+            "location of clipping was in hand before and in soil after",
+            "state of clipping was damaged before and planted after",
+            "composition of soil was dry before and covering roots after",
+            "weight of pot/soil was lighter before and heavier after",
+            "depth of plant in soil was shallow before and deep after",
+            "dryness of soil was moist before and wet after",
+            "location of plant was in hand before and back in pot/yard after"
+        ]
+    ],
+    "15": [
+        [
+            "presence of a Vulpix was absent before and present after."
+        ],
+        [
+            "presence of fire stone was absent before and present after",
+            "location of fire stone was not known before and known after"
+        ],
+        [
+            "location of fire stone was in bag before and in hand after",
+            "location of bag was in inventory before and in hand after",
+            "weight of bag was lighter before and heavier after",
+            "volume of bag was smaller before and bigger after"
+        ],
+        [
+            "presence of evolution animation was absent before and present after",
+            "appearance of Vulpix changed from previous form to Ninetails after"
+        ]
+    ],
+    "16": [
+        [
+            "state of lemon was whole before, and cut in half after",
+            "location of knife was on table before, and in person's hand after",
+            "state of knife was not used before, and used after",
+            "location of lemon was on the counter before, and in person's hand after."
+        ],
+        [
+            "composition of lemon was whole before, and its juice extracted after",
+            "location of utensil was in person's hand before, and on table after",
+            "location of lemon was in person's hand before, and on table after",
+            "weight of lemon was heavier before, and lighter after."
+        ],
+        [
+            "location of lemon was on table before, and on faucet after",
+            "cleanness of faucet was dirty before, and clean after",
+            "wetness of faucet was dry before, and wet after",
+            "state of lemon was whole before, and squeezed after."
+        ],
+        [
+            "location of dish soap was on counter before, and on faucet after",
+            "location of sponge was on the counter before, and in person's hand after",
+            "power of water was off before, and on after",
+            "cleanness of the faucet was dirty before, and clean after",
+            "wetness of the faucet was wet before, and dry after",
+            "state of sponge was dry before, and saturated with water and soap after"
+        ]
+    ],
+    "17": [
+        [
+            "location of meat was in the fridge before and in frying pan after",
+            "temperature of meat was cold before and warmed after",
+            "state of meat was raw before and cooked after",
+            "location of onion was in the cupboard before and in frying pan after",
+            "state of onion was raw before and cooked after",
+            "wetness of frying pan was dry before and wet after",
+            "power of stove was off before and on after",
+            "location of frying pan was in cabinet before and on stove after",
+            "cleanness of frying pan was clean before and dirty after"
+        ],
+        [
+            "quantity of fat was a lot before and less after",
+            "location of fat was in the frying pan before and in the trash can after",
+            "state of meat was wet before and dry after"
+        ],
+        [
+            "quantity of remaining ingredients was separated before and mixed after",
+            "location of remaining ingredients was in the fridge before and in frying pan after",
+            "wetness of remaining ingredients was dry before and wet after",
+            "state of mixture was uncooked before and cooked after",
+            "temperature of mixture was cold before and hot after",
+            "power of stove was on low before and on low after",
+            "time was 0 before and 15 minutes after"
+        ],
+        [
+            "There are no changes that occur at this step as it represents the end of the procedure."
+        ]
+    ],
+    "18": [
+        [
+            "existence of eraser was absent before and present after",
+            "size of eraser was unknown before and decent after",
+            "comfort level was uncomfortable before and comfortable after",
+            "location of eraser was in store before and in person's hand after",
+            "cost of eraser was free before and price paid after if applicable."
+        ],
+        [
+            "position of person was standing before and kneeling on the floor after",
+            "location of eraser was in person's hand before and rubbed against the floor after",
+            "existence of skid mark was present before and absent after",
+            "appearance of floor was dirty before and clean after",
+            "color of floor was stained before and unstained after",
+            "texture of floor was rough before and smooth after",
+            "sound of process was silent before and rubbing sound after."
+        ],
+        [
+            "existence of black mark was present before and absent after",
+            "pressure of rubbing was light before and heavy after",
+            "existence of eraser was present before and worn after",
+            "size of black mark was large before and small after",
+            "cleanliness of floor was dirty before and clean after",
+            "tiredness of person was not tired before and tired after."
+        ],
+        [
+            "existence of water was absent before and present after",
+            "location of water was in sink before and on floor after",
+            "temperature of water was cold before and warm after",
+            "location of linoleum was on floor before and wet after",
+            "location of towel was in cabinet before and in person's hand after",
+            "dryness of linoleum was wet before and dry after",
+            "sound of process was silent before and sound of water and wiping after"
+        ]
+    ],
+    "19": [
+        [
+            "game characters was Princess Leia and Captain Antilles before and active in-game after",
+            "location of game was in menu before and in-game after",
+            "location of game characters was absent before and in cantina after."
+        ],
+        [
+            "focus of control was in Princess Leia before and on selection arrows after",
+            "orientation of selection in Princess Leia was default before and on hat, then head, then shirt, etc. after",
+            "focus of control was halting before and active when selecting parts after",
+            "identity of selected part was absent before and selected (hat, head, shirt, arms, hands, weapon, belt, or legs) after",
+            "orientation of selection of chosen part was default before and changed after",
+            "orientation of Princess Leia was previously unaltered and now fitting to the new part."
+        ],
+        [
+            "focus of control was selecting the part before and on \"Triangle\" after",
+            "name of part was absent before and given after",
+            "focus of control was on the \"O\" button before, and on the \"Save\" button after",
+            "completion of part making was unfinished before and finished after",
+            "location of character was absent before and in-game after."
+        ],
+        [
+            "location of game was cantina before and in a level after",
+            "level type was off previously and on free play after",
+            "location of characters was absent before and active in-game after"
+        ]
+    ],
+    "20": [
+        [
+            "composition of cream cheese was solid before and blended after",
+            "texture of marshmallow cream was sticky before and creamy after",
+            "composition of marshmallow cream was solid before and blended after",
+            "amount of cream cheese was full before and reduced after",
+            "amount of marshmallow cream was full before and reduced after",
+            "weight of mixture was lighter before and heavier after",
+            "state of mixture was separated before and combined after",
+            "location of mixture was in blender before and in bowl after"
+        ],
+        [
+            "location of mixture was in blender bowl before and in clean bowl after",
+            "cleanness of bowl was dirty before and clean after",
+            "location of bowl was in dishwasher before and on table after"
+        ],
+        [
+            "location of bowl was on table before and in person's hand after",
+            "location of fruits was in fridge before and on plate after",
+            "location of plate was in cupboard before and on counter after",
+            "weight of plate was lighter before and heavier after",
+            "number of fruits was full before and reduced after",
+            "presence of dip was absent before and present after on the plate",
+            "volume of dip was in bowl before and not in bowl after."
+        ],
+        [
+            "There are no changes in this step as the procedure has been completed."
+        ]
+    ],
+    "21": [
+        [
+            "This step doesn't result in any state change."
+        ],
+        [
+            "location of clothing was in hiker's bag before and in washing machine after",
+            "cleanness of washing machine was dirty before and clean after",
+            "power of washing machine was off before and on after",
+            "location of washing machine was idle before and washing clothing after",
+            "composition of clothing was dirty/oily before and clean after",
+            "location of detergent was on shelf before and in washing machine after",
+            "water level of washing machine was low before and high after",
+            "water temperature of washing machine was cold before and warm after"
+        ],
+        [
+            "This step does not result in any state change."
+        ],
+        [
+            "location of jacket was in hiker's bag before and in washing machine after",
+            "composition of jacket was dirty/oily before and clean after",
+            "location of detergent was on shelf before and in washing machine after",
+            "water level of washing machine was low before and high after",
+            "water temperature of washing machine was cold before and warm after",
+            "location of down jacket was in washing machine before and on clothing rack after"
+        ],
+        [
+            "location of polar fleece was in hiker's bag before and in washing machine after",
+            "composition of polar fleece was dirty/oily before and clean after",
+            "location of detergent was on shelf before and in washing machine after",
+            "water level of washing machine was low before and high after",
+            "water temperature of washing machine was cold before and warm after"
+        ]
+    ],
+    "22": [
+        [
+            "position of person was standing on the ground before and straddling bike after",
+            "location of bike was on the ground before and in front of person after",
+            "location of person was near the bike before and on the bike after",
+            "position of leg was on the ground before and over shaft of bike after",
+            "balance of person was balanced on two feet before and balanced on one pedal after",
+            "position of foot was on the ground before and on the pedal after",
+            "speed of bike was stationary before and moving after"
+        ],
+        [
+            "position of foot was on the ground before and on the pedal after",
+            "balance of person was on one pedal before and split between two pedals after",
+            "speed of bike was moving before and maintained after"
+        ],
+        [
+            "position of hands were hanging beside the person before and grasping the handlebars after",
+            "balance of person was split between two pedals before and on pedals with handlebars support after",
+            "direction of bike was not controlled before and straight path after"
+        ],
+        [
+            "balance of person was on pedals with handlebars support before and on pedals with weight center and even after",
+            "position of feet were touching the pedals before and peddling after",
+            "speed of bike was maintained before and increased after",
+            "direction of bike was straight path before and changeable after"
+        ],
+        [
+            "speed of bike was moving before and stopped after",
+            "position of person was on pedals with weight center and even before and standing with weight center even after",
+            "position of feet were peddling before, and step on the ground after",
+            "direction of bike was changeable before and not changeable after."
+        ]
+    ],
+    "23": [
+        [
+            "availability of solid platform was not present before and present after",
+            "location of person was on land before and on solid platform after",
+            "location of boat was in water before and near solid platform after",
+            "distance of boat from land was far before and near after",
+            "wetness of person's feet was dry before and wet after",
+            "distance of person from boat was far before and near after",
+            "accessibility of boat was difficult before and easy after",
+            "chance of slipping was high before and low after",
+            "safety of person was low before and high after"
+        ],
+        [
+            "location of person was on solid platform before, during, and after",
+            "location of boat was in water before, during, and after",
+            "accessibility of boat was difficult before and easy after",
+            "chance of slipping was high before and low after",
+            "safety of person was low before and high after",
+            "grip of person on rails was unavailable before and present after"
+        ],
+        [
+            "location of person was on solid platform before and after",
+            "location of boat was in water before and after",
+            "stability of person was stable before and unstable after",
+            "location of left leg was on the jetty before and on the boat after",
+            "location of right leg was on the jetty before and on the boat after",
+            "balance of person was balanced before and unbalanced after",
+            "wetness of person's clothes was dry before and wet after",
+            "safety of person was low before and high after"
+        ],
+        [
+            "location of person was in solid platform before and in boat after",
+            "availability of center line was not applicable before and present after",
+            "location of person was at normal height before and in crouch position after",
+            "balance of person was unstable before and stable after",
+            "stability of boat was unstable before and stable after",
+            "location of person in boat was in the center before, during, and after",
+            "accessibility of person to move around boat was easy before, during, and after",
+            "probability of falling was high before and low after",
+            "safety of person was low before and high after"
+        ],
+        [
+            "location of person was in boat before, during, and after",
+            "balance of person was stable before, during, and after",
+            "stability of boat was stable before, during, and after",
+            "accessibility of person to move around boat was easy before and after",
+            "accessibility of other people to board was difficult before and easy after",
+            "weight of boat was lighter before others boarded and heavier after",
+            "location of other people was on land before and in boat after",
+            "balance of boat was unbalanced before and balanced after",
+            "stability of boat was unstable before and stable after",
+            "safety of people was not applicable before and high after"
+        ]
+    ],
+    "24": [
+        [
+            "location of yogurt was in fridge before and in blender after",
+            "container of yogurt was sealed before and open after",
+            "location of bananas was in basket before and in blender after",
+            "container of bananas was open before and empty after",
+            "state of bananas was solid before and pureed after",
+            "location of sorbet was in freezer before and in blender after",
+            "container of sorbet was sealed before and open after",
+            "weight of sorbet was solid before and softer after",
+            "state of sorbet was frozen before and blendable after",
+            "weight of blender was lighter before and heavier after",
+            "wetness of blender blades was dry before and wet after"
+        ],
+        [
+            "composition of mixture was solid and separated before and blended and smooth after",
+            "speed of blender was off before and on high after",
+            "sound of blender was quiet before and loud after",
+            "temperature of contents was cold before and warm after"
+        ],
+        [
+            "location of rum was on counter before and in blender after",
+            "state of rum was liquid before and mixed after",
+            "composition of mixture was blended before and blended with rum after",
+            "volume of mixture was less before and more after",
+            "speed of blender was on high before and on high after"
+        ],
+        [
+            "location of smoothie was in blender before and in glasses after",
+            "composition of smoothie was blended before and blended in glass after",
+            "wetness of glasses was dry before and wet with smoothie after",
+            "location of smoothie glasses was in freezer before and on table after",
+            "container of smoothie was blender before and glasses after",
+            "volume of glasses was empty before and full of smoothie after"
+        ],
+        [
+            "location of strawberries was on the counter before and on the glasses after",
+            "state of strawberries was untouched before and decorated after",
+            "weight of strawberries was lighter before and heavier after",
+            "location of strawberry basket was on the counter before and in the fridge after"
+        ]
+    ],
+    "25": [
+        [
+            "location of paper was in the stack before and in the person's hand after",
+            "texture of paper was smooth before and uneven after",
+            "color of paper was blank before and colored after",
+            "size of paper was larger than preferred before and trimmed after"
+        ],
+        [
+            "shape of paper was flat before and folded after",
+            "number of paper sheets were multiple before and singular after",
+            "edges of paper were straight before and curved after",
+            "size of paper was larger before and smaller after",
+            "composition of paper was flat before and forming a pinwheel after",
+            "number of pinwheels was zero before and more after"
+        ],
+        [
+            "location of base was in storage before and in person's hand after",
+            "type of base was unspecified before and specified after",
+            "shape of base was irregular before and circular after",
+            "material of base was unspecified before and identified after",
+            "location of base was in person's hand after and on table after"
+        ],
+        [
+            "presence of hanger was absent before and created after",
+            "type of hanger was unspecified before and decided after",
+            "location of twine/ribbon was in storage before and in person's hand after",
+            "size of twine/ribbon was large before and cut down to size after",
+            "composition of twine/ribbon was flat before and formed a loop after",
+            "position of twine/ribbon was separate before and attached after"
+        ],
+        [
+            "There are no state changes in this step to report as the procedure has been completed."
+        ]
+    ],
+    "26": [
+        [
+            "shape of wire hanger was straight before and circular after",
+            "length of wire hanger was long before and shorter after",
+            "location of pliers was on table before and in person's hand after",
+            "composition of wire hanger was solid before and bendable after",
+            "angle of wire hanger was straight before and curved after"
+        ],
+        [
+            "location of wax paper was in package before and on table after",
+            "ripeness of wax paper was intact before and crumpled after",
+            "size of wax paper was large before and small after",
+            "number of wax paper squares was 0 before and 4 after",
+            "location of wire hanger was in person's hand before and threaded through paper squares after",
+            "material of wire hanger was metallic before and mixed with wax or crepe paper after"
+        ],
+        [
+            "location of wax or crepe paper was on wire hanger before and wrapped around it after",
+            "composition of wire hanger was mixed with paper before and wrapped around paper after",
+            "number of paper squares was 4 before and more than 4 after",
+            "composition of wreath was mixed with paper squares before and solid after",
+            "location of pliers was on table before and in person's hand after",
+            "power of pliers was off before and on after",
+            "angle of wire hanger was straight before and twisted after"
+        ],
+        [
+            "location of paper squares was wrapped around wire hanger before and sliding towards ends after",
+            "level of fullness of paper squares was moderate before and more after",
+            "composition of wreath was solid before and became more voluminous after",
+            "location of wire hanger was on table before and in person's hand after",
+            "shape of wire hanger was circular before and scrunched after"
+        ],
+        [
+            "No state changes to report as the procedure is now complete."
+        ]
+    ],
+    "27": [
+        [
+            "location of potato was on counter before and in water after",
+            "cleanliness of potato was dirty before and clean after",
+            "wetness of potato was dry before and wet after"
+        ],
+        [
+            "location of potato was on cutting board before and still in cutting board after",
+            "shape of potato was whole before and ribbon after",
+            "state of potato was raw before and raw after",
+            "length of potato was whole before and shorter after",
+            "thickness of peel was thick before and thin after",
+            "location of cut potato was on cutting board before and in bowl after",
+            "composition of potato was whole before and cut after",
+            "shape of cut potato was round before and ribbon after",
+            "length of cut potato was longer before and shorter after",
+            "location of bowl was empty before and full of potato ribbons after"
+        ],
+        [
+            "location of potato ribbons was in bowl before and on clean cloth after",
+            "wetness of potato ribbons was wet before and dry after",
+            "location of clean cloth was on counter before and wet with potato water after",
+            "wetness of clean cloth was dry before and wet with potato water after"
+        ],
+        [
+            "location of potato ribbons was on plate before and in hot fat after",
+            "wetness of potato ribbons was dry before and oily after",
+            "color of potato ribbons was light before and golden brown after",
+            "state of potato ribbons was raw before and cooked after",
+            "temperature of fat was cold before and hot after",
+            "location of frying pan was on stove before and on stove after",
+            "composition of frying pan was empty before and filled with potato ribbons after",
+            "sound of frying pan was quiet before and sizzling after",
+            "weight of frying pan was light before and heavy after",
+            "shape of potato ribbons was ribbon before and curly after",
+            "location of fat was in pan before and still in pan after"
+        ],
+        [
+            "location of potato ribbons was in frying pan before and on plate after",
+            "location of plate was on counter before and in person's hands after",
+            "composition of plate was empty before and filled with potato ribbons after",
+            "person's hunger was hungry before and satisfied after."
+        ]
+    ],
+    "28": [
+        [
+            "I must clarify that obtaining fizzy drink is not a step required in opening a rusty bolt. To provide accurate answers, could you please give me the first step of the procedure?"
+        ],
+        [
+            "I must clarify that pouring fizzy drink over the bolt is not an effective way of opening a rusty bolt. Please provide me with a valid procedure so I can provide accurate answers."
+        ],
+        [
+            "dirty_state of bolt was dirty before and clean after",
+            "wetness of bolt was wet before and dry after",
+            "location of kitchen towel was on table before and in hand after",
+            "location of bolt was in place before and in hand after"
+        ],
+        [
+            "I must clarify that pouring fizzy drink over the bolt is not a reliable or effective method of dissolving rust. To provide accurate answers, could you please give me a valid procedure so I can provide the state changes of entities and attributes?"
+        ],
+        [
+            "location of new bolt was on the table before and in place after",
+            "size of new bolt was same as old bolt before and after",
+            "condition of new bolt was new before and unused after",
+            "location of tools was on the table before and in hand after",
+            "condition of tools was unused before and used after"
+        ]
+    ],
+    "29": [
+        [
+            "temperature of oven was cold before and heated to 400\u00b0F after."
+        ],
+        [
+            "location of olive oil was on bottle before and in tin after",
+            "location of baking tin was in cabinet before and on counter after",
+            "volume of olive oil was full before and partly empty after",
+            "weight of tin was lighter before and heavier after."
+        ],
+        [
+            "length of asparagus spears was longer before and shorter after",
+            "shape of asparagus tips was uneven before and flat after",
+            "length of Serrano ham was long before and short after",
+            "location of Serrano ham was in package before and wrapped around asparagus after",
+            "portion size of asparagus spears was larger before and smaller after",
+            "location of asparagus spears was on cutting board before and in tin after",
+            "coveredness of asparagus spear was uncovered before and covered after",
+            "composition of dish was only asparagus before and asparagus and Serrano ham after."
+        ],
+        [
+            "location of tin was on counter before and in oven after.",
+            "temperature of tin was room temperature before and hot after",
+            "composition of dish was asparagus and Serrano ham before and cooked after."
+        ],
+        [
+            "location of tin was in oven before and on counter after",
+            "dish was separate from other dishes before and placed beside them after",
+            "temperature of dish was hot before and cooling down after",
+            "location of dish was in tin before and on plate after",
+            "location of plate was in cabinet before and on counter after."
+        ]
+    ],
+    "30": [
+        [
+            "location of vinegar was in bottle before and in container after",
+            "volume of vinegar container was full before and partially empty after",
+            "cleanness of the container was dirty before and clean after",
+            "location of container was in the dishwasher before and on the counter after",
+            "composition of the container was empty before and filled with vinegar after"
+        ],
+        [
+            "composition of the lamp/stove was containing a wick before and without a wick after",
+            "location of the wick was on the lamp/stove before and in the hand after",
+            "position of the wick was inserted before and removed after",
+            "location of the lamp/stove was on the table before and on the table after"
+        ],
+        [
+            "position of wick was outside the vinegar before and inside vinegar after",
+            "volume of vinegar container was partially empty before and more empty after",
+            "location of vinegar container was on the counter before and on the counter after",
+            "wetness of the wick was dry before and wet after",
+            "position of the wick was lifted before and dipped after."
+        ],
+        [
+            "position of the wick was wet before and dry after",
+            "location of the wick was on the table before and on the table after",
+            "speed of drying was slow before and fast after"
+        ],
+        [
+            "usability of wick was not guaranteed before and guaranteed after",
+            "position of wick was on the table before and on the lamp/stove after",
+            "presence of lamp/stove was present before and present after"
+        ]
+    ],
+    "31": [
+        [
+            "location of studio was empty before and occupied after",
+            "presence of space on the floor was full before and empty after",
+            "size of studio was small before and larger after",
+            "availability of light was insufficient before and adjusted after",
+            "cleanness of studio was dirty before and clean after",
+            "availability of power was off before and on after",
+            "availability of tools was insufficient before and complete after",
+            "noise level of setting was high before and reduced after"
+        ],
+        [
+            "existence of reflectors was zero before and present after",
+            "size of reflectors was inappropriate before and appropriate after",
+            "location of reflectors was unknown before and found after",
+            "availability of light was insufficient before and adjusted after"
+        ],
+        [
+            "existence of closeup lens was zero before and present after",
+            "availability of tools was incomplete before and complete after",
+            "location of lens was unknown before and found after",
+            "quality of image was poor before and improved after"
+        ],
+        [
+            "existence of diffuser was zero before and present after",
+            "size of diffuser was small before and larger after",
+            "location of diffuser was unknown before and found after",
+            "availability of light was insufficient before and adjusted after",
+            "quality of image was harsh before and diffused after"
+        ],
+        [
+            "existence of experience was nil before and done after",
+            "understanding of photography was incomplete before and improved after",
+            "creativity level was low before and enhanced after",
+            "skill level was low before and improved after",
+            "accuracy level was low before and improved after",
+            "confidence level was low before and increased after"
+        ]
+    ],
+    "32": [
+        [
+            "physical state of Velveeta was whole before and cut into tiny squares after",
+            "location of Velveeta was in the fridge before and on the counter after",
+            "shape of Velveeta was rectangular before and square-ish after",
+            "location of knife was in the drawer before and in person's hand after",
+            "physical state of knife was sharp before and sharp after"
+        ],
+        [
+            "position of burner knob was off before and on after",
+            "setting of burner was off before and at medium to low after",
+            "location of cheese was on the counter before and in the pan after",
+            "composition of cheese was solid before and melted after",
+            "location of pan was in the cabinet before and on the stove after",
+            "temperature of pan was at room temperature before and hot after",
+            "position of pan was off the stove before and on the stove after",
+            "weight of pan was lighter before and heavier after",
+            "wetness of pan was dry before and wet after"
+        ],
+        [
+            "composition of cheese was melted before and still melted after",
+            "temperature of cheese was hot before and still hot after",
+            "position of burner knob was at medium to low before and low after",
+            "location of tomatoes was in can before and in mixture after",
+            "container of tomatoes was closed before and opened after",
+            "sound of can opening was unopened before and opened after",
+            "location of pan was on the stove before and on the stove after",
+            "temperature of pan was hot before and still hot after",
+            "composition of mixture was cheese only before and cheese with tomatoes after",
+            "location of can opener was in drawer before and on counter after"
+        ],
+        [
+            "location of jalapeno peppers was in the jar before and in mixture after",
+            "container of jalapeno peppers was closed before and opened after",
+            "location of olives was in the can before and in mixture after",
+            "container of olives was closed before and opened after",
+            "sound of can opening was unopened before and opened after",
+            "location of mixture was in pan before and in pan after",
+            "composition of mixture was cheese and tomatoes before and cheese, tomatoes, jalapeno peppers and olives after",
+            "location of jar opener was in drawer before and on counter after"
+        ],
+        [
+            "temperature of cheese sauce was warm before and still warm after",
+            "location of cheese sauce was in pan before and on plate after",
+            "location of plate was in cabinet before and on the counter after",
+            "temperature of plate was at room temperature before and warm after",
+            "position of burner knob was at low before and off after",
+            "setting of burner was at low before and off after"
+        ]
+    ],
+    "33": [
+        [
+            "I'm sorry, but it is difficult for me to provide state changes for this step as it is unclear what the person is supposed to do. Can you provide the specific name of the pre-evolution Pok\u00e9mon?"
+        ],
+        [
+            "behavior of Wailmer was untrained before and trained after",
+            "attitude of person was impatient before and patient after"
+        ],
+        [
+            "behavior of Wailmer was unevolved before and evolved after",
+            "location of Wailmer was in party before and in box after"
+        ],
+        [
+            "location of person was outside battle frontier before and inside battle frontier after",
+            "ownership of rare candies was not owned before and owned after",
+            "number of rare candies was 0 before and increased after",
+            "location of person was inside battle frontier before and outside after"
+        ],
+        [
+            "number of rare candies in inventory decreased before and after",
+            "behavior of Wailmer was evolved before and Wailord after",
+            "location of Wailmer was in party before and in box after"
+        ]
+    ],
+    "34": [
+        [
+            "location of player was away from the bombsite before and moving towards it after",
+            "location of enemies was unknown before and discovered after",
+            "location of cover was unchosen before and selected after",
+            "distance of player from the bomb site was far before and close after",
+            "fatigue of player was low before and high after",
+            "level of excitement of player was low before and high after",
+            "time left in the game was long before and short after",
+            "level of danger was relatively low before and high after",
+            "type of weapon used might change depending on player's preference and other factors."
+        ],
+        [
+            "location of player was at an open spot before and at a hiding spot after",
+            "visibility of player by enemies was high before and low after",
+            "noise level of player was high before and low after",
+            "weapon in use changed from primary to pistol",
+            "focus of player was on surroundings before and on bomb site after",
+            "level of danger was high before and even higher after"
+        ],
+        [
+            "location of player was near the hiding spot before and moving to investigate after",
+            "location of enemies was unknown before and discovered while investigating",
+            "time left in game was short before and becoming shorter after",
+            "level of anxiety of player was high before and even higher after",
+            "location of cover was unchosen before and potentially found while investigating",
+            "fatigue of player was high before and increasing after",
+            "height of player became lower while investigating",
+            "speed of player decreased while investigating",
+            "noise level of player decreased while investigating"
+        ],
+        [
+            "action of player changed from investigating to waiting",
+            "location of player was near the bomb site before and near a hiding spot after",
+            "visibility of player to enemies decreased while hiding",
+            "noise level of player decreased while hiding",
+            "level of suspense of player was high before and intensifying after",
+            "time left in game was short before and even shorter after",
+            "level of danger was high before and increasing after"
+        ],
+        [
+            "action of player changed from waiting to defusing",
+            "location of player was near the bomb site before and at the bomb site after",
+            "location of enemies was known before and potentially lurking to attack after",
+            "visibility of player to enemies increased while near the bomb site",
+            "noise level of player increased while defusing",
+            "level of urgency of player was high before and even higher after",
+            "progress towards defusing the bomb increased",
+            "time left in game is short before and decreasing rapidly after"
+        ]
+    ],
+    "35": [
+        [
+            "location of paint was in store before and in person's hand after",
+            "type of paint was unknown before and oil based after",
+            "drying time of paint was unknown before and slow-drying after."
+        ],
+        [
+            "thickness of under-coat was thin before and thicker after",
+            "smoothness of surface was rough before and smooth after",
+            "motion of paintbrush was unknown before and downwards after",
+            "direction of paintbrush was unknown before and vertical after",
+            "location of paintbrush was in can before and on wood after",
+            "composition of paint was on top of each other before and on wood after"
+        ],
+        [
+            "thickness of second coat was thinner before and thicker after",
+            "presence of bubbles on surface was absent before and appearing after",
+            "drying time of paint was slow before and active after",
+            "location of paintbrush was on wood before and in can after",
+            "texture of surface was uneven before and smooth after",
+            "composition of paint was on top of the under-coat before and on top of the previous coat after"
+        ],
+        [
+            "I'm sorry, but that step is not clear enough for me to provide any specific answers. Could you please provide me with more details?"
+        ],
+        [
+            "I'm sorry, but that step is too vague to provide any specific answers. Could you please provide me with the details of the last step of the procedure?"
+        ]
+    ],
+    "36": [
+        [
+            "composition of mix was separated before and mixed together after",
+            "weight of mixture was lighter before and heavier after",
+            "temperature of mixture was room temp before and same after",
+            "consistency of mixture was powdery before and even after",
+            "location of mixture was in container before and in same container after",
+            "cleanness of container was clean before and dirty after",
+            "location of container was on table before and on same table after",
+            "dryness of ingredients was dry before and mixed after"
+        ],
+        [
+            "location of mix was in container before and in air-tight container with lid after",
+            "location of container was on top of table before and in pantry after",
+            "container of container was empty before and full after",
+            "weight of container was lighter before and heavier after",
+            "wetness of container was dry before and wet after",
+            "power of lid was off before and on after"
+        ],
+        [
+            "This step does not involve any state changes in entities or attributes. It only describes the possible uses of the seasoned salt."
+        ],
+        [
+            "size of ingredients was unground before and ground after",
+            "consistency of ingredients was uneven before and consistent after",
+            "weight of ingredients was heavier before and lighter after",
+            "location of ingredients was in pantry before and in mortar after",
+            "location of mortar was on table before and on table after",
+            "composition of mixture was unground before and ground after",
+            "location of mixture was in mortar before and in air-tight container after",
+            "inconsistency of ingredients was large before and small after",
+            "size of grind was large before and ground to a fine texture after",
+            "composition of mortar was empty before and full after",
+            "wetness of ingredients was dry before and oilier after"
+        ],
+        [
+            "location of seasoned salt was in air-tight container before and in storage container after",
+            "location of storage container was on top of pantry before and in pantry after",
+            "container of container was full before and outside container empty after",
+            "power of lid was on before and off after"
+        ]
+    ],
+    "37": [
+        [
+            "location of equipment was in storage before and on the ground after",
+            "location of person was away before and near equipment after",
+            "position of equipment was disorganized before and arranged in a pattern after"
+        ],
+        [
+            "location of rucksack was on the ground before and in person's hand after",
+            "visibility of rucksack was visible before and hidden after",
+            "color of rucksack was bright before and changed to blend in with surroundings after",
+            "texture of rucksack was distinct before and changed to blend in with surroundings after",
+            "shape of rucksack was recognizable before and changed to blend in with surroundings after",
+            "location of person was standing before and near the bag after"
+        ],
+        [
+            "location of helmet was on the ground before and in person's hand after",
+            "visibility of helmet was visible before and hidden after",
+            "color of helmet was bright before and changed to blend in with surroundings after",
+            "texture of helmet was distinct before and changed to blend in with surroundings after",
+            "shape of helmet was recognizable before and changed to blend in with surroundings after",
+            "location of person was standing before and near the helmet after"
+        ],
+        [
+            "location of webbing was on the ground before and in person's hand after",
+            "visibility of webbing was visible before and hidden after",
+            "color of webbing was bright before and changed to blend in with surroundings after",
+            "texture of webbing was distinct before and changed to blend in with surroundings after",
+            "shape of webbing was recognizable before and changed to blend in with surroundings after",
+            "location of person was standing before and near the webbing after"
+        ],
+        [
+            "location of weapon was on the ground before and in person's hand after",
+            "visibility of weapon was visible before and hidden after",
+            "color of weapon was bright before and changed to blend in with surroundings after",
+            "texture of weapon was distinct before and changed to blend in with surroundings after",
+            "shape of weapon was recognizable before and changed to blend in with surroundings after",
+            "location of person was standing before and near the weapon after"
+        ],
+        [
+            "location of vehicle was in open area before and covered under a net after",
+            "visibility of vehicle was visible before and hidden after",
+            "color of vehicle was bright before and changed to blend in with surroundings after",
+            "texture of vehicle was distinct before and changed to blend in with surroundings after",
+            "shape of vehicle was recognizable before and changed to blend in with surroundings after",
+            "location of person was standing nearby and checking for visibility after"
+        ]
+    ],
+    "38": [
+        [
+            "opening of bung was closed before and open after",
+            "location of oil was in tank before and dripping out of bung after",
+            "volume of oil remaining was full before and emptying after",
+            "location of drain pan was empty before and positioned under bike after",
+            "location of bung was on bike before and in person's hand after",
+            "cleanliness of drain pan was clean before and dirty after."
+        ],
+        [
+            "opening of cap was closed before and open after",
+            "location of oil was in oil tank before and flowing out of cap after",
+            "state of oil was old before and new after",
+            "location of oil cap was on oil tank before and in person's hand after"
+        ],
+        [
+            "location of oil filter was in bike before and in person's hand after",
+            "cleanliness of oil filter was dirty before and clean after",
+            "container of oil filter was empty before and full of oil after",
+            "location of drain pan was under bike before and oil filter was removed after."
+        ],
+        [
+            "opening of bung was open before and closed after",
+            "location of bung was in person's hand before and on bike after",
+            "tightness of bung was loose before and tight after",
+            "leakage of oil was present before and stopped after."
+        ],
+        [
+            "location of oil was empty before and in oil tank after",
+            "volume of oil remaining was empty before and full after",
+            "cleanliness of funnel was clean before and dirty after",
+            "container of oil was full before and empty after",
+            "location of funnel was in oil tank before and in person's hand after",
+            "location of oil bottle was on table before and empty after."
+        ],
+        [
+            "location of old oil was in drain pan before and in recycling canister after",
+            "volume of old oil was full before and empty after",
+            "cleanliness of recycling canister was empty before and dirty after",
+            "location of drain pan was empty before and in recycling canister after."
+        ]
+    ],
+    "39": [
+        [
+            "location of duct tape roll was in drawer before and in person's hand after",
+            "length of duct tape was long before and shorter after",
+            "width of duct tape was wide before and narrow after",
+            "location of duct tape forming a loop was on the table before and in person's hand after",
+            "shape of duct tape was flat before and bent after",
+            "arrangement of duct tape pieces was separated before and connected after",
+            "form of duct tape changed from roll to a loop",
+            "length of loop was bigger than head's before and about the same size after."
+        ],
+        [
+            "location of duct tape loop was in person's hand before and on table after",
+            "location of measuring tape was in drawer before and person's hand after",
+            "length of measuring tape was short before and long after",
+            "location of duct tape with measuring tape was on person's head before and in person's hand after",
+            "length of duct tape was longer than head's length before and the same size after",
+            "cutter was off before and activated after",
+            "length of duct tape was longer before and shorter after."
+        ],
+        [
+            "shape of duct tape was flat before and bent after",
+            "location of duct tape was on the table before and in person's hand after",
+            "form of duct tape changed from a cut piece to a fold",
+            "position of duct tape was straight before and folded after",
+            "length of duct tape was longer before and shorter after",
+            "location of duct tape fold was on table before and in person's hand after"
+        ],
+        [
+            "location of duct tape fold was in person's hand before and on the table after",
+            "form of duct tape changed from a fold to a smaller folded shape",
+            "position of duct tape was folded in half before and folded into a smaller shape after",
+            "width of duct tape was wide before and narrow after",
+            "arrangement of duct tape pieces was separated before and connected after",
+            "length of duct tape was longer before and shorter after",
+            "shape of duct tape was curved before and straight after",
+            "location of duct tape was on person's hand before and on the table after"
+        ],
+        [
+            "location of duct tape was on the table before and in person's hand after",
+            "position of duct tape was separated before and connected after",
+            "length of duct tape was shorter before and longer after",
+            "location of duct tape ends was far apart before and overlapped after",
+            "arrangement of duct tape ends was unfolded before and folded after",
+            "width of duct tape was narrow before and wide after",
+            "form of duct tape changed from a smaller folded shape to a loop",
+            "stickiness of tape was exposed before and covered after",
+            "cutter was off before and activated after"
+        ],
+        [
+            "Nothing changes in this last step as it just signifies the completion of the procedure."
+        ]
+    ],
+    "40": [
+        [
+            "location of plant was in garden center before and in cart after",
+            "cost of plant was undefined before and defined after",
+            "age of plant was young before and mature after",
+            "condition of plant was healthy before and fragile after",
+            "the ownership of plant was of the nursery before and of the person after"
+        ],
+        [
+            "shape of container was undefined before and rounded after",
+            "size of container was small before and broad after",
+            "location of container was in garden center before and in cart after",
+            "ownership of container was of the garden center before and of the person after."
+        ],
+        [
+            "location of potting soil was in gardening supply store before and in cart after",
+            "cost of potting soil was undefined before and defined after",
+            "volume of potting soil was empty before and full after",
+            "ownership of potting soil was of gardening supply store before and of the person after."
+        ],
+        [
+            "location of plant was in cart before and in container after",
+            "location of potting soil was in container before and on ground after",
+            "ownership of plant was of the person before and of the container after",
+            "weight of container with soil was lighter before and heavier after",
+            "height of plant was above container before and at level of container after",
+            "location of container with plant was on ground before and on table/counter after"
+        ],
+        [
+            "age of plant was mature before and established after",
+            "location of plant was in container before and in garden after",
+            "height of plant was at the level of container before and taller after",
+            "environment of plant was indoors before and outdoors after",
+            "the exposure to light received by the plant was low before and high after",
+            "the exposure to wind received by the plant was low before and high after",
+            "ownership of plant was of the person before and of the garden after"
+        ],
+        [
+            "location of plant was in garden before and in new container after",
+            "location of potting soil was in new container before and on ground after",
+            "ownership of plant was in garden before and of the person after",
+            "weight of container with soil was lighter before and heavier after",
+            "height of plant was taller before and the same after",
+            "location of container with plant was on table/counter before and on ground/in windowsill after"
+        ]
+    ],
+    "41": [
+        [
+            "location of person was on path before and in dirt after",
+            "state of person's legs were clean before and dirty after",
+            "location of dirt was untouched before and disturbed after",
+            "dampness of dirt was dry before and slightly damp after"
+        ],
+        [
+            "location of person was in dirt before and in woods after",
+            "state of person's hands was empty before and holding twigs and sticks after",
+            "location of twigs and sticks was on ground before and in hand after",
+            "amount of twigs and sticks was few before and many after",
+            "composition of forest floor was as-is before and with twigs and sticks removed after"
+        ],
+        [
+            "location of person was in woods before and at chosen area after",
+            "composition of chosen area was as-is before and with sticks arranged after",
+            "shape of chosen area was undefined before and formed into square, circle, or teepee shape after",
+            "location of remaining sticks was in woods before and in hand after"
+        ],
+        [
+            "location of person was at chosen area before and continued to work at chosen area after",
+            "location of sticks was in person's hand before and arranged on chosen area after",
+            "verticality of sticks was lying on ground before and standing upright after",
+            "stability of sticks was unstable before and standing upright and stable after",
+            "state of person\u2019s hands was empty before and holding sticks after",
+            "location of grass was present before and dirt exposed after",
+            "location of person was continuously moving before and stationary after"
+        ],
+        [
+            "This step seems incomplete. Could you please provide more information?"
+        ],
+        [
+            "location of person was at exterior walls before and around house after",
+            "state of person\u2019s hands was empty before and holding decorations after",
+            "location of decorations was on the ground before and in hand after",
+            "type of decorations was selected before and applied after",
+            "location of house was without decoration before and decorated after"
+        ]
+    ],
+    "42": [
+        [
+            "location of whole wheat flour was in cupboard before and in mixing bowl after",
+            "cleanness of mixing bowl was dirty before and clean after",
+            "location of mixing bowl was in cabinet before and on counter after",
+            "weight of mixing bowl was lighter before and heavier after",
+            "container of mixing bowl was empty before and full after",
+            "wetness of mixing bowl was dry before and wet after",
+            "location of salt was in cupboard before and in mixing bowl after"
+        ],
+        [
+            "volume of oil was in bottle before and in mixing bowl after",
+            "location of oil was on shelf before and in cabinet after",
+            "location of mixing bowl was on counter before and in person's hand after",
+            "viscosity of oil was thick before and thin after",
+            "location of bottle was in hand before and on counter after"
+        ],
+        [
+            "physical state of pastry was in mixing bowl before and on wax paper after",
+            "location of wax paper was in drawer before and on counter after",
+            "cleanness of wax paper was clean before and dirty after",
+            "location of mixing bowl was on counter before and on wax paper after",
+            "shape of pastry was mixture before and dough after"
+        ],
+        [
+            "I apologize but I don't have enough information about the context to provide a meaningful answer. Can you please provide more details?"
+        ],
+        [
+            "location of pastry was on wax paper before and in pie dish after",
+            "shape of pastry was dough before and pressed into pie shape after",
+            "location of pie dish was in cupboard before and in person's hand after",
+            "location of wax paper was in trash bin before and on counter after",
+            "location of person's hand was on counter before and on pie dish after",
+            "weight of pie dish and pastry was empty before and heavier after"
+        ],
+        [
+            "physical state of pastry was pressed into pie shape before and edged with fork after",
+            "location of fork was in drawer before and in person's hand after",
+            "shape of pastry was a flat disc before and a pie crust after",
+            "texture of pastry was soft before and rough after",
+            "location of person's hand was on pie dish before and on counter after"
+        ]
+    ],
+    "43": [
+        [
+            "existence of fairy moss was absent before and present after",
+            "location of person was at home before and at nursery/garden center after",
+            "knowledge of person was lacking before and increased after",
+            "intention of person was to grow fairy moss before and to buy fairy moss after"
+        ],
+        [
+            "location of person was at nursery/garden center before and at home after",
+            "location of container was at home before and in shopping bag after",
+            "size of container was absent before and present after",
+            "material of container was absent before and present after",
+            "location of container in store was on shelf before and in shopping bag after"
+        ],
+        [
+            "location of container was on table before and in sink after",
+            "container was empty before and filled with water after",
+            "state of water was absent before and present after",
+            "location of water was in pipe before and in container after"
+        ],
+        [
+            "existence of fairy moss in container was absent before and present after",
+            "location of fairy moss was in bag before and in container after",
+            "state of fairy moss was dry before and wet/moist after",
+            "presence of other organisms in container was absent before and present after",
+            "location of container was on table before and on shelf after"
+        ],
+        [
+            "location of container was on shelf before and in final location after",
+            "location of container was in the middle of the room before and in a corner after",
+            "position of container was upright before and still upright after",
+            "exposure to light was absent before and present after",
+            "exposure to air movement was absent before and present after"
+        ],
+        [
+            "length of fairy moss was longer before and shorter after",
+            "mass of fairy moss was larger before and smaller after",
+            "size of container was smaller before and still the same after",
+            "location of container was in the corner of room before and in the same corner after",
+            "existence of cut parts of moss was absent before and present after",
+            "location of cut parts was in trash can before and still in trash can after"
+        ]
+    ],
+    "44": [
+        [
+            "location of cocoa powder was in pantry before and on table after",
+            "location of sugar was in pantry before and on table after",
+            "location of butter was in fridge before and on table after",
+            "location of heart-shaped mold was in drawer before and on counter after",
+            "amount of cocoa powder was 0 before and after",
+            "amount of sugar was 0 before and after",
+            "amount of butter was 0 before and after",
+            "cleanness of mold was dirty before and clean after"
+        ],
+        [
+            "state of chocolate bars was solid before and melted after",
+            "power of microwave was off before and on after",
+            "location of chocolate bars was in pantry before and in microwave after",
+            "amount of chocolate bars was solid before and melted after",
+            "location of mixing tool was in drawer before and in hand after"
+        ],
+        [
+            "location of melted chocolate was in microwave before and in heart-shaped molds after",
+            "location of mold was on counter before and on tray after",
+            "composition of mold was empty before and filled with chocolate after",
+            "amount of melted chocolate was in the bowl before and in molds after",
+            "wetness of mold was dry before and wet after",
+            "power of tray was off before and on after",
+            "location of tray was on counter before and in fridge after."
+        ],
+        [
+            "state of chocolate was liquid before and solid after",
+            "power of freezer was on before and after",
+            "location of tray was in refrigerator before and in freezer after",
+            "location of mold was on tray before and in the freezer after",
+            "temperature of chocolate was warm before and cold after"
+        ],
+        [
+            "location of mold was in freezer before and on counter after",
+            "state of chocolate was solid before and solid after popping out of molds",
+            "shape of chocolate was heart-shaped mold before and after",
+            "location of heart-shaped candies was in mold before and on plate after",
+            "cleanness of plate was dirty before and clean after",
+            "composition of mold was filled with chocolate before and empty after"
+        ],
+        [
+            "location of chocolate was on plate before and in mouth or in a box after",
+            "ownership of chocolates was with the creator before and gifted or sold after",
+            "taste of chocolate was unknown before and enjoyable after",
+            "location of wrapping material was in drawer before and on counter after",
+            "state of wrapping material was flat before and folded after",
+            "location of box was in storage before and on table after."
+        ]
+    ],
+    "45": [
+        [
+            "location of soap was in soapdish before and in container after",
+            "location of water was in sink before and in container after",
+            "cleanness of container was clean before and dirty after",
+            "location of container was in sink before and on table after",
+            "composition of soap was solid before and dissolved after",
+            "composition of water was pure before and soapy after"
+        ],
+        [
+            "I will need a bit more information to provide accurate state changes. Can you please tell me the specific action that is being taken to enhance the bubble solution?"
+        ],
+        [
+            "location of wand materials was in drawer before and on table after",
+            "state of pipe cleaner was straightened before and bent after",
+            "length of pipe cleaner was normal before and shorter after",
+            "shape of pipe cleaner was linear before and looped after",
+            "location of bubble wand was not available before and in person's hand after"
+        ],
+        [
+            "location of wand materials was on table before and on floor after",
+            "length of string was long before and short after",
+            "shape of string was straight before and looped after",
+            "location of straw was on table before and on floor after",
+            "shape of straw was straight before and bent after",
+            "location of giant bubble wand was not available before and in person's hand after"
+        ],
+        [
+            "location of bubbles was not present before and outside after",
+            "location of person was inside before and outside after"
+        ],
+        [
+            "location of bubble wand was in person's hand before and in air after",
+            "size of bubbles was small before and large after",
+            "location of bubbles was in air before and outside after",
+            "composition of bubbles was unstable before and stable after"
+        ]
+    ],
+    "46": [
+        [
+            "location of stray items was scattered before and collected after",
+            "location of waste baskets was empty before and filled with trash after",
+            "location of trash was on floor before and in waste basket after",
+            "volume of waste baskets was empty before and filled with trash after",
+            "location of items was on floor before and in their respective places after",
+            "cleanness of the floor was dirty before and clean after."
+        ],
+        [
+            "cleanness of surfaces was dusty before and dust-free after",
+            "location of dust was on surfaces before and in cleaning cloth after",
+            "composition of dust was on surfaces before and stuck to cleaning cloth after",
+            "location of cleaning cloth was clean before and dirty after",
+            "location of cloth was in cupboard before and in person's hand after",
+            "location of person was in another room before and in the current room after"
+        ],
+        [
+            "location of waste baskets was full before and emptied after",
+            "location of trash cans was full before and emptied after",
+            "location of trash was in waste baskets before and in large trash bag after",
+            "volume of large trash bag was empty before and filled with trash after",
+            "location of trash bag was in cupboard before and in person's hand after",
+            "location of person was in current room before and in another room after"
+        ],
+        [
+            "cleanness of glass surfaces was dirty before and clean after",
+            "location of spray cleaner was in cupboard before and in person's hand after",
+            "location of rags/paper towels was clean before and dirty after",
+            "location of glass surfaces was dusty before and clean after",
+            "composition of dust was on glass surfaces before and removed after",
+            "location of person was in another room before and in current room after"
+        ],
+        [
+            "location of throw rugs was on floor before and outside after",
+            "location of indoor mats was on floor before and outside after",
+            "composition of dust and dirt was on the rugs and mats before and outside after"
+        ],
+        [
+            "There are no state changes for entities and attributes in this step as it is the final outcome of the procedure, and no further change is needed in this regard."
+        ]
+    ],
+    "47": [
+        [
+            "amount of gems was zero before, and increased after",
+            "location of gems was on the ground in the virtual world before and in person's inventory after",
+            "availability of gems was unowned before and owned after"
+        ],
+        [
+            "amount of furniture was empty before and increased after",
+            "location of furniture was in store before and in den after",
+            "amount of decorations was empty before and increased after",
+            "location of decorations was in store before and in den after",
+            "amount of flooring was empty before and increased after",
+            "location of flooring was in store before and in den after",
+            "amount of wallpaper was empty before and increased after",
+            "location of wallpaper was in store before and in den after",
+            "location of den was default before and personalized after"
+        ],
+        [
+            "amount of shoji screens was zero before and increased after",
+            "location of shoji screens was in the store before and in the inventory after",
+            "availability of shoji screens was unowned before and owned after"
+        ],
+        [
+            "amount of room was one before and increased after",
+            "location of room was not personalised before and personalised after",
+            "location of shoji screens was in inventory before and in the room after",
+            "location of furniture was in den before and in sections after",
+            "location of decorations was in den before and in sections after",
+            "location of flooring was in den before and in sections after",
+            "location of wallpaper was in den before and in sections after",
+            "amount of kids room was zero before and increased after",
+            "location of kids room was not specified before and in a section after",
+            "amount of master bedroom was zero before and increased after",
+            "location of master bedroom was not specified before and in a section after",
+            "amount of living/dining room was zero before and increased after",
+            "location of living/dining room was not specified before and in a section after."
+        ],
+        [
+            "amount of outside area was zero before and increased after",
+            "location of outside area was grass before and personalised after",
+            "amount of outdoor furniture was empty before and increased after",
+            "location of outdoor furniture was in-store before and in outside area after",
+            "amount of outdoor decorations was empty before and increased after",
+            "location of outdoor decorations was in-store before and in outside area after",
+            "amount of outdoor flooring was empty before and increased after",
+            "location of outdoor flooring was in-store before and in outside area after",
+            "amount of outdoor wallpaper was empty before and increased after",
+            "location of outdoor wallpaper was in-store before and in outside area after"
+        ],
+        [
+            "As this step is not specific to any state changes of entities or attributes related to the procedure of making a den look like a home on Animal Jam, I'm unable to provide a list of state changes."
+        ]
+    ],
+    "48": [
+        [
+            "location of ingredients was in containers before and in pitcher after",
+            "volume of pitcher was empty before and filled after",
+            "location of pitcher was empty before and on table after",
+            "weight of pitcher was lighter before and heavier after",
+            "cleanness of pitcher was clean before and dirty after",
+            "location of pitcher in dishwasher before and on table after"
+        ],
+        [
+            "composition of drink was unmixed before and mixed after",
+            "location of drink was in pitcher before and in pitcher after"
+        ],
+        [
+            "location of pitcher was on table before and in fridge after",
+            "temperature of drink was room temperature before and cold after",
+            "location of pitcher was in fridge before and in fridge after"
+        ],
+        [
+            "location of pitcher was in fridge before and on table after",
+            "volume of pitcher was full before and empty after",
+            "location of drink was in pitcher before and in glasses after",
+            "location of glasses was empty before and on table after",
+            "volume of glasses were empty before and filled with drink after",
+            "wetness of glasses were dry before and wet with drink after",
+            "location of pitcher was on table before and in sink after"
+        ],
+        [
+            "location of melon was on cutting board before and on glasses after",
+            "location of knife was on cutting board before and on counter after",
+            "shape of melon was whole before and chunked after",
+            "location of melon was not on glasses before and on the side of glasses after"
+        ],
+        [
+            "There are no state changes in this step as it indicates that the process has been completed."
+        ]
+    ],
+    "49": [
+        [
+            "texture of pineapple was solid before and blended after",
+            "location of pineapple was on counter before and in blender after",
+            "location of blending machine was at storage before and on counter after",
+            "power of blender was off before and on after",
+            "location of blender was at storage before and on counter after",
+            "weight of pineapple was heavier before and lighter after",
+            "location of blender lid was on blender before and off after",
+            "location of pineapple stem was present before and absent after",
+            "location of pineapple skin was present before and absent after",
+            "size of pineapple was larger before and smaller after",
+            "color of pineapple was same before and same after",
+            "consistency of pineapple was solid before and liquid after",
+            "texture of pineapple was grainy before and smooth after"
+        ],
+        [
+            "location of pineapple was in blender before and in mixing bowl after",
+            "location of milk was in fridge before and in mixing bowl after",
+            "container of oil was sealed before and open after",
+            "amount of oil was full before and some after",
+            "location of oil was in cabinet before and in mixing bowl after",
+            "amount of sugar was full before and some after",
+            "location of sugar was in cabinet before and in mixing bowl after",
+            "container of extract was sealed before and open after",
+            "amount of extract was none before and some after",
+            "location of extract was in cabinet before and in mixing bowl after",
+            "location of mixing bowl was center of counter before and on kitchen scale after",
+            "weight of mixing bowl was empty before and some after",
+            "location of mixing spoon was in drawer before and in mixing bowl after",
+            "cleanness of spoon was clean before and dirty after",
+            "location of spoon was on counter before and in mixing bowl after"
+        ],
+        [
+            "texture of ingredients was separate before and blended after",
+            "location of ingredient mixture was in mixing bowl before and in blender after",
+            "location of blending machine was on counter before and in use after",
+            "power of blender was off before and on after",
+            "location of blender lid was off before and on after",
+            "weight of mixing bowl was some before and same after",
+            "location of mixing bowl was in blender before and on counter after",
+            "location of ingredient mixture was in blender before and in mixing bowl after",
+            "texture of ingredient mixture was lumpy before and smooth after",
+            "location of blender was on counter before and in sink after",
+            "location of blender lid was on after and off after",
+            "weight of blender was heavier before and lighter after"
+        ],
+        [
+            "location of ingredient mixture was in mixing bowl before and in baking dish after",
+            "location of baking dish was stored before and on counter after",
+            "size of baking dish was larger before and same after",
+            "shape of baking dish was rectangular before and same after",
+            "location of ingredient mixture was filling only the bottom of mixing bowl before and filling the bottom of baking dish after",
+            "amount of ingredient mixture was limited before and filling the baking dish after"
+        ],
+        [
+            "location of baking dish was on counter before and in freezer after",
+            "temperature of freezer was cold before and colder after",
+            "state of ingredient mixture was liquid before and semi-solid after",
+            "texture of ingredient mixture was smooth before and icy after",
+            "amount of ingredient mixture was same before and same after",
+            "weight of baking dish was same before and same after",
+            "cleanness of baking dish was clean before and dirty after"
+        ],
+        [
+            "location of baking dish was in freezer before and on counter after",
+            "state of ingredient mixture was semi-solid before and solid after",
+            "texture of ingredient mixture was icy before and smooth after",
+            "location of ice-cream scoop was in drawer before and in mixing bowl after",
+            "cleanness of ice-cream scoop was clean before and dirty after",
+            "location of sherbet was in baking dish before and on serving dish after",
+            "volume of sherbet was same before and some was scooped out after",
+            "texture of served sherbet was formed before and loose after."
+        ]
+    ],
+    "50": [
+        [
+            "cleanness of ketchup bottle was dirty before and clean after",
+            "location of ketchup bottle was on shelf before and on table after",
+            "wetness of ketchup bottle was wet before and dry after",
+            "container of ketchup bottle was empty before and empty after",
+            "location of kitchen sponge was in sink before and in hand after",
+            "volume of sponge was dry before and wet after",
+            "cleanness of kitchen sponge was clean before and dirty after",
+            "location of kitchen sprayer was in sink before and in hand after",
+            "power of kitchen sprayer was off before and on after",
+            "volume of water from sprayer was none before and some after"
+        ],
+        [
+            "location of funnel was on counter before and on top of ketchup bottle after",
+            "location of ketchup bottle was on table before and in person's hand after",
+            "location of container for pancake mix was on table before and on counter after."
+        ],
+        [
+            "location of pancake batter was in mixing bowl before and in ketchup bottle after",
+            "location of funnel was on top of ketchup bottle before and in person's hand after",
+            "container of pancake batter was full before and empty after",
+            "location of ketchup bottle was in person's hand and on counter before and on table after",
+            "weight of ketchup bottle was lighter before and heavier after",
+            "volume of ketchup bottle was empty before and full after",
+            "cleanness of ketchup bottle was clean before and dirty after",
+            "container of container was empty before and full after."
+        ],
+        [
+            "location of lid was on table before and on top of ketchup bottle after",
+            "power of lid was off before and on after",
+            "container of ketchup was empty before and full after",
+            "location of label was on table before and on ketchup bottle after",
+            "cleanness of ketchup bottle was dirty before and clean after",
+            "accuracy of label was none before and accurate after",
+            "information on label was none before and appropriate information of pancake mix after."
+        ],
+        [
+            "location of ketchup bottle was on table before and in refrigerator after",
+            "temperature of refrigerator was cool before and cold after",
+            "location of fridge was on counter before and wall after",
+            "location of other items in fridge was occupying space before and adjusted to accommodate the ketchup bottle after."
+        ],
+        [
+            "Great! Let me know if you need help with anything else."
+        ]
+    ],
+    "51": [
+        [
+            "presence of bucket was empty before and full of water and dish soap solution after",
+            "temperature of water was room temperature before and hot after",
+            "presence of clean cloth was not there before and present after",
+            "presence of new safety razor blade was not there before and present after",
+            "presence of glass cleaner was not there before and present after"
+        ],
+        [
+            "wetness of window was dry before and soaking wet with water and dish soap solution after",
+            "location of clean cloth was in the bucket before and on the window after",
+            "composition of dish soap solution was concentrated before and diluted after"
+        ],
+        [
+            "location of new safety razor blade was in hand before and on the side of the bucket after",
+            "orientation of the blade was not defined before and positioned to face the window after"
+        ],
+        [
+            "composition of window was painted before and scraped clean after",
+            "location of used razor blade was on the side of the bucket before and in the bucket after",
+            "angle of the blade was positioned in a flat angle before and at a specific angle after",
+            "presence of paint was present before and removed after"
+        ],
+        [
+            "composition of window was scraped before and coated in glass cleaner after",
+            "location of clean cloth was in the bucket before and on the window after",
+            "wetness of cloth was dry before and soaked with glass cleaner after",
+            "location of glass cleaner was on the window before and rubbed clean with cloth after",
+            "composition of window was untouched before and shining clean after"
+        ],
+        [
+            "presence of chemical solvents was not there before and present after",
+            "presence of small paint splatters was present before and removed after using chemical solvents",
+            "wetness of window was dry before and soaked with chemical solvents after",
+            "location of clean cloth was not defined before and in hand after"
+        ]
+    ],
+    "52": [
+        [
+            "connectivity of microphone was disconnected before and connected after",
+            "functionality of microphone was broken before and working after",
+            "status of microphone was idle before and active after"
+        ],
+        [
+            "location of panel was hidden before and visible after",
+            "title of panel was not highlighted before and highlighted after",
+            "cursor of screen was on another panel before and on desired panel after"
+        ],
+        [
+            "location of panel was in view before and selected after",
+            "neighboring panels were viewable before and not in view after",
+            "cursor of screen was on another panel before and on desired panel after"
+        ],
+        [
+            "connectivity of microphone was connected before and active after",
+            "status of microphone was active before and idle after",
+            "functionality of microphone was working before and suspended after"
+        ],
+        [
+            "action of person was silent before and speaking after",
+            "sound level of microphone was low before and high after",
+            "communication channel with team was not utilized before and active after"
+        ],
+        [
+            "action of person was neutral before and advising after",
+            "communication channel with team was active before and utilized after",
+            "status of team was disorganized before and organized after"
+        ]
+    ],
+    "53": [
+        [
+            "location of macaroni was pantry before and in boiled water after",
+            "state of macaroni was dry before and wet after",
+            "temperature of water was cold before and hot after",
+            "amount of macaroni was all before and some after",
+            "weight of macaroni was lighter before and heavier after",
+            "texture of macaroni was hard before and soft after",
+            "location of pot was on stove before and off stove after",
+            "water level of pot was low before and high after",
+            "state of stove was off before and on after",
+            "location of salt was in pantry before and in pot after",
+            "amount of salt was none before and some after",
+            "location of oil was in pantry before and in pot after",
+            "amount of oil was none before and some after",
+            "state of water was still before and boiling after"
+        ],
+        [
+            "location of macaroni was in boiled water before and under running water after",
+            "temperature of macaroni was hot before and cold after",
+            "texture of macaroni was soft before and firm after",
+            "location of water tap was off before and on after",
+            "state of running water was still before and flowing after"
+        ],
+        [
+            "location of pan was on stove before and off stove after",
+            "state of stove was off before and on after",
+            "location of oil was in bottle before and in pan after",
+            "temperature of pan was low before and high after",
+            "location of macaroni was in boiled water before and in pan after",
+            "texture of macaroni was soft before and crispy after",
+            "state of oil was not mixed with macaroni before and mixed after"
+        ],
+        [
+            "location of salt was in cabinet before and in pan after",
+            "amount of salt was none before and some after",
+            "location of red chilli powder was in cabinet before and in pan after",
+            "amount of red chilli powder was none before and some after",
+            "location of soy sauce was in refrigerator before and in pan after",
+            "amount of soy sauce was none before and some after",
+            "location of white vinegar was in pantry before and in pan after",
+            "amount of white vinegar was none before and some after",
+            "location of ajino moto was in pantry before and in pan after",
+            "amount of ajino moto was none before and some after",
+            "state of macaroni was crispy before and coated in spices after"
+        ],
+        [
+            "location of pan was on stove before and on stove after",
+            "temperature of pan was high before and still high after",
+            "texture of macaroni was crispy and coated in spices before and lightly cooked after"
+        ],
+        [
+            "location of macaroni was in pan before and on plate after",
+            "texture of macaroni was crispy and coated in spices before and light and well-cooked after",
+            "temperature of macaroni was hot before and still hot after",
+            "location of glass was in cabinet before and on table after",
+            "location of chilled drink was in refrigerator before and on table after",
+            "volume of chilled drink was full before and empty after"
+        ]
+    ],
+    "54": [
+        [
+            "elastic was in a roll before and a strip after",
+            "length of elastic was longer before and shorter after",
+            "shape of elastic was roll before and flat after",
+            "location of elastic was in the box before and on table after"
+        ],
+        [
+            "quantity of larger beads was in container before and two less after",
+            "size of large beads was same before and same after",
+            "location of larger beads was in container before and on beading strand after",
+            "location of small bead was in container before and on beading strand after",
+            "quantity of small beads was in container before and one less after",
+            "location of beading strand was on table before and in hand after",
+            "position of beads was not together before and together after",
+            "order of beads was small bead before and two large beads after"
+        ],
+        [
+            "location of small bead was on table before and on one tail of beading strand after",
+            "position of small bead was not on beading strand before and on beading strand after",
+            "quantity of small beads was one more on beading strand after and one less in container after",
+            "location of beading strand was in person's hand before and on table after",
+            "order of beads was two large beads before and one small bead and two large beads after"
+        ],
+        [
+            "quantity of small beads on beading strand was one before and more after",
+            "location of beading strand was on table before and in person's hand after",
+            "size of beading strand was longer before and shorter after",
+            "shape of beading strand did not change",
+            "position of beads was not aligned before and aligned after",
+            "order of beads was two large beads and one small bead before and many small and large beads after"
+        ],
+        [
+            "location of small bead was on beading strand before and on elastic after",
+            "location of tails of beading strand were loose before and through small bead after",
+            "position of small bead was on beading strand before and on tails of elastic after",
+            "location of elastic was not on beading strand before and on beading strand after",
+            "order of beads was many small and large beads before and same after"
+        ],
+        [
+            "Understood, the procedure is now complete."
+        ]
+    ],
+    "55": [
+        [
+            "location of underpants was in drawer before and in hand after",
+            "color of underpants was white before and may change after",
+            "softness of underpants was soft before and may change after",
+            "shape of underpants was underwear before and changed after cutting",
+            "location of scissors was on table before and in hand after",
+            "location of cleaning rags was not existing before and on table after",
+            "quantity of cleaning rags was none before and increased after",
+            "size of cleaning rags was smaller than underpants before and may vary after",
+            "wetness of cleaning rags was dry before and can change after"
+        ],
+        [
+            "location of cleaning rags was on table before and in garden after",
+            "shape of cleaning rags was rectangular before and may change after tying",
+            "location of garden was outside before and in use after",
+            "location of plant was in garden before and tied after",
+            "location of underwear was in hand before and on plant after",
+            "shape of underwear was rectangular before and may change after tying",
+            "function of underwear was underwear before and changed to plant tie after"
+        ],
+        [
+            "location of underpants was in drawer before and in hand after",
+            "color of underpants was white before and may change after",
+            "location of scissors was on table before and in hand after",
+            "location of glue was on table before and in hand after",
+            "location of decoration items was on table before and in hand after",
+            "location of craft item was not existing before and on table after",
+            "shape of underpants was underwear before and may vary after cutting",
+            "quality of underpants was good before and not suitable for use after cutting",
+            "usage of underpants was for wearing before and changed to craft after cutting",
+            "size of underpants was larger than required before and can vary after",
+            "shape of craft item was not existing before and can vary after",
+            "location of underpants was in garbage before and in craft item after"
+        ],
+        [
+            "location of old underwear was in drawer before and in hand after",
+            "location of scissors was on table before and in hand after",
+            "location of item to fill was on table before and in hand after",
+            "location of old underwear bundle was not existing before and in item after",
+            "shape of old underwear was rectangular before and can change after stuffing",
+            "location of stuffing material was not existing before and inside item after",
+            "quantity of stuffing material was none before and increased after",
+            "softness of stuffing material was hard before and softer after stuffing",
+            "composition of stuffing material was not existing before and included old underwear after"
+        ],
+        [
+            "location of old underwear was in drawer before and in child's hand after",
+            "shape of old underwear was rectangular before and can vary after wearing",
+            "location of child was inside house before and outside after wearing",
+            "function of old underwear was for wearing underwear before and changed to outerwear with different function",
+            "location of pants was inside house before and on child after wearing",
+            "appearance of child's body was without cape before and with cape after wearing",
+            "composition of child's outfit was changed after adding old underwear",
+            "location of superhero costume was not existing before and on child after wearing",
+            "location of other kids was not in sight before and around after"
+        ],
+        [
+            "location of underpants was in drawer before and in charity collection center after",
+            "location of charity box was not existing before and received underpants after",
+            "quantity of underpants was present before and decreased after",
+            "quality of underpants was suitable before and acceptable to the charity",
+            "location of owner was inside house before and outside after donation",
+            "function of underpants was for wearing before and change to help others after donation",
+            "emotional state of owner was caring before and grateful after donation",
+            "association of underpants with the owner was personal before and charitable after donation."
+        ]
+    ]
+}

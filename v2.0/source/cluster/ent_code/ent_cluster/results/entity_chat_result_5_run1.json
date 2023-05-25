@@ -1,0 +1,291 @@
+{
+    "1": {
+        "bank account": [
+            "bank account",
+            "money"
+        ],
+        "eraser shelf at the store": [
+            "eraser",
+            "the blackboard eraser",
+            "eraser shelf at the store"
+        ],
+        "inside windshield": [
+            "inside windshield",
+            "windshield"
+        ],
+        "hands": [
+            "hands"
+        ],
+        "glove box": [
+            "glove box",
+            "glovebox"
+        ]
+    },
+    "4": {
+        "tip of pipe cleaner": [
+            "tip of pipe cleaner",
+            "pipe cleaner"
+        ],
+        "the torso": [
+            "the torso"
+        ],
+        "your fingers": [
+            "your fingers"
+        ]
+    },
+    "7": {
+        "tv": [
+            "tv",
+            "tv's hdmi input"
+        ],
+        "converter": [
+            "converter",
+            "hdmi converter cable"
+        ],
+        "plug": [
+            "cord",
+            "hdmi cord",
+            "plug"
+        ],
+        "the hdmi": [
+            "the hdmi"
+        ],
+        "wii": [
+            "wii's av composite output",
+            "wii"
+        ]
+    },
+    "14": {
+        "the cutting": [
+            "the cutting",
+            "the clipping",
+            "cutting"
+        ],
+        "pruning shears": [
+            "pruning shears",
+            "the pruning shears"
+        ],
+        "pot": [
+            "pot",
+            "hole in ground",
+            "ground",
+            "yard",
+            "area",
+            "the shovel"
+        ],
+        "roots": [
+            "roots"
+        ],
+        "rose bush": [
+            "the rose bush",
+            "rose bush"
+        ],
+        "water": [
+            "water"
+        ],
+        "soil": [
+            "soil"
+        ],
+        "rooting hormone": [
+            "rooting hormone"
+        ]
+    },
+    "18": {
+        "person": [
+            "person",
+            "you",
+            "hands",
+            "body",
+            "hand muscles"
+        ],
+        "floor": [
+            "floor",
+            "linoleum"
+        ],
+        "skid mark": [
+            "skid mark"
+        ],
+        "water": [
+            "water"
+        ],
+        "eraser": [
+            "eraser"
+        ],
+        "lineoleum": [
+            "lineoleum"
+        ]
+    },
+    "22": {
+        "pedals": [
+            "pedals",
+            "both feet"
+        ],
+        "your foot": [
+            "dominant foot",
+            "your foot"
+        ],
+        "your weight": [
+            "your weight",
+            "center of gravity",
+            "weight"
+        ],
+        "ability to ride a bike": [
+            "ability to ride a bike"
+        ],
+        "bicycle": [
+            "bike",
+            "bicycle"
+        ],
+        "speed": [
+            "speed"
+        ],
+        "non-dominant foot": [
+            "ability to identify non-dominant leg",
+            "non-dominant foot"
+        ],
+        "ability to identify bike shaft": [
+            "ability to identify bike shaft"
+        ],
+        "you": [
+            "you"
+        ],
+        "grip on bike": [
+            "hands",
+            "grip on bike",
+            "ability to identify handlebars"
+        ],
+        "the tires": [
+            "the tires"
+        ],
+        "foot": [
+            "ability to identify dominant foot",
+            "foot",
+            "feet"
+        ],
+        "handbrakes": [
+            "handbrakes"
+        ],
+        "the chain": [
+            "the chain"
+        ]
+    },
+    "24": {
+        "glass": [
+            "glass",
+            "glasses"
+        ],
+        "items": [
+            "items"
+        ],
+        "blender": [
+            "blender"
+        ],
+        "smoothie": [
+            "mixture",
+            "fruit and sorbet",
+            "smoothie"
+        ],
+        "ingredients": [
+            "ingredients",
+            "banana",
+            "yogurt",
+            "sorbet",
+            "strawberry",
+            "fruit"
+        ],
+        "sorber": [
+            "sorber"
+        ],
+        "liquid": [
+            "liquid",
+            "bottle",
+            "rum"
+        ]
+    },
+    "28": {
+        "fizzy drink": [
+            "drink",
+            "soda",
+            "bottle",
+            "cup",
+            "fizzy drink"
+        ],
+        "towel": [
+            "towel",
+            "kitchen towel"
+        ],
+        "new bolt": [
+            "bolt",
+            "old bolt",
+            "new bolt"
+        ],
+        "rust": [
+            "rust"
+        ],
+        "assembly": [
+            "assembly"
+        ],
+        "hands": [
+            "hands",
+            "wrench"
+        ]
+    },
+    "47": {
+        "outside area": [
+            "outside area"
+        ],
+        "stuff": [
+            "stuff",
+            "gems"
+        ],
+        "kids room": [
+            "kids room"
+        ],
+        "screens": [
+            "screens"
+        ],
+        "living room": [
+            "living/dining room",
+            "living room"
+        ],
+        "master bedroom": [
+            "master bedroom"
+        ]
+    },
+    "55": {
+        "underwear": [
+            "underwears",
+            "underwear",
+            "underpants",
+            "quality undies"
+        ],
+        "donation box": [
+            "donation box"
+        ],
+        "floor": [
+            "floor"
+        ],
+        "bundle of old underwear": [
+            "bundle of old underwear"
+        ],
+        "child": [
+            "child"
+        ],
+        "underwear strips": [
+            "underwear strips"
+        ],
+        "pillow case": [
+            "pillow case"
+        ],
+        "plants": [
+            "plants",
+            "garden plants"
+        ],
+        "pants": [
+            "pants"
+        ],
+        "scissors": [
+            "scissors"
+        ]
+    }
+}

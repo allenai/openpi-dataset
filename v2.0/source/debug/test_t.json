@@ -1,0 +1,1232 @@
+{
+    "49": {
+        "goal": "Make Pineapple Sherbet",
+        "steps": [
+            "Blend the pineapple if it's fresh.",
+            "Pour in the milk, oil, sugar or syrup and extract.",
+            "Blend all of the ingredients together until smooth.",
+            "Pour into a baking dish with decent sides.",
+            "Place in the freezer.",
+            "To serve: Simply scoop or cut out pieces of the sherbet."
+        ],
+        "topics": "Food and Entertaining",
+        "image_urls": [
+            "https://www.wikihow.com/images/thumb/a/a8/Make-Pineapple-Sherbet-Step-1-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-1-Version-2.jpg",
+            "https://www.wikihow.com/images/thumb/d/d7/Make-Pineapple-Sherbet-Step-2-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-2-Version-2.jpg",
+            "https://www.wikihow.com/images/thumb/8/8a/Make-Pineapple-Sherbet-Step-3-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-3-Version-2.jpg",
+            "https://www.wikihow.com/images/thumb/0/05/Make-Pineapple-Sherbet-Step-4-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-4-Version-2.jpg",
+            "https://www.wikihow.com/images/thumb/2/27/Make-Pineapple-Sherbet-Step-5-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-5-Version-2.jpg",
+            "https://www.wikihow.com/images/thumb/0/0c/Make-Pineapple-Sherbet-Step-6-Version-2.jpg/aid2613267-v4-728px-Make-Pineapple-Sherbet-Step-6-Version-2.jpg"
+        ],
+        "states": [
+            {
+                "entity": "the milk",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in container | in bottle",
+                            "after": "in blender",
+                            "saliency": 0.7111467307820745,
+                            "attribute_annotation": "location | container"
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "in container | outside blender",
+                            "after": "in blender | inside blender",
+                            "saliency": 0.4940893608495292,
+                            "attribute_annotation": "location"
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the milk | milk | the oil | oil"
+                ]
+            },
+            {
+                "entity": "the extract",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in container | outside blender",
+                            "after": "in blender | inside blender",
+                            "saliency": 0.6835971415214052,
+                            "attribute_annotation": "location"
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the extract | extract"
+                ]
+            },
+            {
+                "entity": "blender",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "volume",
+                            "before": "less full | lighter",
+                            "after": "fuller | heavier",
+                            "saliency": 0.639350831496694,
+                            "attribute_annotation": "volume | weight"
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.3847926267281106,
+                            "attribute_annotation": "cleanness"
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "volume",
+                            "before": "less full | lighter",
+                            "after": "fuller | heavier",
+                            "saliency": 0.639350831496694,
+                            "attribute_annotation": "volume | weight"
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "volume",
+                            "before": "fuller | heavier",
+                            "after": "less full | lighter",
+                            "saliency": 0.639350831496694,
+                            "attribute_annotation": "volume | weight"
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the blender"
+                ]
+            },
+            {
+                "entity": "the wax paper",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "volume",
+                            "before": "empty",
+                            "after": "fuller | full of sherbet",
+                            "saliency": 0.5951045214719828,
+                            "attribute_annotation": "volume | container"
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.5558672276764843,
+                            "attribute_annotation": "weight"
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty | covered in sherbet",
+                            "saliency": 0.457423362051693,
+                            "attribute_annotation": "cleanness"
+                        },
+                        {
+                            "attribute": "wetness",
+                            "before": "dry",
+                            "after": "wet from sherbet",
+                            "saliency": 0.18361940381575725,
+                            "attribute_annotation": "wetness"
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "temperature",
+                            "before": "warmer",
+                            "after": "cooler",
+                            "saliency": 0.41818606825619453,
+                            "attribute_annotation": "temperature"
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "outside of refrigerator | outside of freezer",
+                            "after": "inside refrigerator | inside freezer",
+                            "saliency": 0.4115296422449297,
+                            "attribute_annotation": "location | inside a freezer"
+                        },
+                        {
+                            "attribute": "temperature",
+                            "before": "room temperature",
+                            "after": "frozen",
+                            "saliency": 0.16067254391237562,
+                            "attribute_annotation": "temperature"
+                        }
+                    ],
+                    "step6": [
+                        {
+                            "attribute": "volume",
+                            "before": "fuller",
+                            "after": "less full",
+                            "saliency": 0.6727442730247779,
+                            "attribute_annotation": "volume | container"
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "heavier",
+                            "after": "lighter",
+                            "saliency": 0.5558672276764843,
+                            "attribute_annotation": "weight"
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "inside refrigerator",
+                            "after": "outside of refrigerator",
+                            "saliency": 0.4891693937977247,
+                            "attribute_annotation": "location | inside a freezer"
+                        }
+                    ]
+                },
+                "entity_annotation": [
+                    "the baking dish | baking dish"
+                ]
+            },
+            {
+                "entity": "contents of blender",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "cut into pieces | in pieces",
+                            "saliency": 0.5834168169371535,
+                            "attribute_annotation": "size"
+                        },
+                        {
+                            "attribute": "location",
+                            "before": "outside blender",
+                            "after": "inside blender",
+                            "saliency": 0.36809590596406866,
+                            "attribute_annotation": "location"
+                        },
+                        {
+                            "attribute": "shape",
+                            "before": "intact",
+                            "after": "blended",
+                            "saliency": 0.16692268305171531,
+                            "attribute_annotation": "shape"
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "pineapple"
+                ]
+            },
+            {
+                "entity": "the milk",
+                "answers": {
+                    "step1": [],
+                    "step2": [
+                        {
+                            "attribute": "location",
+                            "before": "in container | outside blender",
+                            "after": "in blender | inside blender",
+                            "saliency": 0.57005944032592,
+                            "attribute_annotation": "location"
+                        },
+                        {
+                            "attribute": "wetness",
+                            "before": "dry",
+                            "after": "wet from pineapple juice and milk",
+                            "saliency": 0.47238362385627464,
+                            "attribute_annotation": "wetness"
+                        }
+                    ],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the sugar or syrup | sugar"
+                ]
+            },
+            {
+                "entity": "freezer",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "volume",
+                            "before": "less full | slightly less full",
+                            "after": "fuller | more full",
+                            "saliency": 0.57005944032592,
+                            "attribute_annotation": "volume | weight"
+                        },
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.42653442863821545,
+                            "attribute_annotation": "weight"
+                        }
+                    ],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the refrigerator | freezer"
+                ]
+            },
+            {
+                "entity": "sherbet",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "composition",
+                            "before": "separate",
+                            "after": "blended",
+                            "saliency": 0.5558672276764843,
+                            "attribute_annotation": "composition"
+                        },
+                        {
+                            "attribute": "temperature",
+                            "before": "cooler",
+                            "after": "warmer",
+                            "saliency": 0.41818606825619453,
+                            "attribute_annotation": "temperature"
+                        },
+                        {
+                            "attribute": "texture",
+                            "before": "lumpier | chunky",
+                            "after": "smoother",
+                            "saliency": 0.3984088025111868,
+                            "attribute_annotation": "texture"
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the ingredients | mixture"
+                ]
+            },
+            {
+                "entity": "contents of blender",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "location",
+                            "before": "outside blender",
+                            "after": "inside blender",
+                            "saliency": 0.5391705069124424,
+                            "attribute_annotation": "location"
+                        },
+                        {
+                            "attribute": "temperature",
+                            "before": "cooler",
+                            "after": "warmer",
+                            "saliency": 0.40148934749215254,
+                            "attribute_annotation": "temperature"
+                        }
+                    ],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the pineapple"
+                ]
+            },
+            {
+                "entity": "the wax paper",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "outside of refrigerator",
+                            "after": "inside refrigerator",
+                            "saliency": 0.5391705069124424,
+                            "attribute_annotation": "location"
+                        }
+                    ],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the wax paper"
+                ]
+            },
+            {
+                "entity": "scoop",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "wetness",
+                            "before": "dry | clean",
+                            "after": "covered in sherbet",
+                            "saliency": 0.5391705069124424,
+                            "attribute_annotation": "wetness | cleanness"
+                        }
+                    ]
+                },
+                "entity_annotation": [
+                    "scoop"
+                ]
+            },
+            {
+                "entity": "sherbet",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "location",
+                            "before": "in baking dish",
+                            "after": "on plate",
+                            "saliency": 0.5224737861484005,
+                            "attribute_annotation": "location"
+                        }
+                    ]
+                },
+                "entity_annotation": [
+                    "the sherbet"
+                ]
+            },
+            {
+                "entity": "the wax paper",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [],
+                    "step6": [
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.5057770653843585,
+                            "attribute_annotation": "weight"
+                        },
+                        {
+                            "attribute": "cleanness",
+                            "before": "clean",
+                            "after": "dirty",
+                            "saliency": 0.36809590596406866,
+                            "attribute_annotation": "cleanness"
+                        }
+                    ]
+                },
+                "entity_annotation": [
+                    "the plate"
+                ]
+            },
+            {
+                "entity": "sherbet",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [
+                        {
+                            "attribute": "location",
+                            "before": "in blender",
+                            "after": "in baking dish",
+                            "saliency": 0.45410628019323673,
+                            "attribute_annotation": "location | container"
+                        }
+                    ],
+                    "step5": [
+                        {
+                            "attribute": "location",
+                            "before": "outside of freezer",
+                            "after": "inside freezer",
+                            "saliency": 0.3505866114561767,
+                            "attribute_annotation": "location | container"
+                        },
+                        {
+                            "attribute": "temperature",
+                            "before": "room temperature",
+                            "after": "frozen",
+                            "saliency": 0.3338008415147265,
+                            "attribute_annotation": "temperature"
+                        }
+                    ],
+                    "step6": [
+                        {
+                            "attribute": "size",
+                            "before": "whole",
+                            "after": "in pieces | in slices",
+                            "saliency": 0.42903893675282173,
+                            "attribute_annotation": "size"
+                        },
+                        {
+                            "attribute": "shape",
+                            "before": "uniform",
+                            "after": "cut",
+                            "saliency": 0.3055054653932634,
+                            "attribute_annotation": "shape"
+                        }
+                    ]
+                },
+                "entity_annotation": [
+                    "sherbet | the mixture | mixture"
+                ]
+            },
+            {
+                "entity": "sherbet",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [],
+                    "step4": [],
+                    "step5": [
+                        {
+                            "attribute": "temperature",
+                            "before": "warmer",
+                            "after": "cooler | colder",
+                            "saliency": 0.4682762305483203,
+                            "attribute_annotation": "temperature"
+                        }
+                    ],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "the mixture | mixture"
+                ]
+            },
+            {
+                "entity": "contents of blender",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "composition",
+                            "before": "isolated",
+                            "after": "mixed",
+                            "saliency": 0.4339811660989782,
+                            "attribute_annotation": "composition"
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "contents of blender"
+                ]
+            },
+            {
+                "entity": "blender",
+                "answers": {
+                    "step1": [
+                        {
+                            "attribute": "wetness",
+                            "before": "dry | clean",
+                            "after": "soaked in pineapple | covered in pineapple",
+                            "saliency": 0.41728444533493625,
+                            "attribute_annotation": "wetness | cleanness"
+                        },
+                        {
+                            "attribute": "container",
+                            "before": "empty | smelling like nothing",
+                            "after": "full of pineapple | smelling like pineapple",
+                            "saliency": 0.18781584630111978,
+                            "attribute_annotation": "container | smell"
+                        }
+                    ],
+                    "step2": [
+                        {
+                            "attribute": "weight",
+                            "before": "lighter",
+                            "after": "heavier",
+                            "saliency": 0.19611968209443664,
+                            "attribute_annotation": "weight"
+                        }
+                    ],
+                    "step3": [
+                        {
+                            "attribute": "power",
+                            "before": "off",
+                            "after": "on",
+                            "saliency": 0.0977759967942296,
+                            "attribute_annotation": "power"
+                        }
+                    ],
+                    "step4": [
+                        {
+                            "attribute": "container",
+                            "before": "full",
+                            "after": "empty",
+                            "saliency": 0.18781584630111978,
+                            "attribute_annotation": "container | smell"
+                        }
+                    ],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "blender"
+                ]
+            },
+            {
+                "entity": "blender",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "movement",
+                            "before": "stationary",
+                            "after": "spinning",
+                            "saliency": 0.3922393641888733,
+                            "attribute_annotation": "movement"
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "blender blades"
+                ]
+            },
+            {
+                "entity": "the milk",
+                "answers": {
+                    "step1": [],
+                    "step2": [],
+                    "step3": [
+                        {
+                            "attribute": "texture",
+                            "before": "loose",
+                            "after": "combined",
+                            "saliency": 0.3021839310759367,
+                            "attribute_annotation": "texture"
+                        }
+                    ],
+                    "step4": [],
+                    "step5": [],
+                    "step6": []
+                },
+                "entity_annotation": [
+                    "ingredients"
+                ]
+            }
+        ],
+        "clusters": {
+            "the extract": {
+                "entity_cluster": [
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract",
+                    "extract",
+                    "extract",
+                    "the extract",
+                    "extract"
+                ],
+                "attribute_cluster": {
+                    "location": [
+                        "location"
+                    ]
+                }
+            },
+            "the milk": {
+                "entity_cluster": [
+                    "the milk",
+                    "sugar or syrup",
+                    "ingredients",
+                    "the oil",
+                    "the sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "milk",
+                    "sugar or syrup",
+                    "ingredients",
+                    "oil",
+                    "sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "the milk",
+                    "sugar or syrup",
+                    "ingredient",
+                    "the oil",
+                    "the sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "milk",
+                    "sugar or syrup",
+                    "ingredients",
+                    "oil",
+                    "sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "milk",
+                    "sugar or syrup",
+                    "ingredients",
+                    "oil",
+                    "sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "milk",
+                    "sugar or syrup",
+                    "ingredient",
+                    "oil",
+                    "sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "the milk",
+                    "sugar or syrup",
+                    "ingredient",
+                    "the oil",
+                    "the sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "milk",
+                    "sugar or syrup",
+                    "ingredient",
+                    "oil",
+                    "sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk",
+                    "the milk",
+                    "sugar or syrup",
+                    "ingredient",
+                    "the oil",
+                    "the sugar or syrup",
+                    "oil",
+                    "ingredient",
+                    "milk"
+                ],
+                "attribute_cluster": {
+                    "location": [
+                        "location"
+                    ],
+                    "container": [
+                        "container"
+                    ],
+                    "wetness": [
+                        "wetness"
+                    ],
+                    "texture": [
+                        "texture"
+                    ]
+                }
+            },
+            "contents of blender": {
+                "entity_cluster": [
+                    "contents of blender",
+                    "pineapple"
+                ],
+                "attribute_cluster": {
+                    "size": [
+                        "size"
+                    ],
+                    "location": [
+                        "location"
+                    ],
+                    "shape": [
+                        "shape"
+                    ],
+                    "composition": [
+                        "composition"
+                    ]
+                }
+            },
+            "sherbet": {
+                "entity_cluster": [
+                    "sherbet",
+                    "the sherbet",
+                    "the mixture",
+                    "mixture",
+                    "sherbet",
+                    "sherbet",
+                    "mixture",
+                    "mixture",
+                    "sherbet",
+                    "the sherbet",
+                    "the mixture",
+                    "mixture"
+                ],
+                "attribute_cluster": {
+                    "composition": [
+                        "composition"
+                    ],
+                    "temperature": [
+                        "temperature"
+                    ],
+                    "texture": [
+                        "texture"
+                    ],
+                    "location": [
+                        "location"
+                    ],
+                    "container": [
+                        "container"
+                    ],
+                    "size": [
+                        "size"
+                    ],
+                    "shape": [
+                        "shape"
+                    ]
+                }
+            },
+            "blender": {
+                "entity_cluster": [
+                    "blender blades",
+                    "blender",
+                    "the blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blades",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender",
+                    "blender blade",
+                    "blender",
+                    "blender",
+                    "blender blade",
+                    "blender",
+                    "the blender"
+                ],
+                "attribute_cluster": {
+                    "volume": [
+                        "volume"
+                    ],
+                    "weight": [
+                        "weight"
+                    ],
+                    "cleanness": [
+                        "cleanness"
+                    ],
+                    "wetness": [
+                        "wetness"
+                    ],
+                    "container": [
+                        "container"
+                    ],
+                    "smell": [
+                        "smell"
+                    ],
+                    "power": [
+                        "power"
+                    ],
+                    "movement": [
+                        "movement"
+                    ]
+                }
+            },
+            "the wax paper": {
+                "entity_cluster": [
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish",
+                    "plate",
+                    "wax paper",
+                    "baking dish",
+                    "the plate",
+                    "the wax paper",
+                    "the baking dish"
+                ],
+                "attribute_cluster": {
+                    "volume": [
+                        "volume"
+                    ],
+                    "container": [
+                        "container"
+                    ],
+                    "weight": [
+                        "weight"
+                    ],
+                    "cleanness": [
+                        "cleanness"
+                    ],
+                    "wetness": [
+                        "wetness"
+                    ],
+                    "temperature": [
+                        "temperature"
+                    ],
+                    "location": [
+                        "location"
+                    ],
+                    "inside a freezer": [
+                        "inside a freezer"
+                    ]
+                }
+            },
+            "sugar": {
+                "entity_cluster": [
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar",
+                    "sugar"
+                ],
+                "attribute_cluster": {
+                    "location": [
+                        "location"
+                    ],
+                    "wetness": [
+                        "wetness"
+                    ]
+                }
+            },
+            "freezer": {
+                "entity_cluster": [
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator",
+                    "freezer",
+                    "refrigerator",
+                    "freezer",
+                    "the refrigerator"
+                ],
+                "attribute_cluster": {
+                    "volume": [
+                        "volume"
+                    ],
+                    "weight": [
+                        "weight"
+                    ]
+                }
+            },
+            "scoop": {
+                "entity_cluster": [
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop",
+                    "scoop"
+                ],
+                "attribute_cluster": {
+                    "wetness": [
+                        "wetness",
+                        "cleanness"
+                    ]
+                }
+            }
+        }
+    }
+}

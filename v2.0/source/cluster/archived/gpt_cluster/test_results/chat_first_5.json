@@ -1,0 +1,93 @@
+[
+    {
+        "original_entities": [
+            "the blackboard eraser | eraser",
+            "glovebox",
+            "eraser shelf at the store",
+            "windshield",
+            "inside windshield",
+            "bank account",
+            "glove box",
+            "money",
+            "hands"
+        ],
+        "input_entities": "the blackboard eraser, eraser, glovebox, eraser shelf at the store, windshield, inside windshield, bank account, glove box, money, hands",
+        "grouped_entities": [
+            "glovebox, glove box",
+            "eraser, the blackboard eraser, eraser shelf at the store",
+            "windshield, inside windshield",
+            "bank account, money, hands"
+        ]
+    },
+    {
+        "original_entities": [
+            "ingredients",
+            "dough | dough pieces",
+            "carob fruit balls",
+            "balls",
+            "mixing bowl",
+            "spoon",
+            "plate",
+            "mixture",
+            "carob",
+            "hand",
+            "bowl"
+        ],
+        "input_entities": "ingredients, dough, dough pieces, carob fruit balls, balls, mixing bowl, spoon, plate, mixture, carob, hand, bowl",
+        "grouped_entities": [
+            "mixing bowl, bowl",
+            "dough, dough pieces",
+            "carob fruit balls, balls",
+            "mixture, ingredients, carob"
+        ]
+    },
+    {
+        "original_entities": [
+            "the cookies and biscuits",
+            "cookies | biscuits",
+            "the aluminum foil",
+            "aluminum foil",
+            "the cookies",
+            "the bowl",
+            "freezer",
+            "freezer paper",
+            "baking paper",
+            "foil",
+            "container",
+            "tray"
+        ],
+        "input_entities": "the cookies and biscuits, cookies, biscuits, the aluminum foil, aluminum foil, the cookies, the bowl, freezer, freezer paper, baking paper, foil, container, tray",
+        "grouped_entities": [
+            "cookies, biscuits, the cookies",
+            "aluminum foil, foil",
+            "freezer, freezer paper",
+            "baking paper, tray"
+        ]
+    },
+    {
+        "original_entities": [
+            "tip of pipe cleaner",
+            "pipe cleaner | pipe cleaners",
+            "your fingers",
+            "the torso"
+        ],
+        "input_entities": "tip of pipe cleaner, pipe cleaner, pipe cleaners, your fingers, the torso",
+        "grouped_entities": [
+            "tip of pipe cleaner, pipe cleaner, pipe cleaners",
+            "your fingers, the torso"
+        ]
+    },
+    {
+        "original_entities": [
+            "the webbing | the yarn",
+            "the hat",
+            "the piece of yarn",
+            "the ends"
+        ],
+        "input_entities": "the webbing, the yarn, the hat, the piece of yarn, the ends",
+        "grouped_entities": [
+            "the yarn, the piece of yarn",
+            "the ends"
+        ]
+    }
+]

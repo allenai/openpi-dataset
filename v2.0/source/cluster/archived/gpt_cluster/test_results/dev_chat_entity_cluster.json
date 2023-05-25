@@ -1,0 +1,1402 @@
+{
+    "1": {
+        "original_entities": [
+            "the blackboard eraser | eraser",
+            "glovebox",
+            "eraser shelf at the store",
+            "windshield",
+            "inside windshield",
+            "bank account",
+            "glove box",
+            "money",
+            "hands"
+        ],
+        "input_entities": "the blackboard eraser, eraser, glovebox, eraser shelf at the store, windshield, inside windshield, bank account, glove box, money, hands",
+        "grouped_entities": [
+            "the blackboard eraser, eraser, eraser shelf at the store",
+            "glovebox, glove box, inside glovebox",
+            "windshield, inside windshield",
+            "bank account, money",
+            "hands"
+        ]
+    },
+    "2": {
+        "original_entities": [
+            "ingredients",
+            "dough | dough pieces",
+            "carob fruit balls",
+            "balls",
+            "mixing bowl",
+            "spoon",
+            "plate",
+            "mixture",
+            "carob",
+            "hand",
+            "bowl"
+        ],
+        "input_entities": "ingredients, dough, dough pieces, carob fruit balls, balls, mixing bowl, spoon, plate, mixture, carob, hand, bowl",
+        "grouped_entities": [
+            "ingredients, mixture, carob",
+            "dough, dough pieces",
+            "carob fruit balls, balls",
+            "mixing bowl, bowl",
+            "spoon, hand",
+            "plate"
+        ]
+    },
+    "3": {
+        "original_entities": [
+            "the cookies and biscuits",
+            "cookies | biscuits",
+            "the aluminum foil",
+            "aluminum foil",
+            "the cookies",
+            "the bowl",
+            "freezer",
+            "freezer paper",
+            "baking paper",
+            "foil",
+            "container",
+            "tray"
+        ],
+        "input_entities": "the cookies and biscuits, cookies, biscuits, the aluminum foil, aluminum foil, the cookies, the bowl, freezer, freezer paper, baking paper, foil, container, tray",
+        "grouped_entities": [
+            "cookies and biscuits, cookies, biscuits, the cookies",
+            "aluminum foil, foil",
+            "the aluminum foil",
+            "the bowl",
+            "freezer, freezer paper",
+            "baking paper",
+            "container, tray"
+        ]
+    },
+    "4": {
+        "original_entities": [
+            "tip of pipe cleaner",
+            "pipe cleaner | pipe cleaners",
+            "your fingers",
+            "the torso"
+        ],
+        "input_entities": "tip of pipe cleaner, pipe cleaner, pipe cleaners, your fingers, the torso",
+        "grouped_entities": [
+            "tip of pipe cleaner",
+            "pipe cleaner, pipe cleaners",
+            "your fingers, the torso",
+            "",
+            "Note: It is not clear what procedure, task or context these objects relate to. These entities may need more context to determine a proper grouping."
+        ]
+    },
+    "5": {
+        "original_entities": [
+            "the webbing | the yarn",
+            "the hat",
+            "the piece of yarn",
+            "the ends"
+        ],
+        "input_entities": "the webbing, the yarn, the hat, the piece of yarn, the ends",
+        "grouped_entities": [
+            "the yarn",
+            "the piece of yarn",
+            "the ends"
+        ]
+    },
+    "6": {
+        "original_entities": [
+            "gun | weapon",
+            "you"
+        ],
+        "input_entities": "gun, weapon, you",
+        "grouped_entities": []
+    },
+    "7": {
+        "original_entities": [
+            "hdmi cord | hdmi converter cable | the hdmi cord",
+            "wii's av composite output",
+            "cord",
+            "tv's hdmi input",
+            "converter",
+            "tv",
+            "plug",
+            "wii",
+            "the hdmi",
+            "the cord"
+        ],
+        "input_entities": "hdmi cord, hdmi converter cable, the hdmi cord, wii's av composite output, cord, tv's hdmi input, converter, tv, plug, wii, the hdmi, the cord",
+        "grouped_entities": [
+            "hdmi cord, the hdmi cord, cord, the cord",
+            "hdmi converter cable, converter",
+            "wii's AV composite output, wii",
+            "TV's hdmi input, TV, plug, the HDMI"
+        ]
+    },
+    "8": {
+        "original_entities": [
+            "towel | the towels",
+            "closet",
+            "height of towel",
+            "hand muscles",
+            "final fold",
+            "towel rack",
+            "hand"
+        ],
+        "input_entities": "towel, the towels, closet, height of towel, hand muscles, final fold, towel rack, hand",
+        "grouped_entities": [
+            "towel, the towels",
+            "closet, towel rack",
+            "height of towel",
+            "hand muscles, hand",
+            "final fold"
+        ]
+    },
+    "9": {
+        "original_entities": [
+            "co-conspirators",
+            "gear",
+            "your spy group",
+            "you"
+        ],
+        "input_entities": "co-conspirators, gear, your spy group, you",
+        "grouped_entities": [
+            "your spy group, co-conspirators",
+            "you"
+        ]
+    },
+    "10": {
+        "original_entities": [
+            "you",
+            "enough ammo",
+            "zombies",
+            "molotov cocktails",
+            "grenades",
+            "weapons"
+        ],
+        "input_entities": "you, enough ammo, zombies, molotov cocktails, grenades, weapons",
+        "grouped_entities": [
+            "you",
+            "enough ammo, molotov cocktails, grenades, weapons",
+            "zombies"
+        ]
+    },
+    "11": {
+        "original_entities": [
+            "rhubarb | rhubarb cordial",
+            "cordial",
+            "pot",
+            "cloves",
+            "sugar",
+            "mint leaves",
+            "stove",
+            "water"
+        ],
+        "input_entities": "rhubarb, rhubarb cordial, cordial, pot, cloves, sugar, mint leaves, stove, water",
+        "grouped_entities": [
+            "rhubarb",
+            "rhubarb cordial, cordial",
+            "pot",
+            "cloves",
+            "sugar",
+            "mint leaves",
+            "stove",
+            "water"
+        ]
+    },
+    "12": {
+        "original_entities": [
+            "players | player",
+            "stage",
+            "player two",
+            "companion",
+            "goku",
+            "vs duel",
+            "mode",
+            "you",
+            "character"
+        ],
+        "input_entities": "players, player, stage, player two, companion, goku, vs duel, mode, you, character",
+        "grouped_entities": [
+            "players, player, player two, companion, you",
+            "stage",
+            "goku, character ",
+            "vs duel, mode"
+        ]
+    },
+    "13": {
+        "original_entities": [
+            "mixture ingredients | the ingredients | ingredients",
+            "ingredients",
+            "slow cooker | the slow cooker",
+            "mixture | the mixture",
+            "cocoa powder",
+            "liquid",
+            "cooker",
+            "whisk",
+            "water",
+            "smell",
+            "the outside of the slow cooker",
+            "bowl",
+            "lid",
+            "mug",
+            "the slow cooker",
+            "cocoa mixture",
+            "the knob"
+        ],
+        "input_entities": "mixture ingredients, the ingredients, ingredients, ingredients, slow cooker, the slow cooker, mixture, the mixture, cocoa powder, liquid, cooker, whisk, water, smell, the outside of the slow cooker, bowl, lid, mug, the slow cooker, cocoa mixture, the knob",
+        "grouped_entities": [
+            "mixture ingredients, the ingredients, ingredients, cocoa powder",
+            "slow cooker, the slow cooker, cooker, the outside of the slow cooker, lid",
+            "mixture, the mixture, cocoa mixture",
+            "liquid, water",
+            "whisk",
+            "bowl, mug",
+            "smell",
+            "knob"
+        ]
+    },
+    "14": {
+        "original_entities": [
+            "the pruning shears | pruning shears",
+            "the clipping | clipping",
+            "hole in ground",
+            "the rose bush",
+            "the shovel",
+            "cutting",
+            "ground",
+            "rose bush",
+            "rooting hormone",
+            "yard",
+            "area",
+            "pot",
+            "the cutting",
+            "water",
+            "roots",
+            "soil"
+        ],
+        "input_entities": "the pruning shears, pruning shears, the clipping, clipping, hole in ground, the rose bush, the shovel, cutting, ground, rose bush, rooting hormone, yard, area, pot, the cutting, water, roots, soil",
+        "grouped_entities": [
+            "the pruning shears, pruning shears",
+            "the clipping, clipping, cutting, the cutting",
+            "hole in ground, ground",
+            "the rose bush, rose bush",
+            "the shovel",
+            "rooting hormone",
+            "yard, area",
+            "pot",
+            "water",
+            "roots",
+            "soil"
+        ]
+    },
+    "15": {
+        "original_entities": [
+            "stone",
+            "fire or ice stone",
+            "the stone",
+            "bag",
+            "vulpix",
+            "fire stone"
+        ],
+        "input_entities": "stone, fire or ice stone, the stone, bag, vulpix, fire stone",
+        "grouped_entities": [
+            "stone, the stone",
+            "fire or ice stone, fire stone",
+            "bag, vulpix"
+        ]
+    },
+    "16": {
+        "original_entities": [
+            "faucets | faucet | tap",
+            "lemon",
+            "juice | facuets",
+            "cutting board",
+            "lemon juice",
+            "knife",
+            "water"
+        ],
+        "input_entities": "faucets, faucet, tap, lemon, juice, facuets, cutting board, lemon juice, knife, water",
+        "grouped_entities": [
+            "faucets, faucet, tap",
+            "lemon",
+            "juice, lemon juice",
+            "cutting board",
+            "knife",
+            "water"
+        ]
+    },
+    "17": {
+        "original_entities": [
+            "onion",
+            "meat | fat | pan",
+            "grease c ontainer",
+            "tomato",
+            "grease container",
+            "ingredients | spices",
+            "serving bowl",
+            "hot sauce",
+            "spatula",
+            "skillet",
+            "liquids",
+            "grease",
+            "cheese",
+            "flavor",
+            "recipe",
+            "knife",
+            "beef",
+            "food",
+            "frying pan",
+            "bowl",
+            "stove",
+            "sink"
+        ],
+        "input_entities": "onion, meat, fat, pan, grease c ontainer, tomato, grease container, ingredients, spices, serving bowl, hot sauce, spatula, skillet, liquids, grease, cheese, flavor, recipe, knife, beef, food, frying pan, bowl, stove, sink",
+        "grouped_entities": [
+            "onion",
+            "meat, beef",
+            "fat, grease, grease container",
+            "pan, skillet, frying pan",
+            "tomato",
+            "ingredients, spices, liquids",
+            "serving bowl, bowl",
+            "hot sauce",
+            "spatula, knife",
+            "cheese",
+            "flavor, recipe",
+            "food",
+            "stove",
+            "sink"
+        ]
+    },
+    "18": {
+        "original_entities": [
+            "eraser",
+            "floor | lineoleum",
+            "linoleum",
+            "skid mark",
+            "hands",
+            "hand muscles",
+            "body | person",
+            "you",
+            "water"
+        ],
+        "input_entities": "eraser, floor, lineoleum, linoleum, skid mark, hands, hand muscles, body, person, you, water",
+        "grouped_entities": []
+    },
+    "19": {
+        "original_entities": [
+            "up/down and left/right arrows",
+            "you",
+            "character parts",
+            "completed level",
+            "free play",
+            "character",
+            "game"
+        ],
+        "input_entities": "up/down and left/right arrows, you, character parts, completed level, free play, character, game",
+        "grouped_entities": [
+            "up/down and left/right arrows",
+            "you, character parts, character",
+            "completed level",
+            "free play",
+            "game"
+        ]
+    },
+    "20": {
+        "original_entities": [
+            "the cream cheese | cream cheese and marshmallow",
+            "marshmallow",
+            "the mixing bowl | the clean bowl",
+            "mixtre | mixture",
+            "the marshmallow cream | marshmallow cream | cream cheese",
+            "the knife",
+            "the fruit | fruit",
+            "the mixture | bowl",
+            "the bowl",
+            "blender",
+            "ingredients"
+        ],
+        "input_entities": "the cream cheese, cream cheese and marshmallow, marshmallow, the mixing bowl, the clean bowl, mixtre, mixture, the marshmallow cream, marshmallow cream, cream cheese, the knife, the fruit, fruit, the mixture, bowl, the bowl, blender, ingredients",
+        "grouped_entities": [
+            "the cream cheese, cream cheese",
+            "cream cheese and marshmallow, marshmallow",
+            "the mixing bowl, the clean bowl, bowl, the bowl",
+            "mixture, the mixture",
+            "the marshmallow cream, marshmallow cream",
+            "the knife",
+            "the fruit, fruit",
+            "blender",
+            "ingredients"
+        ]
+    },
+    "21": {
+        "original_entities": [
+            "instructions",
+            "washing machine",
+            "clothing",
+            "polar fleece",
+            "fleece",
+            "detergent",
+            "gore-tex",
+            "dirt"
+        ],
+        "input_entities": "instructions, washing machine, clothing, polar fleece, fleece, detergent, gore-tex, dirt",
+        "grouped_entities": [
+            "instructions",
+            "washing machine",
+            "clothing, polar fleece, fleece, gore-tex",
+            "detergent",
+            "dirt"
+        ]
+    },
+    "22": {
+        "original_entities": [
+            "your weight",
+            "ability to identify non-dominant leg",
+            "ability to identify dominant foot",
+            "weight",
+            "foot | dominant foot | feet",
+            "your foot",
+            "both feet",
+            "the tires",
+            "the chain",
+            "ability to identify bike shaft",
+            "ability to identify handlebars",
+            "ability to ride a bike",
+            "you | hands",
+            "bike | bicycle",
+            "bicycle",
+            "non-dominant foot",
+            "center of gravity",
+            "pedals",
+            "grip on bike",
+            "handbrakes",
+            "speed"
+        ],
+        "input_entities": "your weight, ability to identify non-dominant leg, ability to identify dominant foot, weight, foot, dominant foot, feet, your foot, both feet, the tires, the chain, ability to identify bike shaft, ability to identify handlebars, ability to ride a bike, you, hands, bike, bicycle, bicycle, non-dominant foot, center of gravity, pedals, grip on bike, handbrakes, speed",
+        "grouped_entities": [
+            "your weight, weight",
+            "ability to identify non-dominant leg, ability to identify dominant foot, non-dominant foot, dominant foot, your foot, both feet",
+            "the tires",
+            "the chain, bike shaft",
+            "ability to ride a bike",
+            "you",
+            "hands, grip on bike, handbrakes",
+            "bike, bicycle",
+            "center of gravity",
+            "pedals",
+            "speed, ability to control speed"
+        ]
+    },
+    "23": {
+        "original_entities": [
+            "passenger position",
+            "other passengers",
+            "boat | person",
+            "boarding plank",
+            "room on boat",
+            "legs",
+            "passenger",
+            "jumping",
+            "paddle",
+            "plank",
+            "dock",
+            "arms",
+            "gravity",
+            "other person",
+            "handrails",
+            "water",
+            "handrail",
+            "movement",
+            "hands"
+        ],
+        "input_entities": "passenger position, other passengers, boat, person, boarding plank, room on boat, legs, passenger, jumping, paddle, plank, dock, arms, gravity, other person, handrails, water, handrail, movement, hands",
+        "grouped_entities": [
+            "passenger position",
+            "other passengers, other person",
+            "boat",
+            "person, passenger",
+            "boarding plank, plank",
+            "room on boat",
+            "legs",
+            "jumping",
+            "paddle",
+            "dock",
+            "arms, hands",
+            "gravity",
+            "handrails, handrail",
+            "water",
+            "movement"
+        ]
+    },
+    "24": {
+        "original_entities": [
+            "rum",
+            "strawberry",
+            "smoothie | mixture | ingredients",
+            "blender",
+            "glasses | glass",
+            "sorber | fruit and sorbet | sorbet",
+            "glass",
+            "yogurt",
+            "ingredients",
+            "bottle",
+            "banana | bananas",
+            "fruit",
+            "items",
+            "liquid"
+        ],
+        "input_entities": "rum, strawberry, smoothie, mixture, ingredients, blender, glasses, glass, sorber, fruit and sorbet, sorbet, glass, yogurt, ingredients, bottle, banana, bananas, fruit, items, liquid",
+        "grouped_entities": [
+            "rum",
+            "strawberry, fruit, fruit and sorbet, bananas, banana",
+            "smoothie, mixture, liquid",
+            "ingredients",
+            "blender",
+            "glasses, glass",
+            "sorbet",
+            "yogurt",
+            "bottle, items"
+        ]
+    },
+    "25": {
+        "original_entities": [
+            "suitable paper for pinwheels",
+            "wreath base",
+            "pinwheels",
+            "ribbon",
+            "paper",
+            "twine"
+        ],
+        "input_entities": "suitable paper for pinwheels, wreath base, pinwheels, ribbon, paper, twine",
+        "grouped_entities": [
+            "suitable paper for pinwheels, paper",
+            "wreath base",
+            "pinwheels",
+            "ribbon",
+            "twine"
+        ]
+    },
+    "26": {
+        "original_entities": [
+            "ends | square ends",
+            "wax paper",
+            "hanger | wire",
+            "crepe paper",
+            "hanger ends",
+            "squares",
+            "pliers",
+            "wire hanger",
+            "paper squares",
+            "paper",
+            "fingers",
+            "wreath",
+            "table",
+            "tool",
+            "hands"
+        ],
+        "input_entities": "ends, square ends, wax paper, hanger, wire, crepe paper, hanger ends, squares, pliers, wire hanger, paper squares, paper, fingers, wreath, table, tool, hands",
+        "grouped_entities": [
+            "ends, square ends, hanger ends",
+            "wax paper, crepe paper, paper squares, paper",
+            "hanger, wire hanger, wire",
+            "squares",
+            "pliers, tool",
+            "fingers, hands",
+            "wreath",
+            "table"
+        ]
+    },
+    "27": {
+        "original_entities": [
+            "potatoes | potato",
+            "peels | peeler | pan | vegetable peeler",
+            "cloth",
+            "potato pieces",
+            "water faucet",
+            "serving dish",
+            "stove | stove burner",
+            "potaoto",
+            "oil",
+            "ribbons",
+            "kitchen counter",
+            "spatula",
+            "platter",
+            "water",
+            "sink",
+            "bowl"
+        ],
+        "input_entities": "potatoes, potato, peels, peeler, pan, vegetable peeler, cloth, potato pieces, water faucet, serving dish, stove, stove burner, potaoto, oil, ribbons, kitchen counter, spatula, platter, water, sink, bowl",
+        "grouped_entities": [
+            "potatoes, potato, potaoto, potato pieces",
+            "peels, peeler, vegetable peeler",
+            "pan, serving dish, platter",
+            "cloth",
+            "water faucet, water",
+            "stove, stove burner",
+            "oil",
+            "ribbons",
+            "kitchen counter",
+            "spatula",
+            "sink",
+            "bowl"
+        ]
+    },
+    "28": {
+        "original_entities": [
+            "kitchen towel | towel",
+            "drink",
+            "bolt",
+            "assembly",
+            "new bolt | old bolt",
+            "rust",
+            "bottle",
+            "wrench",
+            "soda",
+            "cup",
+            "fizzy drink",
+            "towel",
+            "hands"
+        ],
+        "input_entities": "kitchen towel, towel, drink, bolt, assembly, new bolt, old bolt, rust, bottle, wrench, soda, cup, fizzy drink, towel, hands",
+        "grouped_entities": [
+            "kitchen towel, towel, towel",
+            "drink, soda, fizzy drink, bottle, cup",
+            "bolt, assembly, new bolt, old bolt, rust, wrench",
+            "hands"
+        ]
+    },
+    "29": {
+        "original_entities": [
+            "asparagus",
+            "heating element",
+            "stove buttons",
+            "oil container",
+            "cutting board",
+            "roasting pan",
+            "oven | oven racks | oven rock",
+            "rubber band",
+            "tin | oil",
+            "main dish",
+            "display",
+            "ham | pan",
+            "oil",
+            "knife | blade",
+            "pan",
+            "spears",
+            "temperature",
+            "baking tray",
+            "baking tin",
+            "vegetables",
+            "oven mitts",
+            "oven door",
+            "olive oil",
+            "container",
+            "dish",
+            "pieces",
+            "timer",
+            "room",
+            "food"
+        ],
+        "input_entities": "asparagus, heating element, stove buttons, oil container, cutting board, roasting pan, oven, oven racks, oven rock, rubber band, tin, oil, main dish, display, ham, pan, oil, knife, blade, pan, spears, temperature, baking tray, baking tin, vegetables, oven mitts, oven door, olive oil, container, dish, pieces, timer, room, food",
+        "grouped_entities": [
+            "asparagus, spears, vegetables, pieces, food",
+            "heating element, oven, oven racks, oven rock, temperature, oven door",
+            "stove buttons, timer",
+            "oil container, tin, container",
+            "cutting board, knife, blade",
+            "roasting pan, pan, baking tray, baking tin, dish",
+            "rubber band, oven mitts",
+            "main dish, display, ham, olive oil, oil"
+        ]
+    },
+    "30": {
+        "original_entities": [
+            "wicks",
+            "wick",
+            "vinegar",
+            "container",
+            "lamp",
+            "bottle",
+            "pot"
+        ],
+        "input_entities": "wicks, wick, vinegar, container, lamp, bottle, pot",
+        "grouped_entities": [
+            "wicks, wick",
+            "vinegar",
+            "container, bottle, pot",
+            "lamp"
+        ]
+    },
+    "31": {
+        "original_entities": [
+            "light",
+            "studio"
+        ],
+        "input_entities": "light, studio",
+        "grouped_entities": []
+    },
+    "32": {
+        "original_entities": [
+            "velveeta",
+            "stove burner | burner | stove",
+            "olives | jalapeno",
+            "cheese",
+            "knife | cutting board",
+            "tomatoes",
+            "stove top burner",
+            "peppers",
+            "black olives",
+            "cheese sauce",
+            "stove knob",
+            "cheese dip",
+            "sauce pan | pot | pan",
+            "rotel can",
+            "package",
+            "rotel",
+            "can"
+        ],
+        "input_entities": "velveeta, stove burner, burner, stove, olives, jalapeno, cheese, knife, cutting board, tomatoes, stove top burner, peppers, black olives, cheese sauce, stove knob, cheese dip, sauce pan, pot, pan, rotel can, package, rotel, can",
+        "grouped_entities": [
+            "velveeta, cheese",
+            "stove burner, burner, stove, stove top burner, stove knob",
+            "olives, jalapeno, tomatoes, peppers, black olives, rotel can, rotel, can",
+            "knife, cutting board",
+            "cheese sauce, cheese dip",
+            "sauce pan, pot, pan",
+            "package"
+        ]
+    },
+    "33": {
+        "original_entities": [
+            "wailmer",
+            "battle frontier location",
+            "candy",
+            "ball"
+        ],
+        "input_entities": "wailmer, battle frontier location, candy, ball",
+        "grouped_entities": []
+    },
+    "34": {
+        "original_entities": [
+            "game character",
+            "the route",
+            "route",
+            "bomb",
+            "pistol",
+            "you",
+            "routes"
+        ],
+        "input_entities": "game character, the route, route, bomb, pistol, you, routes",
+        "grouped_entities": [
+            "game character",
+            "the route, route, routes",
+            "bomb, pistol",
+            "you"
+        ]
+    },
+    "35": {
+        "original_entities": [
+            "paintbrush | the brush",
+            "the coating of paint",
+            "wood | the wood",
+            "paint | brushes",
+            "bubbles",
+            "coat",
+            "caulking compound",
+            "oil based paint",
+            "paint direction",
+            "paint thickness",
+            "degree of care",
+            "paint bubbles",
+            "caulking gun",
+            "paint brush",
+            "drop clothq",
+            "linseed oil",
+            "paint base",
+            "drop cloth",
+            "bare wood",
+            "precision",
+            "brush",
+            "drips",
+            "pools",
+            "tin",
+            "floor"
+        ],
+        "input_entities": "paintbrush, the brush, the coating of paint, wood, the wood, paint, brushes, bubbles, coat, caulking compound, oil based paint, paint direction, paint thickness, degree of care, paint bubbles, caulking gun, paint brush, drop clothq, linseed oil, paint base, drop cloth, bare wood, precision, brush, drips, pools, tin, floor",
+        "grouped_entities": [
+            "paintbrush, the brush, brushes, paint brush, brush",
+            "the coating of paint, paint base",
+            "wood, the wood, bare wood",
+            "paint",
+            "bubbles, paint bubbles",
+            "coat",
+            "caulking compound, caulking gun",
+            "oil based paint, linseed oil",
+            "paint direction",
+            "paint thickness",
+            "degree of care, precision",
+            "drips, pools",
+            "tin",
+            "drop cloth, drop clothq",
+            "floor"
+        ]
+    },
+    "36": {
+        "original_entities": [
+            "ingredients | seasoned salt",
+            "air-tight container | container",
+            "sandwiches",
+            "salads",
+            "mortar | mortar and pestle",
+            "ingredient mixture",
+            "soups",
+            "mixture particles",
+            "dips",
+            "pestle",
+            "salt | celery salt",
+            "black pepper | pepper mill",
+            "mixture",
+            "storage container",
+            "container cover",
+            "salad dressings",
+            "measuring cup",
+            "dry mustard",
+            "salt shaker",
+            "spoon",
+            "bowl",
+            "cover",
+            "lid",
+            "food"
+        ],
+        "input_entities": "ingredients, seasoned salt, air-tight container, container, sandwiches, salads, mortar, mortar and pestle, ingredient mixture, soups, mixture particles, dips, pestle, salt, celery salt, black pepper, pepper mill, mixture, storage container, container cover, salad dressings, measuring cup, dry mustard, salt shaker, spoon, bowl, cover, lid, food",
+        "grouped_entities": [
+            "ingredients, ingredient mixture, mixture, mixture particles",
+            "seasoned salt, celery salt, black pepper, dry mustard",
+            "air-tight container, container, storage container, container cover, cover, lid",
+            "sandwiches, salads, soups, dips, salad dressings, food",
+            "mortar, mortar and pestle, pestle",
+            "salt, salt shaker, spoon",
+            "pepper mill"
+        ]
+    },
+    "37": {
+        "original_entities": [
+            "camouflage net",
+            "camouflage",
+            "weapon | hat | hay",
+            "vehicle camouflage net",
+            "equipment",
+            "rucksack",
+            "vehicle",
+            "webbing",
+            "surface",
+            "leaves",
+            "helmet"
+        ],
+        "input_entities": "camouflage net, camouflage, weapon, hat, hay, vehicle camouflage net, equipment, rucksack, vehicle, webbing, surface, leaves, helmet",
+        "grouped_entities": [
+            "camouflage net, vehicle camouflage net",
+            "camouflage",
+            "weapon",
+            "hat, helmet",
+            "hay, leaves",
+            "equipment, rucksack, webbing",
+            "surface",
+            "vehicle"
+        ]
+    },
+    "38": {
+        "original_entities": [
+            "oil tank | oil container | oil can | oil",
+            "oil | air | oil bottle",
+            "bung | the bung",
+            "oil filter",
+            "old oil",
+            "oil cap",
+            "funnel",
+            "jug"
+        ],
+        "input_entities": "oil tank, oil container, oil can, oil, oil, air, oil bottle, bung, the bung, oil filter, old oil, oil cap, funnel, jug",
+        "grouped_entities": [
+            "oil tank",
+            "oil container, oil can, oil, oil bottle",
+            "air",
+            "bung, the bung",
+            "oil filter",
+            "old oil",
+            "oil cap",
+            "funnel",
+            "jug"
+        ]
+    },
+    "39": {
+        "original_entities": [
+            "tape | duct tape",
+            "duct table",
+            "duct tape",
+            "ends",
+            "tape ends"
+        ],
+        "input_entities": "tape, duct tape, duct table, duct tape, ends, tape ends",
+        "grouped_entities": [
+            "tape",
+            "duct tape",
+            "duct table",
+            "ends, tape ends"
+        ]
+    },
+    "40": {
+        "original_entities": [
+            "containers",
+            "plant | container | bag",
+            "soil",
+            "shovel",
+            "money",
+            "hands",
+            "water",
+            "buds",
+            "fir"
+        ],
+        "input_entities": "containers, plant, container, bag, soil, shovel, money, hands, water, buds, fir",
+        "grouped_entities": [
+            "containers, container, bag",
+            "plant, buds",
+            "soil",
+            "shovel, hands",
+            "water",
+            "money",
+            "fir"
+        ]
+    },
+    "41": {
+        "original_entities": [
+            "fairy house frame",
+            "sticks | twigs",
+            "fairy house",
+            "twigs",
+            "walls",
+            "bundle",
+            "area"
+        ],
+        "input_entities": "fairy house frame, sticks, twigs, fairy house, twigs, walls, bundle, area",
+        "grouped_entities": [
+            "fairy house frame",
+            "sticks, twigs, bundle",
+            "fairy house, walls",
+            "area"
+        ]
+    },
+    "42": {
+        "original_entities": [
+            "flour and salt",
+            "mixture | mixture in bowl",
+            "pastry",
+            "edges",
+            "dough",
+            "dry and wet ingredients",
+            "bowl",
+            "edge",
+            "fork",
+            "fridge light",
+            "mixing bowl",
+            "fridge door",
+            "pie dish",
+            "ingredients",
+            "oil",
+            "wax paper"
+        ],
+        "input_entities": "flour and salt, mixture, mixture in bowl, pastry, edges, dough, dry and wet ingredients, bowl, edge, fork, fridge light, mixing bowl, fridge door, pie dish, ingredients, oil, wax paper",
+        "grouped_entities": [
+            "flour and salt, dry and wet ingredients, ingredients",
+            "mixture, mixture in bowl",
+            "pastry, dough",
+            "bowl, mixing bowl, pie dish",
+            "edges, edge",
+            "fork",
+            "fridge light, fridge door",
+            "oil",
+            "wax paper"
+        ]
+    },
+    "43": {
+        "original_entities": [
+            "plant",
+            "moss",
+            "fairy moss",
+            "container",
+            "continer",
+            "containter",
+            "bowl contents",
+            "water",
+            "bowl"
+        ],
+        "input_entities": "plant, moss, fairy moss, container, continer, containter, bowl contents, water, bowl",
+        "grouped_entities": [
+            "plant",
+            "moss, fairy moss",
+            "container, continer, containter",
+            "bowl contents",
+            "water",
+            "bowl"
+        ]
+    },
+    "44": {
+        "original_entities": [
+            "chocolate | chocolates | choclate",
+            "molds, mug, chocolate",
+            "molds | mold",
+            "ingredients",
+            "microwave",
+            "chocolate bars",
+            "spoon"
+        ],
+        "input_entities": "chocolate, chocolates, choclate, molds, mug, chocolate, molds, mold, ingredients, microwave, chocolate bars, spoon",
+        "grouped_entities": [
+            "chocolate, chocolates, choclate, chocolate bars",
+            "molds, mold",
+            "mug, spoon",
+            "ingredients",
+            "microwave"
+        ]
+    },
+    "45": {
+        "original_entities": [
+            "bubbles | bubble solution",
+            "coat hanger",
+            "mixing jar",
+            "soap | water",
+            "mixture",
+            "person",
+            "water surface",
+            "bubble want",
+            "hanger",
+            "bowl",
+            "wire"
+        ],
+        "input_entities": "bubbles, bubble solution, coat hanger, mixing jar, soap, water, mixture, person, water surface, bubble want, hanger, bowl, wire",
+        "grouped_entities": [
+            "bubbles",
+            "bubble solution, mixture",
+            "coat hanger, hanger, wire",
+            "mixing jar, bowl",
+            "soap",
+            "water, water surface",
+            "person",
+            "bubble wand"
+        ]
+    },
+    "46": {
+        "original_entities": [
+            "throw rugs and inside door mats | rugs",
+            "waste basket | waste baskets",
+            "rooms",
+            "trash cans",
+            "throw rugs | door mats",
+            "house | duster",
+            "trash",
+            "surfaces | glass surfaces",
+            "spray cleaner",
+            "straw items",
+            "trash bag | trash bags",
+            "mats",
+            "dust",
+            "items"
+        ],
+        "input_entities": "throw rugs and inside door mats, rugs, waste basket, waste baskets, rooms, trash cans, throw rugs, door mats, house, duster, trash, surfaces, glass surfaces, spray cleaner, straw items, trash bag, trash bags, mats, dust, items",
+        "grouped_entities": [
+            "throw rugs, rugs, inside door mats, door mats, mats",
+            "waste basket, waste baskets, trash cans, trash bag, trash bags, trash, items",
+            "rooms, house",
+            "duster, dust",
+            "surfaces, glass surfaces",
+            "spray cleaner",
+            "straw items"
+        ]
+    },
+    "47": {
+        "original_entities": [
+            "screens",
+            "master bedroom | living room | living/dining room",
+            "stuff",
+            "gems",
+            "outside area",
+            "kids room"
+        ],
+        "input_entities": "screens, master bedroom, living room, living/dining room, stuff, gems, outside area, kids room",
+        "grouped_entities": [
+            "",
+            "Screens could potentially be grouped with any of the other rooms if they are used to divide the space.",
+            "Master bedroom and kids room could be grouped as they are both bedrooms, but the other rooms do not fit this category.",
+            "Living room and living/dining room could potentially be grouped together as they are both spaces for socializing and relaxation.",
+            "\"Stuff\" is too broad and could potentially refer to items in any of the rooms.",
+            "Gems and outside area do not fit into any of the other categories. ",
+            "",
+            "So, the grouped objects are:",
+            "Master bedroom, kids room",
+            "Living room, living/dining room",
+            "Screens (depending on their use)",
+            "Gems",
+            "Outside area",
+            "Stuff (too broad to categorize accurately)"
+        ]
+    },
+    "48": {
+        "original_entities": [
+            "pitcher",
+            "refrigerator",
+            "side of each glass",
+            "glass | tall glasses",
+            "mixture | liquid",
+            "honeydew",
+            "honeydew melon",
+            "ingredients",
+            "mixing spoon",
+            "spoon",
+            "task",
+            "rum and coconut",
+            "glasses",
+            "rum"
+        ],
+        "input_entities": "pitcher, refrigerator, side of each glass, glass, tall glasses, mixture, liquid, honeydew, honeydew melon, ingredients, mixing spoon, spoon, task, rum and coconut, glasses, rum",
+        "grouped_entities": [
+            "pitcher",
+            "refrigerator",
+            "side of each glass, glass, tall glasses, glasses",
+            "mixture",
+            "liquid",
+            "honeydew, honeydew melon",
+            "ingredients",
+            "mixing spoon, spoon",
+            "task",
+            "rum and coconut, rum"
+        ]
+    },
+    "49": {
+        "original_entities": [
+            "the milk | milk | the oil | oil",
+            "the extract | extract",
+            "the blender",
+            "the baking dish | baking dish",
+            "pineapple",
+            "the sugar or syrup | sugar",
+            "the refrigerator | freezer",
+            "the ingredients | mixture",
+            "the pineapple",
+            "the wax paper",
+            "scoop",
+            "the sherbet",
+            "the plate",
+            "sherbet | the mixture | mixture",
+            "the mixture | mixture",
+            "contents of blender",
+            "blender",
+            "blender blades",
+            "ingredients"
+        ],
+        "input_entities": "the milk, milk, the oil, oil, the extract, extract, the blender, the baking dish, baking dish, pineapple, the sugar or syrup, sugar, the refrigerator, freezer, the ingredients, mixture, the pineapple, the wax paper, scoop, the sherbet, the plate, sherbet, the mixture, mixture, the mixture, mixture, contents of blender, blender, blender blades, ingredients",
+        "grouped_entities": [
+            "the milk, milk",
+            "the oil, oil",
+            "the extract, extract",
+            "the blender, contents of blender, blender blades",
+            "the baking dish, baking dish",
+            "pineapple, the pineapple, the pineapple",
+            "the sugar or syrup, sugar",
+            "the refrigerator, freezer",
+            "the ingredients, ingredients",
+            "mixture, the mixture, the mixture, mixture",
+            "the wax paper, scoop, the sherbet, the plate, sherbet"
+        ]
+    },
+    "50": {
+        "original_entities": [
+            "batter | pancake batter",
+            "ketchup bottle",
+            "funnel",
+            "bottle | lid",
+            "sink",
+            "pen",
+            "pan",
+            "scrubber",
+            "fridge",
+            "faucet",
+            "hands",
+            "bowl"
+        ],
+        "input_entities": "batter, pancake batter, ketchup bottle, funnel, bottle, lid, sink, pen, pan, scrubber, fridge, faucet, hands, bowl",
+        "grouped_entities": [
+            "batter, pancake batter",
+            "ketchup bottle, bottle, lid",
+            "sink, faucet",
+            "pan",
+            "scrubber",
+            "fridge",
+            "hands",
+            "bowl",
+            "funnel",
+            "pen (assuming this is unrelated and can't be grouped with other objects)"
+        ]
+    },
+    "51": {
+        "original_entities": [
+            "window | water and dish soap on window",
+            "glass cleaner bottle",
+            "razor blade package",
+            "solvent container",
+            "soap bottle",
+            "paint",
+            "blade",
+            "soap",
+            "chemicals",
+            "splatters",
+            "solvent | chemical solvents",
+            "sponge",
+            "razor blade",
+            "glass cleaner",
+            "bucket",
+            "small paint splatters",
+            "water and dish soap",
+            "all of the paint",
+            "paint splatter",
+            "items needed",
+            "cloth"
+        ],
+        "input_entities": "window, water and dish soap on window, glass cleaner bottle, razor blade package, solvent container, soap bottle, paint, blade, soap, chemicals, splatters, solvent, chemical solvents, sponge, razor blade, glass cleaner, bucket, small paint splatters, water and dish soap, all of the paint, paint splatter, items needed, cloth",
+        "grouped_entities": [
+            "window",
+            "water and dish soap",
+            "soap bottle, soap",
+            "glass cleaner bottle, glass cleaner",
+            "solvent container, solvent, chemical solvents",
+            "sponge, cloth",
+            "razor blade package, blade, razor blade",
+            "bucket",
+            "paint, all of the paint, paint splatter, small paint splatters",
+            "chemicals, splatters, items needed"
+        ]
+    },
+    "52": {
+        "original_entities": [
+            "microphone",
+            "panels | panel",
+            "audio options",
+            "communication",
+            "menu options",
+            "voice panel",
+            "voice",
+            "game plans",
+            "team",
+            "advice",
+            "person"
+        ],
+        "input_entities": "microphone, panels, panel, audio options, communication, menu options, voice panel, voice, game plans, team, advice, person",
+        "grouped_entities": [
+            "microphone",
+            "panel, panels",
+            "audio options",
+            "communication",
+            "menu options",
+            "voice panel, voice",
+            "game plans",
+            "team",
+            "advice, person (These two are not directly related to the other objects in the list, so they don't fit in a specific group with them.)"
+        ]
+    },
+    "53": {
+        "original_entities": [
+            "macaroni",
+            "oil",
+            "drinking glass | drinks",
+            "salt and oil | oil/water/pasta/salt",
+            "water",
+            "pan | stirring tool",
+            "chilled drinks",
+            "serving dish",
+            "red chilli powder",
+            "saucepan",
+            "strainer",
+            "the time",
+            "fork",
+            "white vinegar",
+            "plate",
+            "sink",
+            "task",
+            "ajino moto",
+            "soy sauce",
+            "stove burner",
+            "flavorings macaroni",
+            "food",
+            "salt",
+            "oil/macaroni",
+            "boiling pot",
+            "spatula",
+            "sun",
+            "mixture",
+            "ingredients",
+            "you"
+        ],
+        "input_entities": "macaroni, oil, drinking glass, drinks, salt and oil, oil/water/pasta/salt, water, pan, stirring tool, chilled drinks, serving dish, red chilli powder, saucepan, strainer, the time, fork, white vinegar, plate, sink, task, ajino moto, soy sauce, stove burner, flavorings macaroni, food, salt, oil/macaroni, boiling pot, spatula, sun, mixture, ingredients, you",
+        "grouped_entities": [
+            "macaroni, pasta, oil/water/pasta/salt",
+            "oil, salt and oil, oil/macaroni",
+            "drinking glass, drinks, chilled drinks",
+            "water, boiling pot",
+            "pan, saucepan",
+            "stirring tool, spatula",
+            "serving dish, plate",
+            "red chilli powder, ajino moto, soy sauce, flavorings macaroni, mixture, ingredients",
+            "strainer",
+            "the time, sun",
+            "fork",
+            "white vinegar",
+            "sink",
+            "task",
+            "food",
+            "stove burner",
+            "you"
+        ]
+    },
+    "54": {
+        "original_entities": [
+            "the beads | beads | the bead | bead",
+            "the strip of elastic",
+            "elastic ends",
+            "elastic",
+            "tail | tails",
+            "small bead",
+            "you"
+        ],
+        "input_entities": "the beads, beads, the bead, bead, the strip of elastic, elastic ends, elastic, tail, tails, small bead, you",
+        "grouped_entities": [
+            "the beads, beads, the bead, bead, small bead",
+            "the strip of elastic, elastic ends, elastic, tail, tails",
+            "you"
+        ]
+    },
+    "55": {
+        "original_entities": [
+            "underwear | underwears",
+            "underpants | floor",
+            "underwear strips",
+            "bundle of old underwear",
+            "plants",
+            "garden plants",
+            "donation box",
+            "pillow case",
+            "scissors",
+            "quality undies",
+            "child",
+            "pants"
+        ],
+        "input_entities": "underwear, underwears, underpants, floor, underwear strips, bundle of old underwear, plants, garden plants, donation box, pillow case, scissors, quality undies, child, pants",
+        "grouped_entities": [
+            "underwear, underwears, underpants, quality undies, pants",
+            "floor",
+            "underwear strips",
+            "bundle of old underwear",
+            "plants, garden plants",
+            "donation box",
+            "pillow case",
+            "scissors",
+            "child"
+        ]
+    }
+}
