@@ -1,0 +1,204 @@
+{
+    "input": [
+        {
+            "id": "1",
+            "goal": "Make a Simple Inside Windshield Cleaner",
+            "steps": [
+                "Purchase a blackboard eraser.",
+                "Keep the blackboard eraser in the glove box or attach it to a spot on or near the car door for easy access.",
+                "Use the eraser to clean the inner side of the windshield.",
+                "Replace after use."
+            ]
+        },
+        {
+            "id": "2",
+            "goal": "Make Carob Fruit Balls",
+            "steps": [
+                "Mix all of the ingredients together.",
+                "Roll into small balls.",
+                "Place in the freezer for half an hour.",
+                "Serve."
+            ]
+        },
+        {
+            "id": "3",
+            "goal": "Freeze Baked Cookies or Biscuits",
+            "steps": [
+                "Place the biscuits or cookies into a rigid, airtight container.",
+                "Separate the biscuits and cookies using freezer paper, baking paper, or foil.",
+                "Place biscuits in freezer.",
+                "Thaw."
+            ]
+        },
+        {
+            "id": "4",
+            "goal": "Make a Pipe Cleaner Bird",
+            "steps": [
+                "Bend one pipe cleaner in half to form the legs.",
+                "Shape another pipe cleaner to form the body.",
+                "Move 1.5 inches (3.8 cm) from the tip of where the beak should be.",
+                "Use 2 pipe cleaners to enlarge the torso."
+            ]
+        },
+        {
+            "id": "5",
+            "goal": "Spool Knit a Winter Hat",
+            "steps": [
+                "Knit eighty-four inches of flat web.",
+                "Begin five inches from the end of the web, turn and sew into a rectangular form five inches wide and eight inches long.",
+                "Join the five-inch ends, and draw in the top with the needle and a piece of the material from which the cap was made.",
+                "After securing the top, twist and fold the piece of yarn remaining for a cord and fasten a number of strands of yarn through the loop for a tassel."
+            ]
+        },
+        {
+            "id": "6",
+            "goal": "Get a Headshot in Gears of War",
+            "steps": [
+                "Sniper \u2014 Simply aim at the head and pull the trigger, unless you're the host, in which case you will need to aim in front of where they're going.",
+                "Shotgun \u2014 The aim on the shotgun is almost like a rectangle.",
+                "Pistol \u2014 I'm not sure because I haven't played in a while, but it's either six or seven shots to the head with the standard-issue pistol for a headshot.",
+                "BoomShot \u2014 BoomShot headshots are possible \u2014 don't let anyone tell you they're not but the chance of one happening is about a million to one."
+            ]
+        },
+        {
+            "id": "7",
+            "goal": "Connect a Wii to HD TV",
+            "steps": [
+                "Plug in your HDMI cord to the cable.",
+                "Plug it into your TV's HDMI input.",
+                "Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+                "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+            ]
+        },
+        {
+            "id": "8",
+            "goal": "Fold Bath Towels for Quick Hanging at Home",
+            "steps": [
+                "Fold the towel in thirds lengthwise.",
+                "Fold in half, and then in half again.",
+                "Store the towel in the linen closet.",
+                "To go from the closet for hanging, simply unfold the final fold and hang on the towel rack."
+            ]
+        },
+        {
+            "id": "9",
+            "goal": "Be a Spy With Friends",
+            "steps": [
+                "Set-up your spy group You will need a trustworthy 2-5 person group.",
+                "It's good to have a place to keep your gear when not in use, hold meetings, and just talk in private without worrying about the nosiness of certain people in public places.",
+                "Get some gear To be a good spy, you and your friends must have gear that will help with missions.",
+                "Find your first \"victim\" The victim is the person you will be watching and spying on."
+            ]
+        },
+        {
+            "id": "10",
+            "goal": "Defeat a Thug on Dead Island",
+            "steps": [
+                "There is no chance in hell you will kill a Thug using just your bear hands and feet.",
+                "Incendiary Weapons - Grenades or Molotov Cocktails *WARNING* You may need to use a couple of these, so it is recommended that you only use one when a Thugs' health is below 50%.",
+                "Make sure your guns have enough ammo, and your knives are up to scratch.",
+                "Attack!"
+            ]
+        },
+        {
+            "id": "11",
+            "goal": "Make Rhubarb Cordial",
+            "steps": [
+                "Simmer the rhubarb with the sugar, cloves and water.",
+                "Simmer until the rhubarb becomes soft.",
+                "Remove from the heat.",
+                "Add the mint leaves for decoration."
+            ]
+        },
+        {
+            "id": "12",
+            "goal": "Get Under the Stage in Dragonball Z Budokai Tenkaichi 2",
+            "steps": [
+                "Choose VS Duel, 2 players.",
+                "Choose Goku as player one, as well as player two.",
+                "Choose Mountain Road as the stage.",
+                "Move to opposite ends of the street so that you are both against the Wall that keeps you in the stage."
+            ]
+        },
+        {
+            "id": "13",
+            "goal": "Make Slow Cooker Hot Cocoa",
+            "steps": [
+                "Make the initial cocoa mixture.",
+                "Add all the ingredients in a slow cooker.",
+                "Allow the mixture to heat for 3 hours on a low setting.",
+                "Serve immediately or keep the slow cooker on a \"Keep Warm\" setting."
+            ]
+        },
+        {
+            "id": "14",
+            "goal": "Grow a Rose Bush from Rose Bush Cuttings",
+            "steps": [
+                "Prepare the pot or area in your yard where you plan to plant your clipping.",
+                "Take a cutting from the rose bush you would like to grow your new bush from.",
+                "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+                "Immediately plant the cutting."
+            ]
+        },
+        {
+            "id": "15",
+            "goal": "Evolve Vulpix in Pok\u00e9mon",
+            "steps": [
+                "######Catch or trade for a Vulpix.",
+                "######Find a fire stone (or Ice Stone in Sun/Moon to evolve Alolan Vulpix).",
+                "Go to your bag and select the stone required.",
+                "######Wait for the evolution animation to pop up."
+            ]
+        },
+        {
+            "id": "16",
+            "goal": "Polish a Faucet With a Lemon",
+            "steps": [
+                "######Cut a lemon in half.",
+                "######Squeeze out the juice.",
+                "######Take the squeezed out lemon half and rub vigorously over the faucets.",
+                "######Wash the tap after scouring with the lemon half."
+            ]
+        },
+        {
+            "id": "17",
+            "goal": "Make Taco Filling",
+            "steps": [
+                "Brown the meat and the onion in a medium sized frying pan.",
+                "Drain the excess fat.",
+                "Add the remaining ingredients (except for the hot sauce) and simmer for fifteen minutes.",
+                "Finished."
+            ]
+        },
+        {
+            "id": "18",
+            "goal": "Remove Black Skid Marks from Linoleum",
+            "steps": [
+                "Obtain a decent sized eraser that you can hold comfortable in your fingers.",
+                "Kneel down next to the linoleum and use the eraser to rub along the skid mark.",
+                "Continue rubbing until the black mark lifts.",
+                "Wash and dry as usual."
+            ]
+        },
+        {
+            "id": "19",
+            "goal": "Create a Character in Lego Star Wars",
+            "steps": [
+                "When you begin the game, you will start as Princess Leia and Captain Antilles in the Star Wars cantina.",
+                "Use the up and down arrows to select the part of the character (hat, head, shirt, arms, hands, weapon, belt, and legs) and the left and right arrows to select through a selection of the body part you are on.",
+                "Press \"triangle\" to name it, and \"O\" to save and exit.",
+                "Now enter a completed level and turn on free play."
+            ]
+        },
+        {
+            "id": "20",
+            "goal": "Make Marshmallow Cream Cheese Fruit Dip",
+            "steps": [
+                "Blend the cream cheese and marshmallow cream until combined.",
+                "Pour the mixture into a clean bowl.",
+                "Serve with fruit or whatever else you like.",
+                "Finished."
+            ]
+        }
+    ]
+}

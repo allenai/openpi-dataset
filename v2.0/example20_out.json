@@ -1,0 +1,4130 @@
+{
+  "1": {
+    "schema": [
+      {
+        "blackboard eraser": [
+          "location",
+          "cleanness",
+          "price"
+        ]
+      },
+      {
+        "blackboard eraser": [
+          "location"
+        ],
+        "glove box": [
+          "location"
+        ],
+        "car door": [
+          "location"
+        ]
+      },
+      {
+        "blackboard eraser": [
+          "cleanness"
+        ],
+        "windshield": [
+          "cleanness"
+        ]
+      },
+      {
+        "blackboard eraser": [
+          "location"
+        ],
+        "glove box": [
+          "location"
+        ],
+        "car door": [
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "blackboard eraser",
+          "location",
+          "in store",
+          "in person's hand"
+        ],
+        [
+          "blackboard eraser",
+          "cleanness",
+          "clean",
+          "dirty"
+        ],
+        [
+          "blackboard eraser",
+          "price",
+          "higher",
+          "lower"
+        ]
+      ],
+      [
+        [
+          "blackboard eraser",
+          "location",
+          "in person's hand",
+          "in glove box or near car door"
+        ],
+        [
+          "glove box",
+          "location",
+          "empty",
+          "eraser inside"
+        ],
+        [
+          "car door",
+          "location",
+          "empty",
+          "eraser attached"
+        ]
+      ],
+      [
+        [
+          "blackboard eraser",
+          "cleanness",
+          "dirty",
+          "clean"
+        ],
+        [
+          "windshield",
+          "cleanness",
+          "dirty",
+          "clean"
+        ]
+      ],
+      [
+        [
+          "blackboard eraser",
+          "location",
+          "in glove box or near car door",
+          "in store"
+        ],
+        [
+          "glove box",
+          "location",
+          "eraser inside",
+          "empty"
+        ],
+        [
+          "car door",
+          "location",
+          "eraser attached",
+          "empty"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "windshield",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The windshield is the main focus of the instruction as it is stated that the eraser should be used to clean the inner side of the windshield. Cleaning the windshield is the primary objective, making it essential in this instruction."
+      },
+      {
+        "entity": "blackboard eraser",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The blackboard eraser is the central object in this instruction. It is explicitly mentioned as the tool to be used for cleaning the inside of the windshield. Without the eraser, the instruction cannot be completed."
+      },
+      {
+        "entity": "car door",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The car door is important as it is mentioned in the instruction to attach the blackboard eraser to a spot on or near it, making it easily accessible for use."
+      },
+      {
+        "entity": "glove box",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: The glove box is mentioned as a possible location to keep the blackboard eraser, but it is not the only option. While it provides convenience, it is not crucial to the actual cleaning process of the windshield."
+      }
+    ]
+  },
+  "2": {
+    "schema": [
+      {
+        "ingredients": [
+          "location",
+          "composition"
+        ],
+        "mixture": [
+          "composition",
+          "texture"
+        ]
+      },
+      {
+        "mixture": [
+          "texture",
+          "shape"
+        ],
+        "balls": [
+          "shape",
+          "size"
+        ]
+      },
+      {
+        "balls": [
+          "location",
+          "temperature"
+        ],
+        "freezer": [
+          "temperature"
+        ]
+      },
+      {
+        "balls": [
+          "location",
+          "temperature"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "ingredients",
+          "location",
+          "in separate containers",
+          "in bowl"
+        ],
+        [
+          "ingredients",
+          "composition",
+          "separate",
+          "mixed together"
+        ],
+        [
+          "mixture",
+          "composition",
+          "dry",
+          "wet"
+        ],
+        [
+          "mixture",
+          "texture",
+          "dry",
+          "sticky"
+        ]
+      ],
+      [
+        [
+          "mixture",
+          "texture",
+          "sticky",
+          "smooth"
+        ],
+        [
+          "mixture",
+          "shape",
+          "flat",
+          "round"
+        ],
+        [
+          "balls",
+          "shape",
+          "round",
+          "small"
+        ],
+        [
+          "balls",
+          "size",
+          "large",
+          "small"
+        ]
+      ],
+      [
+        [
+          "balls",
+          "location",
+          "on counter",
+          "in freezer"
+        ],
+        [
+          "balls",
+          "temperature",
+          "room temperature",
+          "cold"
+        ],
+        [
+          "freezer",
+          "temperature",
+          "cold",
+          "colder"
+        ]
+      ],
+      [
+        [
+          "balls",
+          "location",
+          "in freezer",
+          "in person's hand"
+        ],
+        [
+          "balls",
+          "temperature",
+          "cold",
+          "room temperature"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "mixture",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The mixture is the main component of the instruction as it is the combination of all the ingredients needed to make the carob fruit balls."
+      },
+      {
+        "entity": "freezer",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The freezer is an essential component in the instruction as it is necessary for chilling and setting the carob fruit balls."
+      },
+      {
+        "entity": "ingredients",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The ingredients are important for the instruction but not as crucial as the mixture itself, as they need to be mixed together to create the mixture for the carob fruit balls."
+      },
+      {
+        "entity": "balls",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - Rolling the mixture into small balls is less important in the overall instruction compared to other steps, as it is a specific action that is necessary for shaping the carob fruit balls, but it does not affect the final outcome as much as the other steps."
+      }
+    ]
+  },
+  "3": {
+    "schema": [
+      {
+        "biscuits/cookies": [
+          "location",
+          "temperature"
+        ],
+        "container": [
+          "airtightness",
+          "location",
+          "temperature"
+        ]
+      },
+      {
+        "biscuits/cookies": [
+          "location",
+          "temperature"
+        ],
+        "freezer paper/baking paper/foil": [
+          "location",
+          "temperature"
+        ]
+      },
+      {
+        "biscuits/cookies": [
+          "location",
+          "temperature"
+        ],
+        "freezer": [
+          "temperature"
+        ]
+      },
+      {
+        "biscuits/cookies": [
+          "location",
+          "temperature"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "biscuits/cookies",
+          "location",
+          "on baking tray",
+          "in container"
+        ],
+        [
+          "biscuits/cookies",
+          "temperature",
+          "warm",
+          "cold"
+        ],
+        [
+          "container",
+          "airtightness",
+          "open",
+          "closed"
+        ],
+        [
+          "container",
+          "location",
+          "in cupboard",
+          "on counter"
+        ],
+        [
+          "container",
+          "temperature",
+          "room temperature",
+          "cold"
+        ]
+      ],
+      [
+        [
+          "biscuits/cookies",
+          "location",
+          "in container",
+          "on freezer paper/baking paper/foil"
+        ],
+        [
+          "biscuits/cookies",
+          "temperature",
+          "cold",
+          "colder"
+        ],
+        [
+          "freezer paper/baking paper/foil",
+          "location",
+          "in cupboard",
+          "on counter"
+        ],
+        [
+          "freezer paper/baking paper/foil",
+          "temperature",
+          "room temperature",
+          "cold"
+        ]
+      ],
+      [
+        [
+          "biscuits/cookies",
+          "location",
+          "on freezer paper/baking paper/foil",
+          "in freezer"
+        ],
+        [
+          "biscuits/cookies",
+          "temperature",
+          "cold",
+          "colder"
+        ],
+        [
+          "freezer",
+          "temperature",
+          "room temperature",
+          "colder"
+        ]
+      ],
+      [
+        [
+          "biscuits/cookies",
+          "location",
+          "in freezer",
+          "on counter"
+        ],
+        [
+          "biscuits/cookies",
+          "temperature",
+          "cold",
+          "room temperature"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "freezer",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The freezer is necessary for storing the baked cookies or biscuits and maintaining their freshness and quality. Without it, freezing would not be possible."
+      },
+      {
+        "entity": "biscuits/cookies",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: Biscuits or cookies are the main objects that need to be frozen, and the entire instruction revolves around freezing them. Without biscuits or cookies, the instruction would not make sense."
+      },
+      {
+        "entity": "container",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The container is important for storing the biscuits or cookies in a rigid and airtight environment to prevent freezer burn and maintain their freshness. However, alternatives like freezer bags or zip-lock bags could also be used in place of a container."
+      },
+      {
+        "entity": "freezer paper/baking paper/foil",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: The use of freezer paper, baking paper, or foil is recommended to separate the individual biscuits or cookies in the container. While it helps prevent them from sticking together, it is not absolutely necessary for freezing them. Other alternatives like plastic wrap or parchment paper could also be used."
+      }
+    ]
+  },
+  "4": {
+    "schema": [
+      {
+        "pipe cleaner": [
+          "shape",
+          "location"
+        ],
+        "legs": [
+          "location",
+          "shape"
+        ]
+      },
+      {
+        "pipe cleaner": [
+          "shape",
+          "location"
+        ],
+        "body": [
+          "shape",
+          "location"
+        ]
+      },
+      {
+        "tip": [
+          "location",
+          "length"
+        ],
+        "beak": [
+          "location",
+          "length"
+        ]
+      },
+      {
+        "pipe cleaner": [
+          "location",
+          "shape"
+        ],
+        "torso": [
+          "shape",
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "pipe cleaner",
+          "shape",
+          "straight",
+          "bent in half"
+        ],
+        [
+          "pipe cleaner",
+          "location",
+          "on table",
+          "in hand"
+        ],
+        [
+          "legs",
+          "location",
+          "not present",
+          "present"
+        ],
+        [
+          "legs",
+          "shape",
+          "not present",
+          "bent"
+        ]
+      ],
+      [
+        [
+          "pipe cleaner",
+          "shape",
+          "straight",
+          "curved"
+        ],
+        [
+          "pipe cleaner",
+          "location",
+          "on table",
+          "in hand"
+        ],
+        [
+          "body",
+          "shape",
+          "not present",
+          "curved"
+        ],
+        [
+          "body",
+          "location",
+          "not present",
+          "present"
+        ]
+      ],
+      [
+        [
+          "tip",
+          "location",
+          "not present",
+          "present"
+        ],
+        [
+          "tip",
+          "length",
+          "not present",
+          "1.5 inches"
+        ],
+        [
+          "beak",
+          "location",
+          "not present",
+          "present"
+        ],
+        [
+          "beak",
+          "length",
+          "not present",
+          "1.5 inches"
+        ]
+      ],
+      [
+        [
+          "pipe cleaner",
+          "location",
+          "on table",
+          "in hand"
+        ],
+        [
+          "pipe cleaner",
+          "shape",
+          "straight",
+          "curved"
+        ],
+        [
+          "torso",
+          "shape",
+          "not present",
+          "larger"
+        ],
+        [
+          "torso",
+          "location",
+          "not present",
+          "present"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "body",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The body is a crucial component in making the pipe cleaner bird as it forms the main structure of the bird."
+      },
+      {
+        "entity": "pipe cleaner",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Pipe cleaners are essential to the instruction as they are the main material being used to create the bird."
+      },
+      {
+        "entity": "torso",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The torso is emphasized in the instruction as it is enlarged using two pipe cleaners, contributing to the overall shape and volume of the bird. It plays a significant role in the construction and appearance of the pipe cleaner bird."
+      },
+      {
+        "entity": "legs",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The legs are important in the instruction as they provide stability and help the bird stand upright, but they are not as crucial as the body and the pipe cleaners in forming the overall structure of the bird."
+      },
+      {
+        "entity": "tip",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The tip is mentioned in the instruction as a reference point for where the beak should be, but it is not as essential as the body and the pipe cleaners in constructing the bird."
+      },
+      {
+        "entity": "beak",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - The beak is mentioned briefly in the instruction, but its importance is relatively low compared to the body, pipe cleaners, and legs. It plays a minor role in the overall construction of the bird."
+      }
+    ]
+  },
+  "5": {
+    "schema": [
+      {
+        "knitting needles": [
+          "length"
+        ],
+        "yarn": [
+          "length"
+        ],
+        "web": [
+          "length"
+        ],
+        "fabric": [
+          "width"
+        ]
+      },
+      {
+        "web": [
+          "length",
+          "width"
+        ],
+        "yarn": [
+          "length"
+        ],
+        "fabric": [
+          "length",
+          "width"
+        ],
+        "needle": [
+          "length"
+        ],
+        "sewing thread": [
+          "length"
+        ]
+      },
+      {
+        "web": [
+          "length",
+          "width"
+        ],
+        "yarn": [
+          "length"
+        ],
+        "fabric": [
+          "length",
+          "width"
+        ],
+        "needle": [
+          "length"
+        ],
+        "sewing thread": [
+          "length"
+        ],
+        "cap": [
+          "shape"
+        ]
+      },
+      {
+        "yarn": [
+          "length",
+          "twist"
+        ],
+        "cord": [
+          "length"
+        ],
+        "strands of yarn": [
+          "length"
+        ],
+        "loop": [
+          "size"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "knitting needles",
+          "length",
+          "short",
+          "long"
+        ],
+        [
+          "yarn",
+          "length",
+          "short",
+          "long"
+        ],
+        [
+          "web",
+          "length",
+          "zero",
+          "eighty-four inches"
+        ],
+        [
+          "fabric",
+          "width",
+          "zero",
+          "two inches"
+        ]
+      ],
+      [
+        [
+          "web",
+          "length",
+          "eighty-four inches",
+          "seventy-nine inches"
+        ],
+        [
+          "web",
+          "width",
+          "two inches",
+          "five inches"
+        ],
+        [
+          "yarn",
+          "length",
+          "long",
+          "shorter"
+        ],
+        [
+          "fabric",
+          "length",
+          "zero",
+          "eight inches"
+        ],
+        [
+          "fabric",
+          "width",
+          "zero",
+          "five inches"
+        ],
+        [
+          "needle",
+          "length",
+          "long",
+          "shorter"
+        ],
+        [
+          "sewing thread",
+          "length",
+          "short",
+          "longer"
+        ]
+      ],
+      [
+        [
+          "web",
+          "length",
+          "seventy-nine inches",
+          "seventy-four inches"
+        ],
+        [
+          "web",
+          "width",
+          "five inches",
+          "zero"
+        ],
+        [
+          "yarn",
+          "length",
+          "shorter",
+          "shorter"
+        ],
+        [
+          "fabric",
+          "length",
+          "eight inches",
+          "five inches"
+        ],
+        [
+          "fabric",
+          "width",
+          "five inches",
+          "zero"
+        ],
+        [
+          "needle",
+          "length",
+          "shorter",
+          "longer"
+        ],
+        [
+          "sewing thread",
+          "length",
+          "longer",
+          "shorter"
+        ],
+        [
+          "cap",
+          "shape",
+          "rectangular",
+          "round"
+        ]
+      ],
+      [
+        [
+          "yarn",
+          "length",
+          "shorter",
+          "longer"
+        ],
+        [
+          "yarn",
+          "twist",
+          "not twisted",
+          "twisted"
+        ],
+        [
+          "cord",
+          "length",
+          "zero",
+          "longer"
+        ],
+        [
+          "strands of yarn",
+          "length",
+          "zero",
+          "longer"
+        ],
+        [
+          "loop",
+          "size",
+          "zero",
+          "larger"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "fabric",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The fabric is crucial as it serves as the material from which the cap is made and is used to create the tassel and drawstring cord."
+      },
+      {
+        "entity": "yarn",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Yarn is crucial for spool knitting the web, creating the cord, and making the tassel. It is a fundamental material that plays a central role in the instruction."
+      },
+      {
+        "entity": "web",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The web is essential for the hat as it is the main material used for knitting the piece."
+      },
+      {
+        "entity": "cord",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The cord is important as it is used to create a drawstring for the hat, allowing it to be adjusted to fit the wearer."
+      },
+      {
+        "entity": "needle",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The needle is important for sewing the rectangular form and drawing in the top of the hat. It is essential for executing key steps in the instruction."
+      },
+      {
+        "entity": "strands of yarn",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Strands of yarn are important for creating the tassel, adding a decorative element to the hat. While not critical for the overall construction, they contribute to the final appearance of the hat."
+      },
+      {
+        "entity": "loop",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The loop is important for securing the top of the hat, but other steps such as knitting the web and sewing the rectangular form are more critical to the construction of the hat."
+      },
+      {
+        "entity": "sewing thread",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Sewing thread is mentioned in the instructions but not explicitly stated as an object to be obtained. While it is necessary for sewing the rectangular form, other elements like the fabric, web, and cord hold more importance in the overall instruction."
+      },
+      {
+        "entity": "cap",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - The cap is mentioned in the instructions but not explicitly stated as an object to be obtained. Other elements such as the web, fabric, loop, and tassel hold more importance in the instruction."
+      },
+      {
+        "entity": "knitting needles",
+        "global_salience_pred": 1,
+        "global_salience_explanation": "1 - Knitting needles are not mentioned in the given instruction and are not required for spool knitting a winter hat. They are not important for completing the task as described."
+      }
+    ]
+  },
+  "6": {
+    "schema": [
+      {
+        "Sniper": [
+          "accuracy",
+          "speed"
+        ],
+        "head": [
+          "location"
+        ],
+        "trigger": [
+          "pressure"
+        ],
+        "host": [
+          "location"
+        ]
+      },
+      {
+        "Shotgun": [
+          "accuracy",
+          "speed"
+        ],
+        "aim": [
+          "shape"
+        ],
+        "rectangle": [
+          "shape"
+        ]
+      },
+      {
+        "Pistol": [
+          "accuracy",
+          "speed"
+        ],
+        "head": [
+          "location"
+        ],
+        "shots": [
+          "number"
+        ]
+      },
+      {
+        "BoomShot": [
+          "accuracy",
+          "speed"
+        ],
+        "head": [
+          "location"
+        ],
+        "chance": [
+          "probability"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "Sniper",
+          "accuracy",
+          "low",
+          "high"
+        ],
+        [
+          "Sniper",
+          "speed",
+          "slow",
+          "fast"
+        ],
+        [
+          "head",
+          "location",
+          "on body",
+          "off body"
+        ],
+        [
+          "trigger",
+          "pressure",
+          "low",
+          "high"
+        ],
+        [
+          "host",
+          "location",
+          "in game",
+          "behind target"
+        ]
+      ],
+      [
+        [
+          "Shotgun",
+          "accuracy",
+          "low",
+          "high"
+        ],
+        [
+          "Shotgun",
+          "speed",
+          "slow",
+          "fast"
+        ],
+        [
+          "aim",
+          "shape",
+          "round",
+          "rectangular"
+        ],
+        [
+          "rectangle",
+          "shape",
+          "not visible",
+          "visible"
+        ]
+      ],
+      [
+        [
+          "Pistol",
+          "accuracy",
+          "low",
+          "high"
+        ],
+        [
+          "Pistol",
+          "speed",
+          "slow",
+          "fast"
+        ],
+        [
+          "head",
+          "location",
+          "on body",
+          "off body"
+        ],
+        [
+          "shots",
+          "number",
+          "low",
+          "high"
+        ]
+      ],
+      [
+        [
+          "BoomShot",
+          "accuracy",
+          "low",
+          "high"
+        ],
+        [
+          "BoomShot",
+          "speed",
+          "slow",
+          "fast"
+        ],
+        [
+          "head",
+          "location",
+          "on body",
+          "off body"
+        ],
+        [
+          "chance",
+          "probability",
+          "low",
+          "high"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "Sniper",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The sniper is crucial to getting a headshot in Gears of War as it is explicitly mentioned as the primary weapon for achieving headshots."
+      },
+      {
+        "entity": "head",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The concept of aiming for the head is crucial in the instruction as it specifically outlines the target area for achieving headshots in Gears of War."
+      },
+      {
+        "entity": "host",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The mention of being the host in relation to using the sniper is important because it highlights the difference in aiming technique, emphasizing the importance of aiming in front of where the target is going."
+      },
+      {
+        "entity": "trigger",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The mention of pulling the trigger with the sniper is important because it highlights the action needed to execute a headshot with the weapon."
+      },
+      {
+        "entity": "Pistol",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The mention of the pistol and the potential number of shots required for a headshot is relevant as it provides information on an alternative weapon for achieving headshots in Gears of War."
+      },
+      {
+        "entity": "aim",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The mention of aiming, particularly in relation to the sniper and the host, is important as it emphasizes the technique required to achieve headshots in Gears of War."
+      },
+      {
+        "entity": "rectangle",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: While the mention of the aim on the shotgun being like a rectangle is somewhat relevant to the instruction, it is not crucial for understanding how to get a headshot in Gears of War."
+      },
+      {
+        "entity": "Shotgun",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: The mention of the shotgun is relevant in the instruction, but it does not provide specific guidance on how to achieve headshots. It only mentions that the aim is almost like a rectangle, which is not critical information for getting headshots in Gears of War."
+      },
+      {
+        "entity": "shots",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: The mention of the number of shots required for a headshot with the pistol is somewhat relevant, but it is not the primary focus of the instruction on getting a headshot in Gears of War."
+      },
+      {
+        "entity": "BoomShot",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "Score: 2\nExplanation: The mention of BoomShot in the instruction is not directly related to getting headshots, as it states that BoomShot headshots are rare. Therefore, it is less important in the context of the instruction."
+      },
+      {
+        "entity": "chance",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "Score: 2\nExplanation: The mention of the chance of getting a headshot with the BoomShot is not essential to the instruction on how to get a headshot in Gears of War. It is more of a side note and does not directly contribute to the primary goal of the instruction."
+      }
+    ]
+  },
+  "7": {
+    "schema": [
+      {
+        "HDMI cord": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "cable": [
+          "location",
+          "power",
+          "connection"
+        ]
+      },
+      {
+        "HDMI cord": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "TV": [
+          "location",
+          "power",
+          "connection"
+        ]
+      },
+      {
+        "AV Composite Output": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "Composite cord": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "Wii": [
+          "location",
+          "power",
+          "connection"
+        ]
+      },
+      {
+        "HDMI cord": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "converter": [
+          "location",
+          "power",
+          "connection"
+        ],
+        "TV": [
+          "location",
+          "power",
+          "connection"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "HDMI cord",
+          "location",
+          "in box",
+          "connected to cable"
+        ],
+        [
+          "HDMI cord",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "HDMI cord",
+          "connection",
+          "not connected",
+          "connected"
+        ],
+        [
+          "cable",
+          "location",
+          "in box",
+          "plugged in"
+        ],
+        [
+          "cable",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "cable",
+          "connection",
+          "not connected",
+          "connected"
+        ]
+      ],
+      [
+        [
+          "HDMI cord",
+          "location",
+          "connected to cable",
+          "connected to TV"
+        ],
+        [
+          "HDMI cord",
+          "power",
+          "on",
+          "on"
+        ],
+        [
+          "HDMI cord",
+          "connection",
+          "connected",
+          "connected"
+        ],
+        [
+          "TV",
+          "location",
+          "in room",
+          "plugged in"
+        ],
+        [
+          "TV",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "TV",
+          "connection",
+          "not connected",
+          "connected"
+        ]
+      ],
+      [
+        [
+          "AV Composite Output",
+          "location",
+          "in box",
+          "connected to Wii"
+        ],
+        [
+          "AV Composite Output",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "AV Composite Output",
+          "connection",
+          "not connected",
+          "connected"
+        ],
+        [
+          "Composite cord",
+          "location",
+          "in box",
+          "not used"
+        ],
+        [
+          "Composite cord",
+          "power",
+          "off",
+          "off"
+        ],
+        [
+          "Composite cord",
+          "connection",
+          "not connected",
+          "not connected"
+        ],
+        [
+          "Wii",
+          "location",
+          "in box",
+          "plugged in"
+        ],
+        [
+          "Wii",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "Wii",
+          "connection",
+          "not connected",
+          "connected"
+        ]
+      ],
+      [
+        [
+          "HDMI cord",
+          "location",
+          "connected to TV",
+          "connected to converter"
+        ],
+        [
+          "HDMI cord",
+          "power",
+          "on",
+          "on"
+        ],
+        [
+          "HDMI cord",
+          "connection",
+          "connected",
+          "connected"
+        ],
+        [
+          "converter",
+          "location",
+          "in box",
+          "plugged in"
+        ],
+        [
+          "converter",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "converter",
+          "connection",
+          "not connected",
+          "connected"
+        ],
+        [
+          "TV",
+          "location",
+          "plugged in",
+          "connected to converter"
+        ],
+        [
+          "TV",
+          "power",
+          "on",
+          "on"
+        ],
+        [
+          "TV",
+          "connection",
+          "connected",
+          "connected"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "cable",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The cable is an essential component for connecting the Wii to the HD TV, so it has the highest importance for successfully following the instruction."
+      },
+      {
+        "entity": "TV",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The TV is essential for connecting the Wii and displaying the visuals. It is the main component of the setup, so its importance in the instruction is the highest."
+      },
+      {
+        "entity": "HDMI cord",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The HDMI cord is crucial for connecting the Wii to the HD TV and ensuring the transmission of high-quality audio and video signals. It is a key component of the instruction, making it highly important."
+      },
+      {
+        "entity": "converter",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: The converter is important to connect the HDMI cord to the TV, but it is not as crucial as the cable itself."
+      },
+      {
+        "entity": "AV Composite Output",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: The AV Composite Output is mentioned in the instructions as an alternative to using the Composite cord that comes with the Wii. While it is mentioned, it is not as essential as the cable or converter for connecting the Wii to the HD TV."
+      },
+      {
+        "entity": "Composite cord",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "Score: 2\nExplanation: The Composite cord is mentioned as an alternative to using the AV Composite Output in the instructions. It is not the preferred option and therefore has a lower importance in this particular instruction."
+      },
+      {
+        "entity": "Wii",
+        "global_salience_pred": 1,
+        "global_salience_explanation": "Score: 1\nExplanation: The Wii is not explicitly mentioned in the instruction, but it is assumed to be required for connecting to the HD TV. While it is necessary for the overall task, its importance in the specific instruction is relatively low compared to the other mentioned components."
+      }
+    ]
+  },
+  "8": {
+    "schema": [
+      {
+        "towel": [
+          "length",
+          "shape",
+          "size"
+        ]
+      },
+      {
+        "towel": [
+          "length",
+          "shape",
+          "size"
+        ]
+      },
+      {
+        "towel": [
+          "location",
+          "shape",
+          "size"
+        ],
+        "linen closet": [
+          "location",
+          "cleanliness"
+        ]
+      },
+      {
+        "towel": [
+          "location",
+          "shape",
+          "size",
+          "fold"
+        ],
+        "linen closet": [
+          "location"
+        ],
+        "towel rack": [
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "towel",
+          "length",
+          "longer",
+          "shorter"
+        ],
+        [
+          "towel",
+          "shape",
+          "flat",
+          "folded"
+        ],
+        [
+          "towel",
+          "size",
+          "bigger",
+          "smaller"
+        ]
+      ],
+      [
+        [
+          "towel",
+          "length",
+          "shorter",
+          "even shorter"
+        ],
+        [
+          "towel",
+          "shape",
+          "folded",
+          "folded again"
+        ],
+        [
+          "towel",
+          "size",
+          "smaller",
+          "even smaller"
+        ]
+      ],
+      [
+        [
+          "towel",
+          "location",
+          "on table",
+          "in linen closet"
+        ],
+        [
+          "towel",
+          "shape",
+          "folded",
+          "hanging"
+        ],
+        [
+          "towel",
+          "size",
+          "smaller",
+          "same"
+        ],
+        [
+          "linen closet",
+          "location",
+          "in hallway",
+          "in bathroom"
+        ],
+        [
+          "linen closet",
+          "cleanliness",
+          "clean",
+          "dirtier"
+        ]
+      ],
+      [
+        [
+          "towel",
+          "location",
+          "in linen closet",
+          "on towel rack"
+        ],
+        [
+          "towel",
+          "shape",
+          "folded",
+          "unfolded"
+        ],
+        [
+          "towel",
+          "size",
+          "same",
+          "same"
+        ],
+        [
+          "towel",
+          "fold",
+          "folded",
+          "unfolded"
+        ],
+        [
+          "linen closet",
+          "location",
+          "in bathroom",
+          "same"
+        ],
+        [
+          "towel rack",
+          "location",
+          "in hallway",
+          "in bathroom"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "towel rack",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The towel rack is essential for hanging the towel after folding, as it is the designated location for storage in the instruction."
+      },
+      {
+        "entity": "towel",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The towel is the main object of the instruction, as it is being folded and hung. Without the towel, the instruction cannot be followed."
+      },
+      {
+        "entity": "linen closet",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The linen closet is important for storing the folded towel, but it is not directly involved in the process of folding the towel or hanging it."
+      }
+    ]
+  },
+  "9": {
+    "schema": [
+      {
+        "group": [
+          "size",
+          "trustworthiness"
+        ],
+        "people": [
+          "trustworthiness"
+        ]
+      },
+      {
+        "gear": [
+          "location"
+        ],
+        "meetings": [
+          "location"
+        ],
+        "place": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
+        "gear": [
+          "availability",
+          "type"
+        ],
+        "mission": [
+          "difficulty"
+        ],
+        "people": [
+          "preparedness"
+        ]
+      },
+      {
+        "victim": [
+          "location",
+          "awareness"
+        ],
+        "mission": [
+          "difficulty"
+        ],
+        "people": [
+          "knowledge"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "group",
+          "size",
+          "0",
+          "2-5"
+        ],
+        [
+          "group",
+          "trustworthiness",
+          "low",
+          "high"
+        ],
+        [
+          "people",
+          "trustworthiness",
+          "low",
+          "high"
+        ]
+      ],
+      [
+        [
+          "gear",
+          "location",
+          "in person's home",
+          "in spy group's hideout"
+        ],
+        [
+          "meetings",
+          "location",
+          "in person's home",
+          "in spy group's hideout"
+        ],
+        [
+          "place",
+          "privacy",
+          "low",
+          "high"
+        ],
+        [
+          "place",
+          "security",
+          "low",
+          "high"
+        ]
+      ],
+      [
+        [
+          "gear",
+          "availability",
+          "low",
+          "high"
+        ],
+        [
+          "gear",
+          "type",
+          "limited",
+          "varied"
+        ],
+        [
+          "mission",
+          "difficulty",
+          "high",
+          "low"
+        ],
+        [
+          "people",
+          "preparedness",
+          "low",
+          "high"
+        ]
+      ],
+      [
+        [
+          "victim",
+          "location",
+          "unknown",
+          "known"
+        ],
+        [
+          "victim",
+          "awareness",
+          "unaware",
+          "aware"
+        ],
+        [
+          "mission",
+          "difficulty",
+          "high",
+          "low"
+        ],
+        [
+          "people",
+          "knowledge",
+          "limited",
+          "increased"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "gear",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Gear is crucial for being a good spy and carrying out missions effectively."
+      },
+      {
+        "entity": "people",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - People, specifically a trustworthy group of 2-5 individuals, are essential for setting up a spy group and carrying out activities together."
+      },
+      {
+        "entity": "group",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The instruction emphasizes the importance of having a trustworthy group of 2-5 people for being a spy. The group provides support, collaboration, and enhances the overall experience of being a spy."
+      },
+      {
+        "entity": "victim",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The victim is an important element in the instruction as they are the target of surveillance and spying."
+      },
+      {
+        "entity": "place",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Having a dedicated place to keep gear, hold meetings, and have private discussions is important for maintaining security and convenience in the spy operations."
+      },
+      {
+        "entity": "mission",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The instruction mentions the \"victim\" but does not elaborate on specific missions. While missions are important, they are not explicitly emphasized in the given instruction."
+      },
+      {
+        "entity": "meetings",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - While mentioned as part of having a place to keep gear and talk in private, meetings are not explicitly emphasized in the instruction. They are still important for coordination, but may not be as critical as other elements mentioned."
+      }
+    ]
+  },
+  "10": {
+    "schema": [
+      {
+        "person": [
+          "strength",
+          "courage",
+          "determination"
+        ],
+        "Thug": [
+          "life",
+          "health",
+          "strength"
+        ]
+      },
+      {
+        "person": [
+          "courage",
+          "determination"
+        ],
+        "Thug": [
+          "health",
+          "life"
+        ],
+        "weapons": [
+          "location",
+          "power"
+        ],
+        "grenades": [
+          "location",
+          "power"
+        ],
+        "Molotov Cocktails": [
+          "location",
+          "power"
+        ]
+      },
+      {
+        "person": [
+          "preparedness"
+        ],
+        "guns": [
+          "ammo",
+          "location"
+        ],
+        "knives": [
+          "sharpness",
+          "location"
+        ]
+      },
+      {
+        "person": [
+          "courage",
+          "determination"
+        ],
+        "Thug": [
+          "health",
+          "life"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "person",
+          "strength",
+          "low",
+          "unchanged"
+        ],
+        [
+          "person",
+          "courage",
+          "low",
+          "unchanged"
+        ],
+        [
+          "person",
+          "determination",
+          "low",
+          "unchanged"
+        ],
+        [
+          "Thug",
+          "life",
+          "high",
+          "unchanged"
+        ],
+        [
+          "Thug",
+          "health",
+          "high",
+          "unchanged"
+        ],
+        [
+          "Thug",
+          "strength",
+          "high",
+          "unchanged"
+        ]
+      ],
+      [
+        [
+          "person",
+          "courage",
+          "low",
+          "high"
+        ],
+        [
+          "person",
+          "determination",
+          "low",
+          "high"
+        ],
+        [
+          "Thug",
+          "health",
+          "high",
+          "low"
+        ],
+        [
+          "Thug",
+          "life",
+          "high",
+          "low"
+        ],
+        [
+          "weapons",
+          "location",
+          "in person's inventory",
+          "in person's hand"
+        ],
+        [
+          "weapons",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "grenades",
+          "location",
+          "in person's inventory",
+          "in person's hand"
+        ],
+        [
+          "grenades",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "Molotov Cocktails",
+          "location",
+          "in person's inventory",
+          "in person's hand"
+        ],
+        [
+          "Molotov Cocktails",
+          "power",
+          "off",
+          "on"
+        ]
+      ],
+      [
+        [
+          "person",
+          "preparedness",
+          "low",
+          "high"
+        ],
+        [
+          "guns",
+          "ammo",
+          "low",
+          "high"
+        ],
+        [
+          "guns",
+          "location",
+          "in person's inventory",
+          "in person's hand"
+        ],
+        [
+          "knives",
+          "sharpness",
+          "low",
+          "high"
+        ],
+        [
+          "knives",
+          "location",
+          "in person's inventory",
+          "in person's hand"
+        ]
+      ],
+      [
+        [
+          "person",
+          "courage",
+          "low",
+          "high"
+        ],
+        [
+          "person",
+          "determination",
+          "low",
+          "high"
+        ],
+        [
+          "Thug",
+          "health",
+          "high",
+          "low"
+        ],
+        [
+          "Thug",
+          "life",
+          "high",
+          "low"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "guns",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: Guns are crucial for defeating a Thug as they provide range and firepower, making them highly important in this instruction.\n"
+      },
+      {
+        "entity": "weapons",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: Weapons, including both guns and knives, are crucial for defeating a Thug. They provide the means to inflict damage and protect yourself, making them highly important in this instruction."
+      },
+      {
+        "entity": "Thug",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\nExplanation: The Thug is the main target of the instruction and defeating it is the main objective. Therefore, it receives the highest score as it is the most important element in the instruction."
+      },
+      {
+        "entity": "grenades",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: Grenades are recommended for defeating a Thug, but multiple may be needed and they are not explicitly required, hence a slightly lower score than guns."
+      },
+      {
+        "entity": "Molotov Cocktails",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\nExplanation: Molotov Cocktails are also recommended for defeating a Thug, just like grenades. However, they may not have as high of an impact as guns, resulting in a slightly lower score."
+      },
+      {
+        "entity": "knives",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\nExplanation: Knives are mentioned as a backup weapon option, but they are not specified as essential or recommended. They have a lower score compared to guns and grenades, but can still be useful if other weapons run out of ammo."
+      },
+      {
+        "entity": "person",
+        "global_salience_pred": 1,
+        "global_salience_explanation": "Score: 1\nExplanation: The term \"person\" is not specified in the given instruction and does not contribute directly to defeating the Thug. Therefore, it receives a low score in terms of importance."
+      }
+    ]
+  },
+  "11": {
+    "schema": [
+      {
+        "rhubarb": [
+          "location",
+          "composition",
+          "temperature"
+        ],
+        "sugar": [
+          "location",
+          "composition"
+        ],
+        "cloves": [
+          "location",
+          "composition"
+        ],
+        "water": [
+          "location",
+          "composition",
+          "temperature"
+        ]
+      },
+      {
+        "rhubarb": [
+          "location",
+          "composition",
+          "temperature",
+          "texture"
+        ],
+        "sugar": [
+          "location",
+          "composition"
+        ],
+        "cloves": [
+          "location",
+          "composition"
+        ],
+        "water": [
+          "location",
+          "composition",
+          "temperature"
+        ]
+      },
+      {
+        "rhubarb": [
+          "location",
+          "composition",
+          "temperature",
+          "texture"
+        ],
+        "sugar": [
+          "location",
+          "composition"
+        ],
+        "cloves": [
+          "location",
+          "composition"
+        ],
+        "water": [
+          "location",
+          "composition",
+          "temperature"
+        ]
+      },
+      {
+        "mint leaves": [
+          "location",
+          "composition"
+        ],
+        "rhubarb": [
+          "composition"
+        ],
+        "cordial": [
+          "appearance"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "rhubarb",
+          "location",
+          "in fridge",
+          "in pot on stove"
+        ],
+        [
+          "rhubarb",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "rhubarb",
+          "temperature",
+          "cold",
+          "hot"
+        ],
+        [
+          "sugar",
+          "location",
+          "in cupboard",
+          "in pot on stove"
+        ],
+        [
+          "sugar",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "cloves",
+          "location",
+          "in cupboard",
+          "in pot on stove"
+        ],
+        [
+          "cloves",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "water",
+          "location",
+          "in fridge",
+          "in pot on stove"
+        ],
+        [
+          "water",
+          "composition",
+          "liquid",
+          "mixed with other ingredients"
+        ],
+        [
+          "water",
+          "temperature",
+          "cold",
+          "hot"
+        ]
+      ],
+      [
+        [
+          "rhubarb",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "rhubarb",
+          "composition",
+          "solid",
+          "soft"
+        ],
+        [
+          "rhubarb",
+          "temperature",
+          "cold",
+          "hot"
+        ],
+        [
+          "rhubarb",
+          "texture",
+          "hard",
+          "soft"
+        ],
+        [
+          "sugar",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "sugar",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "cloves",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "cloves",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "water",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "water",
+          "composition",
+          "liquid",
+          "mixed with other ingredients"
+        ],
+        [
+          "water",
+          "temperature",
+          "cold",
+          "hot"
+        ]
+      ],
+      [
+        [
+          "rhubarb",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "rhubarb",
+          "composition",
+          "solid",
+          "soft"
+        ],
+        [
+          "rhubarb",
+          "temperature",
+          "hot",
+          "cooling"
+        ],
+        [
+          "rhubarb",
+          "texture",
+          "hard",
+          "soft"
+        ],
+        [
+          "sugar",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "sugar",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "cloves",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "cloves",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "water",
+          "location",
+          "in pot on stove",
+          "in pot on stove"
+        ],
+        [
+          "water",
+          "composition",
+          "liquid",
+          "mixed with other ingredients"
+        ],
+        [
+          "water",
+          "temperature",
+          "hot",
+          "cooling"
+        ]
+      ],
+      [
+        [
+          "mint leaves",
+          "location",
+          "in fridge",
+          "in pot on stove"
+        ],
+        [
+          "mint leaves",
+          "composition",
+          "solid",
+          "liquid"
+        ],
+        [
+          "rhubarb",
+          "composition",
+          "soft",
+          "mixed with other ingredients"
+        ],
+        [
+          "cordial",
+          "appearance",
+          "plain",
+          "decorated"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "mint leaves",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Mint leaves are an important element in the instruction as they are specifically mentioned for decoration, adding flavor, and enhancing the overall presentation of the rhubarb cordial."
+      },
+      {
+        "entity": "sugar",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Sugar is crucial in the instruction as it sweetens the rhubarb and creates a balanced flavor profile in the cordial."
+      },
+      {
+        "entity": "cordial",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Cordial is the main focus of the instruction, as the objective is to create a rhubarb cordial. It is the end product that all the other steps contribute towards."
+      },
+      {
+        "entity": "rhubarb",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Rhubarb is the star ingredient in the instruction, being the primary component of the cordial. It is simmered and softened to extract its flavor and create the base of the cordial."
+      },
+      {
+        "entity": "cloves",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Cloves are important in the instruction as they add flavor and aroma to the simmering rhubarb, enhancing the overall taste of the cordial."
+      },
+      {
+        "entity": "water",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Water plays an important role in the instruction as it is used to simmer the rhubarb and dissolve the sugar, but it is not as critical as the other ingredients in terms of flavor and overall outcome."
+      }
+    ]
+  },
+  "12": {
+    "schema": [
+      {
+        "game mode": [
+          "type"
+        ],
+        "players": [
+          "number"
+        ]
+      },
+      {
+        "player one": [
+          "character"
+        ],
+        "player two": [
+          "character"
+        ]
+      },
+      {
+        "stage": [
+          "location"
+        ],
+        "background": [
+          "type"
+        ]
+      },
+      {
+        "player one": [
+          "location"
+        ],
+        "player two": [
+          "location"
+        ],
+        "wall": [
+          "location"
+        ],
+        "street": [
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "game mode",
+          "type",
+          "single player",
+          "two players"
+        ],
+        [
+          "players",
+          "number",
+          "one",
+          "two"
+        ]
+      ],
+      [
+        [
+          "player one",
+          "character",
+          "blank",
+          "Goku"
+        ],
+        [
+          "player two",
+          "character",
+          "blank",
+          "Goku"
+        ]
+      ],
+      [
+        [
+          "stage",
+          "location",
+          "blank",
+          "Mountain Road"
+        ],
+        [
+          "background",
+          "type",
+          "blank",
+          "Mountain Road"
+        ]
+      ],
+      [
+        [
+          "player one",
+          "location",
+          "center of stage",
+          "against wall"
+        ],
+        [
+          "player two",
+          "location",
+          "center of stage",
+          "against wall"
+        ],
+        [
+          "wall",
+          "location",
+          "outside of stage",
+          "inside of stage"
+        ],
+        [
+          "street",
+          "location",
+          "outside of stage",
+          "inside of stage"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "players",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The players are the most important aspect of the instruction as they are the ones who need to perform the actions and complete the objective."
+      },
+      {
+        "entity": "stage",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The stage itself is crucial to the instruction as it is the specific location where the players need to get under. The choice of Mountain Road as the stage is important for the success of the instruction."
+      },
+      {
+        "entity": "player one",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Player one is crucial in the instruction as they need to be chosen as Goku to initiate the specific actions required to get under the stage. Without player one, the instruction cannot be followed."
+      },
+      {
+        "entity": "wall",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The wall is important in the instruction as it determines the location where the players need to position themselves to get under the stage. It serves as a boundary and reference point for the players."
+      },
+      {
+        "entity": "street",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The street within the stage is important in the instruction as it provides the specific context for the players to position themselves against the wall. It serves as a visual reference for the players' positioning."
+      },
+      {
+        "entity": "background",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The background of the stage is important in terms of setting the scene and creating the environment, but it is not crucial to the specific instruction of getting under the stage."
+      },
+      {
+        "entity": "player two",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Player two is important in the instruction as they need to be chosen as Goku to initiate the specific actions required to get under the stage. However, their importance is slightly lesser than player one, as the instruction could still be followed with just player one performing the necessary steps."
+      },
+      {
+        "entity": "game mode",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - The game mode, in this case, VS Duel, is relatively less important in the instruction as it primarily determines the format of the gameplay rather than directly influencing the objective of getting under the stage."
+      }
+    ]
+  },
+  "13": {
+    "schema": [
+      {
+        "cocoa powder": [
+          "location",
+          "composition"
+        ],
+        "sugar": [
+          "location",
+          "composition"
+        ],
+        "milk": [
+          "location",
+          "temperature"
+        ],
+        "vanilla extract": [
+          "location",
+          "composition"
+        ]
+      },
+      {
+        "cocoa mixture": [
+          "location"
+        ],
+        "slow cooker": [
+          "location",
+          "cleanness"
+        ],
+        "ingredients": [
+          "location",
+          "composition",
+          "wetness"
+        ]
+      },
+      {
+        "slow cooker": [
+          "temperature",
+          "setting"
+        ],
+        "cocoa mixture": [
+          "temperature",
+          "composition"
+        ]
+      },
+      {
+        "slow cooker": [
+          "setting",
+          "temperature"
+        ],
+        "cocoa mixture": [
+          "temperature",
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "cocoa powder",
+          "location",
+          "in cupboard",
+          "in slow cooker"
+        ],
+        [
+          "cocoa powder",
+          "composition",
+          "separated",
+          "mixed with other ingredients"
+        ],
+        [
+          "sugar",
+          "location",
+          "in cupboard",
+          "in slow cooker"
+        ],
+        [
+          "sugar",
+          "composition",
+          "separated",
+          "mixed with other ingredients"
+        ],
+        [
+          "milk",
+          "location",
+          "in fridge",
+          "in slow cooker"
+        ],
+        [
+          "milk",
+          "temperature",
+          "cold",
+          "warm"
+        ],
+        [
+          "vanilla extract",
+          "location",
+          "in cupboard",
+          "in slow cooker"
+        ],
+        [
+          "vanilla extract",
+          "composition",
+          "separated",
+          "mixed with other ingredients"
+        ]
+      ],
+      [
+        [
+          "cocoa mixture",
+          "location",
+          "in bowl",
+          "in slow cooker"
+        ],
+        [
+          "slow cooker",
+          "location",
+          "in cupboard",
+          "on counter"
+        ],
+        [
+          "slow cooker",
+          "cleanness",
+          "clean",
+          "dirty"
+        ],
+        [
+          "ingredients",
+          "location",
+          "in cupboard",
+          "in slow cooker"
+        ],
+        [
+          "ingredients",
+          "composition",
+          "separated",
+          "mixed with other ingredients"
+        ],
+        [
+          "ingredients",
+          "wetness",
+          "dry",
+          "wet"
+        ]
+      ],
+      [
+        [
+          "slow cooker",
+          "temperature",
+          "cold",
+          "hot"
+        ],
+        [
+          "slow cooker",
+          "setting",
+          "off",
+          "low"
+        ],
+        [
+          "cocoa mixture",
+          "temperature",
+          "cold",
+          "hot"
+        ],
+        [
+          "cocoa mixture",
+          "composition",
+          "separated",
+          "mixed"
+        ]
+      ],
+      [
+        [
+          "slow cooker",
+          "setting",
+          "low",
+          "warm"
+        ],
+        [
+          "slow cooker",
+          "temperature",
+          "hot",
+          "warm"
+        ],
+        [
+          "cocoa mixture",
+          "temperature",
+          "hot",
+          "warm"
+        ],
+        [
+          "cocoa mixture",
+          "location",
+          "in slow cooker",
+          "in person's hand"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "milk",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Milk is a crucial ingredient in making hot cocoa, and it contributes to the richness and creaminess of the final drink."
+      },
+      {
+        "entity": "slow cooker",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The slow cooker is essential for preparing the hot cocoa as it allows for gentle and slow heating, resulting in a delicious and well-incorporated drink."
+      },
+      {
+        "entity": "cocoa powder",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Cocoa powder is a fundamental ingredient in making hot cocoa and is responsible for its chocolatey flavor. It is a crucial element in the recipe."
+      },
+      {
+        "entity": "ingredients",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The ingredients as a whole have the highest importance in the instruction since they form the basis of the hot cocoa recipe. Without the proper ingredients, the desired outcome cannot be achieved."
+      },
+      {
+        "entity": "cocoa mixture",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The cocoa mixture is an important component of the recipe as it forms the base for the hot cocoa."
+      },
+      {
+        "entity": "sugar",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Sugar adds sweetness to the hot cocoa, but its importance may vary depending on personal taste preferences."
+      },
+      {
+        "entity": "vanilla extract",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - Vanilla extract is optional and not as crucial as other ingredients, as its purpose is mainly to enhance the flavor of the hot cocoa."
+      }
+    ]
+  },
+  "14": {
+    "schema": [
+      {
+        "pot": [
+          "location",
+          "cleanness"
+        ],
+        "area": [
+          "location",
+          "cleanness"
+        ],
+        "clipping": [
+          "location"
+        ]
+      },
+      {
+        "cutting": [
+          "location",
+          "length",
+          "wetness"
+        ],
+        "rose bush": [
+          "location",
+          "size"
+        ]
+      },
+      {
+        "cutting": [
+          "wetness",
+          "location"
+        ],
+        "rooting hormone": [
+          "location",
+          "moisture"
+        ]
+      },
+      {
+        "cutting": [
+          "location",
+          "wetness"
+        ],
+        "soil": [
+          "moisture",
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "pot",
+          "location",
+          "in garage",
+          "in yard"
+        ],
+        [
+          "pot",
+          "cleanness",
+          "dirty",
+          "clean"
+        ],
+        [
+          "area",
+          "location",
+          "in yard",
+          "dug up"
+        ],
+        [
+          "area",
+          "cleanness",
+          "dirty",
+          "clean"
+        ],
+        [
+          "clipping",
+          "location",
+          "in garden",
+          "in pot"
+        ]
+      ],
+      [
+        [
+          "cutting",
+          "location",
+          "on bush",
+          "in hand"
+        ],
+        [
+          "cutting",
+          "length",
+          "longer",
+          "shorter"
+        ],
+        [
+          "cutting",
+          "wetness",
+          "dry",
+          "wet"
+        ],
+        [
+          "rose bush",
+          "location",
+          "in garden",
+          "without cutting"
+        ],
+        [
+          "rose bush",
+          "size",
+          "larger",
+          "smaller"
+        ]
+      ],
+      [
+        [
+          "cutting",
+          "wetness",
+          "wet",
+          "damp"
+        ],
+        [
+          "cutting",
+          "location",
+          "in hand",
+          "in rooting hormone"
+        ],
+        [
+          "rooting hormone",
+          "location",
+          "in container",
+          "on cutting"
+        ],
+        [
+          "rooting hormone",
+          "moisture",
+          "dry",
+          "wet"
+        ]
+      ],
+      [
+        [
+          "cutting",
+          "location",
+          "in rooting hormone",
+          "in pot"
+        ],
+        [
+          "cutting",
+          "wetness",
+          "damp",
+          "wet"
+        ],
+        [
+          "soil",
+          "moisture",
+          "dry",
+          "wet"
+        ],
+        [
+          "soil",
+          "location",
+          "in bag",
+          "in pot"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "clipping",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The clipping is crucial in this instruction as it is the main object that will be used to grow the new rose bush. Without a viable clipping, the instruction cannot be followed."
+      },
+      {
+        "entity": "rose bush",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The rose bush is the key object in this instruction as it serves as the source from which the cutting is taken. Without a healthy and desired rose bush, there would be no clipping to grow into a new bush."
+      },
+      {
+        "entity": "cutting",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The cutting is the primary object in this instruction as it is the plant material that will be used to establish a new rose bush. Without a successful cutting, the process of growing a new rose bush cannot be achieved."
+      },
+      {
+        "entity": "rooting hormone",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Rooting hormone is important in the instruction as it helps stimulate root growth in the cutting, increasing the chances of successful propagation."
+      },
+      {
+        "entity": "soil",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The soil is an important component in this instruction as it provides the necessary nutrients and support for the cutting to take root and grow. Good quality soil is essential for the success of the new rose bush."
+      },
+      {
+        "entity": "pot",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The pot is important in the instruction as it provides a necessary container to house the cutting and provide it with suitable growing conditions. However, alternative planting areas in the yard can also be utilized, so it is not as essential as the cutting itself."
+      },
+      {
+        "entity": "area",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - The area where the plant will be planted is important, but not as critical as the other objects in the instruction. While selecting the right area is advisable for optimal growth, other factors such as the pot, soil, and cutting have a more direct impact on the success of growing the new rose bush."
+      }
+    ]
+  },
+  "15": {
+    "schema": [
+      {
+        "Vulpix": [
+          "location",
+          "level"
+        ],
+        "trainer": [
+          "location",
+          "experience"
+        ]
+      },
+      {
+        "Fire Stone": [
+          "location",
+          "availability"
+        ],
+        "Alolan Vulpix": [
+          "location",
+          "level"
+        ]
+      },
+      {
+        "Fire Stone": [
+          "location",
+          "availability"
+        ],
+        "bag": [
+          "location",
+          "content"
+        ]
+      },
+      {
+        "Vulpix": [
+          "level",
+          "evolution"
+        ],
+        "trainer": [
+          "experience"
+        ],
+        "animation": [
+          "availability"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "Vulpix",
+          "location",
+          "in the wild or in a trade",
+          "in the player's team"
+        ],
+        [
+          "Vulpix",
+          "level",
+          "unknown",
+          "known"
+        ],
+        [
+          "trainer",
+          "location",
+          "in the wild or in a trade",
+          "in the game"
+        ],
+        [
+          "trainer",
+          "experience",
+          "none",
+          "some"
+        ]
+      ],
+      [
+        [
+          "Fire Stone",
+          "location",
+          "in the wild or in a store",
+          "in the player's inventory"
+        ],
+        [
+          "Fire Stone",
+          "availability",
+          "unknown",
+          "known"
+        ],
+        [
+          "Alolan Vulpix",
+          "location",
+          "in the wild or in a trade",
+          "in the player's team"
+        ],
+        [
+          "Alolan Vulpix",
+          "level",
+          "unknown",
+          "known"
+        ]
+      ],
+      [
+        [
+          "Fire Stone",
+          "location",
+          "in the player's inventory",
+          "in the player's hand"
+        ],
+        [
+          "Fire Stone",
+          "availability",
+          "known",
+          "used"
+        ],
+        [
+          "bag",
+          "location",
+          "in the game",
+          "in the player's hand"
+        ],
+        [
+          "bag",
+          "content",
+          "items",
+          "Fire Stone"
+        ]
+      ],
+      [
+        [
+          "Vulpix",
+          "level",
+          "known",
+          "increased"
+        ],
+        [
+          "Vulpix",
+          "evolution",
+          "not evolved",
+          "evolved"
+        ],
+        [
+          "trainer",
+          "experience",
+          "some",
+          "more"
+        ],
+        [
+          "animation",
+          "availability",
+          "unknown",
+          "known"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "Vulpix",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "Score: 5\n\nExplanation: Vulpix is the central focus of the instruction as the Pok\u00e9mon that needs to be evolved. Without catching or trading for a Vulpix, the evolution process cannot take place. Therefore, Vulpix is of utmost importance in the instruction."
+      },
+      {
+        "entity": "animation",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\n\nExplanation: The animation is important because it indicates that the evolution process is happening. While it is not necessary for the actual evolution to take place, it provides visual confirmation for the player that the evolution is occurring."
+      },
+      {
+        "entity": "Fire Stone",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "Score: 4\n\nExplanation: The Fire Stone is a key object in the instruction as it is required to evolve Vulpix. Without obtaining a Fire Stone, the evolution process cannot be completed. However, it is not as important as Vulpix itself, as catching or trading for Vulpix is the primary step in the instruction."
+      },
+      {
+        "entity": "Alolan Vulpix",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "Score: 3\n\nExplanation: Alolan Vulpix is specifically mentioned in the instruction as an alternative evolution outcome. While it is important to mention Alolan Vulpix and the use of an Ice Stone in Sun/Moon, it is not the only way to evolve Vulpix. Therefore, it is not as crucial as other objects in the instruction."
+      },
+      {
+        "entity": "bag",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "Score: 2\n\nExplanation: The bag is mentioned briefly in the instruction as the place where the stone required for evolution needs to be selected. While it plays a role in the process, it is not as critical as other objects like Vulpix or the stone itself."
+      },
+      {
+        "entity": "trainer",
+        "global_salience_pred": 1,
+        "global_salience_explanation": "Score: 1\n\nExplanation: The instruction does not mention anything about the trainer. The focus is solely on the objects and steps required to evolve Vulpix. Therefore, the trainer is not relevant or important in this context."
+      }
+    ]
+  },
+  "16": {
+    "schema": [
+      {
+        "lemon": [
+          "shape",
+          "size"
+        ],
+        "knife": [
+          "sharpness"
+        ]
+      },
+      {
+        "lemon": [
+          "juiciness"
+        ],
+        "juice": [
+          "location",
+          "quantity"
+        ]
+      },
+      {
+        "lemon": [
+          "shape",
+          "juiciness"
+        ],
+        "faucet": [
+          "cleanness",
+          "shininess"
+        ]
+      },
+      {
+        "lemon": [
+          "juiciness",
+          "location"
+        ],
+        "faucet": [
+          "cleanness",
+          "wetness"
+        ],
+        "water": [
+          "temperature",
+          "location"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "lemon",
+          "shape",
+          "whole",
+          "cut in half"
+        ],
+        [
+          "lemon",
+          "size",
+          "larger",
+          "smaller"
+        ],
+        [
+          "knife",
+          "sharpness",
+          "dull",
+          "sharp"
+        ]
+      ],
+      [
+        [
+          "lemon",
+          "juiciness",
+          "full",
+          "empty"
+        ],
+        [
+          "juice",
+          "location",
+          "inside lemon",
+          "in bowl"
+        ],
+        [
+          "juice",
+          "quantity",
+          "none",
+          "some"
+        ]
+      ],
+      [
+        [
+          "lemon",
+          "shape",
+          "cut in half",
+          "rubbed over faucet"
+        ],
+        [
+          "lemon",
+          "juiciness",
+          "empty",
+          "wet with juice"
+        ],
+        [
+          "faucet",
+          "cleanness",
+          "dirty",
+          "wet with juice"
+        ],
+        [
+          "faucet",
+          "shininess",
+          "dull",
+          "shiny"
+        ]
+      ],
+      [
+        [
+          "lemon",
+          "juiciness",
+          "wet",
+          "dry"
+        ],
+        [
+          "lemon",
+          "location",
+          "on faucet",
+          "in sink"
+        ],
+        [
+          "faucet",
+          "cleanness",
+          "wet",
+          "clean"
+        ],
+        [
+          "faucet",
+          "wetness",
+          "wet",
+          "dry"
+        ],
+        [
+          "water",
+          "temperature",
+          "cold",
+          "hot"
+        ],
+        [
+          "water",
+          "location",
+          "in tap",
+          "on faucet"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "juice",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The juice extracted from the lemon is essential for the process as it is the active component used to clean and polish the faucet."
+      },
+      {
+        "entity": "faucet",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The faucet is the object being cleaned and polished, making it a critical part of the instruction."
+      },
+      {
+        "entity": "lemon",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The lemon is a crucial object in the instruction as it is the main ingredient used to polish the faucet."
+      },
+      {
+        "entity": "water",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Water is necessary for washing the tap after scouring with the lemon half, but it is not as crucial as the lemon, juice, or faucet in the overall instruction."
+      },
+      {
+        "entity": "knife",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - While a knife may be used to cut the lemon, it is not as important as the lemon, juice, or faucet in the overall instruction."
+      }
+    ]
+  },
+  "17": {
+    "schema": [
+      {
+        "meat": [
+          "location",
+          "color",
+          "texture"
+        ],
+        "onion": [
+          "location",
+          "color",
+          "texture"
+        ],
+        "frying pan": [
+          "location",
+          "temperature",
+          "wetness"
+        ]
+      },
+      {
+        "fat": [
+          "location",
+          "quantity"
+        ],
+        "frying pan": [
+          "location",
+          "temperature",
+          "wetness"
+        ]
+      },
+      {
+        "ingredients": [
+          "location",
+          "quantity"
+        ],
+        "simmering pan": [
+          "temperature",
+          "wetness"
+        ]
+      },
+      {
+        "taco filling": [
+          "location",
+          "temperature"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "meat",
+          "location",
+          "in refrigerator",
+          "in frying pan"
+        ],
+        [
+          "meat",
+          "color",
+          "raw",
+          "browned"
+        ],
+        [
+          "meat",
+          "texture",
+          "soft",
+          "crispy"
+        ],
+        [
+          "onion",
+          "location",
+          "in refrigerator",
+          "in frying pan"
+        ],
+        [
+          "onion",
+          "color",
+          "white",
+          "brown"
+        ],
+        [
+          "onion",
+          "texture",
+          "crunchy",
+          "soft"
+        ],
+        [
+          "frying pan",
+          "location",
+          "in cabinet",
+          "on stove"
+        ],
+        [
+          "frying pan",
+          "temperature",
+          "cool",
+          "hot"
+        ],
+        [
+          "frying pan",
+          "wetness",
+          "dry",
+          "wet with oil"
+        ]
+      ],
+      [
+        [
+          "fat",
+          "location",
+          "in frying pan",
+          "in bowl"
+        ],
+        [
+          "fat",
+          "quantity",
+          "more",
+          "less"
+        ],
+        [
+          "frying pan",
+          "location",
+          "on stove",
+          "on counter"
+        ],
+        [
+          "frying pan",
+          "temperature",
+          "hot",
+          "cool"
+        ],
+        [
+          "frying pan",
+          "wetness",
+          "wet",
+          "dry"
+        ]
+      ],
+      [
+        [
+          "ingredients",
+          "location",
+          "in separate containers",
+          "in frying pan"
+        ],
+        [
+          "ingredients",
+          "quantity",
+          "less",
+          "more"
+        ],
+        [
+          "simmering pan",
+          "temperature",
+          "cool",
+          "hot"
+        ],
+        [
+          "simmering pan",
+          "wetness",
+          "dry",
+          "wet with ingredients"
+        ]
+      ],
+      [
+        [
+          "taco filling",
+          "location",
+          "in frying pan",
+          "in bowl"
+        ],
+        [
+          "taco filling",
+          "temperature",
+          "hot",
+          "warm"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "simmering pan",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Simmering the taco filling allows the flavors to meld together and creates a rich and flavorful final product, making it a critical step in the instruction."
+      },
+      {
+        "entity": "meat",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Browning the meat is the first and most important step in making taco filling. It is the foundation of the dish and essential for creating the desired taste and texture."
+      },
+      {
+        "entity": "taco filling",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Taco filling is the main objective of the instruction, so it holds a high importance in the process."
+      },
+      {
+        "entity": "onion",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The onion adds flavor and texture to the taco filling but it is not as crucial as the main objective of browning the meat and adding the remaining ingredients."
+      },
+      {
+        "entity": "ingredients",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The remaining ingredients add flavor and depth to the taco filling, but they are not as crucial as browning the meat or simmering the filling."
+      },
+      {
+        "entity": "frying pan",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - The frying pan is necessary for browning the meat and onion, but it is not as important as the other steps in the instruction."
+      },
+      {
+        "entity": "fat",
+        "global_salience_pred": 1,
+        "global_salience_explanation": "1 - Draining the excess fat is important for health reasons but it is not crucial for the final outcome or taste of the taco filling."
+      }
+    ]
+  },
+  "18": {
+    "schema": [
+      {
+        "eraser": [
+          "size",
+          "shape",
+          "location"
+        ],
+        "fingers": [
+          "location",
+          "strength"
+        ]
+      },
+      {
+        "linoleum": [
+          "cleanness",
+          "location"
+        ],
+        "eraser": [
+          "location",
+          "wetness"
+        ],
+        "skid mark": [
+          "location",
+          "size"
+        ]
+      },
+      {
+        "linoleum": [
+          "cleanness"
+        ],
+        "skid mark": [
+          "location",
+          "size"
+        ],
+        "eraser": [
+          "location",
+          "wetness"
+        ]
+      },
+      {
+        "linoleum": [
+          "cleanness",
+          "wetness"
+        ],
+        "eraser": [
+          "location",
+          "wetness"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "eraser",
+          "size",
+          "small",
+          "decent sized"
+        ],
+        [
+          "eraser",
+          "shape",
+          "irregular",
+          "comfortable"
+        ],
+        [
+          "eraser",
+          "location",
+          "in drawer",
+          "in person's hand"
+        ],
+        [
+          "fingers",
+          "location",
+          "on keyboard",
+          "on eraser"
+        ],
+        [
+          "fingers",
+          "strength",
+          "relaxed",
+          "gripping"
+        ]
+      ],
+      [
+        [
+          "linoleum",
+          "cleanness",
+          "dirty",
+          "cleaner"
+        ],
+        [
+          "linoleum",
+          "location",
+          "on floor",
+          "person kneeling next to it"
+        ],
+        [
+          "eraser",
+          "location",
+          "in person's hand",
+          "on linoleum"
+        ],
+        [
+          "eraser",
+          "wetness",
+          "dry",
+          "wet with water"
+        ],
+        [
+          "skid mark",
+          "location",
+          "on linoleum",
+          "gone"
+        ],
+        [
+          "skid mark",
+          "size",
+          "large",
+          "gone"
+        ]
+      ],
+      [
+        [
+          "linoleum",
+          "cleanness",
+          "cleaner",
+          "even cleaner"
+        ],
+        [
+          "skid mark",
+          "location",
+          "on linoleum",
+          "gone"
+        ],
+        [
+          "skid mark",
+          "size",
+          "large",
+          "gone"
+        ],
+        [
+          "eraser",
+          "location",
+          "on linoleum",
+          "in person's hand"
+        ],
+        [
+          "eraser",
+          "wetness",
+          "wet with water",
+          "dry"
+        ]
+      ],
+      [
+        [
+          "linoleum",
+          "cleanness",
+          "even cleaner",
+          "clean"
+        ],
+        [
+          "linoleum",
+          "wetness",
+          "wet with water",
+          "dry"
+        ],
+        [
+          "eraser",
+          "location",
+          "in person's hand",
+          "in drawer"
+        ],
+        [
+          "eraser",
+          "wetness",
+          "dry",
+          "wet with water"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "linoleum",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Linoleum is essential to the instruction as it is the surface on which the skid mark is present and needs to be cleaned."
+      },
+      {
+        "entity": "skid mark",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The skid mark is crucial to the instruction as it is the main element that needs to be removed."
+      },
+      {
+        "entity": "eraser",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The eraser is important for the instruction as it is the tool used to rub along the skid mark and remove it, but it is not as crucial as the linoleum itself."
+      },
+      {
+        "entity": "fingers",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - While fingers are used to hold the eraser, they are not as important as the eraser itself for the actual removal of the skid mark."
+      }
+    ]
+  },
+  "19": {
+    "schema": [
+      {
+        "Princess Leia": [
+          "location",
+          "character"
+        ],
+        "Captain Antilles": [
+          "location",
+          "character"
+        ],
+        "Star Wars cantina": [
+          "location"
+        ]
+      },
+      {
+        "character": [
+          "body parts",
+          "weapon"
+        ],
+        "arrows": [
+          "direction",
+          "speed"
+        ]
+      },
+      {
+        "character": [
+          "name"
+        ],
+        "triangle": [
+          "power"
+        ],
+        "O": [
+          "power"
+        ]
+      },
+      {
+        "level": [
+          "completion",
+          "free play"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "Princess Leia",
+          "location",
+          "unknown",
+          "in the Star Wars cantina"
+        ],
+        [
+          "Princess Leia",
+          "character",
+          "unknown",
+          "Princess Leia"
+        ],
+        [
+          "Captain Antilles",
+          "location",
+          "unknown",
+          "in the Star Wars cantina"
+        ],
+        [
+          "Captain Antilles",
+          "character",
+          "unknown",
+          "Captain Antilles"
+        ],
+        [
+          "Star Wars cantina",
+          "location",
+          "unknown",
+          "in the game"
+        ]
+      ],
+      [
+        [
+          "character",
+          "body parts",
+          "unknown",
+          "selected"
+        ],
+        [
+          "character",
+          "weapon",
+          "unknown",
+          "selected"
+        ],
+        [
+          "arrows",
+          "direction",
+          "unknown",
+          "up, down, left, and right"
+        ],
+        [
+          "arrows",
+          "speed",
+          "unknown",
+          "fast"
+        ]
+      ],
+      [
+        [
+          "character",
+          "name",
+          "unknown",
+          "given"
+        ],
+        [
+          "triangle",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "O",
+          "power",
+          "off",
+          "on"
+        ]
+      ],
+      [
+        [
+          "level",
+          "completion",
+          "incomplete",
+          "complete"
+        ],
+        [
+          "level",
+          "free play",
+          "off",
+          "on"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "level",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The level is the main objective of the instruction and essential for progressing in the game."
+      },
+      {
+        "entity": "arrows",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The arrows are vital in selecting and navigating through different parts of the character's body, making them essential for following the instruction accurately."
+      },
+      {
+        "entity": "character",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The character creation is the main focus of the instruction and crucial to playing Lego Star Wars, so it receives a high score of 5."
+      },
+      {
+        "entity": "triangle",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Pressing the triangle button is important as it allows the player to give a name to the character they have created."
+      },
+      {
+        "entity": "Princess Leia",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Princess Leia is one of the starting characters mentioned in the instruction, and while she is not the main focus of the instruction, she plays a role in setting up the initial gameplay scenario."
+      },
+      {
+        "entity": "Star Wars cantina",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The Star Wars cantina is mentioned as the starting point, but it is not crucial to the instruction as the focus is on creating a character and completing a level."
+      },
+      {
+        "entity": "O",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - Pressing the \"O\" button is important as it allows the player to save and exit the character creation process, but it is not as crucial as other elements such as selecting body parts or completing the level."
+      },
+      {
+        "entity": "Captain Antilles",
+        "global_salience_pred": 2,
+        "global_salience_explanation": "2 - Although Captain Antilles is mentioned as one of the starting characters, assigning a score of 2 indicates that he is not essential to the overall instruction of creating a character in Lego Star Wars."
+      }
+    ]
+  },
+  "20": {
+    "schema": [
+      {
+        "cream cheese": [
+          "texture",
+          "location"
+        ],
+        "marshmallow cream": [
+          "texture",
+          "location"
+        ],
+        "blender": [
+          "power",
+          "location"
+        ]
+      },
+      {
+        "mixture": [
+          "location"
+        ],
+        "bowl": [
+          "cleanness",
+          "location",
+          "container",
+          "weight",
+          "wetness"
+        ]
+      },
+      {
+        "dip": [
+          "location",
+          "composition"
+        ],
+        "fruit": [
+          "location",
+          "composition"
+        ],
+        "bowl": [
+          "location"
+        ]
+      },
+      {
+        "dip": [
+          "texture"
+        ]
+      }
+    ],
+    "states": [
+      [
+        [
+          "cream cheese",
+          "texture",
+          "solid",
+          "creamy"
+        ],
+        [
+          "cream cheese",
+          "location",
+          "in fridge",
+          "in blender"
+        ],
+        [
+          "marshmallow cream",
+          "texture",
+          "solid",
+          "creamy"
+        ],
+        [
+          "marshmallow cream",
+          "location",
+          "in fridge",
+          "in blender"
+        ],
+        [
+          "blender",
+          "power",
+          "off",
+          "on"
+        ],
+        [
+          "blender",
+          "location",
+          "on counter",
+          "in hand"
+        ]
+      ],
+      [
+        [
+          "mixture",
+          "location",
+          "in blender",
+          "in bowl"
+        ],
+        [
+          "bowl",
+          "cleanness",
+          "clean",
+          "dirty"
+        ],
+        [
+          "bowl",
+          "location",
+          "in cabinet",
+          "on counter"
+        ],
+        [
+          "bowl",
+          "container",
+          "empty",
+          "full"
+        ],
+        [
+          "bowl",
+          "weight",
+          "lighter",
+          "heavier"
+        ],
+        [
+          "bowl",
+          "wetness",
+          "dry",
+          "wet"
+        ]
+      ],
+      [
+        [
+          "dip",
+          "location",
+          "in bowl",
+          "in person's hand"
+        ],
+        [
+          "dip",
+          "composition",
+          "in bowl",
+          "in person's hand"
+        ],
+        [
+          "fruit",
+          "location",
+          "in fridge",
+          "in person's hand"
+        ],
+        [
+          "fruit",
+          "composition",
+          "separate",
+          "with dip"
+        ],
+        [
+          "bowl",
+          "location",
+          "on counter",
+          "in dishwasher"
+        ]
+      ],
+      [
+        [
+          "dip",
+          "texture",
+          "creamy",
+          "solid"
+        ]
+      ]
+    ],
+    "global_salience": [
+      {
+        "entity": "cream cheese",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Cream cheese is a crucial ingredient in the recipe and forms the base of the marshmallow cream cheese fruit dip, providing a creamy and tangy flavor to the dish."
+      },
+      {
+        "entity": "mixture",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The mixture refers to the blended combination of cream cheese and marshmallow cream, which is the core component of the dish. Without the mixture, there would be no marshmallow cream cheese fruit dip."
+      },
+      {
+        "entity": "dip",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The dip is the final product of the recipe and the ultimate goal. It is the star of the instruction and the reason for following the steps. The dip is what brings all the flavors and textures together and is the highlight of the dish."
+      },
+      {
+        "entity": "fruit",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Fruit is an essential component of the final dish as it is meant to be served alongside the marshmallow cream cheese fruit dip. It provides a refreshing and complimentary element to the creamy and sweet dip, enhancing the overall taste and texture of the dish."
+      },
+      {
+        "entity": "marshmallow cream",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Marshmallow cream is an essential ingredient in the recipe and plays a significant role in making the marshmallow cream cheese fruit dip creamy and sweet."
+      },
+      {
+        "entity": "blender",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - The blender is important for blending the cream cheese and marshmallow cream together, ensuring a smooth and well-combined texture for the mixture. While it is not the most crucial element, it plays a significant role in achieving the desired consistency of the dip."
+      },
+      {
+        "entity": "bowl",
+        "global_salience_pred": 3,
+        "global_salience_explanation": "3 - The bowl is necessary to pour the mixture into for serving, but it is not as crucial as the ingredients themselves. Its main purpose is to provide a container for presenting and serving the marshmallow cream cheese fruit dip."
+      }
+    ]
+  }
+}
