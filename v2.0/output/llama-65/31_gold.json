@@ -1,0 +1,377 @@
+{
+    "30": [
+        [
+            [
+                "vinegar",
+                "location",
+                "in bottle",
+                "cup"
+            ],
+            [
+                "container",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "container",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "container",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "bottle",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "pot",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "wicks",
+                "cost",
+                "on sale at store",
+                "purchased from store"
+            ],
+            [
+                "wick",
+                "orientation",
+                "on lamp",
+                "removed"
+            ],
+            [
+                "lamp",
+                "composition",
+                "wicked",
+                "wickless"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "dry",
+                "wet"
+            ],
+            [
+                "vinegar",
+                "location",
+                "in container",
+                "in wick"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "wet",
+                "dry"
+            ],
+            [
+                "wick",
+                "dryness",
+                "wet",
+                "dry"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "whole",
+                "burned"
+            ],
+            [
+                "wick",
+                "location",
+                "on counter",
+                "in lamp"
+            ],
+            [
+                "wick",
+                "temperature",
+                "cool",
+                "heated"
+            ]
+        ]
+    ],
+    "31": [
+        [
+            [
+                "studio",
+                "availability",
+                "absent",
+                "set up"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "light",
+                "amount",
+                "bright",
+                "diffused"
+            ]
+        ],
+        []
+    ],
+    "32": [
+        [
+            [
+                "velveeta",
+                "granularity",
+                "whole",
+                "cubed"
+            ],
+            [
+                "velveeta",
+                "location",
+                "in the fridge",
+                "on the counter"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cold",
+                "room temperature"
+            ],
+            [
+                "velveeta",
+                "size",
+                "large",
+                "small"
+            ],
+            [
+                "knife",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "knife",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "knife",
+                "location",
+                "in the knife block",
+                "on the cutting board"
+            ],
+            [
+                "package",
+                "openness",
+                "closed",
+                "open"
+            ]
+        ],
+        [
+            [
+                "velveeta",
+                "granularity",
+                "solid",
+                "liquid"
+            ],
+            [
+                "velveeta",
+                "location",
+                "on the cutting board",
+                "in the sauce pan"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove burner",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove burner",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "stove burner",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "cheese",
+                "location",
+                "to the side",
+                "in the pot"
+            ],
+            [
+                "stove knob",
+                "orientation",
+                "in the off position",
+                "in the on position"
+            ],
+            [
+                "sauce pan",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "sauce pan",
+                "location",
+                "in the cupboard",
+                "on the stovetop"
+            ],
+            [
+                "sauce pan",
+                "temperature",
+                "cool",
+                "hot"
+            ]
+        ],
+        [
+            [
+                "velveeta",
+                "granularity",
+                "solid",
+                "liquid"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "velveeta",
+                "texture",
+                "thick",
+                "runny"
+            ],
+            [
+                "stove burner",
+                "temperature",
+                "medium-low",
+                "low"
+            ],
+            [
+                "tomatoes",
+                "location",
+                "whole",
+                "chopped"
+            ],
+            [
+                "tomatoes",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove top burner",
+                "temperature",
+                "set to medium",
+                "set to low"
+            ],
+            [
+                "rotel can",
+                "openness",
+                "closed",
+                "open"
+            ],
+            [
+                "rotel",
+                "temperature",
+                "room temperature",
+                "hot"
+            ],
+            [
+                "rotel",
+                "location",
+                "to the side",
+                "in the pot"
+            ]
+        ],
+        [
+            [
+                "olives",
+                "location",
+                "in can",
+                "in pan"
+            ],
+            [
+                "olives",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "peppers",
+                "location",
+                "whole",
+                "chopped"
+            ],
+            [
+                "peppers",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "black olives",
+                "size",
+                "whole",
+                "chopped"
+            ],
+            [
+                "black olives",
+                "location",
+                "on the cutting board",
+                "in the sauce pan"
+            ],
+            [
+                "cheese dip",
+                "taste",
+                "mild",
+                "spicy"
+            ],
+            [
+                "can",
+                "openness",
+                "closed",
+                "open"
+            ]
+        ],
+        [
+            [
+                "cheese sauce",
+                "location",
+                "in the pot",
+                "in a bowl"
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,854 @@
+{
+    "1": [
+        [
+            [
+                "the blackboard eraser",
+                "possession",
+                "at store",
+                "now owned by you"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in store",
+                "at customer's house"
+            ],
+            [
+                "eraser shelf at the store",
+                "fullness",
+                "more full",
+                "more empty"
+            ],
+            [
+                "bank account",
+                "fullness",
+                "full",
+                "depleted"
+            ],
+            [
+                "money",
+                "location",
+                "in customer's hand",
+                "in cashier's hand"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "placement",
+                "outside of car",
+                "now stored in car"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in house",
+                "in glovebox"
+            ],
+            [
+                "glovebox",
+                "location",
+                "away from car",
+                "inside car"
+            ],
+            [
+                "glove box",
+                "fullness",
+                "less full",
+                "more full"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "condition",
+                "new",
+                "used"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in glovebox",
+                "on windshield"
+            ],
+            [
+                "the blackboard eraser",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "the blackboard eraser",
+                "movement",
+                "sitting",
+                "rubbing"
+            ],
+            [
+                "windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "inside windshield",
+                "cleanness",
+                "dirty",
+                "cleaned with eraser"
+            ],
+            [
+                "hands",
+                "activity",
+                "relaxed",
+                "active"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "location",
+                "on windshield",
+                "in glovebox"
+            ],
+            [
+                "the blackboard eraser",
+                "movement",
+                "rubbing",
+                "resting"
+            ],
+            [
+                "hands",
+                "activity",
+                "working on windshield",
+                "relaxed"
+            ]
+        ]
+    ],
+    "2": [
+        [
+            [
+                "ingredients",
+                "composition",
+                "separated",
+                "mixed together"
+            ],
+            [
+                "ingredients",
+                "location",
+                "in packaging",
+                "in mixing bowl"
+            ],
+            [
+                "mixing bowl",
+                "volume",
+                "empty",
+                "filled with ingredients"
+            ],
+            [
+                "mixing bowl",
+                "weight",
+                "light",
+                "heavier"
+            ],
+            [
+                "mixing bowl",
+                "location",
+                "in cabinet",
+                "on counter top"
+            ],
+            [
+                "spoon",
+                "location",
+                "in drawer",
+                "in mixing bowl"
+            ],
+            [
+                "carob",
+                "mixed",
+                "flavorful",
+                "tasty"
+            ]
+        ],
+        [
+            [
+                "ingredients",
+                "composition",
+                "mixture",
+                "dough"
+            ],
+            [
+                "ingredients",
+                "shape",
+                "dispersed",
+                "rolled"
+            ],
+            [
+                "dough",
+                "size",
+                "one large ball",
+                "several small pieces"
+            ],
+            [
+                "mixture",
+                "location",
+                "in bowl",
+                "in hand"
+            ],
+            [
+                "mixture",
+                "number",
+                "one",
+                "many pieces"
+            ],
+            [
+                "mixture",
+                "density",
+                "umixed",
+                "balled up"
+            ],
+            [
+                "hand",
+                "fullness",
+                "empty",
+                "full"
+            ],
+            [
+                "hand",
+                "stickiness",
+                "dry",
+                "sticky"
+            ],
+            [
+                "bowl",
+                "weight",
+                "heavy",
+                "lighter"
+            ]
+        ],
+        [
+            [
+                "balls",
+                "location",
+                "in hand",
+                "in freezer"
+            ],
+            [
+                "balls",
+                "temperature",
+                "room temperature",
+                "cold"
+            ],
+            [
+                "plate",
+                "location",
+                "on counter top",
+                "in freezer"
+            ],
+            [
+                "plate",
+                "container",
+                "empty",
+                "filled"
+            ]
+        ],
+        [
+            [
+                "carob fruit balls",
+                "readiness",
+                "unprepared",
+                "prepared"
+            ],
+            [
+                "carob fruit balls",
+                "location",
+                "in freezer",
+                "on table"
+            ],
+            [
+                "carob fruit balls",
+                "hardness",
+                "soft",
+                "firm"
+            ]
+        ]
+    ],
+    "3": [
+        [
+            [
+                "cookies",
+                "location",
+                "on plate",
+                "in container"
+            ],
+            [
+                "the cookies",
+                "placement",
+                "in different container",
+                "now in airtight container"
+            ],
+            [
+                "container",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "container",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "container",
+                "cleanness",
+                "clean",
+                "dirtied"
+            ],
+            [
+                "tray",
+                "weight",
+                "laden",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "cookies",
+                "location",
+                "on sheet",
+                "in lined tin"
+            ],
+            [
+                "cookies",
+                "composition",
+                "unlined",
+                "lined"
+            ],
+            [
+                "cookies",
+                "organization",
+                "touching",
+                "seperated"
+            ],
+            [
+                "aluminum foil",
+                "placement",
+                "outside of bowl",
+                "now inside of bowl"
+            ],
+            [
+                "freezer paper",
+                "location",
+                "on roll",
+                "in container"
+            ],
+            [
+                "freezer paper",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "freezer paper",
+                "size",
+                "in one piece",
+                "segmented"
+            ],
+            [
+                "baking paper",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "foil",
+                "cleanness",
+                "clean",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "cookies",
+                "location",
+                "on table",
+                "in freezer"
+            ],
+            [
+                "cookies",
+                "flexibility",
+                "pliable",
+                "hard"
+            ],
+            [
+                "cookies",
+                "temperature",
+                "warm",
+                "frozen"
+            ],
+            [
+                "cookies",
+                "texture",
+                "soft",
+                "hard"
+            ],
+            [
+                "the bowl",
+                "placement",
+                "outside of freezer",
+                "now inside of freezer"
+            ],
+            [
+                "freezer",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "the cookies and biscuits",
+                "placement",
+                "in freezer",
+                "now outside freezer"
+            ],
+            [
+                "cookies",
+                "flexibility",
+                "hard",
+                "chewy"
+            ],
+            [
+                "cookies",
+                "temperature",
+                "frozen",
+                "warm"
+            ],
+            [
+                "cookies",
+                "texture",
+                "hard",
+                "soft"
+            ],
+            [
+                "the aluminum foil",
+                "movement",
+                "in bowl",
+                "now removed from bowl"
+            ],
+            [
+                "freezer",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ]
+    ],
+    "4": [
+        [
+            [
+                "pipe cleaner",
+                "position",
+                "straight",
+                "bent"
+            ],
+            [
+                "pipe cleaner",
+                "location",
+                "completely on ground",
+                "partially in air"
+            ]
+        ],
+        [
+            [
+                "pipe cleaner",
+                "position",
+                "straight",
+                "bent"
+            ],
+            [
+                "pipe cleaner",
+                "location",
+                "on ground",
+                "on pipe cleaner"
+            ]
+        ],
+        [
+            [
+                "tip of pipe cleaner",
+                "shape",
+                "straight",
+                "shaped to form beak"
+            ],
+            [
+                "your fingers",
+                "location",
+                "closer to tip",
+                "now away from tip"
+            ]
+        ],
+        [
+            [
+                "pipe cleaner",
+                "position",
+                "straight",
+                "bent"
+            ],
+            [
+                "pipe cleaner",
+                "location",
+                "on ground",
+                "on pipe cleaner"
+            ],
+            [
+                "the torso",
+                "width",
+                "thinner",
+                "now wider"
+            ],
+            [
+                "the torso",
+                "weight",
+                "lighter",
+                "heavier"
+            ]
+        ]
+    ],
+    "5": [
+        [
+            [
+                "the webbing",
+                "composition",
+                "in line",
+                "knitted together"
+            ]
+        ],
+        [
+            [
+                "the webbing",
+                "shape",
+                "straight",
+                "rectangular"
+            ]
+        ],
+        [
+            [
+                "the webbing",
+                "width",
+                "wider",
+                "narrower"
+            ],
+            [
+                "the ends",
+                "connection",
+                "unattached",
+                "joined"
+            ]
+        ],
+        [
+            [
+                "the hat",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "the piece of yarn",
+                "shape",
+                "straight",
+                "twisted and folded"
+            ]
+        ]
+    ],
+    "6": [
+        [
+            [
+                "gun",
+                "location",
+                "still",
+                "focused"
+            ],
+            [
+                "you",
+                "knowledge",
+                "unsure where to aim",
+                "aware of where to aim"
+            ]
+        ],
+        [
+            [
+                "you",
+                "shape",
+                "unaware of shape of aim on shotgun",
+                "aware of shape of aim on shotgun"
+            ]
+        ],
+        [
+            [
+                "you",
+                "knowledge",
+                "unaware of how many shots is needed for a pistol head shot",
+                "needed for a pistol head shot"
+            ]
+        ],
+        [
+            [
+                "gun",
+                "location",
+                "unfired",
+                "fired"
+            ],
+            [
+                "you",
+                "knowledge",
+                "unaware of odds of boomshot headshot",
+                "aware of odds of boomshot headshot"
+            ]
+        ]
+    ],
+    "7": [
+        [
+            [
+                "hdmi cord",
+                "organization",
+                "unplugged",
+                "plugged in"
+            ],
+            [
+                "hdmi cord",
+                "connection",
+                "loose",
+                "attached"
+            ],
+            [
+                "plug",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "hdmi cord",
+                "power",
+                "unplugged",
+                "plugged in"
+            ],
+            [
+                "tv's hdmi input",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "the hdmi",
+                "power",
+                "unplugged",
+                "plugged"
+            ]
+        ],
+        [
+            [
+                "hdmi cord",
+                "power",
+                "unattached",
+                "plugged in"
+            ],
+            [
+                "wii's av composite output",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "cord",
+                "power",
+                "unplugged",
+                "plugged in"
+            ],
+            [
+                "wii",
+                "connection",
+                "loose",
+                "attached"
+            ],
+            [
+                "the cord",
+                "power",
+                "unplugged",
+                "now plugged into wii's av composite output"
+            ]
+        ],
+        [
+            [
+                "hdmi cord",
+                "organization",
+                "unplugged",
+                "plugged into converter and tv"
+            ],
+            [
+                "hdmi cord",
+                "attachment",
+                "loose",
+                "plugged in"
+            ],
+            [
+                "cord",
+                "power",
+                "unplugged",
+                "plugged in"
+            ],
+            [
+                "converter",
+                "attachment",
+                "unattached",
+                "connected"
+            ],
+            [
+                "tv",
+                "power",
+                "unplugged",
+                "plugged in"
+            ],
+            [
+                "tv",
+                "attachment",
+                "unattached",
+                "connected"
+            ]
+        ]
+    ],
+    "8": [
+        [
+            [
+                "towel",
+                "size",
+                "larger",
+                "smaller"
+            ],
+            [
+                "towel",
+                "shape",
+                "straight",
+                "folded"
+            ],
+            [
+                "towel",
+                "width",
+                "wider",
+                "narrower"
+            ],
+            [
+                "hand muscles",
+                "power",
+                "relaxed",
+                "being used"
+            ],
+            [
+                "hand",
+                "emptiness",
+                "empty",
+                "holding towel"
+            ]
+        ],
+        [
+            [
+                "towel",
+                "thickness",
+                "thinner",
+                "thicker"
+            ],
+            [
+                "height of towel",
+                "height",
+                "low",
+                "higher"
+            ]
+        ],
+        [
+            [
+                "towel",
+                "location",
+                "laundry room",
+                "in linen closet"
+            ],
+            [
+                "closet",
+                "emptiness",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "towel",
+                "location",
+                "in closet",
+                "on rack"
+            ],
+            [
+                "towel",
+                "shape",
+                "folded",
+                "hanging"
+            ],
+            [
+                "final fold",
+                "openness",
+                "closed",
+                "opened"
+            ],
+            [
+                "towel rack",
+                "emptiness",
+                "empty",
+                "full"
+            ]
+        ]
+    ],
+    "9": [
+        [
+            [
+                "co-conspirators",
+                "knowledge",
+                "unenlisted",
+                "enlisted"
+            ],
+            [
+                "your spy group",
+                "forming",
+                "unformed",
+                "now formed"
+            ]
+        ],
+        [
+            [
+                "you",
+                "location",
+                "in need of location for spy group",
+                "now in possession of location for spy group"
+            ]
+        ],
+        [
+            [
+                "gear",
+                "availability",
+                "at store",
+                "gathered"
+            ],
+            [
+                "you",
+                "possession",
+                "without gear",
+                "now in possession of gear"
+            ]
+        ],
+        [
+            [
+                "you",
+                "knowledge",
+                "in need of victim",
+                "now aware of victim"
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,414 @@
+cpu-bind=MASK - nlpgpu06, task  0  0 [23312]: mask 0x2000000020000 set
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.03s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.22s/it]
+/nlp/data/seacow/anaconda3/envs/lm/lib/python3.11/site-packages/transformers/generation/utils.py:1384: UserWarning: You are calling .generate() with the `input_ids` being on a device type different than your model's device. `input_ids` is on cpu, whereas the model is on cuda. You may experience unexpected behaviors or slower generation. Please make sure that you have put `input_ids` to the correct device by calling for example input_ids = input_ids.to('cuda') before running `.generate()`.
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (2057 > 2048). Running this sequence through the model will result in indexing errors
+Traceback (most recent call last):
+  File "/mnt/castor/seas_home/s/seacow/github/openpi2.0/source/predict_states.py", line 257, in <module>
+    pred_dict, gold_dict = predict_llama()
+                           ^^^^^^^^^^^^^^^
+  File "/mnt/castor/seas_home/s/seacow/github/openpi2.0/source/predict_states.py", line 244, in predict_llama
+    pred_post = output_str.strip().split(' before and ')[1].split(' after')[0]
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+cpu-bind=MASK - nlpgpu06, task  0  0 [38161]: mask 0x200000002 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230619_104030-nr86tad7
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-7b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/nr86tad7
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]/var/spool/slurm/spool/job40166/slurm_script: line 14: 38162 Killed                  python predict_states.py --model llama-7b
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=40166.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+cpu-bind=MASK - nlpgpu06, task  0  0 [38257]: mask 0x1000000010000 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230619_104143-42lfum6g
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-7b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/42lfum6g
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.02s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.20s/it]
+  0%|          | 0/55 [00:00<?, ?it/s]
+0it [00:00, ?it/s][AToken indices sequence length is longer than the specified maximum sequence length for this model (2057 > 2048). Running this sequence through the model will result in indexing errors
+
+1it [03:04, 184.01s/it][A
+2it [06:45, 205.97s/it][A
+3it [13:17, 291.20s/it][A
+4it [16:08, 243.53s/it][A
+                       [A  2%|▏         | 1/55 [16:08<14:31:35, 968.44s/it]
+0it [00:00, ?it/s][A
+1it [04:48, 288.88s/it][A
+2it [13:03, 410.14s/it][A
+3it [16:47, 324.88s/it][A
+4it [19:36, 263.29s/it][A
+                       [A  4%|▎         | 2/55 [35:44<16:03:24, 1090.65s/it]
+0it [00:00, ?it/s][A
+1it [03:55, 235.64s/it][A
+2it [12:14, 390.24s/it][A
+3it [17:52, 366.60s/it][A
+4it [23:35, 357.31s/it][A
+                       [A  5%|▌         | 3/55 [59:20<17:53:50, 1239.05s/it]
+0it [00:00, ?it/s][A
+1it [00:54, 54.21s/it][A
+2it [02:12, 68.43s/it][A
+3it [03:55, 84.40s/it][A
+4it [07:36, 138.15s/it][A
+                       [A  7%|▋         | 4/55 [1:06:56<13:10:36, 930.13s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.19s/it][A
+2it [00:54, 27.84s/it][A
+3it [02:14, 51.44s/it][A
+4it [03:59, 72.64s/it][A
+                      [A  9%|▉         | 5/55 [1:10:56<9:27:29, 680.99s/it] 
+0it [00:00, ?it/s][A
+1it [00:54, 54.74s/it][A
+2it [01:31, 44.01s/it][A
+3it [02:14, 43.59s/it][A
+4it [04:00, 68.12s/it][A
+                      [A 11%|█         | 6/55 [1:14:56<7:13:42, 531.08s/it]
+0it [00:00, ?it/s][A
+1it [01:30, 90.17s/it][A
+2it [03:35, 111.09s/it][A
+3it [08:32, 195.92s/it][A
+4it [14:34, 261.32s/it][A
+                       [A 13%|█▎        | 7/55 [1:29:30<8:34:38, 643.30s/it]
+0it [00:00, ?it/s][A
+1it [03:00, 180.20s/it][A
+2it [04:49, 138.36s/it][A
+3it [06:39, 125.36s/it][A
+4it [10:21, 163.76s/it][A
+                       [A 15%|█▍        | 8/55 [1:39:52<8:18:33, 636.45s/it]
+0it [00:00, ?it/s][A
+1it [00:54, 54.28s/it][A
+2it [01:30, 43.88s/it][A
+3it [03:02, 65.86s/it][A
+4it [03:58, 61.78s/it][A
+                      [A 16%|█▋        | 9/55 [1:43:50<6:32:32, 512.02s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.12s/it][A
+2it [02:14, 74.65s/it][A
+3it [03:58, 88.20s/it][A
+4it [05:49, 97.23s/it][A
+                      [A 18%|█▊        | 10/55 [1:49:40<5:46:23, 461.86s/it]
+0it [00:00, ?it/s][A
+1it [06:38, 398.24s/it][A
+2it [08:28, 228.70s/it][A
+3it [13:05, 250.99s/it][A
+4it [15:54, 218.43s/it][A
+                       [A 20%|██        | 11/55 [2:05:34<7:29:12, 612.57s/it]
+0it [00:00, ?it/s][A
+1it [02:12, 132.38s/it][A
+2it [05:44, 179.27s/it][A
+3it [06:39, 122.51s/it][A
+4it [10:21, 161.66s/it][A
+                       [A 22%|██▏       | 12/55 [2:15:55<7:20:52, 615.17s/it]
+0it [00:00, ?it/s][A
+1it [04:42, 282.58s/it][A
+2it [13:47, 437.02s/it][A
+3it [24:03, 518.60s/it][A
+4it [30:44, 472.23s/it][A
+                       [A 24%|██▎       | 13/55 [2:46:40<11:31:18, 987.59s/it]
+0it [00:00, ?it/s][A
+1it [04:49, 289.62s/it][A
+2it [10:20, 314.01s/it][A
+3it [16:54, 350.44s/it][A
+4it [21:40, 324.82s/it][A
+                       [A 25%|██▌       | 14/55 [3:08:20<12:19:20, 1081.96s/it]
+0it [00:00, ?it/s][A
+1it [01:30, 90.02s/it][A
+2it [03:00, 90.51s/it][A
+3it [05:44, 124.09s/it][A
+                       [A 27%|██▋       | 15/55 [3:14:05<9:33:11, 859.80s/it]  
+0it [00:00, ?it/s][A
+1it [04:48, 288.89s/it][A
+2it [08:28, 248.18s/it][A
+3it [13:07, 262.16s/it][A
+4it [16:53, 248.00s/it][A
+                       [A 29%|██▉       | 16/55 [3:30:58<9:48:58, 906.11s/it]
+0it [00:00, ?it/s][A
+1it [09:22, 562.50s/it][A
+2it [20:33, 626.18s/it][A
+3it [34:00, 709.07s/it][A
+4it [45:53, 710.60s/it][A
+                       [A 31%|███       | 17/55 [4:16:52<15:25:46, 1461.74s/it]
+0it [00:00, ?it/s][A
+1it [01:30, 90.25s/it][A
+2it [10:22, 350.04s/it][A
+3it [13:09, 266.77s/it][A
+4it [17:52, 272.86s/it][A
+                       [A 33%|███▎      | 18/55 [4:34:44<13:49:11, 1344.63s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.15s/it][A
+2it [02:14, 74.92s/it][A
+3it [03:58, 88.36s/it][A
+4it [05:49, 97.26s/it][A
+                      [A 35%|███▍      | 19/55 [4:40:34<10:27:31, 1045.86s/it]
+0it [00:00, ?it/s][A
+1it [10:21, 621.54s/it][A
+2it [20:42, 621.18s/it][A
+3it [23:34, 416.27s/it][A
+                       [A 36%|███▋      | 20/55 [5:04:09<11:14:43, 1156.66s/it]
+0it [00:00, ?it/s][A
+1it [00:23, 23.94s/it][A
+2it [03:01, 102.37s/it][A
+5it [06:43, 82.07s/it] [A
+                      [A 38%|███▊      | 21/55 [5:10:52<8:47:17, 930.52s/it]  
+0it [00:00, ?it/s][A
+1it [03:55, 235.60s/it][A
+2it [11:17, 357.04s/it][A
+3it [16:55, 348.47s/it][A
+4it [26:31, 437.95s/it][A
+5it [35:18, 470.35s/it][A
+                       [A 40%|████      | 22/55 [5:46:11<11:47:56, 1287.16s/it]
+0it [00:00, ?it/s][A
+1it [03:53, 233.93s/it][A
+2it [09:23, 289.97s/it][A
+3it [13:06, 259.54s/it][A
+4it [19:45, 314.42s/it][A
+5it [26:29, 346.86s/it][A
+                       [A 42%|████▏     | 23/55 [6:12:41<12:14:51, 1377.86s/it]
+0it [00:00, ?it/s][A
+1it [07:33, 453.16s/it][A
+2it [13:05, 382.09s/it][A
+3it [18:42, 361.60s/it][A
+4it [27:17, 422.13s/it][A
+5it [30:12, 332.79s/it][A
+                       [A 44%|████▎     | 24/55 [6:42:53<12:59:12, 1508.13s/it]
+0it [00:00, ?it/s][A
+1it [00:54, 54.09s/it][A
+2it [03:00, 96.75s/it][A
+3it [03:55, 77.70s/it][A
+4it [07:37, 134.71s/it][A
+                       [A 45%|████▌     | 25/55 [6:50:30<9:56:30, 1193.00s/it] 
+0it [00:00, ?it/s][A
+1it [03:54, 234.62s/it][A
+2it [10:20, 323.48s/it][A
+3it [17:51, 381.60s/it][A
+4it [26:30, 435.92s/it][A
+5it [28:26, 320.74s/it][A
+                       [A 47%|████▋     | 26/55 [7:18:57<10:51:07, 1347.15s/it]
+0it [00:00, ?it/s][A
+1it [02:12, 132.26s/it][A
+2it [09:24, 308.77s/it][A
+3it [16:51, 372.00s/it][A
+4it [26:23, 450.83s/it][A
+5it [33:11, 435.33s/it][A
+                       [A 49%|████▉     | 27/55 [7:52:09<11:58:51, 1540.43s/it]
+0it [00:00, ?it/s][A
+1it [06:36, 396.55s/it][A
+2it [13:58, 423.06s/it][A
+3it [22:26, 461.85s/it][A
+4it [27:13, 393.14s/it][A
+5it [31:06, 335.19s/it][A
+                       [A 51%|█████     | 28/55 [8:23:15<12:17:12, 1638.23s/it]
+0it [00:00, ?it/s][A
+1it [05:43, 343.97s/it][A
+2it [17:48, 567.58s/it][A
+3it [28:22, 598.26s/it][A
+4it [38:15, 596.01s/it][A
+5it [49:24, 622.22s/it][A
+                       [A 53%|█████▎    | 29/55 [9:12:39<14:42:16, 2036.00s/it]
+0it [00:00, ?it/s][A
+1it [04:48, 288.87s/it][A
+2it [07:33, 215.76s/it][A
+3it [09:23, 167.67s/it][A
+4it [11:15, 145.41s/it][A
+5it [14:03, 153.53s/it][A
+                       [A 55%|█████▍    | 30/55 [9:26:42<11:39:13, 1678.13s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.04s/it][A
+4it [00:54, 12.77s/it][A
+                      [A 56%|█████▋    | 31/55 [9:27:37<7:56:24, 1191.03s/it] 
+0it [00:00, ?it/s][A
+1it [05:43, 343.91s/it][A
+2it [15:55, 501.12s/it][A
+3it [25:27, 533.71s/it][A
+4it [33:16, 508.00s/it][A
+5it [34:15, 346.19s/it][A
+                       [A 58%|█████▊    | 32/55 [10:01:52<9:15:58, 1450.36s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.07s/it][A
+2it [01:30, 48.99s/it][A
+3it [03:55, 93.02s/it][A
+4it [05:45, 99.65s/it][A
+5it [09:28, 143.90s/it][A
+                       [A 60%|██████    | 33/55 [10:11:20<7:14:44, 1185.68s/it]
+0it [00:00, ?it/s][A
+1it [02:11, 131.77s/it][A
+2it [05:43, 178.54s/it][A
+3it [07:32, 147.09s/it][A
+4it [09:23, 132.57s/it][A
+5it [12:09, 144.78s/it][A
+                       [A 62%|██████▏   | 34/55 [10:23:30<6:07:04, 1048.81s/it]
+0it [00:00, ?it/s][A
+1it [08:26, 506.77s/it][A
+2it [22:28, 703.77s/it][A
+3it [34:08, 701.95s/it][A
+4it [40:05, 565.92s/it][A
+5it [43:06, 426.90s/it][A
+                       [A 64%|██████▎   | 35/55 [11:06:36<8:23:19, 1509.97s/it]
+0it [00:00, ?it/s][A
+1it [07:30, 450.95s/it][A
+2it [18:37, 577.58s/it][A
+3it [29:06, 601.16s/it][A
+4it [38:53, 595.61s/it][A
+5it [41:52, 445.36s/it][A
+                       [A 65%|██████▌   | 36/55 [11:48:28<9:33:23, 1810.71s/it]
+0it [00:00, ?it/s][A
+1it [04:48, 288.50s/it][A
+2it [08:28, 248.00s/it][A
+3it [12:10, 236.27s/it][A
+4it [14:58, 209.36s/it][A
+5it [17:48, 195.10s/it][A
+6it [21:37, 206.66s/it][A
+                       [A 67%|██████▋   | 37/55 [12:10:06<8:17:01, 1656.75s/it]
+0it [00:00, ?it/s][A
+1it [02:12, 132.10s/it][A
+2it [05:44, 179.12s/it][A
+3it [06:38, 122.36s/it][A
+4it [09:24, 139.45s/it][A
+5it [12:11, 149.38s/it][A
+6it [16:52, 194.20s/it][A
+                       [A 69%|██████▉   | 38/55 [12:26:58<6:54:40, 1463.55s/it]
+0it [00:00, ?it/s][A
+1it [01:30, 90.31s/it][A
+2it [03:55, 122.65s/it][A
+3it [05:45, 116.80s/it][A
+4it [09:27, 158.28s/it][A
+5it [13:11, 182.06s/it][A
+                       [A 71%|███████   | 39/55 [12:40:10<5:36:31, 1261.95s/it]
+0it [00:00, ?it/s][A
+1it [02:59, 179.92s/it][A
+2it [06:38, 202.95s/it][A
+3it [11:15, 236.62s/it][A
+4it [16:51, 275.91s/it][A
+5it [21:35, 278.71s/it][A
+6it [24:27, 242.34s/it][A
+                       [A 73%|███████▎  | 40/55 [13:04:37<5:30:53, 1323.54s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.06s/it][A
+2it [02:12, 73.58s/it][A
+3it [03:55, 87.09s/it][A
+4it [05:45, 96.12s/it][A
+5it [06:40, 81.40s/it][A
+6it [08:32, 91.57s/it][A
+                      [A 75%|███████▍  | 41/55 [13:13:09<4:12:01, 1080.09s/it]
+0it [00:00, ?it/s][A
+1it [01:40, 100.96s/it][A
+2it [01:49, 46.40s/it] [A
+3it [02:01, 31.03s/it][A
+4it [08:36, 174.39s/it][A
+5it [13:35, 219.42s/it][A
+6it [17:37, 227.23s/it][A
+                       [A 76%|███████▋  | 42/55 [13:30:47<3:52:33, 1073.38s/it]
+0it [00:00, ?it/s][A
+1it [00:24, 24.12s/it][A
+2it [00:54, 27.67s/it][A
+3it [04:50, 122.78s/it][A
+4it [07:34, 139.32s/it][A
+5it [09:25, 128.92s/it][A
+6it [11:16, 122.87s/it][A
+                       [A 78%|███████▊  | 43/55 [13:42:03<3:10:51, 954.32s/it] 
+0it [00:00, ?it/s][A
+1it [01:30, 90.26s/it][A
+2it [05:45, 187.53s/it][A
+3it [11:19, 254.38s/it][A
+4it [16:02, 265.53s/it][A
+5it [19:52, 252.64s/it][A
+6it [20:50, 186.43s/it][A
+                       [A 80%|████████  | 44/55 [14:02:54<3:11:13, 1043.06s/it]
+0it [00:00, ?it/s][A
+1it [04:48, 288.05s/it][A
+3it [05:42, 94.94s/it] [A
+4it [08:27, 119.15s/it][A
+5it [11:14, 134.99s/it][A
+6it [13:06, 127.68s/it][A
+                       [A 82%|████████▏ | 45/55 [14:16:00<2:41:02, 966.21s/it] 
+0it [00:00, ?it/s][A
+1it [03:54, 234.29s/it][A
+2it [07:32, 225.01s/it][A
+3it [13:06, 274.42s/it][A
+4it [15:55, 232.99s/it][A
+5it [19:44, 231.58s/it][A
+6it [20:42, 172.50s/it][A
+                       [A 84%|████████▎ | 46/55 [14:36:43<2:37:21, 1049.06s/it]
+0it [00:00, ?it/s][A
+1it [00:23, 24.00s/it][A
+2it [00:54, 27.59s/it][A
+3it [01:30, 31.57s/it][A
+4it [03:01, 55.25s/it][A
+5it [03:57, 55.20s/it][A
+                      [A 85%|████████▌ | 47/55 [14:40:40<1:47:23, 805.47s/it] 
+0it [00:00, ?it/s][A
+1it [03:55, 235.71s/it][A
+2it [08:30, 258.81s/it][A
+3it [12:14, 242.74s/it][A
+4it [18:50, 303.24s/it][A
+5it [26:32, 360.56s/it][A
+6it [27:30, 257.84s/it][A
+                       [A 87%|████████▋ | 48/55 [15:08:11<2:03:33, 1059.11s/it]
+0it [00:00, ?it/s][A
+1it [06:37, 397.88s/it][A
+2it [13:05, 391.67s/it][A
+3it [19:40, 393.13s/it][A
+4it [26:22, 396.94s/it][A
+5it [35:12, 444.74s/it][A
+6it [44:14, 478.02s/it][A
+                       [A 89%|████████▉ | 49/55 [15:52:26<2:33:47, 1537.86s/it]
+0it [00:00, ?it/s][A
+1it [04:49, 289.86s/it][A
+2it [05:44, 151.61s/it][A
+3it [12:13, 259.81s/it][A
+4it [15:01, 223.83s/it][A
+5it [18:49, 225.05s/it][A
+6it [21:40, 206.93s/it][A
+                       [A 91%|█████████ | 50/55 [16:14:07<2:02:13, 1466.77s/it]
+0it [00:00, ?it/s][A
+1it [05:42, 342.96s/it][A
+2it [13:03, 400.64s/it][A
+3it [17:44, 345.81s/it][A
+4it [25:21, 389.66s/it][A
+5it [33:10, 418.20s/it][A
+6it [42:08, 459.19s/it][A
+                       [A 93%|█████████▎| 51/55 [16:56:16<1:59:01, 1785.43s/it]
+0it [00:00, ?it/s][A
+1it [02:59, 179.97s/it][A
+2it [04:48, 138.22s/it][A
+3it [06:38, 125.19s/it][A
+4it [10:04, 156.98s/it][A
+5it [12:52, 161.02s/it][A
+6it [15:42, 163.98s/it][A
+                       [A 95%|█████████▍| 52/55 [17:11:58<1:16:37, 1532.48s/it]
+0it [00:00, ?it/s][A
+1it [10:19, 619.39s/it][A
+2it [20:38, 618.94s/it][A
+3it [31:13, 626.29s/it][A
+4it [40:07, 589.93s/it][A
+5it [49:11, 573.42s/it][A
+6it [1:00:31, 609.60s/it][A
+                         [A 96%|█████████▋| 53/55 [18:12:29<1:12:04, 2162.10s/it]
+0it [00:00, ?it/s][A
+1it [02:59, 179.76s/it][A
+2it [08:28, 267.41s/it][A
+3it [13:06, 272.36s/it][A
+4it [17:49, 276.53s/it][A
+5it [20:42, 238.98s/it][A
+6it [21:39, 177.35s/it][A
+                       [A 98%|█████████▊| 54/55 [18:34:09<31:43, 1903.42s/it]  
+0it [00:00, ?it/s][A
+1it [02:59, 179.70s/it][A
+2it [10:17, 331.57s/it][A
+3it [16:48, 358.45s/it][A
+4it [22:28, 351.38s/it][A
+5it [27:17, 328.73s/it][A
+6it [31:10, 296.36s/it][A
+                       [A100%|██████████| 55/55 [19:05:20<00:00, 1893.59s/it]                                                    wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.008 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: \ 0.008 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: | 0.008 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: / 0.008 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: 🚀 View run llama-7b-state at: https://wandb.ai/seacow/llama-state/runs/42lfum6g
+wandb: Synced 6 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230619_104143-42lfum6g/logs

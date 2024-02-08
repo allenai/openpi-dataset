@@ -1,0 +1,300 @@
+{
+    "37": [
+        [
+            [
+                "weapon",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "equipment",
+                "organization",
+                "scattered",
+                "organized"
+            ],
+            [
+                "equipment",
+                "equipment",
+                "unorganized",
+                "laid in pattern"
+            ],
+            [
+                "rucksack",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "vehicle",
+                "location",
+                "in garage",
+                "in forest"
+            ],
+            [
+                "webbing",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "surface",
+                "fullness",
+                "empty of equipment",
+                "full of equipment"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on rucksaks"
+            ],
+            [
+                "rucksack",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "rucksack",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on rucksack"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on helmet"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on helmet"
+            ],
+            [
+                "helmet",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "helmet",
+                "visibility",
+                "visible",
+                "invisible"
+            ]
+        ],
+        [
+            [
+                "webbing",
+                "attention",
+                "carelessly placed",
+                "carefully placed"
+            ],
+            [
+                "webbing",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on webbing"
+            ]
+        ],
+        [
+            [
+                "weapon",
+                "attention",
+                "carelessly disguised",
+                "carefully disguised"
+            ],
+            [
+                "weapon",
+                "location",
+                "absent",
+                "on weapon"
+            ],
+            [
+                "weapon",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ]
+        ],
+        [
+            [
+                "camouflage net",
+                "coverage",
+                "off vehicle",
+                "over vehicle"
+            ],
+            [
+                "vehicle camouflage net",
+                "location",
+                "in box",
+                "on vehicle"
+            ],
+            [
+                "vehicle",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "vehicle",
+                "vehicle",
+                "uncovered",
+                "netted with camouflage"
+            ]
+        ]
+    ],
+    "38": [
+        [
+            [
+                "oil",
+                "location",
+                "in bike",
+                "in can"
+            ],
+            [
+                "bung",
+                "location",
+                "on bike",
+                "removed from bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "attached",
+                "disattached"
+            ],
+            [
+                "bung",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "closed",
+                "open"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "fuller",
+                "emptier"
+            ],
+            [
+                "oil",
+                "location",
+                "in oil tank",
+                "in can"
+            ],
+            [
+                "oil cap",
+                "location",
+                "on oil tank",
+                "removed from tank"
+            ]
+        ],
+        [
+            [
+                "oil filter",
+                "location",
+                "inside oil tank",
+                "outside oil tank"
+            ]
+        ],
+        [
+            [
+                "bung",
+                "location",
+                "away from bike",
+                "on bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "loose",
+                "attached"
+            ],
+            [
+                "bung",
+                "position",
+                "removed",
+                "back on"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "fuller"
+            ],
+            [
+                "oil",
+                "location",
+                "in bottle",
+                "in tank"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "oil",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "old oil",
+                "location",
+                "in can",
+                "in jug"
+            ],
+            [
+                "funnel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "jug",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ]
+    ]
+}

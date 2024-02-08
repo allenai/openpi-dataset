@@ -1,10 +1,16 @@
-import argparse
-import openai
 import json
+import torch
+import wandb
 import random
-random.seed(299)
-from sklearn.metrics import accuracy_score
+import openai
 import backoff
+import argparse
+from sklearn.metrics import accuracy_score
+import pickle
+
+from llama_model import LLaMA
+
+random.seed(299)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', default='davinci', type=str, help='Either davinci or chatgpt.')
@@ -162,7 +168,9 @@ def apply_inference_template_chatgpt_2(example, previous_outputs=[]):
 def build_fewshot(model):
     # Randomly choose 5 procs from train
     train_examples = parse_data("train")
-
+    #with open("one_shot.pkl", "wb") as f:
+    #    pickle.dump(train_examples[192], f)
+    #raise SystemExit
     if model == "davinci":
         NUM_SHOTS = 1
         #selected_examples = random.sample(train_examples, NUM_SHOTS)
@@ -179,6 +187,13 @@ def build_fewshot(model):
             fewshot = apply_fewshot_template_chatgpt(selected_examples)
         elif args.prompt == "2":
             fewshot = apply_fewshot_template_chatgpt_2(selected_examples)
+    elif 'llama' in args.model:
+        NUM_SHOTS = 1 
+        selected_examples = [train_examples[192]]
+        if args.prompt == "1":
+            fewshot = apply_fewshot_template(selected_examples)
+        elif args.prompt == "2":
+            fewshot = apply_fewshot_template_2(selected_examples)
     #print(fewshot)
     return fewshot
 
@@ -227,6 +242,22 @@ def predict():
             apply_template = apply_inference_template_chatgpt_2
             run = run_chatgpt
             stop = []
+    elif "llama" in args.model:
+        DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        
+        wandb.init(
+            project = 'llama-ft',
+            name = 'ft-default',
+        )
+
+        if args.prompt == "1":
+            apply_template = apply_inference_template
+            run = LLaMA(args.model).inference
+            stop = ['\n']
+        elif args.prompt == "2":
+            apply_template = apply_inference_template_2
+            run = LLaMA(args.model).inference
+            stop = ['Step:']
     out_dict = {}
 
     for example in examples:
@@ -236,18 +267,18 @@ def predict():
         for _ in example["steps"]:
             #print(example)
             prompt = prompt_fewshot + apply_template(example, previous_outputs)
-            print(prompt)
-            #raise SystemExit
+
             if args.model == "davinci":
                 output = run(prompt, stop=stop)
             elif args.model == "chatgpt":
                 output = run(prompt)
-            previous_outputs.append(output)
-            #print(previous_outputs)
-            #raise SystemExit
+            elif 'llama' in args.model:
+                output = run(prompt, stop=stop, device=DEVICE)
 
             # parse output
             output_str = output if args.model == "davinci" else output['content']
+            previous_outputs.append(output_str)
+
             pred_entities = []
             pred_entities_attributes = []
             #print(output_str)
@@ -293,9 +324,7 @@ def predict():
             out_dict[example["id"]].append(pred_entities_attributes)
 
     return out_dict
-        
 
-        
 
 def evaluate():
     with open(f'pred_{args.model}_{args.prompt}_{args.max_prompt}{args.seed}.txt', 'r') as f:
@@ -304,6 +333,7 @@ def evaluate():
         golds = [x.strip() for x in f.readlines()]
     print("Accuracy", accuracy_score(golds, preds))
     return "Accuracy", accuracy_score(golds, preds)
+
 
 if __name__ == "__main__":
     out_dict = predict()

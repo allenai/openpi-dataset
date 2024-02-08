@@ -1,0 +1,1001 @@
+{
+    "24": [
+        [
+            [
+                "smoothie",
+                "organization",
+                "seperate",
+                "combined"
+            ],
+            [
+                "blender",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "blender",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "blender",
+                "blender",
+                "empty",
+                "filled with yogurt, bananas, sorbet"
+            ],
+            [
+                "blender",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "sorber",
+                "location",
+                "in tub",
+                "in blender"
+            ],
+            [
+                "yogurt",
+                "location",
+                "in tub",
+                "in blender"
+            ],
+            [
+                "ingredients",
+                "composition",
+                "separate",
+                "mixed/blended"
+            ],
+            [
+                "banana",
+                "location",
+                "in peel",
+                "in blender"
+            ],
+            [
+                "fruit",
+                "temperature",
+                "45 degrees",
+                "32 degrees"
+            ]
+        ],
+        [
+            [
+                "smoothie",
+                "texture",
+                "chunky",
+                "smooth"
+            ],
+            [
+                "blender",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "blender",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "blender",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "blender",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "items",
+                "composition",
+                "whole",
+                "mixed"
+            ]
+        ],
+        [
+            [
+                "rum",
+                "location",
+                "in bottle",
+                "in blender"
+            ],
+            [
+                "rum",
+                "composition",
+                "separate",
+                "mixed with ingredients"
+            ],
+            [
+                "blender",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "bottle",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "liquid",
+                "composition",
+                "non-alcoholic",
+                "alcoholic"
+            ]
+        ],
+        [
+            [
+                "smoothie",
+                "smoothie",
+                "in blender",
+                "in glasses"
+            ],
+            [
+                "smoothie",
+                "location",
+                "in blender",
+                "in glass"
+            ],
+            [
+                "blender",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "blender",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "glasses",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "glasses",
+                "temperature",
+                "warm",
+                "chilled"
+            ],
+            [
+                "glasses",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "glasses",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "glasses",
+                "moisture",
+                "dry",
+                "wet"
+            ]
+        ],
+        [
+            [
+                "strawberry",
+                "location",
+                "inside refrigerator",
+                "on glass"
+            ],
+            [
+                "glasses",
+                "appearance",
+                "plain",
+                "garnished"
+            ],
+            [
+                "glass",
+                "decoration",
+                "bare rimmed",
+                "decorated/garnished"
+            ]
+        ]
+    ],
+    "25": [
+        [
+            [
+                "suitable paper for pinwheels",
+                "choice",
+                "unselected",
+                "selected"
+            ],
+            [
+                "paper",
+                "knowledge",
+                "unselected",
+                "selected"
+            ]
+        ],
+        [
+            [
+                "pinwheels",
+                "availability",
+                "unmade",
+                "made"
+            ],
+            [
+                "pinwheels",
+                "orientation",
+                "loose",
+                "attached"
+            ],
+            [
+                "paper",
+                "shape",
+                "flat",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "wreath base",
+                "step",
+                "unknown",
+                "chosen"
+            ]
+        ],
+        [
+            [
+                "ribbon",
+                "location",
+                "on spool",
+                "on wreath base"
+            ],
+            [
+                "ribbon",
+                "organization",
+                "loose",
+                "attached"
+            ],
+            [
+                "twine",
+                "location",
+                "on spool",
+                "on wreath base"
+            ],
+            [
+                "twine",
+                "organization",
+                "loose",
+                "attached"
+            ]
+        ],
+        []
+    ],
+    "26": [
+        [
+            [
+                "hanger",
+                "shape",
+                "in hanger shape",
+                "in circle shape"
+            ],
+            [
+                "pliers",
+                "location",
+                "in drawer",
+                "on table"
+            ],
+            [
+                "wire hanger",
+                "shape",
+                "twisted",
+                "untwisted"
+            ],
+            [
+                "fingers",
+                "pressure",
+                "relaxed",
+                "gripped"
+            ],
+            [
+                "tool",
+                "openness",
+                "open",
+                "closed"
+            ],
+            [
+                "hands",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "wax paper",
+                "texture",
+                "flat",
+                "crumpled"
+            ],
+            [
+                "hanger",
+                "location",
+                "on table",
+                "through paper"
+            ],
+            [
+                "hanger",
+                "volume",
+                "empty",
+                "full of squares"
+            ],
+            [
+                "crepe paper",
+                "shape",
+                "whole",
+                "pierced with hanger"
+            ],
+            [
+                "squares",
+                "shape",
+                "untouched",
+                "pierced"
+            ],
+            [
+                "table",
+                "cleanness",
+                "clear",
+                "cluttered"
+            ],
+            [
+                "hands",
+                "motion",
+                "still",
+                "moving"
+            ]
+        ],
+        [
+            [
+                "ends",
+                "shape",
+                "straight",
+                "twisted"
+            ],
+            [
+                "hanger",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "hanger",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "hanger ends",
+                "proximity",
+                "separate",
+                "together"
+            ],
+            [
+                "squares",
+                "location",
+                "near ends",
+                "away from ends"
+            ],
+            [
+                "pliers",
+                "location",
+                "on table",
+                "in hand"
+            ],
+            [
+                "fingers",
+                "pressure",
+                "relaxed",
+                "pushing"
+            ],
+            [
+                "tool",
+                "position",
+                "open",
+                "gripped"
+            ]
+        ],
+        [
+            [
+                "ends",
+                "shape",
+                "disconnected",
+                "joined"
+            ],
+            [
+                "hanger",
+                "location",
+                "on table",
+                "being held up in air"
+            ],
+            [
+                "hanger",
+                "composition",
+                "bare",
+                "covered with paper"
+            ],
+            [
+                "hanger",
+                "volume",
+                "emptier",
+                "fuller"
+            ],
+            [
+                "squares",
+                "location",
+                "away from ends",
+                "closer to ends"
+            ],
+            [
+                "paper squares",
+                "position",
+                "apart",
+                "folded back"
+            ],
+            [
+                "paper",
+                "orientation",
+                "bunched on hanger",
+                "spread out on hanger"
+            ],
+            [
+                "paper",
+                "shape",
+                "straighter",
+                "scruched"
+            ],
+            [
+                "hands",
+                "volume",
+                "empty",
+                "holding squares"
+            ]
+        ],
+        [
+            [
+                "hanger",
+                "location",
+                "in closet",
+                "on door"
+            ],
+            [
+                "wreath",
+                "status",
+                "in progress",
+                "completed"
+            ]
+        ]
+    ],
+    "27": [
+        [
+            [
+                "potatoes",
+                "cleanness",
+                "dirty",
+                "cleaner"
+            ],
+            [
+                "potatoes",
+                "location",
+                "in bag",
+                "on counter"
+            ],
+            [
+                "water faucet",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "sink",
+                "wetness",
+                "dry",
+                "wet"
+            ]
+        ],
+        [
+            [
+                "potatoes",
+                "thickness",
+                "thicker",
+                "thinner"
+            ],
+            [
+                "potatoes",
+                "length",
+                "short",
+                "long"
+            ],
+            [
+                "potatoes",
+                "composition",
+                "whole",
+                "peeled"
+            ],
+            [
+                "peels",
+                "location",
+                "in drawer",
+                "in hand"
+            ],
+            [
+                "peels",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "potaoto",
+                "composition",
+                "solid",
+                "sliced"
+            ],
+            [
+                "kitchen counter",
+                "cleanness",
+                "clean",
+                "messy"
+            ],
+            [
+                "bowl",
+                "fullness",
+                "empty",
+                "full of potato peels"
+            ]
+        ],
+        [
+            [
+                "potatoes",
+                "cleanness",
+                "wet",
+                "dry"
+            ],
+            [
+                "peels",
+                "dryness",
+                "moist",
+                "drier"
+            ],
+            [
+                "cloth",
+                "location",
+                "in drawer",
+                "on counter"
+            ],
+            [
+                "cloth",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "cloth",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "potato pieces",
+                "moisture",
+                "wet",
+                "dry"
+            ],
+            [
+                "potato pieces",
+                "location",
+                "in hand",
+                "on cloth"
+            ],
+            [
+                "water",
+                "location",
+                "on potatoes",
+                "on cloth"
+            ]
+        ],
+        [
+            [
+                "potatoes",
+                "composition",
+                "raw",
+                "cooked"
+            ],
+            [
+                "peels",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "peels",
+                "temperature",
+                "cool",
+                "hotter"
+            ],
+            [
+                "peels",
+                "texture",
+                "soft",
+                "crunchy"
+            ],
+            [
+                "peels",
+                "location",
+                "in cupboard",
+                "on stove"
+            ],
+            [
+                "stove",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "stove",
+                "electric conductivity",
+                "off",
+                "on"
+            ],
+            [
+                "oil",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "ribbons",
+                "teture",
+                "raw",
+                "fried"
+            ],
+            [
+                "spatula",
+                "cleanness",
+                "clean",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "potatoes",
+                "location",
+                "in pan",
+                "in dish"
+            ],
+            [
+                "peels",
+                "location",
+                "on stove",
+                "on table"
+            ],
+            [
+                "peels",
+                "weight",
+                "was heavy",
+                "is light"
+            ],
+            [
+                "peels",
+                "taste",
+                "bland",
+                "seasoned"
+            ],
+            [
+                "serving dish",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "serving dish",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "platter",
+                "fullness",
+                "empty",
+                "full of potatoes"
+            ]
+        ]
+    ],
+    "28": [
+        [
+            [
+                "drink",
+                "cost",
+                "for sale in store",
+                "purchased from store"
+            ],
+            [
+                "drink",
+                "sealing",
+                "sealed",
+                "open"
+            ],
+            [
+                "drink",
+                "availability",
+                "unobtained",
+                "obtained"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "cup",
+                "fullness",
+                "empty",
+                "filled"
+            ],
+            [
+                "cup",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "cup",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "cup",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "fizzy drink",
+                "availability",
+                "somewhere else",
+                "obtained"
+            ]
+        ],
+        [
+            [
+                "drink",
+                "availability",
+                "full",
+                "empty"
+            ],
+            [
+                "bolt",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "bolt",
+                "texture",
+                "rough",
+                "sticky"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "bottle",
+                "openness",
+                "closed",
+                "open"
+            ],
+            [
+                "fizzy drink",
+                "location",
+                "in container",
+                "on bolt"
+            ],
+            [
+                "hands",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "hands",
+                "texture",
+                "smooth",
+                "sticky"
+            ]
+        ],
+        [
+            [
+                "kitchen towel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "kitchen towel",
+                "color",
+                "white",
+                "orange"
+            ],
+            [
+                "kitchen towel",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "kitchen towel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "bolt",
+                "wetness",
+                "wet",
+                "dry"
+            ],
+            [
+                "bolt",
+                "texture",
+                "sticky",
+                "rough"
+            ],
+            [
+                "bolt",
+                "cleanness",
+                "dirty",
+                "cleaner"
+            ],
+            [
+                "soda",
+                "location",
+                "on bolt",
+                "on towel"
+            ],
+            [
+                "towel",
+                "weight",
+                "lighter",
+                "heavier"
+            ]
+        ],
+        [
+            [
+                "bolt",
+                "movement",
+                "still",
+                "moving"
+            ],
+            [
+                "bolt",
+                "age",
+                "stuck",
+                "unstuck"
+            ],
+            [
+                "assembly",
+                "texture",
+                "coated with rust",
+                "smoother"
+            ],
+            [
+                "rust",
+                "composition",
+                "solid",
+                "dissolved"
+            ],
+            [
+                "wrench",
+                "location",
+                "in toolbox",
+                "in hand"
+            ]
+        ],
+        [
+            [
+                "bolt",
+                "age",
+                "old",
+                "new"
+            ],
+            [
+                "bolt",
+                "location",
+                "in machine",
+                "on counter"
+            ],
+            [
+                "new bolt",
+                "location",
+                "in package",
+                "in machine"
+            ],
+            [
+                "new bolt",
+                "orientation",
+                "placed",
+                "removed"
+            ]
+        ]
+    ],
+    "29": [
+        [
+            [
+                "heating element",
+                "color",
+                "black",
+                "red"
+            ],
+            [
+                "stove buttons",
+                "pressure",
+                "unpressed",
+                "pressed"
+            ],
+            [
+                "oven",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "oven",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "display",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "temperature",
+                "temperature",
+                "low",
+                "high"
+            ],
+            [
+                "oven door",
+                "openness",
+                "open",
+                "closed"
+            ],
+            [
+                "timer",
+                "electric conductivity",
+                "unused",
+                "active"
+            ]
+        ]
+    ]
+}

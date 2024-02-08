@@ -1,0 +1,116 @@
+{
+    "30": [
+        [
+            [
+                "vinegar",
+                "location",
+                "in bottle",
+                "cup"
+            ],
+            [
+                "container",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "container",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "container",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "bottle",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "pot",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "wicks",
+                "cost",
+                "on sale at store",
+                "purchased from store"
+            ],
+            [
+                "wick",
+                "orientation",
+                "on lamp",
+                "removed"
+            ],
+            [
+                "lamp",
+                "composition",
+                "wicked",
+                "wickless"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "dry",
+                "wet"
+            ],
+            [
+                "vinegar",
+                "location",
+                "in container",
+                "in wick"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "wet",
+                "dry"
+            ],
+            [
+                "wick",
+                "dryness",
+                "wet",
+                "dry"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "whole",
+                "burned"
+            ],
+            [
+                "wick",
+                "location",
+                "on counter",
+                "in lamp"
+            ],
+            [
+                "wick",
+                "temperature",
+                "cool",
+                "heated"
+            ]
+        ]
+    ]
+}

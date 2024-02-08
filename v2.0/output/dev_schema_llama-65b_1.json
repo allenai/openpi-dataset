@@ -1,0 +1,4524 @@
+{
+    "1": [
+        {
+            "store": [
+                "location"
+            ],
+            "money": [
+                "denomination",
+                "currency"
+            ],
+            "customer": [
+                "gender",
+                "age",
+                "height",
+                "weight",
+                "race",
+                "ethnicity",
+                "religion",
+                "language",
+                "nationality",
+                "political_affiliation",
+                "occupation",
+                "education",
+                "economic_class",
+                "social_status",
+                "marital_status",
+                "sexual_orientation",
+                "family_status",
+                "employment_status",
+                "geographic_region",
+                "homeowner_status",
+                "citizenship_status",
+                "military_service_status",
+                "medical_history",
+                "disability_status",
+                "pregnancy_status",
+                "genetic_information",
+                "smoker_status",
+                "drinker_status",
+                "user_of_illegal_drugs_status",
+                "creditworthiness",
+                "reputation",
+                "behavior",
+                "interests",
+                "opinions",
+                "personal_characteristics",
+                "background",
+                "birthday",
+                "blood_type",
+                "eyeglasses",
+                "contact_lenses",
+                "teeth",
+                "face",
+                "skin",
+                "hair",
+                "tattoos",
+                "piercing",
+                "appearance",
+                "style",
+                "clothes",
+                "shoes",
+                "accessory",
+                "jewelry",
+                "watch",
+                "wallet",
+                "purse",
+                "keychain",
+                "backpack",
+                "briefcase",
+                "suitcases",
+                "travel_bag",
+                "hat",
+                "gloves",
+                "scarf",
+                "umbrella",
+                "outerwear",
+                "underwear",
+                "belts",
+                "socks",
+                "stockings",
+                "makeup",
+                "fragrance",
+                "deodorant",
+                "cologne",
+                "aftershave",
+                "perfume",
+                "lipst"
+            ]
+        },
+        {
+            "vehicle": [
+                "door",
+                "window",
+                "mirror",
+                "light",
+                "bumper",
+                "hood",
+                "trunk",
+                "engine",
+                "exhaust",
+                "tire",
+                "steering wheel",
+                "dashboard",
+                "windscreen wiper",
+                "horn",
+                "headrest",
+                "sunroof",
+                "radio",
+                "cd player",
+                "mp3 player",
+                "navigation system",
+                "air conditioning",
+                "heating",
+                "defrost",
+                "cup holder",
+                "storage compartment",
+                "child seat",
+                "seats",
+                "floor mat",
+                "carpet",
+                "upholstery",
+                "leather seats",
+                "fabric seats",
+                "vinyl seats",
+                "plastic parts",
+                "metallic parts",
+                "electronics",
+                "computer",
+                "sensors",
+                "camera",
+                "radars",
+                "sonars",
+                "speakers",
+                "microphone",
+                "display screen",
+                "touchpad",
+                "buttons",
+                "knobs",
+                "switches",
+                "joystick",
+                "mouse",
+                "trackball",
+                "keyboard",
+                "printer",
+                "scanner",
+                "copier",
+                "modem",
+                "router",
+                "wireless router",
+                "bluetooth device",
+                "cellular phone",
+                "usb port",
+                "firewall",
+                "anti virus software",
+                "operating system",
+                "browser",
+                "word processor",
+                "spreadsheet",
+                "email client",
+                "calendar",
+                "address book",
+                "media player",
+                "file manager",
+                "control panel",
+                "registry editor",
+                "device driver",
+                "game controller",
+                "remote control",
+                "tv tuner",
+                "video card",
+                "graphics adapter",
+                "sound card",
+                "network interface",
+                "cpu",
+                "processor",
+                "cache memory",
+                "ram",
+                "rom",
+                "hard drive",
+                "solid state disk",
+                "optical disc drive",
+                "card reader",
+                "portable storage medium",
+                "memory stick",
+                "flash drive",
+                "thumbdrive",
+                "external hard drive",
+                "monitor",
+                "web"
+            ]
+        },
+        {
+            "vehicle": [
+                "door",
+                "window",
+                "mirror",
+                "light",
+                "bumper",
+                "hood",
+                "trunk",
+                "engine",
+                "exhaust",
+                "tire",
+                "steering wheel",
+                "dashboard",
+                "windscreen wiper",
+                "horn",
+                "headrest",
+                "sunroof",
+                "radio",
+                "cd player",
+                "mp3 player",
+                "navigation system",
+                "air conditioning",
+                "heating",
+                "defrost",
+                "cup holder",
+                "storage compartment",
+                "child seat",
+                "seats",
+                "floor mat",
+                "carpet",
+                "upholstery",
+                "leather seats",
+                "fabric seats",
+                "vinyl seats",
+                "plastic parts",
+                "metallic parts",
+                "electronics",
+                "computer",
+                "sensors",
+                "camera",
+                "radars",
+                "sonars",
+                "speakers",
+                "microphone",
+                "display screen",
+                "touchpad",
+                "buttons",
+                "knobs",
+                "switches",
+                "joystick",
+                "mouse",
+                "trackball",
+                "keyboard",
+                "printer",
+                "scanner",
+                "copier",
+                "modem",
+                "router",
+                "wireless router",
+                "bluetooth device",
+                "cellular phone",
+                "usb port",
+                "firewall",
+                "anti virus software",
+                "operating system",
+                "browser",
+                "word processor",
+                "spreadsheet",
+                "email client",
+                "calendar",
+                "address book",
+                "media player",
+                "file manager",
+                "control panel",
+                "registry editor",
+                "device driver",
+                "game controller",
+                "remote control",
+                "tv tuner",
+                "video card",
+                "graphics adapter",
+                "sound card",
+                "network interface",
+                "cpu",
+                "processor",
+                "cache memory",
+                "ram",
+                "rom",
+                "hard drive",
+                "solid state disk",
+                "optical disc drive",
+                "card reader",
+                "portable storage medium",
+                "memory stick",
+                "flash drive",
+                "thumbdrive",
+                "external hard drive",
+                "monitor",
+                "web"
+            ]
+        },
+        {
+            "vehicle": [
+                "door",
+                "window",
+                "mirror",
+                "light",
+                "bumper",
+                "hood",
+                "trunk",
+                "engine",
+                "exhaust",
+                "tire",
+                "steering wheel",
+                "dashboard",
+                "windscreen wiper",
+                "horn",
+                "headrest",
+                "sunroof",
+                "radio",
+                "cd player",
+                "mp3 player",
+                "navigation system",
+                "air conditioning",
+                "heating",
+                "defrost",
+                "cup holder",
+                "storage compartment",
+                "child seat",
+                "seats",
+                "floor mat",
+                "carpet",
+                "upholstery",
+                "leather seats",
+                "fabric seats",
+                "vinyl seats",
+                "plastic parts",
+                "metallic parts",
+                "electronics",
+                "computer",
+                "sensors",
+                "camera",
+                "radars",
+                "sonars",
+                "speakers",
+                "microphone",
+                "display screen",
+                "touchpad",
+                "buttons",
+                "knobs",
+                "switches",
+                "joysticks",
+                "keyboards",
+                "printers",
+                "scanners",
+                "copiers",
+                "coffee makercups",
+                "cups",
+                "plates",
+                "bowls",
+                "glasses",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "plates",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cups",
+                "cu"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "flour": [
+                "location"
+            ],
+            "baking powder": [
+                "location"
+            ],
+            "salt": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "cocoa": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "vanilla extract": [
+                "location"
+            ],
+            "dried fruit": [
+                "location"
+            ],
+            "nuts": [
+                "location"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location"
+            ],
+            "spoon": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "mixture": [
+                "shape"
+            ],
+            "hands": [
+                "cleanliness"
+            ],
+            "table": [
+                "cleanliness"
+            ]
+        },
+        {
+            "balls": [
+                "location"
+            ],
+            "freezer": [
+                "temperature))\nStep: Remove from the freezer and roll again until smooth.\nEntities and attributes: balls"
+            ],
+            "hands": [
+                "cleanliness"
+            ],
+            "table": [
+                "cleanliness))\nStep: Store in refrigerator or serve immediately.\nEntities and attributes: balls"
+            ]
+        },
+        {
+            "balls": [
+                "location"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "container": [
+                "location",
+                "size",
+                "shape",
+                "material"
+            ]
+        },
+        {
+            "freezer paper": [
+                "location"
+            ],
+            "baking paper": [
+                "location",
+                "foil"
+            ]
+        },
+        {
+            "cookie/biscuit(location),freezer": [
+                "temperature"
+            ]
+        },
+        {
+            "cookie/biscuit(location)),thawed": [
+                "state"
+            ]
+        }
+    ],
+    "4": [
+        {},
+        {},
+        {
+            "triangular(triangle),\nStep: Roll up the remaining part of the pipe cleaner until you reach about 0.25 inches": [
+                "6 mm) away from the end.\nEntities and attributes: rollup(rolling"
+            ]
+        },
+        {}
+    ],
+    "5": [
+        {
+            "yarn": [
+                "length"
+            ],
+            "needles": [
+                "length"
+            ],
+            "hands": [
+                "tension"
+            ]
+        },
+        {
+            "yarn": [
+                "length"
+            ],
+            "needle": [
+                "length",
+                "length"
+            ],
+            "hand": [
+                "tension",
+                "tension"
+            ],
+            "rectangle": [
+                "width",
+                "length)\nStep: Fold over one side of the rectangle so that it forms an inverted V shape. Sew along this edge.\nEntities and attributes: yarn"
+            ],
+            "triangle": [
+                "height",
+                "width)\nStep: Turn inside out and place on head. Pull down over ears.\nEntities and attributes: hat"
+            ],
+            "ear": [
+                "coverage"
+            ]
+        },
+        {
+            "yarn": [
+                "length"
+            ],
+            "needle": [
+                "length"
+            ],
+            "hand": [
+                "tension"
+            ],
+            "circle": [
+                "diameter"
+            ]
+        },
+        {
+            "yarn": [
+                "length"
+            ],
+            "needle": [
+                "length"
+            ],
+            "hand": [
+                "tension"
+            ],
+            "string": [
+                "length"
+            ],
+            "tassels": [
+                "number"
+            ]
+        }
+    ],
+    "6": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "7": [
+        {
+            "TV": [
+                "cable"
+            ],
+            "WII": [
+                "cable"
+            ],
+            "CABLE": [
+                "length",
+                "type"
+            ]
+        },
+        {},
+        {},
+        {}
+    ],
+    "8": [
+        {
+            "towel": [
+                "length",
+                "width",
+                "shape"
+            ]
+        },
+        {
+            "towel": [
+                "length",
+                "width",
+                "shape"
+            ]
+        },
+        {
+            "towel": [
+                "location"
+            ]
+        },
+        {
+            "towel": [
+                "location"
+            ]
+        }
+    ],
+    "9": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "10": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "11": [
+        {
+            "rhubarb": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "cloves": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "pot": [
+                "location"
+            ],
+            "heat source": [
+                "location"
+            ]
+        },
+        {
+            "rhubarb": [
+                "texture"
+            ],
+            "sugar": [
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "cloves": [
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "water": [
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "pot": [
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "heat source": [
+                "location",
+                "Step: Strain through muslin or cheese cloth.\nEntities and attributes: rhubarb",
+                "location",
+                "location",
+                "location"
+            ],
+            "strainer": [
+                "cleanliness"
+            ],
+            "muslin/cheese cloth": [
+                "cleanliness",
+                "Step: Add lemon zest and juice.\nEntities and attributes: rhubarb"
+            ],
+            "lemon": [
+                "juice",
+                "location"
+            ],
+            "lemon peel": [
+                "location",
+                "Step: Bottle and store in refrigerator.\nEntities and attributes: rhubarb"
+            ],
+            "bottles": [
+                "location"
+            ]
+        },
+        {
+            "rhubarb": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "cloves": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "pot": [
+                "location"
+            ],
+            "heat source": [
+                "location"
+            ]
+        },
+        {
+            "rhubarb": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "cloves": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "pot": [
+                "location"
+            ],
+            "heat source": [
+                "location"
+            ],
+            "mint leaves": [
+                "location"
+            ]
+        }
+    ],
+    "12": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "13": [
+        {
+            "milk": [
+                "amount"
+            ],
+            "chocolate syrup": [
+                "amount"
+            ],
+            "sugar": [
+                "amount"
+            ],
+            "vanilla extract": [
+                "amount"
+            ],
+            "water": [
+                "amount"
+            ],
+            "whisk": [
+                "cleanliness"
+            ],
+            "bowl": [
+                "cleanliness"
+            ]
+        },
+        {
+            "milk": [
+                "location"
+            ],
+            "chocolate syrup": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "sugar": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "vanilla extract": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "water": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "whisk": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "bowl": [
+                "location",
+                "temperature",
+                "consistency",
+                "location"
+            ],
+            "slow cooker": [
+                "location)\nStep: Cook on low heat until warm.\nEntities and attributes: milk",
+                "temperature)\nStep: Stir occasionally.\nEntities and attributes: milk",
+                "consistency)\nStep: When ready serve immediately.\nEntities and attributes: milk",
+                "location"
+            ]
+        },
+        {
+            "milk": [
+                "temperature"
+            ],
+            "chocolate syrup": [
+                "temperature"
+            ],
+            "sugar": [
+                "temperature"
+            ],
+            "vanilla extract": [
+                "temperature"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "whisk": [
+                "temperature"
+            ],
+            "bowl": [
+                "temperature"
+            ],
+            "slow cooker": [
+                "temperature"
+            ]
+        },
+        {
+            "milk": [
+                "location"
+            ],
+            "chocolate syrup": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "vanilla extract": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "whisk": [
+                "location"
+            ],
+            "bowl": [
+                "location"
+            ],
+            "slow cooker": [
+                "location"
+            ]
+        }
+    ],
+    "14": [
+        {
+            "soil": [
+                "moisture",
+                "nutrients"
+            ],
+            "pot": [
+                "size",
+                "shape",
+                "material"
+            ],
+            "ground": [
+                "soil moisture",
+                "soil nutrient level"
+            ]
+        },
+        {
+            "rosebush": [
+                "height",
+                "numberofleaves",
+                "flowers"
+            ]
+        },
+        {
+            "rosebush": [
+                "height",
+                "numberofleaves",
+                "flowers"
+            ]
+        },
+        {
+            "rosebush": [
+                "height",
+                "numberofleaves",
+                "flowers"
+            ]
+        }
+    ],
+    "15": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "16": [
+        {
+            "lemon": [
+                "shape",
+                "size",
+                "color",
+                "texture",
+                "freshness",
+                "smell",
+                "taste",
+                "juicy-ness",
+                "hardness",
+                "softness",
+                "ripeness",
+                "edibility",
+                "nutrition",
+                "energy",
+                "calories",
+                "protein",
+                "carbohydrate",
+                "fat",
+                "vitamin",
+                "mineral",
+                "fiber",
+                "water content",
+                "acidity",
+                "bitterness",
+                "sweetness",
+                "sourness",
+                "density",
+                "mass",
+                "volume",
+                "number of seeds",
+                "seed size",
+                "seed color",
+                "seed shape",
+                "seed texture",
+                "seed freshness",
+                "seed taste",
+                "seed smell",
+                "seed hardness",
+                "seed softness",
+                "seed ripeness",
+                "seed edibility",
+                "seed nutrition",
+                "seed energy",
+                "seed calories",
+                "seed protein",
+                "seed carbohydrate",
+                "seed fat",
+                "seed vitamins",
+                "seed minerals",
+                "seed fiber",
+                "seed water content",
+                "seed acidity",
+                "seed bitterness",
+                "seed sweetness",
+                "seed sourness",
+                "seed density",
+                "seed mass",
+                "seed volume",
+                "number of segments",
+                "segment size",
+                "segment color",
+                "segment shape",
+                "segment texture",
+                "segment freshness",
+                "segment taste",
+                "segment smell",
+                "segment hardness",
+                "segment softness",
+                "segment ripeness",
+                "segment edibility",
+                "segment nutrition",
+                "segment energy",
+                "segment calories",
+                "segment protein",
+                "segment carbohydrate",
+                "segment fat",
+                "segment vitamins",
+                "segment minerals",
+                "segment fiber",
+                "segment water content",
+                "segment acidity",
+                "segment bitterness",
+                "segment sweetness",
+                "segment sourness",
+                "segment density",
+                "segment mass",
+                "segment volume",
+                "number of wedges",
+                "wedge size",
+                "wedge color",
+                "wedge shape",
+                "wedge texture",
+                "wedge freshness",
+                "wedge taste",
+                "wedge smell",
+                "wedge hardness",
+                "wedge softness",
+                "wedge ripeness",
+                "wedge edibility",
+                "wedge nutrition",
+                "wedge energy",
+                "wedge calories",
+                "wedge protein",
+                "wedge carbohydrate",
+                "wedge fat",
+                "wedge vitamins",
+                "wedge minerals",
+                "wedge fiber",
+                "wedge water content",
+                "wedge acidity",
+                "wedge bitterness",
+                "wedge sweetness",
+                "wedge sourness",
+                "wedge density",
+                "wedge mass",
+                "wedge volume",
+                "number of pieces",
+                "piece size",
+                "piece color",
+                "piece shape",
+                "piece texture",
+                "piece freshness",
+                "piece taste",
+                "piece smell",
+                "piece hardness",
+                "piece softness",
+                "piece ripeness",
+                "piece edibility",
+                "piece nutrition",
+                "piece energy",
+                "piece calories",
+                "piece protein",
+                "pie"
+            ]
+        },
+        {
+            "lemon": [
+                "juice amount",
+                "juice composition",
+                "juice temperature",
+                "juice wetness",
+                "juice location",
+                "juice weight",
+                "juice cleanness",
+                "juice power",
+                "juice hardness",
+                "juice softness",
+                "juice freshness",
+                "juice taste",
+                "juice smell",
+                "juice color",
+                "juice shape",
+                "juice texture",
+                "juice nutrition",
+                "juice energy",
+                "juice calories",
+                "juice protein",
+                "juice carbohydrate",
+                "juice fat",
+                "juice vitamins",
+                "juice minerals",
+                "juice fiber",
+                "juice water content",
+                "juice acidity",
+                "juice bitterness",
+                "juice sweetness",
+                "juice sourness",
+                "juice density",
+                "juice mass",
+                "juice volume",
+                "juice number of seeds",
+                "juice seed size",
+                "juice seed color",
+                "juice seed shape",
+                "juice seed texture",
+                "juice seed freshness",
+                "juice seed taste",
+                "juice seed smell",
+                "juice seed hardness",
+                "juice seed softness",
+                "juice seed ripeness",
+                "juice seed edibility",
+                "juice seed nutrition",
+                "juice seed energy",
+                "juice seed calories",
+                "juice seed protein",
+                "juice seed carbohydrate",
+                "juice seed fat",
+                "juice seed vitamins",
+                "juice seed minerals",
+                "juice seed fiber",
+                "juice seed water content",
+                "juice seed acidity",
+                "juice seed bitterness",
+                "juice seed sweetness",
+                "juice seed sourness",
+                "juice seed density",
+                "juice seed mass",
+                "juice seed volume",
+                "juice number of segments",
+                "juice segment size",
+                "juice segment color",
+                "juice segment shape",
+                "juice segment texture",
+                "juice segment freshness",
+                "juice segment taste",
+                "juice segment smell",
+                "juice segment hardness",
+                "juice segment softness",
+                "juice segment ripeness",
+                "juice segment edibility",
+                "juice segment nutrition",
+                "juice segment energy",
+                "juice segment calories",
+                "juice segment protein",
+                "juice segment carbohydrate",
+                "juice segment fat",
+                "juice segment vitamins",
+                "juice segment minerals",
+                "juice segment fiber",
+                "juice segment water content",
+                "juice segment acidity",
+                "juice segment bitterness",
+                "juice segment sweetness",
+                "juice segment sourness",
+                "juice segment density",
+                "juice segment mass",
+                "juice segment volume",
+                "juice number of wedges",
+                "ju"
+            ]
+        },
+        {
+            "lemon": [
+                "juice amount",
+                "juice composition",
+                "juice temperature",
+                "juice wetness",
+                "juice location",
+                "juice weight",
+                "juice cleanness",
+                "juice power",
+                "juice hardness",
+                "juice softness",
+                "juice freshness",
+                "juice taste",
+                "juice smell",
+                "juice color",
+                "juice shape",
+                "juice texture",
+                "juice nutrition",
+                "juice energy",
+                "juice calories",
+                "juice protein",
+                "juice carbohydrate",
+                "juice fat",
+                "juice vitamins",
+                "juice minerals",
+                "juice fiber",
+                "juice water content",
+                "juice acidity",
+                "juice bitterness",
+                "juice sweetness",
+                "juice sourness",
+                "juice density",
+                "juice mass",
+                "juice volume",
+                "juice number of seeds",
+                "juice seed size",
+                "juice seed color",
+                "juice seed shape",
+                "juice seed texture",
+                "juice seed freshness",
+                "juice seed taste",
+                "juice seed smell",
+                "juice seed hardness",
+                "juice seed softness",
+                "juice seed ripeness",
+                "juice seed edibility",
+                "juice seed nutrition",
+                "juice seed energy",
+                "juice seed calories",
+                "juice seed protein",
+                "juice seed carbohydrate",
+                "juice seed fat",
+                "juice seed vitamins",
+                "juice seed minerals",
+                "juice seed fiber",
+                "juice seed water content",
+                "juice seed acidity",
+                "juice seed bitterness",
+                "juice seed sweetness",
+                "juice seed sourness",
+                "juice seed density",
+                "juice seed mass",
+                "juice seed volume",
+                "juice number of segments",
+                "juice segment size",
+                "juice segment color",
+                "juice segment shape",
+                "juice segment texture",
+                "juice segment freshness",
+                "juice segment taste",
+                "juice segment smell",
+                "juice segment hardness",
+                "juice segment softness",
+                "juice segment ripe)\nStep: ######Rub until all dirt has been removed from the surface.\nEntities and attributes: lemon"
+            ]
+        },
+        {
+            "lemon": [
+                "juice amount",
+                "juice composition",
+                "juice temperature",
+                "juice wetness",
+                "juice location",
+                "juice weight",
+                "juice cleanness",
+                "juice power",
+                "juice hardness",
+                "juice softness",
+                "juice freshness",
+                "juice taste",
+                "juice smell",
+                "juice color",
+                "juice shape",
+                "juice texture",
+                "juice nutrition",
+                "juice energy",
+                "juice calories",
+                "juice protein",
+                "juice carbohydrate",
+                "juice fat",
+                "juice vitamins",
+                "juice minerals",
+                "juice fiber",
+                "juice water content",
+                "juice acidity",
+                "juice bitterness",
+                "juice sweetness",
+                "juice sourness",
+                "juice density",
+                "juice mass",
+                "juice volume",
+                "juice number of seeds",
+                "juice seed size",
+                "juice seed color",
+                "juice seed shape",
+                "juice seed texture",
+                "juice seed freshness",
+                "juice seed taste",
+                "juice seed smell",
+                "juice seed hardness",
+                "juice seed softness",
+                "juice seed ripeness",
+                "juice seed edibility",
+                "juice seed nutrition",
+                "juice seed energy",
+                "juice seed calories",
+                "juice seed protein",
+                "juice seed carbohydrate",
+                "juice seed fat",
+                "juice seed vitamins",
+                "juice seed minerals",
+                "juice seed fiber",
+                "juice seed water content",
+                "juice seed acidity",
+                "juice seed bitterness",
+                "juice seed sweetness",
+                "juice seed sourness",
+                "juice seed density",
+                "juice seed mass",
+                "juice seed volume",
+                "juice seed number of wedges",
+                "juice wedge size",
+                "juice wedge color",
+                "juice wedge shape",
+                "juice wedge texture",
+                "juice wedge freshness",
+                "juice wedge taste",
+                "juice wedge smell",
+                "juice wedge temperature",
+                "juice wedge weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight",
+                "juice weight"
+            ]
+        }
+    ],
+    "17": [
+        {
+            "meat": [
+                "location",
+                "temperature"
+            ],
+            "onions": [
+                "location",
+                "temperature"
+            ],
+            "frying pan": [
+                "temperature"
+            ]
+        },
+        {
+            "meat": [
+                "flavor"
+            ],
+            "onions": [
+                "flavor"
+            ],
+            "frying pan": [
+                "cleanliness",
+                "flavor"
+            ]
+        },
+        {
+            "meat": [
+                "texture"
+            ],
+            "onions": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "tomatoes": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "chili powder": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "garlic salt": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "cumin": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "oregano": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "water": [
+                "texture",
+                "texture",
+                "taste"
+            ],
+            "frying pan": [
+                "texture))\nStep: Stir occasionally until all liquid has evaporated.\nEntities and attributes: meat",
+                "texture))\nStep: Remove from heat and add the hot sauce.\nEntities and attributes: meat",
+                "taste"
+            ],
+            "hot sauce": [
+                "taste"
+            ]
+        },
+        {
+            "meat": [
+                "location"
+            ],
+            "onions": [
+                "location"
+            ],
+            "tomatoes": [
+                "location"
+            ],
+            "chili powder": [
+                "location"
+            ],
+            "garlic salt": [
+                "location"
+            ],
+            "cumin": [
+                "location"
+            ],
+            "oregano": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "frying pan": [
+                "location"
+            ],
+            "hot sauce": [
+                "location"
+            ]
+        }
+    ],
+    "18": [
+        {
+            "eraser": [
+                "size",
+                "shape",
+                "hardness"
+            ],
+            "hand": [
+                "size",
+                "shape"
+            ]
+        },
+        {
+            "eraser": [
+                "size",
+                "shape",
+                "hardness"
+            ],
+            "floor": [
+                "cleanliness",
+                "skids"
+            ],
+            "knee": [
+                "height",
+                "location"
+            ],
+            "leg": [
+                "length",
+                "location"
+            ],
+            "body": [
+                "location"
+            ]
+        },
+        {
+            "eraser": [
+                "size",
+                "shape",
+                "hardness"
+            ],
+            "floor": [
+                "cleanliness",
+                "skids",
+                "cleanliness",
+                "skids"
+            ],
+            "knee": [
+                "height",
+                "location",
+                "height",
+                "location"
+            ],
+            "leg": [
+                "length",
+                "location",
+                "length",
+                "location"
+            ],
+            "body": [
+                "location",
+                "Step: Wipe up any residue left behind by the erasing process using a damp cloth or paper towel.\nEntities and attributes: eraser",
+                "location"
+            ],
+            "cloth/paper towel": [
+                "dirtiness",
+                "wetness",
+                "location"
+            ]
+        },
+        {
+            "eraser": [
+                "size",
+                "shape",
+                "hardness"
+            ],
+            "floor": [
+                "cleanliness",
+                "skids"
+            ],
+            "knee": [
+                "height",
+                "location"
+            ],
+            "leg": [
+                "length",
+                "location"
+            ],
+            "body": [
+                "location"
+            ],
+            "cloth/paper towel": [
+                "dirtiness",
+                "wetness",
+                "location"
+            ]
+        }
+    ],
+    "19": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "20": [
+        {
+            "blender": [
+                "speed"
+            ],
+            "cream cheese": [
+                "shape",
+                "size",
+                "texture",
+                "flavor",
+                "smell",
+                "color",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "marshmallow cream": [
+                "shape",
+                "size",
+                "texture",
+                "flavor",
+                "smell",
+                "color",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location"
+            ],
+            "spoon": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "cream cheese": [
+                "shape",
+                "size",
+                "texture",
+                "flavor",
+                "smell",
+                "color",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "marshmallow cream": [
+                "shape",
+                "size",
+                "texture",
+                "flavor",
+                "smell",
+                "color",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location",
+                "cleanliness",
+                "location"
+            ],
+            "spoon": [
+                "cleanliness",
+                "location))\nStep: Add the vanilla extract and stir well.\nEntities and attributes: vanilla extract",
+                "cleanliness",
+                "location))\nStep: Cover and refrigerate at least one hour before serving.\nEntities and attributes: bowl",
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "fruit": [
+                "ripeness",
+                "color",
+                "freshness",
+                "type",
+                "size",
+                "shape",
+                "texture",
+                "flavor",
+                "smell",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location"
+            ],
+            "spoon": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "fruit": [
+                "ripeness",
+                "color",
+                "freshness",
+                "type",
+                "size",
+                "shape",
+                "texture",
+                "flavor",
+                "smell",
+                "state_of_aggregation",
+                "taste",
+                "consistency",
+                "hardness",
+                "softness",
+                "density",
+                "mass",
+                "volume",
+                "number"
+            ],
+            "bowl": [
+                "cleanliness",
+                "location"
+            ],
+            "spoon": [
+                "cleanliness",
+                "location"
+            ]
+        }
+    ],
+    "21": [
+        {
+            "instruction manual": [
+                "location"
+            ]
+        },
+        {
+            "jackets": [
+                "cleanliness",
+                "location"
+            ],
+            "washing machine": [
+                "water level",
+                "temperature",
+                "power"
+            ],
+            "detergent": [
+                "location"
+            ]
+        },
+        {
+            "boot": [
+                "cleanliness",
+                "location"
+            ],
+            "brush": [
+                "location"
+            ],
+            "soap": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "sponge": [
+                "location"
+            ],
+            "bucket": [
+                "location"
+            ]
+        },
+        {
+            "jackets": [
+                "cleanliness",
+                "location"
+            ],
+            "dryer": [
+                "power",
+                "power"
+            ],
+            "heat": [
+                "temperature",
+                "temperature"
+            ],
+            "air": [
+                "humidity",
+                "humidity"
+            ],
+            "feathers": [
+                "location))\nStep: Dry your clothes outside or inside using low temperatures.\nEntities and attributes: jackets"
+            ],
+            "sunlight": [
+                "intensity"
+            ]
+        },
+        {
+            "jackets": [
+                "cleanliness",
+                "location"
+            ],
+            "washing machine": [
+                "water level",
+                "temperature",
+                "power",
+                "water level",
+                "temperature",
+                "power",
+                "water level",
+                "temperature",
+                "power"
+            ],
+            "detergent": [
+                "location))\nStep: Use cold water when possible.\nEntities and attributes: jackets",
+                "location))\nStep: Do not use fabric softener as it will reduce wicking ability.\nEntities and attributes: jackets",
+                "location))\nStep: Hang up wet garments indoors to avoid direct sun exposure.\nEntities and attributes: jackets"
+            ],
+            "sunlight": [
+                "intensity))\nStep: If you must hang them outdoors",
+                "do so under shade cloth.\nEntities and attributes: jackets",
+                "intensity))\nStep: Never put synthetic fabrics in the dryer.\nEntities and attributes: jackets"
+            ],
+            "dryer": [
+                "power"
+            ],
+            "heat": [
+                "temperature"
+            ],
+            "air": [
+                "humidity"
+            ]
+        }
+    ],
+    "22": [
+        {
+            "bicycle": [
+                "location"
+            ],
+            "rider": [
+                "location"
+            ]
+        },
+        {
+            "bicycle": [
+                "location"
+            ],
+            "rider": [
+                "location",
+                "location"
+            ],
+            "pedals(location)\nStep: Push down on the pedal until you are sitting comfortably on the seat.\nEntities and attributes: bicycle": [
+                "location"
+            ]
+        },
+        {
+            "bicycle": [
+                "location"
+            ],
+            "rider": [
+                "location"
+            ]
+        },
+        {
+            "bicycle": [
+                "location"
+            ],
+            "rider": [
+                "location"
+            ]
+        },
+        {
+            "bicycle": [
+                "location"
+            ],
+            "rider": [
+                "location"
+            ]
+        }
+    ],
+    "23": [
+        {
+            "boat": [
+                "location"
+            ],
+            "dock": [
+                "location"
+            ],
+            "water": [
+                "depth"
+            ]
+        },
+        {
+            "boat": [
+                "location"
+            ],
+            "dock": [
+                "location"
+            ],
+            "railings": [
+                "strength"
+            ],
+            "handrail": [
+                "length"
+            ]
+        },
+        {
+            "boat": [
+                "location"
+            ],
+            "dock": [
+                "location",
+                "location"
+            ],
+            "water": [
+                "depth",
+                "depth"
+            ],
+            "body": [
+                "balance",
+                "balance"
+            ],
+            "foot": [
+                "location))\nStep: Once seated",
+                "keep your balance by holding onto something sturdy like the seat or side of the boat.\nEntities and attributes: boat",
+                "location"
+            ],
+            "seat": [
+                "stability"
+            ],
+            "side": [
+                "stability"
+            ]
+        },
+        {
+            "boat": [
+                "location"
+            ],
+            "dock": [
+                "location"
+            ],
+            "water": [
+                "depth"
+            ],
+            "body": [
+                "balance"
+            ],
+            "foot": [
+                "location"
+            ],
+            "seat": [
+                "stability"
+            ],
+            "side": [
+                "stability"
+            ],
+            "centerline": [
+                "location"
+            ]
+        },
+        {
+            "boat": [
+                "location"
+            ],
+            "dock": [
+                "location"
+            ],
+            "water": [
+                "depth"
+            ],
+            "body": [
+                "balance"
+            ],
+            "foot": [
+                "location"
+            ],
+            "seat": [
+                "stability"
+            ],
+            "side": [
+                "stability"
+            ],
+            "centerline": [
+                "location"
+            ]
+        }
+    ],
+    "24": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "25": [
+        {
+            "paper": [
+                "size",
+                "shape",
+                "color"
+            ]
+        },
+        {
+            "paper": [
+                "size",
+                "shape",
+                "color"
+            ]
+        },
+        {
+            "base": [
+                "size",
+                "shape",
+                "color))\nStep: Glue the pinwheels onto the base.\nEntities and attributes: base"
+            ]
+        },
+        {
+            "base": [
+                "size",
+                "shape",
+                "color"
+            ]
+        },
+        {
+            "base": [
+                "size",
+                "shape",
+                "color"
+            ]
+        }
+    ],
+    "26": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "27": [
+        {
+            "potatoes": [
+                "cleanliness"
+            ],
+            "water": [
+                "cleanliness"
+            ],
+            "sink": [
+                "cleanliness"
+            ]
+        },
+        {
+            "knife": [
+                "sharpness"
+            ],
+            "cutting board": [
+                "shape"
+            ],
+            "potatoes": [
+                "size",
+                "shape",
+                "cleanliness"
+            ]
+        },
+        {
+            "potatoes": [
+                "dryness"
+            ],
+            "cloth": [
+                "cleanliness",
+                "Step: Heat oil or butter over medium heat until it shimmers.\nEntities and attributes: pan"
+            ],
+            "oil/butter": [
+                "temperature"
+            ],
+            "stove": [
+                "temperature"
+            ]
+        },
+        {
+            "potatoes": [
+                "freshness",
+                "temperature"
+            ],
+            "oil/butter": [
+                "temperature",
+                "temperature"
+            ],
+            "pan": [
+                "temperature))\nStep: Remove from the skillet when they are golden brown.\nEntities and attributes: potatoes",
+                "temperature"
+            ]
+        },
+        {
+            "potatoes": [
+                "location"
+            ],
+            "plate": [
+                "location"
+            ]
+        }
+    ],
+    "28": [
+        {
+            "bottle": [
+                "location",
+                "volume",
+                "fizziness"
+            ],
+            "drink": [
+                "location",
+                "volume",
+                "fizziness"
+            ]
+        },
+        {
+            "bolt": [
+                "cleanliness",
+                "location"
+            ],
+            "drink": [
+                "location",
+                "volume",
+                "fizziness"
+            ]
+        },
+        {
+            "bolt": [
+                "cleanliness",
+                "location"
+            ],
+            "cloth": [
+                "cleanliness",
+                "location"
+            ]
+        },
+        {
+            "bolt": [
+                "stickyness",
+                "location"
+            ]
+        },
+        {
+            "bolt": [
+                "location"
+            ]
+        }
+    ],
+    "29": [
+        {
+            "oven": [
+                "temperature"
+            ]
+        },
+        {
+            "olive oil": [
+                "location"
+            ],
+            "asparagus": [
+                "location"
+            ],
+            "pan": [
+                "size",
+                "shape",
+                "material",
+                "location"
+            ]
+        },
+        {
+            "asparagus": [
+                "length"
+            ],
+            "serrano ham": [
+                "location"
+            ]
+        },
+        {
+            "asparagus": [
+                "location"
+            ],
+            "oven": [
+                "temperature))\nStep: Remove from the oven when done and serve immediately.\nEntities and attributes: asparagus"
+            ]
+        },
+        {
+            "asparagus": [
+                "location"
+            ]
+        }
+    ],
+    "30": [
+        {
+            "vinegar": [
+                "location"
+            ],
+            "container": [
+                "location",
+                "size"
+            ]
+        },
+        {
+            "wick": [
+                "location"
+            ],
+            "lamp/stove": [
+                "wick location"
+            ]
+        },
+        {
+            "wick": [
+                "moisture level"
+            ],
+            "vinegar": [
+                "level"
+            ],
+            "container": [
+                "level"
+            ]
+        },
+        {
+            "wick": [
+                "dryness level"
+            ],
+            "vinegar": [
+                "level"
+            ],
+            "container": [
+                "level"
+            ]
+        },
+        {
+            "wick": [
+                "smoke level"
+            ],
+            "lamp/stove": [
+                "smokiness level"
+            ]
+        }
+    ],
+    "31": [
+        {
+            "camera": [
+                "lighting"
+            ],
+            "light source": [
+                "brightness"
+            ],
+            "background": [
+                "texture"
+            ],
+            "tripod": [
+                "height"
+            ],
+            "subject": [
+                "size"
+            ]
+        },
+        {
+            "reflector": [
+                "shape",
+                "size"
+            ],
+            "subject": [
+                "size",
+                "Step: Use a diffuser on your flash or strobe lights.\nEntities and attributes: diffuser",
+                "size",
+                "Step: Set up your camera so that you can focus manually.\nEntities and attributes: lense",
+                "distance from camera",
+                "Step: Shoot at an extremely low ISO setting.\nEntities and attributes: camera body",
+                "exposure time"
+            ],
+            "flash/strobes": [
+                "intensity"
+            ],
+            "camera body": [
+                "focus mode"
+            ],
+            "shutter speed": [
+                "speed"
+            ],
+            "aperture": [
+                "aperture value"
+            ]
+        },
+        {
+            "lenses": [
+                "magnification factor"
+            ],
+            "subject": [
+                "size",
+                "Step: Get as much depth-of-field as possible.\nEntities and attributes: lence",
+                "depth of field"
+            ],
+            "aperture": [
+                "aperture value"
+            ]
+        },
+        {
+            "reflector": [
+                "size"
+            ],
+            "subject": [
+                "size",
+                "Step: You will want to use a tripod because it allows you to shoot at slower speeds without blurriness.\nEntities and attributes: tripod",
+                "blur level",
+                "Step: If you are using natural light",
+                "then try to find a place where there isn't too much contrast between bright areas and darker ones.\nEntities and attributes: light sources",
+                "exposure time"
+            ],
+            "shutter speed": [
+                "speed"
+            ]
+        },
+        {
+            "subject": [
+                "properties"
+            ],
+            "photographer": [
+                "skill level"
+            ]
+        }
+    ],
+    "32": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "33": [
+        {
+            "water": [
+                "location"
+            ]
+        },
+        {
+            "trainer": [
+                "patience"
+            ],
+            "wailer": [
+                "level"
+            ]
+        },
+        {
+            "trainer": [
+                "experience"
+            ],
+            "wailer": [
+                "level",
+                "Step: You now have your very own Wailord!\nEntities and attributes: trainer"
+            ],
+            "wailor": [
+                "size"
+            ]
+        },
+        {
+            "trainer": [
+                "money"
+            ],
+            "wailor": [
+                "strength"
+            ]
+        },
+        {
+            "trainer": [
+                "money"
+            ],
+            "wailorm": [
+                "level"
+            ]
+        }
+    ],
+    "34": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "35": [
+        {
+            "paint": [
+                "drying time"
+            ]
+        },
+        {
+            "paint": [
+                "thickness"
+            ],
+            "wood": [
+                "surface texture"
+            ]
+        },
+        {
+            "paint": [
+                "thickness"
+            ],
+            "wood": [
+                "surface texture"
+            ]
+        },
+        {
+            "paint": [
+                "thickness"
+            ],
+            "wood": [
+                "surface texture"
+            ]
+        },
+        {
+            "paint": [
+                "thickness"
+            ],
+            "wood": [
+                "surface texture"
+            ]
+        }
+    ],
+    "36": [
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "37": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "38": [
+        {
+            "bung": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "bike": [
+                "cleanliness"
+            ]
+        },
+        {
+            "oil": [
+                "location"
+            ],
+            "bike": [
+                "cleanliness"
+            ],
+            "cap": [
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "location"
+            ],
+            "bike": [
+                "cleanliness",
+                "cleanliness",
+                "cleanliness",
+                "cleanliness"
+            ],
+            "filter": [
+                "location))\nStep: Replace the oil filter.\nEntities and attributes: oil",
+                "location))\nStep: Put new oil in the engine.\nEntities and attributes: oil"
+            ],
+            "engine": [
+                "cleanliness))\nStep: Reinstall the oil plug.\nEntities and attributes: oil"
+            ],
+            "plug": [
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "location"
+            ],
+            "bike": [
+                "cleanliness"
+            ],
+            "bung": [
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "location"
+            ],
+            "bike": [
+                "cleanliness"
+            ],
+            "filler hole": [
+                "location"
+            ]
+        },
+        {
+            "oil": [
+                "location"
+            ],
+            "recycling bin": [
+                "location"
+            ]
+        }
+    ],
+    "39": [
+        {
+            "duct tape": [
+                "length",
+                "width"
+            ]
+        },
+        {
+            "duct tape": [
+                "length",
+                "width"
+            ]
+        },
+        {
+            "duct tape": [
+                "length",
+                "width))\nStep: Cut two slits on either side of where you folded it.\nEntities and attributes: duct tape"
+            ]
+        },
+        {
+            "duct tape": [
+                "length",
+                "width))\nStep: Wear proudly!\nEntities and attributes: duct tape"
+            ]
+        },
+        {
+            "duct tape": [
+                "length",
+                "width"
+            ]
+        },
+        {
+            "duct tape": [
+                "length",
+                "width"
+            ]
+        }
+    ],
+    "40": [
+        {
+            "plant": [
+                "size",
+                "age",
+                "height",
+                "width",
+                "shape",
+                "type",
+                "color",
+                "texture",
+                "smell",
+                "taste",
+                "sound",
+                "feelings",
+                "life expectancy",
+                "growth rate",
+                "hardiness zone",
+                "sun exposure",
+                "water requirements",
+                "soil type",
+                "pest resistance",
+                "planting depth",
+                "spacing between plants",
+                "bloom time",
+                "flower color",
+                "foliage color",
+                "pruning needs",
+                "fertilizer needs",
+                "deer resistant",
+                "drought tolerance",
+                "disease susceptibility",
+                "insect pests",
+                "propagation method",
+                "cold hardiness",
+                "light requirement",
+                "maturity date",
+                "native habitat",
+                "origin",
+                "ph level preference",
+                "potential size",
+                "root system",
+                "seasonal interest",
+                "tolerates pollution",
+                "tolerates salt spray",
+                "tolerates wet soil",
+                "tolerates wind",
+                "usda zones",
+                "zone",
+                "zones",
+                "bark texture",
+                "branch structure",
+                "bud shape",
+                "deciduous/evergreen",
+                "edible fruit",
+                "edible parts",
+                "fall color",
+                "floral display",
+                "fragrance",
+                "habit",
+                "leaf arrangement",
+                "leaves",
+                "needles",
+                "petiole length",
+                "seed dispersal mechanism",
+                "stem color",
+                "trunk diameter",
+                "trunk height",
+                "trunk spread",
+                "usefulness",
+                "wood quality",
+                "years before flowering",
+                "years to maturity",
+                "acid loving",
+                "alkali tolerating",
+                "attractive flowers",
+                "attractive form",
+                "attractive foliage",
+                "attractive fruit",
+                "attractive habit",
+                "attractive stems",
+                "bird attractor",
+                "butterfly attractor",
+                "compact growth",
+                "coniferous",
+                "decorative berries",
+                "decorative cones",
+                "decorative leaves",
+                "decorative seed heads",
+                "decorative stem colour",
+                "decorative stems",
+                "decumbent",
+                "dense canopy",
+                "dislikes pruning",
+                "divisible perennial",
+                "does not like acid soils",
+                "does not like alkaline soils",
+                "easy to propagate",
+                "erect",
+                "fast growing",
+                "good autumn colour",
+                "good winter colour",
+                "ground cover",
+                "happy on chalk",
+                "has fragrant flowers",
+                "has showy seeds",
+                "herbaceous",
+                "ideal conditions",
+                "indicator plant",
+                "interesting bark",
+                "interesting leaf pattern",
+                "interesting roots",
+                "long lived",
+                "low maintenance",
+                "minimal upkeep required",
+                "never needs cutting back",
+                "no dead heading needed",
+                "not frost tender",
+                "ornamental bark",
+                "ornamental"
+            ]
+        },
+        {
+            "plant": [
+                "size",
+                "age",
+                "height",
+                "width",
+                "shape",
+                "type",
+                "color",
+                "texture",
+                "smell",
+                "taste",
+                "sound",
+                "feelings",
+                "life expectancy",
+                "growth rate",
+                "hardiness zone",
+                "sun exposure",
+                "water requirements",
+                "soil type",
+                "pest resistance",
+                "planting depth",
+                "spacing between plants",
+                "bloom time",
+                "flower color",
+                "foliage color",
+                "pruning needs",
+                "fertilizer needs",
+                "deer resistant",
+                "drought tolerance",
+                "disease susceptibility",
+                "insect pests",
+                "propagation method",
+                "cold hardiness",
+                "light requirement",
+                "maturity date",
+                "native habitat",
+                "origin",
+                "ph level preference",
+                "potential size",
+                "root system",
+                "seasonal interest",
+                "tolerates pollution",
+                "tolerates salt spray",
+                "tolerates wet soil",
+                "tolerates wind",
+                "usda zones",
+                "zone",
+                "zones",
+                "bark texture",
+                "branch structure",
+                "bud shape",
+                "deciduous/evergreen",
+                "edible fruit",
+                "edible parts",
+                "fall color",
+                "floral display",
+                "fragrance",
+                "habit",
+                "leaf arrangement",
+                "leaves",
+                "needles",
+                "petiole length",
+                "seed dispersal mechanism",
+                "stem color",
+                "trunk diameter",
+                "trunk height",
+                "trunk spread",
+                "usefulness",
+                "wood quality",
+                "years before flowering",
+                "years to maturity",
+                "acid loving",
+                "alkali tolerating",
+                "attractive flowers",
+                "attractive form",
+                "attractive foliage",
+                "attractive fruit",
+                "attractive habit",
+                "attractive stems",
+                "bird attractor",
+                "butterfly attractor",
+                "compact growth",
+                "coniferous",
+                "decorative berries",
+                "decorative cones",
+                "decorative leaves",
+                "decorative seed heads",
+                "decorative stem colour",
+                "decorative stems",
+                "decumbent",
+                "dense canopy",
+                "dislikes pruning",
+                "divisible perennial",
+                "does not like acid soils",
+                "does not like alkaline soils",
+                "easy to propagate",
+                "erect",
+                "fast growing",
+                "good autumn colour",
+                "good winter colour",
+                "ground cover",
+                "happy on chalk",
+                "has fragrant flowers",
+                "has showy seeds",
+                "herbaceous",
+                "ideal conditions",
+                "indicator plant",
+                "interesting bark",
+                "interesting leaf pattern",
+                "interesting roots",
+                "long lived",
+                "low maintenance",
+                "minimal upkeep required",
+                "never needs cutting back",
+                "no dead heading needed",
+                "not frost tender",
+                "ornamental bark",
+                "ornamental"
+            ]
+        },
+        {
+            "plant": [
+                "size",
+                "age",
+                "height",
+                "width",
+                "shape",
+                "type",
+                "color",
+                "texture",
+                "smell",
+                "taste",
+                "sound",
+                "feelings",
+                "life expectancy",
+                "growth rate",
+                "hardiness zone",
+                "sun exposure",
+                "water requirements",
+                "soil type",
+                "pest resistance",
+                "planting depth",
+                "spacing between plants",
+                "bloom time",
+                "flower color",
+                "foliage color",
+                "pruning needs",
+                "fertilizer needs",
+                "deer resistant",
+                "drought tolerance",
+                "disease susceptibility",
+                "insect pests",
+                "propagation method",
+                "cold hardiness",
+                "light requirement",
+                "maturity date",
+                "native habitat",
+                "origin",
+                "ph level preference",
+                "potential size",
+                "root system",
+                "seasonal interest",
+                "tolerates pollution",
+                "tolerates salt spray",
+                "tolerates wet soil",
+                "tolerates wind",
+                "usda zones",
+                "zone",
+                "zones",
+                "bark texture",
+                "branch structure",
+                "bud shape",
+                "deciduous/evergreen",
+                "edible fruit",
+                "edible parts",
+                "fall color",
+                "floral display",
+                "fragrance",
+                "habit",
+                "leaf arrangement",
+                "leaves",
+                "needles",
+                "petiole length",
+                "seed dispersal mechanism",
+                "stem color",
+                "trunk diameter",
+                "trunk height",
+                "trunk spread",
+                "usefulness",
+                "wood quality",
+                "years before flowering",
+                "years to maturity",
+                "acid loving",
+                "alkali tolerating",
+                "attractive flowers",
+                "attractive form",
+                "attractive foliage",
+                "attractive fruit",
+                "attractive habit",
+                "attractive stems",
+                "bird attractor",
+                "butterfly attractor",
+                "compact growth",
+                "coniferous",
+                "decorative berries",
+                "decorative cones",
+                "decorative leaves",
+                "decorative seed heads",
+                "decorative stem colour",
+                "decorative stems",
+                "decumbent",
+                "dense canopy",
+                "dislikes pruning",
+                "divisible perennial",
+                "does not like acid soils",
+                "does not like alkaline soils",
+                "easy to propagate",
+                "erect",
+                "fast growing",
+                "good autumn colour",
+                "good winter colour",
+                "ground cover",
+                "happy on chalk",
+                "has fragrant flowers",
+                "has showy seeds",
+                "herbaceous",
+                "ideal conditions",
+                "indicator plant",
+                "interesting bark",
+                "interesting leaf pattern",
+                "interesting roots",
+                "long lived",
+                "low maintenance",
+                "minimal upkeep required",
+                "never needs cutting back",
+                "no dead heading needed",
+                "not frost tender",
+                "ornamental bark",
+                "ornamental"
+            ]
+        },
+        {
+            "plant": [
+                "size",
+                "age",
+                "height",
+                "width",
+                "shape",
+                "type",
+                "color",
+                "texture",
+                "smell",
+                "taste",
+                "sound",
+                "feelings",
+                "life expectancy",
+                "growth rate",
+                "hardiness zone",
+                "sun exposure",
+                "water requirements",
+                "soil type",
+                "pest resistance",
+                "planting depth",
+                "spacing between plants",
+                "bloom time",
+                "flower color",
+                "foliage color",
+                "pruning needs",
+                "fertilizer needs",
+                "deer resistant",
+                "drought tolerance",
+                "disease susceptibility",
+                "insect pests",
+                "propagation method",
+                "cold hardiness",
+                "light requirement",
+                "maturity date",
+                "native habitat",
+                "origin",
+                "ph level preference",
+                "potential size",
+                "root system",
+                "seasonal interest",
+                "tolerates pollution",
+                "tolerates salt spray",
+                "tolerates wet soil",
+                "tolerates wind",
+                "usda zones",
+                "zone",
+                "zones",
+                "bark texture",
+                "branch structure",
+                "bud shape",
+                "deciduous/evergreen",
+                "edible fruit",
+                "edible parts",
+                "fall color",
+                "floral display",
+                "fragrance",
+                "habit",
+                "leaf arrangement",
+                "leaves",
+                "needles",
+                "petiole length",
+                "seed dispersal mechanism",
+                "stem color",
+                "trunk diameter",
+                "trunk height",
+                "trunk spread",
+                "usefulness",
+                "wood quality",
+                "years before flowering",
+                "years to maturity",
+                "acid loving",
+                "alkali tolerating",
+                "attractive flowers",
+                "attractive form",
+                "attractive habit",
+                "attractive root system",
+                "attractive stems",
+                "bird attractor",
+                "butterfly attractor",
+                "compact growth",
+                "coniferous",
+                "decorative berries",
+                "decorative cones",
+                "decorative leaves",
+                "decorative petiole length",
+                "decorative seed heads",
+                "decorative stem colour",
+                "decorative stems",
+                "decorative stems",
+                "decorative stem colour",
+                "decorative wood quality",
+                "decorative years before flowering",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to maturity date",
+                "decorative years to m"
+            ]
+        },
+        {},
+        {}
+    ],
+    "41": [
+        {
+            "soil": [
+                "moisture"
+            ],
+            "ground": [
+                "soil type"
+            ]
+        },
+        {
+            "stick": [
+                "length",
+                "width",
+                "shape"
+            ]
+        },
+        {
+            "stick": [
+                "length",
+                "width",
+                "shape"
+            ],
+            "hand(size,strength)),\nStep: Place moss on the floor of your structure.\nEntities and attributes: moss": [
+                "location"
+            ],
+            "structure": [
+                "floor material",
+                "Step: Add any other decorations you would like!\nEntities and attributes: decoration"
+            ]
+        },
+        {
+            "wall": [
+                "material",
+                "height",
+                "thickness",
+                "Step: Create a roof using leaves",
+                "bark",
+                "etc.\nEntities and attributes: leaf"
+            ],
+            "bark": [
+                "location"
+            ]
+        },
+        {
+            "leaf": [
+                "location"
+            ],
+            "bark": [
+                "location"
+            ]
+        },
+        {
+            "decoration": [
+                "location"
+            ]
+        }
+    ],
+    "42": [
+        {
+            "flour": [
+                "location"
+            ],
+            "salt": [
+                "location"
+            ],
+            "mixing bowl": [
+                "location"
+            ]
+        },
+        {
+            "flour": [
+                "composition"
+            ],
+            "salt": [
+                "composition",
+                "composition",
+                "composition",
+                "location",
+                "location",
+                "location"
+            ],
+            "oil": [
+                "location",
+                "composition",
+                "composition",
+                "location",
+                "location",
+                "location"
+            ],
+            "mixing bowl": [
+                "composition)\nStep: Mix well until combined.\nEntities and attributes: flour",
+                "composition)\nStep: Add water slowly as you mix it in.\nEntities and attributes: flour",
+                "composition",
+                "location",
+                "location",
+                "location"
+            ],
+            "water": [
+                "location)\nStep: Knead dough on lightly-floured surface until smooth.\nEntities and attributes: flour",
+                "location",
+                "location",
+                "location"
+            ],
+            "dough": [
+                "composition)\nStep: Roll out onto baking sheet.\nEntities and attributes: flour",
+                "composition",
+                "composition"
+            ],
+            "baking sheet": [
+                "location)\nStep: Bake at 350 degrees Fahrenheit for about 12 minutes or until golden brown.\nEntities and attributes: flour",
+                "location"
+            ],
+            "temperature": [
+                "value"
+            ]
+        },
+        {
+            "flour": [
+                "location"
+            ],
+            "salt": [
+                "location",
+                "location"
+            ],
+            "oil": [
+                "location",
+                "location"
+            ],
+            "mixing bowl": [
+                "location",
+                "location"
+            ],
+            "water": [
+                "location",
+                "location"
+            ],
+            "dough": [
+                "composition",
+                "composition"
+            ],
+            "baking sheet": [
+                "location",
+                "location"
+            ],
+            "temperature": [
+                "value",
+                "value"
+            ],
+            "pastry": [
+                "location)\nStep: Cut into desired shapes using cookie cutters.\nEntities and attributes: flour",
+                "location"
+            ],
+            "cookie cutter": [
+                "location"
+            ]
+        },
+        {
+            "flour": [
+                "location"
+            ],
+            "salt": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "mixing bowl": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "dough": [
+                "composition"
+            ],
+            "baking sheet": [
+                "location"
+            ],
+            "temperature": [
+                "value"
+            ],
+            "pastry": [
+                "location"
+            ],
+            "cookie cutter": [
+                "location"
+            ],
+            "refrigerator": [
+                "location"
+            ]
+        },
+        {
+            "flour": [
+                "location"
+            ],
+            "salt": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "oil": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "mixing bowl": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "water": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "dough": [
+                "composition",
+                "composition",
+                "composition",
+                "composition",
+                "composition",
+                "composition"
+            ],
+            "baking sheet": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "temperature": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+            ],
+            "pastry": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "cookie cutter": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "refrigerator": [
+                "location",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "pie dish": [
+                "location)\nStep: Cover with plastic wrap and place back into the fridge.\nEntities and attributes: flour",
+                "location",
+                "location",
+                "location",
+                "location"
+            ],
+            "plastic wrap": [
+                "location)\nStep: Preheat oven to 475 degrees Fahrenheit.\nEntities and attributes: flour",
+                "location",
+                "location",
+                "location"
+            ],
+            "oven": [
+                "location)\nStep: Line the bottom crust with parchment paper.\nEntities and attributes: flour",
+                "location",
+                "location"
+            ],
+            "parchment paper": [
+                "location)\nStep: Sprinkle some cornmeal over the lined crust.\nEntities and attributes: flour",
+                "location"
+            ],
+            "corn meal": [
+                "location)\nStep: Arrange the filling ingredients inside the shell.\nEntities and attributes: flour"
+            ]
+        },
+        {
+            "flour": [
+                "location"
+            ],
+            "salt": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "mixing bowl": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "dough": [
+                "composition"
+            ],
+            "baking sheet": [
+                "location"
+            ],
+            "temperature": [
+                "value"
+            ],
+            "pastry": [
+                "location"
+            ],
+            "cookie cutter": [
+                "location"
+            ],
+            "refrigerator": [
+                "location"
+            ],
+            "pie dish": [
+                "location"
+            ],
+            "plastic wrap": [
+                "location"
+            ],
+            "oven": [
+                "location"
+            ],
+            "parchment paper": [
+                "location"
+            ],
+            "corn meal": [
+                "location"
+            ],
+            "fork": [
+                "location"
+            ]
+        }
+    ],
+    "43": [
+        {
+            "fairy moss": [
+                "location"
+            ],
+            "customer": [
+                "location"
+            ],
+            "store": [
+                "location"
+            ]
+        },
+        {
+            "fairy moss": [
+                "location"
+            ],
+            "container": [
+                "size",
+                "shape",
+                "material",
+                "location"
+            ]
+        },
+        {
+            "fairy moss": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl": [
+                "water level",
+                "location))\nStep: Place the container on an east-facing windowsill where it will receive bright light but no direct sunlight.\nEntities and attributes: fairy moss"
+            ],
+            "window sill": [
+                "location"
+            ],
+            "light": [
+                "intensity",
+                "direction"
+            ]
+        },
+        {
+            "fairy moss": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ]
+        },
+        {
+            "fairy moss": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ]
+        },
+        {
+            "fairy moss": [
+                "length",
+                "shape"
+            ]
+        }
+    ],
+    "44": [
+        {
+            "flour": [
+                "location"
+            ],
+            "butter": [
+                "location"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "cocoa powder": [
+                "location"
+            ],
+            "eggs": [
+                "location"
+            ],
+            "baking soda": [
+                "location"
+            ],
+            "salt": [
+                "location"
+            ],
+            "vanilla extract": [
+                "location"
+            ],
+            "mixing bowl": [
+                "cleanliness",
+                "location"
+            ],
+            "measuring cup": [
+                "location"
+            ],
+            "spoon": [
+                "location"
+            ],
+            "whisk": [
+                "location"
+            ],
+            "cookie sheet": [
+                "location"
+            ],
+            "parchment paper": [
+                "location"
+            ],
+            "heart-shaped cutters": [
+                "location"
+            ]
+        },
+        {
+            "chocolate bar": [
+                "location",
+                "temperature"
+            ],
+            "microwave": [
+                "temperature"
+            ]
+        },
+        {
+            "chocolate": [
+                "location"
+            ],
+            "mold": [
+                "location",
+                "Step: Place them on a tray or plate that will fit inside your freezer.\nEntities and attributes: chocolates"
+            ],
+            "tray/plate": [
+                "location"
+            ],
+            "freezer": [
+                "location"
+            ]
+        },
+        {
+            "chocolates": [
+                "temperature"
+            ],
+            "freezer": [
+                "temperature))\nStep: Remove from the freezer and pop out of their moulds.\nEntities and attributes: chocolates"
+            ],
+            "mold": [
+                "location))\nStep: Store in an air tight container at room temperature.\nEntities and attributes: chocolates"
+            ]
+        },
+        {
+            "chocolates": [
+                "location"
+            ],
+            "mold": [
+                "location"
+            ]
+        },
+        {
+            "chocolates": [
+                "location"
+            ]
+        }
+    ],
+    "45": [
+        {
+            "soap": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl": [
+                "location",
+                "cleanliness"
+            ]
+        },
+        {
+            "soap": [
+                "location"
+            ],
+            "water": [
+                "location"
+            ],
+            "bowl": [
+                "location",
+                "cleanliness"
+            ],
+            "sugar": [
+                "location"
+            ],
+            "corn syrup": [
+                "location"
+            ],
+            "dish washing liquid": [
+                "location"
+            ],
+            "food coloring": [
+                "location"
+            ]
+        },
+        {
+            "pipe cleaner": [
+                "length",
+                "shape"
+            ],
+            "straw": [
+                "length",
+                "shape"
+            ],
+            "tape": [
+                "stickiness"
+            ],
+            "scissors": [
+                "sharpness"
+            ],
+            "string": [
+                "length",
+                "thickness"
+            ]
+        },
+        {
+            "rope": [
+                "length",
+                "thickness"
+            ],
+            "dowel rod": [
+                "length",
+                "diameter"
+            ],
+            "duct tape": [
+                "stickiness"
+            ],
+            "scissors": [
+                "sharpness"
+            ],
+            "string": [
+                "length",
+                "thickness))\nStep: Blow some bubbles!\nEntities and attributes: air"
+            ],
+            "bubble wands": [
+                "location"
+            ],
+            "bubble solution": [
+                "location"
+            ],
+            "wind": [
+                "speed"
+            ]
+        },
+        {
+            "air": [
+                "humidity"
+            ],
+            "bubble wands": [
+                "location"
+            ],
+            "bubble solution": [
+                "location"
+            ],
+            "wind": [
+                "speed"
+            ]
+        },
+        {
+            "air": [
+                "pressure"
+            ],
+            "bubble wands": [
+                "location"
+            ],
+            "bubble solution": [
+                "location"
+            ],
+            "wind": [
+                "speed"
+            ]
+        }
+    ],
+    "46": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "47": [
+        {
+            "gem": [
+                "amount"
+            ]
+        },
+        {
+            "gem": [
+                "amount"
+            ],
+            "stuff(amount))\nStep: get some furniture.\nEntities and attributes: gem": [
+                "amount"
+            ],
+            "furniture(amount))\nStep: add some decorations.\nEntities and attributes: gem": [
+                "amount"
+            ]
+        },
+        {},
+        {},
+        {},
+        {}
+    ],
+    "48": [
+        {
+            "ingredient": [
+                "location"
+            ],
+            "pitcher": [
+                "capacity",
+                "location"
+            ]
+        },
+        {
+            "ingredient": [
+                "composition"
+            ],
+            "pitcher": [
+                "contents",
+                "location"
+            ]
+        },
+        {
+            "ingredient": [
+                "temperature"
+            ],
+            "pitcher": [
+                "temperature",
+                "contents",
+                "location))\nStep: Gently stir before serving over ice cubes.\nEntities and attributes: ingredient",
+                "contents",
+                "temperature",
+                "location"
+            ],
+            "ice cube": [
+                "temperature",
+                "volume",
+                "wetness",
+                "shape",
+                "color",
+                "material",
+                "hardness",
+                "density",
+                "size",
+                "weight",
+                "texture",
+                "taste",
+                "smell",
+                "sound",
+                "location"
+            ]
+        },
+        {
+            "ingredient": [
+                "location"
+            ],
+            "pitcher": [
+                "contents",
+                "location"
+            ],
+            "glass": [
+                "location",
+                "volume",
+                "wetness"
+            ]
+        },
+        {
+            "ingredient": [
+                "location"
+            ],
+            "pitcher": [
+                "contents",
+                "location"
+            ],
+            "glass": [
+                "location",
+                "volume",
+                "wetness"
+            ],
+            "honey dew melon": [
+                "location",
+                "composition",
+                "color",
+                "shape",
+                "size",
+                "weight",
+                "texture",
+                "taste",
+                "smell",
+                "sound",
+                "hardness",
+                "density",
+                "material",
+                "wetness",
+                "dryness",
+                "stickiness",
+                "slipperiness",
+                "smoothness",
+                "roughness",
+                "softness",
+                "hardness",
+                "warmth",
+                "coldness",
+                "hotness",
+                "coolness",
+                "sharpness",
+                "dullness",
+                "roundness",
+                "flatness",
+                "straightness",
+                "curliness",
+                "angularity",
+                "jaggedness",
+                "pointyness",
+                "bluntness",
+                "thinness",
+                "thickness",
+                "heaviness",
+                "lightness",
+                "solidity",
+                "liquidity",
+                "viscosity",
+                "rigidity",
+                "flexibility",
+                "elasticity",
+                "brittleness",
+                "malleability",
+                "ductility",
+                "springiness",
+                "compressibility",
+                "flammability",
+                "explosiveness",
+                "conductivity",
+                "reflectance",
+                "transparency",
+                "translucence",
+                "opacity",
+                "luster",
+                "shininess",
+                "glossiness",
+                "matte-ness",
+                "friction",
+                "static charge",
+                "porosity",
+                "permeability",
+                "absorbency",
+                "adhesion",
+                "cohesion",
+                "magnetism",
+                "radioactivity",
+                "reactivity",
+                "corrosivene ss",
+                "biodegradabili ty",
+                "edibi li t y",
+                "nutrit i onal value",
+                "calorific content",
+                "vitamin content",
+                "mineral content",
+                "fiber content",
+                "fat content",
+                "carbohydrate content",
+                "protein content",
+                "energy content",
+                "water content",
+                "sugar content",
+                "salt content",
+                "acidity",
+                "alkalinity",
+                "bitterness",
+                "sourness",
+                "sweetness",
+                "spiciness",
+                "flavor",
+                "aftertaste",
+                "mouthfeel",
+                "odor",
+                "bouquet",
+                "finish",
+                "harshness",
+                "gentleness",
+                "complexity",
+                "body",
+                "balance",
+                "finesse",
+                "elegance",
+                "crispness",
+                "creaminess",
+                "richness",
+                "fullness",
+                "delicate ness",
+                "subtlety",
+                "simplicity",
+                "depth",
+                "length",
+                "breed character",
+                "varietal character",
+                "vintage character",
+                "aging potential",
+                "development potential",
+                "fruitiness",
+                "earthiness",
+                "vegetative notes",
+                "herbaceousness",
+                "animal or gamey notes",
+                "barnyard notes",
+                "buttery notes",
+                "cheese rind notes",
+                "corked notes",
+                "cooked meat notes",
+                "fermentation notes",
+                "fishy notes",
+                "green notes",
+                "leather notes",
+                "metallic notes",
+                "mushroom notes",
+                "musty notes"
+            ]
+        },
+        {
+            "ingredient": [
+                "location"
+            ],
+            "pitcher": [
+                "contents",
+                "location"
+            ],
+            "glass": [
+                "location",
+                "volume",
+                "wetness"
+            ],
+            "honey dew melon": [
+                "location",
+                "composition",
+                "color",
+                "shape",
+                "size",
+                "weight",
+                "texture",
+                "taste",
+                "smell",
+                "sound",
+                "hardness",
+                "density",
+                "material",
+                "wetness",
+                "dryness",
+                "stickiness",
+                "slipperiness",
+                "smoothness",
+                "roughness",
+                "softness",
+                "hardness",
+                "warmth",
+                "coldness",
+                "hotness",
+                "coolness",
+                "sharpness",
+                "dullness",
+                "roundness",
+                "flatness",
+                "straightness",
+                "curliness",
+                "angularity",
+                "jaggedness",
+                "pointyness",
+                "bluntness",
+                "thinness",
+                "thickness",
+                "heaviness",
+                "lightness",
+                "solidity",
+                "liquidity",
+                "viscosity",
+                "rigidity",
+                "flexibility",
+                "elasticity",
+                "brittleness",
+                "malleability",
+                "ductility",
+                "springiness",
+                "compressibility",
+                "flammability",
+                "explosiveness",
+                "conductivity",
+                "reflectance",
+                "transparency",
+                "translucence",
+                "opacity",
+                "luster",
+                "shininess",
+                "glossiness",
+                "matte-ness",
+                "friction",
+                "static charge",
+                "porosity",
+                "permeability",
+                "absorbency",
+                "adhesion",
+                "cohesion",
+                "magnetism",
+                "radioactivity",
+                "reactivity",
+                "corrosive ne ss",
+                "biodegra di abilit y",
+                "e dibi lit y",
+                "nu tri ti ona l valu e",
+                "ca lo ri fic co nten t",
+                "vi ta mi n con ten t",
+                "mini eral conte nt",
+                "fi ber conten t",
+                "fa t cont ent",
+                "car bohy drate conte nt",
+                "pro tein conte nt",
+                "ene rg y conte nt",
+                "wate r conte nt",
+                "suga r conte nt",
+                "sa lt conte nt",
+                "ac id ity",
+                "alkali n ess",
+                "bitt ern es s",
+                "sou rne ss",
+                "swe etn ess",
+                "sp icine ss",
+                "fla vor",
+                "af terta ste",
+                "mou thf eel",
+                "odo r",
+                "bouque t",
+                "finis h",
+                "ha rs he ness",
+                "ge ntel ness",
+                "com pl exit y",
+                "bod y",
+                "bal ance",
+                "fe ni ne ss",
+                "fullnes s",
+                "deli caten ess",
+                "subti let y",
+                "simp licit y",
+                "dep th",
+                "leng th",
+                "br eed cha rac ter",
+                "va rieta l charac ter",
+                "vin tag e cha rac ter",
+                "age ning potentia l",
+                "deve lopm ent"
+            ]
+        }
+    ],
+    "49": [
+        {
+            "pineapple": [
+                "shape",
+                "size",
+                "freshness"
+            ],
+            "blender": [
+                "speed",
+                "noise level"
+            ]
+        },
+        {
+            "pineapple": [
+                "location"
+            ],
+            "milk": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "sugar/syrup": [
+                "location"
+            ],
+            "extract": [
+                "location"
+            ],
+            "bowl": [
+                "location"
+            ]
+        },
+        {
+            "pineapple": [
+                "texture"
+            ],
+            "milk": [
+                "texture",
+                "location",
+                "location"
+            ],
+            "oil": [
+                "texture",
+                "location",
+                "location"
+            ],
+            "sugar/syrup": [
+                "texture",
+                "location",
+                "location"
+            ],
+            "extract": [
+                "texture",
+                "location",
+                "location"
+            ],
+            "bowl": [
+                "texture))\nStep: Add the ice cream maker mixture to your machine and churn according to manufacturer instructions.\nEntities and attributes: pineapple",
+                "location",
+                "location"
+            ],
+            "ice cream maker": [
+                "location",
+                "location"
+            ],
+            "ice cream mix": [
+                "location))\nStep: Freeze the finished product overnight before serving.\nEntities and attributes: pineapple",
+                "location"
+            ],
+            "freezer": [
+                "location"
+            ]
+        },
+        {
+            "pineapple": [
+                "location"
+            ],
+            "milk": [
+                "location",
+                "location"
+            ],
+            "oil": [
+                "location",
+                "location"
+            ],
+            "sugar/syrup": [
+                "location",
+                "location"
+            ],
+            "extract": [
+                "location",
+                "location"
+            ],
+            "bowl": [
+                "location",
+                "location"
+            ],
+            "ice cream maker": [
+                "location",
+                "location"
+            ],
+            "ice cream mix": [
+                "location",
+                "location"
+            ],
+            "freezer": [
+                "location",
+                "location"
+            ],
+            "baking dish": [
+                "location))\nStep: Bake at 350 degrees Fahrenheit for about an hour.\nEntities and attributes: pineapple",
+                "location"
+            ]
+        },
+        {
+            "pineapple": [
+                "location"
+            ],
+            "milk": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "sugar/syrup": [
+                "location"
+            ],
+            "extract": [
+                "location"
+            ],
+            "bowl": [
+                "location"
+            ],
+            "ice cream maker": [
+                "location"
+            ],
+            "ice cream mix": [
+                "location"
+            ],
+            "freezer": [
+                "location"
+            ],
+            "baking dish": [
+                "location"
+            ]
+        },
+        {
+            "pineapple": [
+                "location"
+            ],
+            "milk": [
+                "location"
+            ],
+            "oil": [
+                "location"
+            ],
+            "sugar/syrup": [
+                "location"
+            ],
+            "extract": [
+                "location"
+            ],
+            "bowl": [
+                "location"
+            ],
+            "ice cream maker": [
+                "location"
+            ],
+            "ice cream mix": [
+                "location"
+            ],
+            "freezer": [
+                "location"
+            ],
+            "baking dish": [
+                "location"
+            ]
+        }
+    ],
+    "50": [
+        {
+            "ketchup bottle": [
+                "cleanliness"
+            ],
+            "water": [
+                "location"
+            ],
+            "dish soap": [
+                "location"
+            ],
+            "sponge": [
+                "location"
+            ],
+            "sink": [
+                "water level"
+            ]
+        },
+        {
+            "funnel": [
+                "location"
+            ],
+            "bottle": [
+                "location"
+            ]
+        },
+        {
+            "pancake batter": [
+                "location"
+            ],
+            "funnel": [
+                "location"
+            ],
+            "bottle": [
+                "location"
+            ]
+        },
+        {
+            "bottle": [
+                "labeling"
+            ],
+            "lid": [
+                "location"
+            ],
+            "marker": [
+                "location"
+            ]
+        },
+        {
+            "bottle": [
+                "location"
+            ],
+            "fridge": [
+                "temperature"
+            ]
+        },
+        {
+            "bottle": [
+                "location"
+            ]
+        }
+    ],
+    "51": [
+        {
+            "window": [
+                "cleanliness"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "detergent": [
+                "concentration"
+            ],
+            "razorblade": [
+                "sharpness"
+            ],
+            "glass cleaner": [
+                "viscosity"
+            ]
+        },
+        {
+            "window": [
+                "wateriness",
+                "cleanliness",
+                "paint thickness"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "detergent": [
+                "concentration"
+            ],
+            "razorblade": [
+                "sharpness",
+                "sharpness"
+            ],
+            "glass cleaner": [
+                "viscosity))\nStep: Scrape off as much of the old paint as possible using your fingers or the edge of the razor blade.\nEntities and attributes: finger"
+            ]
+        },
+        {
+            "razorblade": [
+                "sharpness",
+                "sharpness"
+            ],
+            "window": [
+                "paint thickness))\nStep: Wipe down the window with the wet rag until all traces of paint are gone.\nEntities and attributes: window"
+            ],
+            "water": [
+                "temperature"
+            ],
+            "detergent": [
+                "concentration"
+            ],
+            "glass cleaner": [
+                "viscosity))\nStep: Clean up any remaining residue by wiping it away with a dry paper towel.\nEntities and attributes: window"
+            ],
+            "paper towel": [
+                "dryness"
+            ]
+        },
+        {
+            "finger": [
+                "cutting ability"
+            ],
+            "razorblade": [
+                "sharpness",
+                "sharpness"
+            ],
+            "window": [
+                "paint thickness))\nStep: Rinse out the bucket and refill it with fresh warm water.\nEntities and attributes: bucket"
+            ],
+            "water": [
+                "temperature))\nStep: Dampen another clean cloth with plain water and use this to rinse the window thoroughly.\nEntities and attributes: window",
+                "temperature"
+            ],
+            "detergent": [
+                "concentration"
+            ],
+            "glass cleaner": [
+                "viscosity))\nStep: Use the glass cleaner on a soft cloth to polish the surface of the window.\nEntities and attributes: window",
+                "viscosity"
+            ]
+        },
+        {
+            "window": [
+                "cleanliness"
+            ],
+            "glass cleaner": [
+                "viscosity"
+            ]
+        },
+        {
+            "window": [
+                "cleanliness"
+            ],
+            "chemical solvent": [
+                "strength"
+            ]
+        }
+    ],
+    "52": [
+        {
+            "microphone": [
+                "connected"
+            ],
+            "computer": [
+                "sound"
+            ]
+        },
+        {
+            "mouse": [
+                "location"
+            ],
+            "audio": [
+                "location"
+            ],
+            "panel": [
+                "location"
+            ]
+        },
+        {
+            "voice panel": [
+                "location"
+            ],
+            "click": [
+                "force))\nStep: Check if you have any other programs running which might interfere with Team Fortress 2. If so",
+                "close them down or exit out of them.\nEntities and attributes: program"
+            ],
+            "TF2": [
+                "running status))\nStep: Go back to the main menu by clicking on the Steam icon located near the clock.\nEntities and attributes: steam icon"
+            ],
+            "clock": [
+                "location))\nStep: Select Settings from the drop-down box.\nEntities and attributes: settings"
+            ]
+        },
+        {
+            "player": [
+                "talking status"
+            ]
+        },
+        {
+            "team": [
+                "communication status"
+            ]
+        },
+        {
+            "teammate": [
+                "advice status"
+            ]
+        }
+    ],
+    "53": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "54": [
+        {
+            "elastic": [
+                "length"
+            ],
+            "scissors": [
+                "sharpness"
+            ]
+        },
+        {
+            "large bead": [
+                "size"
+            ],
+            "small bead": [
+                "size"
+            ],
+            "string": [
+                "tension"
+            ]
+        },
+        {
+            "small bead": [
+                "size"
+            ],
+            "string": [
+                "tension))\nStep: Thread another small bead onto the other end of the thread.\nEntities and attributes: small bead",
+                "tension))\nStep: Tie off both ends by knotting them around the last bead.\nEntities and attributes: small bead",
+                "tension"
+            ]
+        },
+        {
+            "small bead": [
+                "size"
+            ],
+            "string": [
+                "tension"
+            ]
+        },
+        {
+            "small bead": [
+                "size"
+            ],
+            "string": [
+                "tension"
+            ]
+        },
+        {
+            "small bead": [
+                "size"
+            ],
+            "string": [
+                "tension"
+            ]
+        }
+    ],
+    "55": [
+        {
+            "underpant": [
+                "cleanliness"
+            ],
+            "rag": [
+                "cleanliness"
+            ]
+        },
+        {
+            "underpant": [
+                "location"
+            ],
+            "plant": [
+                "location"
+            ],
+            "tie": [
+                "length",
+                "tightness"
+            ]
+        },
+        {
+            "underpant": [
+                "quality"
+            ],
+            "item": [
+                "shape",
+                "size"
+            ]
+        },
+        {
+            "underpant": [
+                "quantity"
+            ],
+            "stuffing": [
+                "density"
+            ]
+        },
+        {
+            "child": [
+                "clothing"
+            ],
+            "underpant": [
+                "location"
+            ]
+        },
+        {
+            "underpant": [
+                "location"
+            ],
+            "donation center": [
+                "location"
+            ]
+        }
+    ]
+}

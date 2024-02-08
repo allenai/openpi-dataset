@@ -1,0 +1,726 @@
+{
+    "52": [
+        [
+            [
+                "microphone",
+                "connection",
+                "unconnected",
+                "connected"
+            ],
+            [
+                "microphone",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "microphone",
+                "availability",
+                "nonfunctional",
+                "functional"
+            ],
+            [
+                "microphone",
+                "operation",
+                "untested",
+                "tested"
+            ],
+            [
+                "audio options",
+                "selection",
+                "unadjusted",
+                "adjusted"
+            ]
+        ],
+        [
+            [
+                "panels",
+                "visibility",
+                "invisible",
+                "visible"
+            ],
+            [
+                "menu options",
+                "availability",
+                "closed",
+                "open"
+            ]
+        ],
+        [
+            [
+                "panels",
+                "visibility",
+                "unselected",
+                "selected"
+            ],
+            [
+                "voice panel",
+                "availability",
+                "deselected",
+                "selected"
+            ]
+        ],
+        [
+            [
+                "microphone",
+                "connection",
+                "unused",
+                "being used"
+            ],
+            [
+                "communication",
+                "availability",
+                "unavailable",
+                "available"
+            ],
+            [
+                "voice",
+                "sound",
+                "unheard",
+                "heard"
+            ],
+            [
+                "person",
+                "volume",
+                "silent",
+                "talking"
+            ]
+        ],
+        [
+            [
+                "microphone",
+                "availability",
+                "unused",
+                "used"
+            ],
+            [
+                "communication",
+                "stability",
+                "inefficient",
+                "efficient"
+            ],
+            [
+                "voice",
+                "sound",
+                "unheard",
+                "heard"
+            ]
+        ],
+        [
+            [
+                "game plans",
+                "availability",
+                "impossible",
+                "possible"
+            ],
+            [
+                "team",
+                "stability",
+                "unsupported",
+                "supported"
+            ],
+            [
+                "advice",
+                "ownership",
+                "withheld",
+                "given"
+            ]
+        ]
+    ],
+    "53": [
+        [
+            [
+                "macaroni",
+                "location",
+                "in bag",
+                "in water"
+            ],
+            [
+                "macaroni",
+                "cooking",
+                "less cooked",
+                "more cooked"
+            ],
+            [
+                "macaroni",
+                "taste",
+                "bland",
+                "salted"
+            ],
+            [
+                "macaroni",
+                "temperature",
+                "cooler",
+                "hotter"
+            ],
+            [
+                "macaroni",
+                "texture",
+                "hard",
+                "soft"
+            ],
+            [
+                "oil",
+                "location",
+                "in pantry",
+                "in water"
+            ],
+            [
+                "salt and oil",
+                "mixture",
+                "separate",
+                "mixed into water"
+            ],
+            [
+                "water",
+                "temperature",
+                "cold",
+                "hote"
+            ],
+            [
+                "saucepan",
+                "location",
+                "in cabinet",
+                "on stove top"
+            ],
+            [
+                "stove burner",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "salt",
+                "location",
+                "in pantry",
+                "in water"
+            ],
+            [
+                "boiling pot",
+                "fullness",
+                "emptier",
+                "fuller"
+            ],
+            [
+                "boiling pot",
+                "temperature",
+                "cooler",
+                "hotter"
+            ]
+        ],
+        [
+            [
+                "macaroni",
+                "temperature",
+                "hot",
+                "cool"
+            ],
+            [
+                "macaroni",
+                "texture",
+                "soft",
+                "firmer"
+            ],
+            [
+                "water",
+                "location",
+                "in pipes",
+                "out of faucet"
+            ],
+            [
+                "strainer",
+                "volume",
+                "empty",
+                "full of macaroni"
+            ],
+            [
+                "strainer",
+                "location",
+                "on counter top",
+                "under faucet"
+            ],
+            [
+                "strainer",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "strainer",
+                "wetness",
+                "drier",
+                "wetter"
+            ],
+            [
+                "the time",
+                "time",
+                "earlier",
+                "later"
+            ],
+            [
+                "sink",
+                "wetness",
+                "drier",
+                "wetter"
+            ],
+            [
+                "sun",
+                "location",
+                "farther east",
+                "farther west"
+            ],
+            [
+                "you",
+                "age",
+                "younger",
+                "older"
+            ]
+        ],
+        [
+            [
+                "macaroni",
+                "location",
+                "in strainer",
+                "in pan"
+            ],
+            [
+                "macaroni",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "macaroni",
+                "oiliness",
+                "less oily",
+                "more oily"
+            ],
+            [
+                "macaroni",
+                "speed",
+                "still",
+                "moving"
+            ],
+            [
+                "oil",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "oil",
+                "location",
+                "in bottle",
+                "in pan"
+            ],
+            [
+                "pan",
+                "cleanness",
+                "cleaner",
+                "dirtier"
+            ],
+            [
+                "pan",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "pan",
+                "fullness",
+                "empty",
+                "fuller"
+            ],
+            [
+                "oil/macaroni",
+                "composition",
+                "separate",
+                "mixed"
+            ],
+            [
+                "spatula",
+                "location",
+                "in drawer",
+                "in pan"
+            ]
+        ],
+        [
+            [
+                "macaroni",
+                "taste",
+                "bland",
+                "spicy"
+            ],
+            [
+                "pan",
+                "fullness",
+                "emptier",
+                "fuller"
+            ],
+            [
+                "red chilli powder",
+                "location",
+                "in bottle",
+                "on macaroni"
+            ],
+            [
+                "white vinegar",
+                "location",
+                "in bottle",
+                "in pan"
+            ],
+            [
+                "ajino moto",
+                "location",
+                "in pantry",
+                "in pan"
+            ],
+            [
+                "soy sauce",
+                "location",
+                "in bottle",
+                "in pan"
+            ],
+            [
+                "flavorings macaroni",
+                "composition",
+                "separate",
+                "mixed"
+            ],
+            [
+                "salt",
+                "location",
+                "in containter",
+                "on macaroni"
+            ],
+            [
+                "ingredients",
+                "mixture",
+                "separate",
+                "mixed in pan"
+            ]
+        ],
+        [
+            [
+                "macaroni",
+                "cooking",
+                "less cooked",
+                "more cooked"
+            ],
+            [
+                "macaroni",
+                "time",
+                "put in pan",
+                "cooked for 60 seconds"
+            ],
+            [
+                "pan",
+                "temperature",
+                "cooler",
+                "hotter"
+            ],
+            [
+                "pan",
+                "cleanness",
+                "cleaner",
+                "dirtier"
+            ],
+            [
+                "food",
+                "mixture",
+                "less stirred",
+                "more stirred"
+            ],
+            [
+                "food",
+                "temperature",
+                "cooler",
+                "hotter"
+            ],
+            [
+                "sun",
+                "location",
+                "farther east",
+                "farther west"
+            ],
+            [
+                "mixture",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "you",
+                "age",
+                "younger",
+                "older"
+            ]
+        ],
+        [
+            [
+                "macaroni",
+                "location",
+                "in pan",
+                "on plate"
+            ],
+            [
+                "macaroni",
+                "temperature",
+                "hot",
+                "cooling"
+            ],
+            [
+                "drinking glass",
+                "location",
+                "in cabinet",
+                "on table"
+            ],
+            [
+                "chilled drinks",
+                "location",
+                "in  place",
+                "served"
+            ],
+            [
+                "serving dish",
+                "cleanness",
+                "cleaner",
+                "dirtier"
+            ],
+            [
+                "serving dish",
+                "fullness",
+                "emptier",
+                "fuller"
+            ],
+            [
+                "fork",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "plate",
+                "location",
+                "in cabinet",
+                "on table"
+            ],
+            [
+                "task",
+                "completion",
+                "unfinished",
+                "finished"
+            ],
+            [
+                "food",
+                "location",
+                "in pan",
+                "served"
+            ],
+            [
+                "food",
+                "completion",
+                "unready",
+                "ready"
+            ]
+        ]
+    ],
+    "54": [
+        [
+            [
+                "the strip of elastic",
+                "length",
+                "longer",
+                "shorter"
+            ],
+            [
+                "the strip of elastic",
+                "shape",
+                "uncut",
+                "cut"
+            ],
+            [
+                "elastic",
+                "length",
+                "longer",
+                "shorter"
+            ],
+            [
+                "elastic",
+                "size",
+                "whole",
+                "in pieces"
+            ],
+            [
+                "elastic",
+                "location",
+                "on counter",
+                "in lap"
+            ]
+        ],
+        [
+            [
+                "the beads",
+                "location",
+                "off strip",
+                "on strip"
+            ],
+            [
+                "the beads",
+                "organization",
+                "random",
+                "in order on band"
+            ],
+            [
+                "the beads",
+                "shape",
+                "loose",
+                "banded"
+            ],
+            [
+                "the strip of elastic",
+                "length",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "the strip of elastic",
+                "color",
+                "less colorful",
+                "more colorful"
+            ],
+            [
+                "elastic",
+                "weight",
+                "lighter",
+                "heavier"
+            ]
+        ],
+        [
+            [
+                "the beads",
+                "location",
+                "off strip of elastic",
+                "on strip of elastic"
+            ],
+            [
+                "the strip of elastic",
+                "length",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "the strip of elastic",
+                "color",
+                "less colorful",
+                "more colorful"
+            ],
+            [
+                "tail",
+                "orientation",
+                "bare",
+                "adorned"
+            ],
+            [
+                "small bead",
+                "location",
+                "off end",
+                "on with"
+            ]
+        ],
+        [
+            [
+                "the beads",
+                "location",
+                "off strip of elastic",
+                "on strip of elastic"
+            ],
+            [
+                "the beads",
+                "composition",
+                "random",
+                "in order"
+            ],
+            [
+                "the strip of elastic",
+                "length",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "the strip of elastic",
+                "color",
+                "less colorful",
+                "more colorful"
+            ],
+            [
+                "elastic",
+                "shape",
+                "straight",
+                "rounded"
+            ]
+        ],
+        [
+            [
+                "the beads",
+                "shape",
+                "in straighter line",
+                "curved"
+            ],
+            [
+                "elastic ends",
+                "orientation",
+                "open",
+                "closed"
+            ],
+            [
+                "tail",
+                "orientation",
+                "loose",
+                "tied into first bead"
+            ]
+        ],
+        [
+            [
+                "you",
+                "focus",
+                "focused on making bracelet",
+                "admiring bracelet"
+            ]
+        ]
+    ],
+    "55": [
+        [
+            [
+                "underpants",
+                "newness",
+                "new",
+                "old"
+            ],
+            [
+                "underpants",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "underpants",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "underpants",
+                "location",
+                "on drawer",
+                "on floor"
+            ],
+            [
+                "underpants",
+                "use",
+                "used as underpants",
+                "used as cleaning rags"
+            ]
+        ]
+    ]
+}

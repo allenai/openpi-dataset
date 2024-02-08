@@ -13,11 +13,13 @@ parser.add_argument('--seed', default='', type=str, help='Random seed.')
 parser.add_argument('--split', default='dev', type=str, help='The split to evaluate on.')
 
 args = parser.parse_args()
-openai.api_key = open(f'../../_private/{args.key}.key').read()
+# NOTE: harry's path for storing the API key
+# openai.api_key = open(f'../../_private/{args.key}.key').read()
+openai.api_key = open(args.key).read().strip()
 if args.seed:
     random.seed(int(args.seed[1:]))
 
-@backoff.on_exception(backoff.expo, openai.error.RateLimitError)
+@backoff.on_exception(backoff.expo, (openai.error.RateLimitError, openai.error.APIError, openai.error.Timeout))
 def run_gpt(prompt, model=args.model, temperature=0.7):
     ret = openai.ChatCompletion.create(
         model=model,
@@ -66,23 +68,22 @@ def predict_local(goal, steps, entities):
     #print(local_output)
     return local_output
 
-with open("../data/dev-data-reformatted-v4.json") as f:
+with open("../data/data_in_new_format/train-data-reformatted-v4.json") as f:
     data = json.load(f)
     for id, a in data.items():
-        print(id)
+        print(f"{id} / {len(data)}")
         goal = a["goal"]
         steps = a["steps"]
         entities = [state["entity"] for state in a["states"]]
         global_output = predict_global(goal, steps, entities)
         local_output = predict_local(goal, steps, entities)
+
         for i, state in enumerate(a["states"]):
             #print(global_output[state["entity"]])
             data[id]["states"][i].update(global_output[state["entity"]])
             for j, step_num in enumerate(a["states"][i]["answers"]):
                 data[id]["states"][i]["answers"][step_num] = {"attributes": data[id]["states"][i]["answers"][step_num]}
                 data[id]["states"][i]["answers"][step_num].update(local_output[j][state["entity"]])
-        if id == "20":
-            break
 
-with open("../data/dev-data-reformatted-v4_pred-salience.json", "w") as f_out:
+with open(f"../data/train-data-reformatted-v4_pred-salience-{args.model}.json", "w") as f_out:
     json.dump(data, f_out, indent=4)

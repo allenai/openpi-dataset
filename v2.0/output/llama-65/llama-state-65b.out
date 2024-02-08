@@ -1,0 +1,680 @@
+cpu-bind=MASK - nlpgpu06, task  0  0 [20150]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230627_210820-16aesadb
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/16aesadb
+
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]
+Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:49,  3.82s/it]
+Loading checkpoint shards:  14%|█▍        | 2/14 [00:07<00:43,  3.59s/it]
+Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:34,  3.18s/it]
+Loading checkpoint shards:  29%|██▊       | 4/14 [00:13<00:32,  3.27s/it]
+Loading checkpoint shards:  36%|███▌      | 5/14 [00:16<00:27,  3.06s/it]
+Loading checkpoint shards:  43%|████▎     | 6/14 [00:19<00:25,  3.18s/it]
+Loading checkpoint shards:  50%|█████     | 7/14 [00:22<00:21,  3.02s/it]
+Loading checkpoint shards:  57%|█████▋    | 8/14 [00:25<00:19,  3.17s/it]
+Loading checkpoint shards:  64%|██████▍   | 9/14 [00:28<00:15,  3.06s/it]
+Loading checkpoint shards:  71%|███████▏  | 10/14 [00:31<00:12,  3.18s/it]
+Loading checkpoint shards:  79%|███████▊  | 11/14 [00:35<00:09,  3.28s/it]
+Loading checkpoint shards:  86%|████████▌ | 12/14 [00:38<00:06,  3.10s/it]
+Loading checkpoint shards:  93%|█████████▎| 13/14 [00:40<00:02,  2.97s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:41<00:00,  2.43s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:41<00:00,  3.00s/it]
+
+0it [00:00, ?it/s]
+
+0it [00:00, ?it/s][A
+
+1it [03:56, 236.12s/it][A
+
+2it [04:30, 117.17s/it][A
+
+3it [09:46, 208.25s/it][AToken indices sequence length is longer than the specified maximum sequence length for this model (2474 > 2048). Running this sequence through the model will result in indexing errors
+
+
+4it [28:50, 577.51s/it][A
+
+                       [A
+1it [28:50, 1730.24s/it]
+
+0it [00:00, ?it/s][A
+
+1it [29:29, 1769.30s/it][A
+
+2it [33:07, 856.67s/it] [A
+
+3it [51:34, 970.92s/it][A
+
+4it [1:35:29, 1628.23s/it][A
+
+                          [A
+2it [2:04:20, 4082.98s/it]
+
+0it [00:00, ?it/s][A
+
+1it [31:10, 1870.82s/it][A
+
+2it [53:53, 1571.81s/it][A
+
+3it [1:13:07, 1381.16s/it][A
+
+4it [2:03:47, 2035.88s/it][A
+
+                          [A
+3it [4:08:07, 5610.01s/it]
+
+0it [00:00, ?it/s][A
+
+1it [09:13, 553.56s/it][A
+
+2it [24:17, 759.56s/it][A
+
+3it [29:05, 544.22s/it][A
+
+4it [31:13, 379.97s/it][A
+
+                       [A
+4it [4:39:20, 4134.87s/it]
+
+0it [00:00, ?it/s][A
+
+1it [03:53, 233.75s/it][A
+
+2it [09:19, 288.16s/it][A
+
+3it [24:43, 578.49s/it][A
+
+4it [40:49, 731.19s/it][A
+
+                       [A
+5it [5:20:10, 3527.03s/it]
+
+0it [00:00, ?it/s][A
+
+1it [05:17, 317.32s/it][A
+
+2it [06:40, 179.59s/it][A
+
+3it [08:10, 138.61s/it][A
+
+4it [09:47, 122.43s/it][A
+
+                       [A
+6it [5:29:58, 2527.74s/it]
+
+0it [00:00, ?it/s][A
+
+1it [16:02, 962.85s/it][A
+
+2it [30:50, 918.67s/it][A
+
+3it [42:13, 811.06s/it][A
+
+4it [1:44:32, 1967.05s/it][A
+
+                          [A
+7it [7:14:30, 3752.08s/it]
+
+0it [00:00, ?it/s][A
+
+1it [31:39, 1899.89s/it][A
+
+2it [32:37, 816.00s/it] [A
+
+3it [48:09, 868.98s/it][A
+
+4it [50:40, 585.59s/it][A
+
+                       [A
+8it [8:05:11, 3525.50s/it]
+
+0it [00:00, ?it/s][A
+
+1it [04:19, 259.99s/it][A
+
+2it [09:58, 306.02s/it][A
+
+3it [25:44, 598.38s/it][A
+
+4it [35:51, 601.85s/it][A
+
+                       [A
+9it [8:41:02, 3096.03s/it]
+
+0it [00:00, ?it/s][A
+
+1it [00:12, 12.26s/it][A
+
+2it [17:04, 600.63s/it][A
+
+3it [29:52, 677.08s/it][A
+
+4it [30:47, 431.50s/it][A
+
+                       [A
+10it [9:11:50, 2710.69s/it]
+
+0it [00:00, ?it/s][A
+
+1it [52:15, 3135.13s/it][A
+
+2it [1:20:28, 2287.08s/it][A
+
+3it [2:38:05, 3369.33s/it][A
+
+4it [3:25:04, 3151.76s/it][A
+
+                          [A
+11it [12:36:54, 5646.74s/it]
+
+0it [00:00, ?it/s][A
+
+1it [24:20, 1460.09s/it][A
+
+2it [31:35, 857.16s/it] [A
+
+3it [31:58, 476.43s/it][A
+
+4it [51:32, 751.84s/it][A
+
+                       [A
+12it [13:28:27, 4869.74s/it]
+
+0it [00:00, ?it/s][A
+
+1it [42:21, 2541.57s/it][A
+
+2it [3:13:30, 6380.93s/it][A
+
+3it [6:10:19, 8311.58s/it][A
+
+4it [8:05:01, 7747.50s/it][A
+
+                          [A
+13it [21:33:29, 12210.50s/it]
+
+0it [00:00, ?it/s][A
+
+1it [32:10, 1930.37s/it][A
+
+2it [1:05:12, 1960.67s/it][Aslurmstepd: error: *** JOB 41393 ON nlpgpu06 CANCELLED AT 2023-06-28T21:08:20 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [65375]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230628_214515-b64bs3cw
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/b64bs3cw
+
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]
+Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:48,  3.74s/it]
+Loading checkpoint shards:  14%|█▍        | 2/14 [00:07<00:42,  3.52s/it]
+Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:33,  3.08s/it]
+Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:31,  3.17s/it]
+Loading checkpoint shards:  36%|███▌      | 5/14 [00:15<00:26,  2.95s/it]
+Loading checkpoint shards:  43%|████▎     | 6/14 [00:18<00:24,  3.07s/it]
+Loading checkpoint shards:  50%|█████     | 7/14 [00:21<00:20,  2.90s/it]
+Loading checkpoint shards:  57%|█████▋    | 8/14 [00:24<00:18,  3.06s/it]
+Loading checkpoint shards:  64%|██████▍   | 9/14 [00:27<00:14,  2.93s/it]
+Loading checkpoint shards:  71%|███████▏  | 10/14 [00:30<00:12,  3.07s/it]
+Loading checkpoint shards:  79%|███████▊  | 11/14 [00:34<00:09,  3.16s/it]
+Loading checkpoint shards:  86%|████████▌ | 12/14 [00:36<00:05,  2.98s/it]
+Loading checkpoint shards:  93%|█████████▎| 13/14 [00:39<00:02,  2.85s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:40<00:00,  2.33s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:40<00:00,  2.89s/it]
+
+0it [00:00, ?it/s]
+
+0it [00:00, ?it/s][A
+
+1it [16:10, 970.20s/it][AToken indices sequence length is longer than the specified maximum sequence length for this model (2085 > 2048). Running this sequence through the model will result in indexing errors
+
+
+2it [30:12, 895.14s/it][A
+
+3it [42:03, 811.09s/it][A
+
+                       [A
+15it [42:03, 168.26s/it]
+
+0it [00:00, ?it/s][A
+
+1it [09:09, 549.62s/it][A
+
+2it [29:40, 950.43s/it][A
+
+3it [46:29, 977.20s/it][A
+
+4it [1:44:12, 1958.59s/it][A
+
+                          [A
+16it [2:26:16, 697.34s/it]
+
+0it [00:00, ?it/s][A
+
+1it [1:11:20, 4280.30s/it][A
+
+2it [4:21:30, 8474.28s/it][A
+
+3it [8:10:07, 10868.24s/it][A
+
+4it [11:31:07, 11338.92s/it][A
+
+                            [A
+17it [13:57:24, 5202.38s/it]
+
+0it [00:00, ?it/s][A
+
+1it [04:22, 262.02s/it][A
+
+2it [22:54, 762.20s/it][A
+
+3it [31:31, 650.16s/it][A
+
+4it [48:43, 801.05s/it][A
+
+                       [A
+18it [14:46:08, 4891.70s/it]
+
+0it [00:00, ?it/s][A
+
+1it [03:55, 235.55s/it][A
+
+2it [06:50, 200.17s/it][A
+
+3it [07:30, 126.93s/it][A
+
+4it [08:00, 88.40s/it] [A
+
+                      [A
+19it [14:54:08, 4172.55s/it]
+
+0it [00:00, ?it/s][A
+
+1it [30:06, 1806.32s/it][A
+
+2it [1:19:12, 2476.99s/it][A
+
+3it [2:05:29, 2613.84s/it][A
+
+                          [A
+20it [16:59:37, 4806.63s/it]
+
+0it [00:00, ?it/s][A
+
+1it [03:52, 232.67s/it][A
+
+2it [30:09, 1023.59s/it][A
+
+5it [31:58, 316.57s/it] [A
+
+                       [A
+21it [17:31:35, 4192.85s/it]
+
+0it [00:00, ?it/s][A
+
+1it [32:02, 1922.01s/it][A
+
+2it [51:41, 1485.20s/it][A
+
+3it [1:00:42, 1053.87s/it][A
+
+4it [3:18:32, 3903.02s/it][A
+
+5it [5:24:55, 5229.84s/it][A
+
+                          [A
+22it [22:56:31, 7756.41s/it]
+
+0it [00:00, ?it/s][A
+
+1it [31:18, 1878.66s/it][A
+
+2it [49:35, 1418.56s/it][Aslurmstepd: error: *** JOB 41461 ON nlpgpu06 CANCELLED AT 2023-06-29T21:45:32 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [47146]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230629_224219-ioy27s17
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/ioy27s17
+
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]
+Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:46,  3.61s/it]
+Loading checkpoint shards:  14%|█▍        | 2/14 [00:06<00:40,  3.39s/it]
+Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:32,  2.96s/it]
+Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:30,  3.06s/it]
+Loading checkpoint shards:  36%|███▌      | 5/14 [00:14<00:25,  2.84s/it]
+Loading checkpoint shards:  43%|████▎     | 6/14 [00:18<00:23,  2.97s/it]
+Loading checkpoint shards:  50%|█████     | 7/14 [00:20<00:19,  2.83s/it]
+Loading checkpoint shards:  57%|█████▋    | 8/14 [00:24<00:17,  2.98s/it]
+Loading checkpoint shards:  64%|██████▍   | 9/14 [00:26<00:14,  2.81s/it]
+Loading checkpoint shards:  71%|███████▏  | 10/14 [00:29<00:11,  2.94s/it]
+Loading checkpoint shards:  79%|███████▊  | 11/14 [00:32<00:09,  3.03s/it]
+Loading checkpoint shards:  86%|████████▌ | 12/14 [00:35<00:05,  2.86s/it]
+Loading checkpoint shards:  93%|█████████▎| 13/14 [00:37<00:02,  2.73s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.24s/it]
+Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.78s/it]
+
+0it [00:00, ?it/s]
+
+0it [00:00, ?it/s][AToken indices sequence length is longer than the specified maximum sequence length for this model (2058 > 2048). Running this sequence through the model will result in indexing errors
+
+
+1it [33:17, 1997.95s/it][A
+
+2it [1:16:25, 2344.57s/it][A
+
+3it [2:42:43, 3638.68s/it][A
+
+4it [4:54:15, 5317.60s/it][A
+
+5it [5:38:42, 4361.76s/it][A
+
+                          [A
+24it [5:38:42, 846.76s/it]
+
+0it [00:00, ?it/s][A
+
+1it [06:02, 362.12s/it][A
+
+2it [12:22, 372.58s/it][A
+
+3it [14:25, 258.77s/it][A
+
+4it [16:04, 195.94s/it][A
+
+                       [A
+25it [5:54:47, 853.40s/it]
+
+0it [00:00, ?it/s][A
+
+1it [30:28, 1828.91s/it][A
+
+2it [46:09, 1306.18s/it][A
+
+3it [2:35:27, 3704.46s/it][A
+
+4it [5:02:09, 5716.70s/it][A
+
+5it [5:35:02, 4366.72s/it][A
+
+                          [A
+26it [11:29:49, 2283.47s/it]
+
+0it [00:00, ?it/s][A
+
+1it [24:18, 1458.30s/it][A
+
+2it [48:03, 1439.06s/it][A
+
+3it [1:19:12, 1635.11s/it][A
+
+4it [3:19:58, 385 ON nlpgpu06 CANCELLED AT 2023-06-30T22:42:12 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [55532]: mask 0x100000001 set
+Traceback (most recent call last):
+  File "/mnt/castor/seas_home/s/seacow/github/openpi2.0/source/predict_states.py", line 7, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+cpu-bind=MASK - nlpgpu06, task  0  0 [55654]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230630_224738-l7i59d44
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/l7i59d44
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:46,  3.59s/it]Loading checkpoint shards:  14%|█▍        | 2/14 [00:06<00:40,  3.39s/it]Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:32,  2.95s/it]Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:30,  3.05s/it]Loading checkpoint shards:  36%|███▌      | 5/14 [00:14<00:25,  2.83s/it]Loading checkpoint shards:  43%|████▎     | 6/14 [00:18<00:23,  2.95s/it]Loading checkpoint shards:  50%|█████     | 7/14 [00:20<00:19,  2.78s/it]Loading checkpoint shards:  57%|█████▋    | 8/14 [00:23<00:17,  2.93s/it]Loading checkpoint shards:  64%|██████▍   | 9/14 [00:26<00:14,  2.80s/it]Loading checkpoint shards:  71%|███████▏  | 10/14 [00:29<00:11,  2.95s/it]Loading checkpoint shards:  79%|███████▊  | 11/14 [00:32<00:09,  3.03s/it]Loading checkpoint shards:  86%|████████▌ | 12/14 [00:35<00:05,  2.85s/it]Loading checkpoint shards:  93%|█████████▎| 13/14 [00:37<00:02,  2.73s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.23s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.77s/it]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][A                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Token indices sequence length is longer than the specified maximum sequence length for this model (2055 > 2048). Running this sequence through the model will result in indexing errors
+
+1it [31:52, 1912.05s/it][A
+2it [33:19, 838.50s/it] [A
+3it [50:52, 936.72s/it][A
+4it [1:04:50, 897.63s/it][A
+5it [1:50:44, 1567.16s/it][A
+                          [A30it [1:50:44, 221.49s/it]
+0it [00:00, ?it/s][A
+1it [03:52, 232.34s/it][A
+4it [09:19, 132.45s/it][A
+                       [A31it [2:00:04, 236.87s/it]
+0it [00:00, ?it/s][A
+1it [32:52, 1972.88s/it][A
+2it [2:58:16, 5943.64s/it][A
+3it [5:38:57, 7632.15s/it][A
+4it [7:49:58, 7722.66s/it][A
+5it [8:06:31, 5295.83s/it][A
+                          [A32it [10:06:36, 2002.41s/it]
+0it [00:00, ?it/s][A
+1it [03:53, 233.85s/it][A
+2it [16:09, 528.89s/it][A
+3it [30:57, 693.19s/it][A
+4it [32:04, 445.64s/it][A
+5it [49:48, 668.91s/it][A
+                       [A33it [10:56:25, 2081.45s/it]
+0it [00:00, ?it/s][A
+1it [21:10, 1270.95s/it][A
+2it [32:53, 936.38s/it] [A
+3it [33:24, 523.32s/it][A
+4it [48:33, 675.49s/it][A
+5it [52:07, 509.11s/it][A
+                       [A34it [11:48:32, 2188.92s/it]
+0it [00:00, ?it/s][A
+1it [32:20, 1940.63s/it][A
+2it [4:17:19, 8739.42s/it][A
+3it [7:31:01, 10055.62s/it][A
+4it [9:09:30, 8418.66s/it] [A
+5it [9:59:19, 6460.91s/it][A
+                          [A35it [21:47:52, 6510.12s/it]
+0it [00:00, ?it/s][A
+1it [02:31, 151.95s/it][A
+2it [30:05, 1035.26s/it][A
+3it [50:09, 1112.10s/it][Aslurmstepd: error: *** JOB 41549 ON nlpgpu06 CANCELLED AT 2023-07-01T22:48:02 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [61139]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230702_053757-ityg1a7f
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/ityg1a7f
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:46,  3.59s/it]Loading checkpoint shards:  14%|█▍        | 2/14 [00:06<00:40,  3.40s/it]Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:32,  2.96s/it]Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:30,  3.05s/it]Loading checkpoint shards:  36%|███▌      | 5/14 [00:14<00:25,  2.82s/it]Loading checkpoint shards:  43%|████▎     | 6/14 [00:18<00:23,  2.94s/it]Loading checkpoint shards:  50%|█████     | 7/14 [00:20<00:19,  2.77s/it]Loading checkpoint shards:  57%|█████▋    | 8/14 [00:23<00:17,  2.90s/it]Loading checkpoint shards:  64%|██████▍   | 9/14 [00:26<00:13,  2.80s/it]Loading checkpoint shards:  71%|███████▏  | 10/14 [00:29<00:11,  2.95s/it]Loading checkpoint shards:  79%|███████▊  | 11/14 [00:32<00:09,  3.04s/it]Loading checkpoint shards:  86%|████████▌ | 12/14 [00:35<00:05,  2.85s/it]Loading checkpoint shards:  93%|█████████▎| 13/14 [00:37<00:02,  2.73s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.23s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.77s/it]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AToken indices sequence length is longer than the specified maximum sequence length for this model (2079 > 2048). Running this sequence through the model will result in indexing errors
+
+1it [32:02, 1922.39s/it][A
+2it [46:57, 1318.35s/it][A
+3it [1:44:48, 2301.00s/it][A
+4it [2:31:31, 2499.46s/it][A
+5it [3:18:36, 2616.72s/it][A
+6it [4:21:58, 3019.77s/it][A
+                          [A37it [4:21:58, 424.83s/it]
+0it [00:00, ?it/s][A
+1it [19:00, 1140.02s/it][A
+2it [48:57, 1526.78s/it][A
+3it [56:32, 1037.15s/it][A
+4it [1:19:30, 1171.77s/it][A
+5it [1:42:46, 1252.70s/it][A
+6it [2:22:11, 1631.00s/it][A
+                          [A38it [6:44:10, 726.20s/it]
+0it [00:00, ?it/s][A
+1it [12:46, 766.26s/it][A
+2it [31:02, 960.21s/it][A
+3it [32:20, 557.66s/it][A
+4it [57:15, 927.62s/it][A
+5it [1:58:11, 1911.51s/it][A
+                          [A39it [8:42:22, 1047.20s/it]
+0it [00:00, ?it/s][A
+1it [31:41, 1901.28s/it][A
+2it [32:58, 828.19s/it] [A
+3it [49:20, 898.46s/it][A
+4it [2:05:39, 2351.71s/it][A
+5it [3:24:25, 3207.60s/it][A
+6it [4:12:01, 3088.10s/it][A
+                          [A40it [12:54:23, 1992.98s/it]
+0it [00:00, ?it/s][A
+1it [03:53, 233.40s/it][A
+2it [24:20, 818.05s/it][A
+3it [31:18, 635.22s/it][A
+4it [32:18, 408.00s/it][A
+5it [32:41, 269.32s/it][A
+6it [48:45, 505.51s/it][A
+                       [A41it [13:43:08, 2074.65s/it]
+0it [00:00, ?it/s][A
+1it [31:16, 1876.60s/it][A
+2it [33:01, 834.62s/it] [A
+3it [52:28, 986.05s/it][A
+4it [2:44:08, 3241.92s/it][A
+5it [4:09:06, 3911.30s/it][A
+6it [5:17:35, 3978.58s/it][A
+                          [A42it [19:00:44, 3963.17s/it]
+0it [00:00, ?it/s][A
+1it [03:55, 235.08s/it][A
+2it [09:18, 287.01s/it][A
+3it [31:14, 757.07s/it][A
+4it [42:00, 713.08s/it][A
+5it [45:15, 526.31s/it][A
+6it [47:43, 397.47s/it][A
+                       [A43it [19:48:27, 3812.35s/it]
+0it [00:00, ?it/s][A
+1it [16:06, 966.93s/it][A
+2it [35:24, 1078.89s/it][A
+3it [1:00:27, 1272.62s/it][A
+4it [1:26:23, 1384.57s/it][A
+5it [2:27:35, 2209.32s/it][A
+6it [2:42:59, 1772.54s/it][A
+                          [A44it [22:31:27, 4789.69s/it]
+0it [00:00, ?it/s][A
+1it [06:24, 384.91s/it][A
+3it [12:36, 237.34s/it][A
+4it [39:42, 717.90s/it][A
+5it [57:06, 825.94s/it][A
+6it [1:11:17, 833.79s/it][A
+                         [A45it [23:42:44, 4692.55s/it]
+0it [00:00, ?it/s][Aslurmstepd: error: *** JOB 41553 ON nlpgpu06 CANCELLED AT 2023-07-03T05:38:18 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [8036]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230703_065517-lp7vfx2j
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/lp7vfx2j
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:46,  3.56s/it]Loading checkpoint shards:  14%|█▍        | 2/14 [00:06<00:40,  3.36s/it]Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:32,  2.93s/it]Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:30,  3.05s/it]Loading checkpoint shards:  36%|███▌      | 5/14 [00:14<00:25,  2.83s/it]Loading checkpoint shards:  43%|████▎     | 6/14 [00:18<00:23,  2.96s/it]Loading checkpoint shards:  50%|█████     | 7/14 [00:20<00:19,  2.84s/it]Loading checkpoint shards:  57%|█████▋    | 8/14 [00:23<00:17,  2.97s/it]Loading checkpoint shards:  64%|██████▍   | 9/14 [00:26<00:14,  2.80s/it]Loading checkpoint shards:  71%|███████▏  | 10/14 [00:29<00:11,  2.94s/it]Loading checkpoint shards:  79%|███████▊  | 11/14 [00:32<00:09,  3.02s/it]Loading checkpoint shards:  86%|████████▌ | 12/14 [00:35<00:05,  2.85s/it]Loading checkpoint shards:  93%|█████████▎| 13/14 [00:37<00:02,  2.72s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.23s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.77s/it]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AToken indices sequence length is longer than the specified maximum sequence length for this model (2053 > 2048). Running this sequence through the model will result in indexing errors
+
+1it [31:53, 1913.52s/it][A
+2it [33:37, 849.32s/it] [A
+3it [50:31, 924.53s/it][A
+4it [52:15, 600.53s/it][A
+5it [1:06:46, 697.89s/it][A
+6it [1:21:05, 752.64s/it][A
+                         [A46it [1:21:05, 105.77s/it]
+0it [00:00, ?it/s][A
+1it [03:53, 233.69s/it][A
+2it [09:17, 286.42s/it][A
+3it [16:10, 344.25s/it][A
+4it [29:32, 525.20s/it][A
+5it [30:22, 353.64s/it][A
+                       [A47it [1:51:27, 157.46s/it]
+0it [00:00, ?it/s][A
+1it [34:58, 2098.08s/it][A
+2it [36:42, 925.36s/it] [A
+3it [53:30, 963.08s/it][A
+4it [2:10:11, 2399.14s/it][A
+5it [4:17:37, 4291.16s/it][A
+6it [4:33:40, 3159.73s/it][A
+                          [A48it [6:25:07, 828.38s/it]
+0it [00:00, ?it/s][A
+1it [32:34, 1954.96s/it][A
+2it [1:42:28, 3271.91s/it][A
+3it [3:36:13, 4894.23s/it][A
+4it [5:31:58, 5703.76s/it][A
+5it [8:03:50, 6932.91s/it][A
+6it [10:38:37, 7733.36s/it][A
+                           [A49it [17:03:45, 2914.83s/it]
+0it [00:00, ?it/s][A
+1it [31:47, 1907.59s/it][A
+2it [32:12, 800.38s/it] [A
+3it [36:44, 558.90s/it][A
+4it [46:33, 570.62s/it][A
+5it [1:24:09, 1178.45s/it][A
+6it [1:57:35, 1459.78s/it][A
+                          [A50it [19:01:20, 3219.77s/it]
+0it [00:00, ?it/s][A
+1it [47:01, 2821.71s/it][A
+2it [53:43, 1398.28s/it][A
+3it [1:54:10, 2415.98s/it][A
+4it [4:02:30, 4501.85s/it][Aslurmstepd: error: *** JOB 41576 ON nlpgpu06 CANCELLED AT 2023-07-04T06:54:58 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [19204]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230704_204241-ave7e4js
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/ave7e4js
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/14 [00:03<00:46,  3.57s/it]Loading checkpoint shards:  14%|█▍        | 2/14 [00:06<00:40,  3.34s/it]Loading checkpoint shards:  21%|██▏       | 3/14 [00:09<00:32,  2.92s/it]Loading checkpoint shards:  29%|██▊       | 4/14 [00:12<00:30,  3.02s/it]Loading checkpoint shards:  36%|███▌      | 5/14 [00:14<00:25,  2.81s/it]Loading checkpoint shards:  43%|████▎     | 6/14 [00:17<00:23,  2.94s/it]Loading checkpoint shards:  50%|█████     | 7/14 [00:20<00:19,  2.77s/it]Loading checkpoint shards:  57%|█████▋    | 8/14 [00:23<00:17,  2.95s/it]Loading checkpoint shards:  64%|██████▍   | 9/14 [00:26<00:13,  2.79s/it]Loading checkpoint shards:  71%|███████▏  | 10/14 [00:29<00:11,  2.92s/it]Loading checkpoint shards:  79%|███████▊  | 11/14 [00:32<00:09,  3.03s/it]Loading checkpoint shards:  86%|████████▌ | 12/14 [00:35<00:05,  2.85s/it]Loading checkpoint shards:  93%|█████████▎| 13/14 [00:37<00:02,  2.72s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.23s/it]Loading checkpoint shards: 100%|██████████| 14/14 [00:38<00:00,  2.76s/it]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s][AToken indices sequence length is longer than the specified maximum sequence length for this model (2053 > 2048). Running this sequence through the model will result in indexing errors
+
+1it [31:35, 1895.81s/it][A
+2it [46:32, 1308.03s/it][A
+3it [48:00, 750.85s/it] [A
+4it [50:08, 505.26s/it][A
+5it [51:23, 349.90s/it][A
+6it [1:06:10, 532.43s/it][A
+                         [A52it [1:06:10, 76.35s/it]
+0it [00:00, ?it/s][A
+1it [07:22, 442.55s/it][A
+2it [51:32, 1740.81s/it][A
+3it [2:35:57, 3806.74s/it][A
+4it [4:51:02, 5503.54s/it][A
+5it [7:08:27, 6492.38s/it][A
+6it [9:59:38, 7776.86s/it][A
+                          [A53it [11:05:48, 1036.29s/it]
+0it [00:00, ?it/s][A
+1it [05:18, 318.20s/it][A
+2it [08:41, 250.81s/it][A
+3it [14:24, 292.95s/it][A
+4it [35:17, 671.95s/it][A
+5it [36:27, 454.71s/it][A
+6it [47:31, 525.90s/it][A
+                       [A54it [11:53:19, 1103.07s/it]
+0it [00:00, ?it/s][A
+1it [02:43, 163.40s/it][Aslurmstepd: error: *** JOB 41623 ON nlpgpu06 CANCELLED AT 2023-07-05T08:42:44 DUE TO TIME LIMIT ***
+cpu-bind=MASK - nlpgpu06, task  0  0 [11096]: mask 0x100000001 set
+wandb: Currently logged in as: seacow. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.15.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.14.0
+wandb: Run data is saved locally in /mnt/castor/seas_home/s/seacow/github/openpi2.0/source/wandb/run-20230705_115646-nmj6zphg
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run llama-65b-state
+wandb: ⭐️ View project at https://wandb.ai/seacow/llama-state
+wandb: 🚀 View run at https://wandb.ai/seacow/llama-state/runs/nmj6zphg
+Loading checkpoint shards:   0%|          | 0/14 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/14 [01:48<23:36, 108.95s/it]Loading checkpoint shards:  14%|█▍        | 2/14 [03:35<21:30, 107.51s/it]Loading checkpoint shards:  21%|██▏       | 3/14 [05:22<19:39, 107.24s/it]Loading checkpoint shards:  29%|██▊       | 4/14 [07:10<17:55, 107.55s/it]Loading checkpoint shards:  36%|███▌      | 5/14 [08:48<15:38, 104.32s/it]Loading checkpoint shards:  43%|████▎     | 6/14 [10:32<13:51, 103.93s/it]Loading checkpoint shards:  50%|█████     | 7/14 [12:01<11:33, 99.13s/it] Loading checkpoint shards:  57%|█████▋    | 8/14 [13:29<09:34, 95.71s/it]Loading checkpoint shards:  64%|██████▍   | 9/14 [14:57<07:46, 93.23s/it]Loading checkpoint shards:  71%|███████▏  | 10/14 [16:25<06:06, 91.70s/it]Loading checkpoint shards:  79%|███████▊  | 11/14 [17:54<04:32, 90.75s/it]Loading checkpoint shards:  86%|████████▌ | 12/14 [19:21<02:59, 89.75s/it]Loading checkpoint shards:  93%|█████████▎| 13/14 [20:49<01:29, 89.04s/it]Loading checkpoint shards: 100%|██████████| 14/14 [21:26<00:00, 73.43s/it]Loading checkpoint shards: 100%|██████████| 14/14 [21:26<00:00, 91.90s/it]
+0it [00:00, ?it/s]                  wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.008 MB of 0.008 MB uploaded (0.000 MB deduped)wandb: \ 0.008 MB of 0.013 MB uploaded (0.000 MB deduped)wandb: | 0.013 MB of 0.013 MB uploaded (0.000 MB deduped)wandb: 🚀 View run llama-65b-state at: https://wandb.ai/seacow/llama-state/runs/nmj6zphg
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230705_115646-nmj6zphg/logs

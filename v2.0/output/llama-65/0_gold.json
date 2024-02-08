@@ -1,0 +1,126 @@
+{
+    "1": [
+        [
+            [
+                "the blackboard eraser",
+                "possession",
+                "at store",
+                "now owned by you"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in store",
+                "at customer's house"
+            ],
+            [
+                "eraser shelf at the store",
+                "fullness",
+                "more full",
+                "more empty"
+            ],
+            [
+                "bank account",
+                "fullness",
+                "full",
+                "depleted"
+            ],
+            [
+                "money",
+                "location",
+                "in customer's hand",
+                "in cashier's hand"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "placement",
+                "outside of car",
+                "now stored in car"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in house",
+                "in glovebox"
+            ],
+            [
+                "glovebox",
+                "location",
+                "away from car",
+                "inside car"
+            ],
+            [
+                "glove box",
+                "fullness",
+                "less full",
+                "more full"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "condition",
+                "new",
+                "used"
+            ],
+            [
+                "the blackboard eraser",
+                "location",
+                "in glovebox",
+                "on windshield"
+            ],
+            [
+                "the blackboard eraser",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "the blackboard eraser",
+                "movement",
+                "sitting",
+                "rubbing"
+            ],
+            [
+                "windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "inside windshield",
+                "cleanness",
+                "dirty",
+                "cleaned with eraser"
+            ],
+            [
+                "hands",
+                "activity",
+                "relaxed",
+                "active"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser",
+                "location",
+                "on windshield",
+                "in glovebox"
+            ],
+            [
+                "the blackboard eraser",
+                "movement",
+                "rubbing",
+                "resting"
+            ],
+            [
+                "hands",
+                "activity",
+                "working on windshield",
+                "relaxed"
+            ]
+        ]
+    ]
+}

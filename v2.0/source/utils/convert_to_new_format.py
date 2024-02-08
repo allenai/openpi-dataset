@@ -5,7 +5,7 @@ import argparse
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        '--cluster_path', type=str, required=True, help='path to the cluster file'
+        '--cluster_path', type=str, required=False, help='path to the cluster file'
     )
     return parser.parse_args()
 
@@ -37,11 +37,17 @@ def plural_to_singular(word: str) -> str:
 
 def main():
     args = get_args()
-    original_data = json.load(open('../../data/dev-ranked.json', 'r'))
-    entity_cluster = json.load(open(args.cluster_path, 'r'))
+    original_data = json.load(open('../../data/train-ranked.json', 'r'))
+
+    if args.cluster_path:
+        entity_cluster = json.load(open(args.cluster_path, 'r'))
 
     for proc_id, proc_content in original_data.items():
-        cur_entity_cluster = entity_cluster[proc_id]
+
+        if args.cluster_path:
+            cur_entity_cluster = entity_cluster[proc_id]
+        else:
+            cur_entity_cluster = {}
         cur_states = proc_content['states']
 
         # for key, val in cur_entity_cluster.items():
@@ -58,19 +64,23 @@ def main():
                 cur_entity_no_determinant = remove_determinant(cur_entity)
                 cur_entity_singular = plural_to_singular(cur_entity_no_determinant)
 
-                for key, val in cur_entity_cluster.items():
-                    if cur_entity == key or cur_entity_no_determinant == key or cur_entity_singular == key:
-                        original_data[proc_id]['states'][entity_id]['entity'] = key
-                        original_data[proc_id]['states'][entity_id]['entity_annotation'] = [cur_original_entity]
-                        cur_entity_resolved = 1
-                        break
-                    elif cur_entity in val or cur_entity_no_determinant in val or cur_entity_singular in val:
-                        original_data[proc_id]['states'][entity_id]['entity'] = key
-                        original_data[proc_id]['states'][entity_id]['entity_annotation'] = [cur_original_entity]
-                        cur_entity_resolved = 1
-                        break
+                if args.cluster_path:
+                    for key, val in cur_entity_cluster.items():
+                        if cur_entity == key or cur_entity_no_determinant == key or cur_entity_singular == key:
+                            original_data[proc_id]['states'][entity_id]['entity'] = key
+                            original_data[proc_id]['states'][entity_id]['entity_annotation'] = [cur_original_entity]
+                            cur_entity_resolved = 1
+                            break
+                        elif cur_entity in val or cur_entity_no_determinant in val or cur_entity_singular in val:
+                            original_data[proc_id]['states'][entity_id]['entity'] = key
+                            original_data[proc_id]['states'][entity_id]['entity_annotation'] = [cur_original_entity]
+                            cur_entity_resolved = 1
+                            break
                 
-                assert cur_entity_resolved == 1, f'entity {cur_entity} not resolved'
+                    assert cur_entity_resolved == 1, f'entity {cur_entity} not resolved'
+
+                else:
+                    original_data[proc_id]['states'][entity_id]['entity_annotation'] = [cur_original_entity]
         
     # for states in a procedure, combine annotations with the same cannonical entity
     for proc_id, proc_content in original_data.items():
@@ -129,20 +139,20 @@ def main():
                         original_data[proc_id]['entity_clusters'][entity_key].append(entity)
         
         # sanity check
-        cur_cluster_dict = proc_content['entity_clusters']
-        cur_model_entity_lst = list(cur_cluster_dict.keys())
-        for val in cur_cluster_dict.values():
-            cur_model_entity_lst.extend(val)
+        if args.cluster_path:
+            cur_cluster_dict = proc_content['entity_clusters']
+            cur_model_entity_lst = list(cur_cluster_dict.keys())
+            for val in cur_cluster_dict.values():
+                cur_model_entity_lst.extend(val)
 
-        for entity in cur_entity_lst:
-            if entity not in cur_model_entity_lst:
-                raise Exception(f'entity {entity} not in cluster')
+            for entity in cur_entity_lst:
+                if entity not in cur_model_entity_lst:
+                    raise Exception(f'entity {entity} not in cluster')
 
 
-    with open('../../data/data_in_new_format/dev-data-reformatted-v3.json', 'w') as f:
+    with open('../../data/data_in_new_format/train-data-reformatted-v4.json', 'w') as f:
         json.dump(original_data, f, indent=4)
     f.close()
-
 
 
 if __name__ == '__main__':

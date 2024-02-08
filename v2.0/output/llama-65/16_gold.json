@@ -1,0 +1,499 @@
+{
+    "15": [
+        [
+            [
+                "vulpix",
+                "step",
+                "unhad",
+                "had"
+            ],
+            [
+                "vulpix",
+                "availability",
+                "in wild",
+                "caught"
+            ],
+            [
+                "vulpix",
+                "ownership",
+                "owned",
+                "traded"
+            ]
+        ],
+        [
+            [
+                "fire or ice stone",
+                "step",
+                "unfound",
+                "found"
+            ],
+            [
+                "fire stone",
+                "availability",
+                "on ground",
+                "in inventory"
+            ]
+        ],
+        [
+            [
+                "stone",
+                "choice",
+                "unchosen",
+                "selected"
+            ],
+            [
+                "the stone",
+                "knowledge",
+                "unselected",
+                "selected"
+            ],
+            [
+                "bag",
+                "step",
+                "unselected",
+                "selected"
+            ]
+        ],
+        []
+    ],
+    "16": [
+        [
+            [
+                "lemon",
+                "size",
+                "whole",
+                "cut"
+            ],
+            [
+                "lemon",
+                "moisture",
+                "dry",
+                "juicy"
+            ],
+            [
+                "juice",
+                "location",
+                "in lemon",
+                "in bowl"
+            ],
+            [
+                "cutting board",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "cutting board",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "knife",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "knife",
+                "moisture",
+                "dry",
+                "wet"
+            ]
+        ],
+        [
+            [
+                "lemon",
+                "moisture",
+                "plain smelling",
+                "strong smelling"
+            ],
+            [
+                "lemon",
+                "size",
+                "whole",
+                "halved"
+            ],
+            [
+                "lemon",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "juice",
+                "location",
+                "inside lemon",
+                "in bowl"
+            ]
+        ],
+        [
+            [
+                "faucets",
+                "dryness",
+                "dry",
+                "wet"
+            ],
+            [
+                "faucets",
+                "odor",
+                "normal smelling",
+                "lemony fresh"
+            ],
+            [
+                "faucets",
+                "wetness",
+                "dry",
+                "wet with juice"
+            ],
+            [
+                "lemon",
+                "size",
+                "whole",
+                "halved"
+            ],
+            [
+                "juice",
+                "location",
+                "in lemon",
+                "on faucet"
+            ]
+        ],
+        [
+            [
+                "faucets",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "faucets",
+                "appearance",
+                "stained",
+                "sparkling"
+            ],
+            [
+                "lemon juice",
+                "location",
+                "on faucet",
+                "in sink"
+            ],
+            [
+                "water",
+                "location",
+                "in faucet",
+                "in sink"
+            ]
+        ]
+    ],
+    "17": [
+        [
+            [
+                "onion",
+                "form",
+                "whole",
+                "chopped"
+            ],
+            [
+                "onion",
+                "temperature",
+                "raw",
+                "cooked"
+            ],
+            [
+                "meat",
+                "location",
+                "in fridge",
+                "in pan"
+            ],
+            [
+                "meat",
+                "volume",
+                "empty",
+                "more full"
+            ],
+            [
+                "meat",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "meat",
+                "cooked or not",
+                "raw",
+                "cooked"
+            ],
+            [
+                "meat",
+                "color",
+                "pink",
+                "brown"
+            ],
+            [
+                "ingredients",
+                "cooked or not",
+                "uncooked",
+                "cooked"
+            ],
+            [
+                "spatula",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "skillet",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "frying pan",
+                "temperature",
+                "room temperature",
+                "hot"
+            ],
+            [
+                "stove",
+                "power",
+                "off",
+                "on"
+            ]
+        ],
+        [
+            [
+                "meat",
+                "location",
+                "in pan",
+                "in disposal container"
+            ],
+            [
+                "meat",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "meat",
+                "cooked or not",
+                "wet",
+                "drier"
+            ],
+            [
+                "meat",
+                "fullness",
+                "more full",
+                "less full"
+            ],
+            [
+                "meat",
+                "composition",
+                "more greasy",
+                "less greasy"
+            ],
+            [
+                "grease c ontainer",
+                "fullness",
+                "less full",
+                "more full"
+            ],
+            [
+                "grease container",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "grease",
+                "location",
+                "in pan",
+                "in trash"
+            ],
+            [
+                "grease",
+                "temperature",
+                "hotter",
+                "cooler"
+            ],
+            [
+                "beef",
+                "moisture",
+                "more wet",
+                "less wet"
+            ],
+            [
+                "sink",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "sink",
+                "temperature",
+                "cold",
+                "warmer"
+            ]
+        ],
+        [
+            [
+                "meat",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "meat",
+                "volume",
+                "less full",
+                "more full"
+            ],
+            [
+                "meat",
+                "how cooked",
+                "less cooked",
+                "more cooked"
+            ],
+            [
+                "tomato",
+                "form",
+                "whole",
+                "diced"
+            ],
+            [
+                "tomato",
+                "location",
+                "in fridge",
+                "in pan"
+            ],
+            [
+                "tomato",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "ingredients",
+                "cooked or not",
+                "raw",
+                "cooked"
+            ],
+            [
+                "ingredients",
+                "location",
+                "outside of frying pan",
+                "added to trying pan"
+            ],
+            [
+                "ingredients",
+                "temperature",
+                "room temperature",
+                "hot"
+            ],
+            [
+                "skillet",
+                "fullness",
+                "less full",
+                "more full"
+            ],
+            [
+                "skillet",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "skillet",
+                "sound",
+                "quiet",
+                "sizzling"
+            ],
+            [
+                "liquids",
+                "movement",
+                "still",
+                "simmering"
+            ],
+            [
+                "knife",
+                "cleanness",
+                "clean",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "meat",
+                "location",
+                "on stove",
+                "on counter/table"
+            ],
+            [
+                "serving bowl",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "serving bowl",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "serving bowl",
+                "fullness",
+                "empty",
+                "full"
+            ],
+            [
+                "hot sauce",
+                "location",
+                "in fridge",
+                "in bowl"
+            ],
+            [
+                "cheese",
+                "location",
+                "in fridge",
+                "in bowl"
+            ],
+            [
+                "cheese",
+                "form",
+                "whole",
+                "shredded"
+            ],
+            [
+                "flavor",
+                "taste",
+                "mild",
+                "spicy"
+            ],
+            [
+                "recipe",
+                "knowledge",
+                "unknown",
+                "learned"
+            ],
+            [
+                "food",
+                "location",
+                "in skillet",
+                "in bowl"
+            ],
+            [
+                "bowl",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove",
+                "power",
+                "on",
+                "off"
+            ]
+        ]
+    ]
+}

@@ -1,19 +1,30 @@
-import argparse
-import openai
 import json
 import random
-random.seed(299)
+import argparse
+
+from tqdm import tqdm
+from glob import glob
 from sklearn.metrics import accuracy_score
+
+import torch
+import wandb
+import openai
 import backoff
+
+from llama_model import LLaMA
+
+random.seed(299)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', required=True, type=str, help='Either davinci or chatgpt.')
 parser.add_argument('--key', default='harry_ccbft', type=str, help='The name of the OpenAI API key file.')
 parser.add_argument('--seed', default='', type=str, help='Random seed.')
 parser.add_argument('--split', default='dev', type=str, help='The split to evaluate on.')
+parser.add_argument('--device_map', default=None, type=str, help='path to custom device map for huggingface models')
 
 args = parser.parse_args()
-openai.api_key = open(f'../../_private/{args.key}.key').read()
+# TODO: uncommont after llama
+# openai.api_key = open(f'../../_private/{args.key}.key').read()
 if args.seed:
     random.seed(int(args.seed[1:]))
 
@@ -87,6 +98,9 @@ def build_fewshot(model):
         #selected_examples = random.sample(train_examples, NUM_SHOTS)
         selected_examples = [train_examples[192]]
         fewshot = apply_fewshot_template_chatgpt_2(selected_examples)
+    elif 'llama' in model:
+        selected_examples = [train_examples[192]]
+        fewshot = apply_fewshot_template_2(selected_examples)
     #print(fewshot)
     return fewshot
 
@@ -203,12 +217,82 @@ def predict_chatgpt():
 
     return pred_dict, gold_dict
 
+def predict_llama():
+    DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
+
+    wandb.init(
+        project = 'llama-state',
+        name = args.model + '-state',
+    )
+
+    examples = parse_data(args.split)
+    prompt_fewshot = build_fewshot(args.model)
+    llama_model = LLaMA(args.model, args.device_map)
+
+    # check if there are cached files
+    cached_files = glob('../llama-65/*.json')
+    cached_idx = [int(f.split('/')[-1].split('_')[0].strip()) for f in cached_files]
+    cached_idx = list(set(cached_idx))
+
+    pred_dict = {}
+    gold_dict = {}
+
+    for idx, example in tqdm(enumerate(examples), position=0, leave=False):
+
+        # check if idx is cached
+        if idx in cached_idx:
+            continue
+
+        pred_dict[example["id"]] = []
+        gold_dict[example["id"]] = []
+        prompt = prompt_fewshot + f"""A person's goal is to {example["goal"].lower()}.
+For each of the steps, list all the state changes of involved entities and attributes."""
+        for i, step_block in tqdm(enumerate(example["gold_step_entities_attributes"].values()), position=1, leave=False):
+            prompt += f"\nStep: {example['steps'][i]}"
+            step_gold = []
+            step_pred = []
+            for entity, attributes_blocks in step_block.items():
+                for attribute, pre, post in attributes_blocks:
+                    prompt += f"\n  - {attribute.split(' | ')[0]} of {entity.split(' | ')[0]} was"
+                    step_gold.append((entity.split(' | ')[0], attribute.split(' | ')[0], pre.split(' | ')[0], post.split(' | ')[0]))
+
+                    output = llama_model.inference(prompt, stop=['\n'], device=DEVICE)
+                    prompt += ' ' + output['content']
+
+                    # parse output
+                    output_str = output['content']
+                    #print(output_str)
+
+                    try:
+                        pred_pre = output_str.strip().split(' before and ')[0]
+                    except:
+                        pred_pre = 'None'
+
+                    try:
+                        pred_post = output_str.strip().split(' before and ')[1].split(' after')[0]
+                    except:
+                        pred_post = 'None'
+                        
+                    step_pred.append((entity, attribute, pred_pre, pred_post))
+            
+            pred_dict[example["id"]].append(step_pred)
+            gold_dict[example["id"]].append(step_gold)
+
+            with open(f"../llama-65/{idx}_pred.json", "w") as f:
+                json.dump(pred_dict, f, indent=4)
+            with open(f"../llama-65/{idx}_gold.json", "w") as f:
+                json.dump(gold_dict, f, indent=4)
+
+    return pred_dict, gold_dict
+
 if args.model == "davinci":
     pred_dict, gold_dict = predict_davinci()
 elif args.model == "chatgpt":
     pred_dict, gold_dict = predict_chatgpt()
+elif 'llama' in args.model:
+    pred_dict, gold_dict = predict_llama()
+
 with open(f"../data/{args.split}_states_{args.model}.json", "w") as f:
     json.dump(pred_dict, f, indent=4)
-
 with open(f"../data/{args.split}_states_gold.json", "w") as f:
     json.dump(gold_dict, f, indent=4)

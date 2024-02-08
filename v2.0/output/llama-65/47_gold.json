@@ -1,0 +1,409 @@
+{
+    "46": [
+        [
+            [
+                "waste basket",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "rooms",
+                "messiness",
+                "messy",
+                "clean"
+            ],
+            [
+                "trash",
+                "location",
+                "on floor",
+                "in waste baskets"
+            ],
+            [
+                "straw items",
+                "location",
+                "around house",
+                "in waste basket"
+            ],
+            [
+                "items",
+                "location",
+                "on ground",
+                "in place"
+            ],
+            [
+                "items",
+                "messiness",
+                "disorganized",
+                "organized"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "messiness",
+                "dusty",
+                "clean"
+            ],
+            [
+                "house",
+                "cleanness",
+                "dusty",
+                "dusted"
+            ],
+            [
+                "surfaces",
+                "cleanness",
+                "dusty",
+                "cleaner"
+            ],
+            [
+                "dust",
+                "location",
+                "on furniture",
+                "cleaned up"
+            ]
+        ],
+        [
+            [
+                "waste basket",
+                "container",
+                "full",
+                "empty"
+            ],
+            [
+                "trash cans",
+                "container",
+                "full",
+                "empty"
+            ],
+            [
+                "trash",
+                "location",
+                "in waste baskets",
+                "in trash bag"
+            ],
+            [
+                "trash bag",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "trash bag",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "trash bag",
+                "shape",
+                "flat",
+                "rounder"
+            ]
+        ],
+        [
+            [
+                "surfaces",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "surfaces",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "spray cleaner",
+                "location",
+                "inside bottle",
+                "on windows"
+            ]
+        ],
+        [
+            [
+                "throw rugs and inside door mats",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "throw rugs",
+                "cleanness",
+                "dirty",
+                "shaken and cleaned"
+            ],
+            [
+                "mats",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "dust",
+                "location",
+                "on mats",
+                "outside"
+            ]
+        ],
+        [
+            [
+                "house",
+                "cleanness",
+                "dirty",
+                "clean"
+            ]
+        ]
+    ],
+    "47": [
+        [
+            [
+                "gems",
+                "availability",
+                "unacquired",
+                "acquired"
+            ]
+        ],
+        [
+            [
+                "stuff",
+                "location",
+                "in store",
+                "in home"
+            ]
+        ],
+        [
+            [
+                "screens",
+                "location",
+                "in store",
+                "in home"
+            ]
+        ],
+        [
+            [
+                "master bedroom",
+                "availability",
+                "unmade",
+                "created"
+            ],
+            [
+                "kids room",
+                "availability",
+                "unmade",
+                "created"
+            ]
+        ],
+        [
+            [
+                "outside area",
+                "availability",
+                "unmade",
+                "created"
+            ]
+        ],
+        []
+    ],
+    "48": [
+        [
+            [
+                "pitcher",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "pitcher",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "pitcher",
+                "cleanness",
+                "clean",
+                "juicy"
+            ],
+            [
+                "pitcher",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "ingredients",
+                "location",
+                "in container",
+                "in pitcher"
+            ],
+            [
+                "rum",
+                "locaion",
+                "in botle",
+                "in pitcher"
+            ]
+        ],
+        [
+            [
+                "ingredients",
+                "composition",
+                "just put in pitcher",
+                "mixed"
+            ],
+            [
+                "mixing spoon",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "spoon",
+                "location",
+                "outside of pitcher",
+                "inside pitcher"
+            ],
+            [
+                "spoon",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "rum and coconut",
+                "composition",
+                "separated",
+                "mixed together"
+            ]
+        ],
+        [
+            [
+                "refrigerator",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "refrigerator",
+                "fullness",
+                "emptier",
+                "fuller"
+            ],
+            [
+                "mixture",
+                "location",
+                "outside of refrigerator",
+                "inside refrigerator"
+            ],
+            [
+                "mixture",
+                "temperature",
+                "warm",
+                "chilled"
+            ]
+        ],
+        [
+            [
+                "pitcher",
+                "container",
+                "full",
+                "empty"
+            ],
+            [
+                "pitcher",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "pitcher",
+                "cleanness",
+                "clean",
+                "dirtier"
+            ],
+            [
+                "glass",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "glass",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "glass",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "mixture",
+                "location",
+                "in pitcher",
+                "in glass"
+            ]
+        ],
+        [
+            [
+                "side of each glass",
+                "cleanness",
+                "cleaner",
+                "dirtier"
+            ],
+            [
+                "glass",
+                "taste",
+                "ungarnished",
+                "garnished"
+            ],
+            [
+                "glass",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "honeydew",
+                "shape",
+                "solid",
+                "cut"
+            ],
+            [
+                "honeydew",
+                "size",
+                "whole",
+                "in chunks"
+            ],
+            [
+                "honeydew",
+                "location",
+                "on counter",
+                "on glass"
+            ],
+            [
+                "honeydew melon",
+                "location",
+                "in it's place",
+                "on side of each glass"
+            ],
+            [
+                "glasses",
+                "decoration",
+                "undecorated",
+                "decorated"
+            ]
+        ],
+        [
+            [
+                "task",
+                "completion",
+                "incomplete",
+                "finished"
+            ]
+        ]
+    ]
+}

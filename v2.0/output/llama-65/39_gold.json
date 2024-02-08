@@ -1,0 +1,591 @@
+{
+    "37": [
+        [
+            [
+                "weapon",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "equipment",
+                "organization",
+                "scattered",
+                "organized"
+            ],
+            [
+                "equipment",
+                "equipment",
+                "unorganized",
+                "laid in pattern"
+            ],
+            [
+                "rucksack",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "vehicle",
+                "location",
+                "in garage",
+                "in forest"
+            ],
+            [
+                "webbing",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "surface",
+                "fullness",
+                "empty of equipment",
+                "full of equipment"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on rucksaks"
+            ],
+            [
+                "rucksack",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "rucksack",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on rucksack"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on helmet"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on helmet"
+            ],
+            [
+                "helmet",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "helmet",
+                "visibility",
+                "visible",
+                "invisible"
+            ]
+        ],
+        [
+            [
+                "webbing",
+                "attention",
+                "carelessly placed",
+                "carefully placed"
+            ],
+            [
+                "webbing",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on webbing"
+            ]
+        ],
+        [
+            [
+                "weapon",
+                "attention",
+                "carelessly disguised",
+                "carefully disguised"
+            ],
+            [
+                "weapon",
+                "location",
+                "absent",
+                "on weapon"
+            ],
+            [
+                "weapon",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ]
+        ],
+        [
+            [
+                "camouflage net",
+                "coverage",
+                "off vehicle",
+                "over vehicle"
+            ],
+            [
+                "vehicle camouflage net",
+                "location",
+                "in box",
+                "on vehicle"
+            ],
+            [
+                "vehicle",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "vehicle",
+                "vehicle",
+                "uncovered",
+                "netted with camouflage"
+            ]
+        ]
+    ],
+    "38": [
+        [
+            [
+                "oil",
+                "location",
+                "in bike",
+                "in can"
+            ],
+            [
+                "bung",
+                "location",
+                "on bike",
+                "removed from bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "attached",
+                "disattached"
+            ],
+            [
+                "bung",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "closed",
+                "open"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "fuller",
+                "emptier"
+            ],
+            [
+                "oil",
+                "location",
+                "in oil tank",
+                "in can"
+            ],
+            [
+                "oil cap",
+                "location",
+                "on oil tank",
+                "removed from tank"
+            ]
+        ],
+        [
+            [
+                "oil filter",
+                "location",
+                "inside oil tank",
+                "outside oil tank"
+            ]
+        ],
+        [
+            [
+                "bung",
+                "location",
+                "away from bike",
+                "on bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "loose",
+                "attached"
+            ],
+            [
+                "bung",
+                "position",
+                "removed",
+                "back on"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "fuller"
+            ],
+            [
+                "oil",
+                "location",
+                "in bottle",
+                "in tank"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "oil",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "old oil",
+                "location",
+                "in can",
+                "in jug"
+            ],
+            [
+                "funnel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "jug",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ]
+    ],
+    "39": [
+        [
+            [
+                "tape",
+                "length",
+                "rolled",
+                "unrolled"
+            ],
+            [
+                "tape",
+                "length",
+                "whole",
+                "cut"
+            ],
+            [
+                "duct tape",
+                "location",
+                "on roll",
+                "in pieces"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "longer",
+                "shorter"
+            ],
+            [
+                "tape",
+                "size",
+                "on roll",
+                "cut off"
+            ],
+            [
+                "duct table",
+                "knowledge",
+                "unmeasured",
+                "measured"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "shape",
+                "elongated",
+                "folded"
+            ],
+            [
+                "tape",
+                "shape",
+                "long",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "larger",
+                "smalle"
+            ],
+            [
+                "tape",
+                "shape",
+                "elongated",
+                "folded"
+            ],
+            [
+                "tape",
+                "texture",
+                "sticky",
+                "smooth"
+            ],
+            [
+                "tape",
+                "shape",
+                "straight",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "shorter",
+                "longer"
+            ],
+            [
+                "tape",
+                "composition",
+                "separate pieces",
+                "one piece"
+            ],
+            [
+                "ends",
+                "organization",
+                "seperate",
+                "touching"
+            ],
+            [
+                "tape ends",
+                "form",
+                "bare",
+                "joined together"
+            ]
+        ],
+        []
+    ],
+    "40": [
+        [
+            [
+                "plant",
+                "location",
+                "in garden",
+                "in hand"
+            ],
+            [
+                "plant",
+                "cost",
+                "owned by garden center",
+                "purchased from garden center"
+            ],
+            [
+                "money",
+                "location",
+                "in purse",
+                "in cash register"
+            ],
+            [
+                "money",
+                "value",
+                "more",
+                "less"
+            ],
+            [
+                "hands",
+                "weight",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "location",
+                "at nursery",
+                "in possession"
+            ],
+            [
+                "money",
+                "location",
+                "in possession",
+                "in center's possesion"
+            ],
+            [
+                "money",
+                "amount",
+                "greater",
+                "less"
+            ],
+            [
+                "hands",
+                "location",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "plant",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "soil",
+                "location",
+                "in bag",
+                "in container"
+            ],
+            [
+                "money",
+                "location",
+                "in purse",
+                "in cash register"
+            ],
+            [
+                "money",
+                "amount",
+                "more",
+                "less"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "plant",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "plant",
+                "location",
+                "in hand",
+                "in container"
+            ],
+            [
+                "shovel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "shovel",
+                "location",
+                "on ground",
+                "in hand"
+            ],
+            [
+                "fir",
+                "location",
+                "outside planter",
+                "inside planter"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "watered",
+                "dry",
+                "wet"
+            ],
+            [
+                "plant",
+                "contentment",
+                "thirsty",
+                "fed"
+            ],
+            [
+                "water",
+                "location",
+                "in hose",
+                "on plant"
+            ],
+            [
+                "water",
+                "knob",
+                "off",
+                "on"
+            ],
+            [
+                "fir",
+                "wetness",
+                "dry",
+                "watered"
+            ]
+        ],
+        [
+            [
+                "containers",
+                "contents",
+                "with dirt",
+                "with dirt and plant"
+            ],
+            [
+                "plant",
+                "volume",
+                "fuller",
+                "emptier"
+            ],
+            [
+                "buds",
+                "location",
+                "on plant",
+                "in new containers"
+            ]
+        ]
+    ]
+}

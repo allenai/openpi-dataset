@@ -1,0 +1,1063 @@
+{
+    "30": [
+        [
+            [
+                "vinegar",
+                "location",
+                "in bottle",
+                "cup"
+            ],
+            [
+                "container",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "container",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "container",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "bottle",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "pot",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "wicks",
+                "cost",
+                "on sale at store",
+                "purchased from store"
+            ],
+            [
+                "wick",
+                "orientation",
+                "on lamp",
+                "removed"
+            ],
+            [
+                "lamp",
+                "composition",
+                "wicked",
+                "wickless"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "dry",
+                "wet"
+            ],
+            [
+                "vinegar",
+                "location",
+                "in container",
+                "in wick"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "wet",
+                "dry"
+            ],
+            [
+                "wick",
+                "dryness",
+                "wet",
+                "dry"
+            ]
+        ],
+        [
+            [
+                "wick",
+                "composition",
+                "whole",
+                "burned"
+            ],
+            [
+                "wick",
+                "location",
+                "on counter",
+                "in lamp"
+            ],
+            [
+                "wick",
+                "temperature",
+                "cool",
+                "heated"
+            ]
+        ]
+    ],
+    "31": [
+        [
+            [
+                "studio",
+                "availability",
+                "absent",
+                "set up"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "light",
+                "amount",
+                "bright",
+                "diffused"
+            ]
+        ],
+        []
+    ],
+    "32": [
+        [
+            [
+                "velveeta",
+                "granularity",
+                "whole",
+                "cubed"
+            ],
+            [
+                "velveeta",
+                "location",
+                "in the fridge",
+                "on the counter"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cold",
+                "room temperature"
+            ],
+            [
+                "velveeta",
+                "size",
+                "large",
+                "small"
+            ],
+            [
+                "knife",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "knife",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "knife",
+                "location",
+                "in the knife block",
+                "on the cutting board"
+            ],
+            [
+                "package",
+                "openness",
+                "closed",
+                "open"
+            ]
+        ],
+        [
+            [
+                "velveeta",
+                "granularity",
+                "solid",
+                "liquid"
+            ],
+            [
+                "velveeta",
+                "location",
+                "on the cutting board",
+                "in the sauce pan"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove burner",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove burner",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "stove burner",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "cheese",
+                "location",
+                "to the side",
+                "in the pot"
+            ],
+            [
+                "stove knob",
+                "orientation",
+                "in the off position",
+                "in the on position"
+            ],
+            [
+                "sauce pan",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "sauce pan",
+                "location",
+                "in the cupboard",
+                "on the stovetop"
+            ],
+            [
+                "sauce pan",
+                "temperature",
+                "cool",
+                "hot"
+            ]
+        ],
+        [
+            [
+                "velveeta",
+                "granularity",
+                "solid",
+                "liquid"
+            ],
+            [
+                "velveeta",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "velveeta",
+                "texture",
+                "thick",
+                "runny"
+            ],
+            [
+                "stove burner",
+                "temperature",
+                "medium-low",
+                "low"
+            ],
+            [
+                "tomatoes",
+                "location",
+                "whole",
+                "chopped"
+            ],
+            [
+                "tomatoes",
+                "temperature",
+                "cool",
+                "hot"
+            ],
+            [
+                "stove top burner",
+                "temperature",
+                "set to medium",
+                "set to low"
+            ],
+            [
+                "rotel can",
+                "openness",
+                "closed",
+                "open"
+            ],
+            [
+                "rotel",
+                "temperature",
+                "room temperature",
+                "hot"
+            ],
+            [
+                "rotel",
+                "location",
+                "to the side",
+                "in the pot"
+            ]
+        ],
+        [
+            [
+                "olives",
+                "location",
+                "in can",
+                "in pan"
+            ],
+            [
+                "olives",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "peppers",
+                "location",
+                "whole",
+                "chopped"
+            ],
+            [
+                "peppers",
+                "temperature",
+                "cold",
+                "hot"
+            ],
+            [
+                "black olives",
+                "size",
+                "whole",
+                "chopped"
+            ],
+            [
+                "black olives",
+                "location",
+                "on the cutting board",
+                "in the sauce pan"
+            ],
+            [
+                "cheese dip",
+                "taste",
+                "mild",
+                "spicy"
+            ],
+            [
+                "can",
+                "openness",
+                "closed",
+                "open"
+            ]
+        ],
+        [
+            [
+                "cheese sauce",
+                "location",
+                "in the pot",
+                "in a bowl"
+            ]
+        ]
+    ],
+    "33": [
+        [
+            [
+                "ball",
+                "action",
+                "unused",
+                "used"
+            ]
+        ],
+        [
+            [
+                "wailmer",
+                "knowledge",
+                "untrained",
+                "trained"
+            ],
+            [
+                "wailmer",
+                "going",
+                "still",
+                "going"
+            ]
+        ],
+        [
+            [
+                "wailmer",
+                "knowledge",
+                "untrained",
+                "trained"
+            ],
+            [
+                "wailmer",
+                "change",
+                "unevolved",
+                "evolved"
+            ],
+            [
+                "wailmer",
+                "evolution",
+                "wailmer",
+                "wailord"
+            ]
+        ],
+        [
+            [
+                "battle frontier location",
+                "location",
+                "unattained",
+                "now attained"
+            ],
+            [
+                "candy",
+                "items",
+                "uncopied",
+                "copied"
+            ]
+        ],
+        [
+            [
+                "wailmer",
+                "full",
+                "hungry",
+                "full"
+            ],
+            [
+                "wailmer",
+                "change",
+                "unevolved",
+                "evolved"
+            ],
+            [
+                "wailmer",
+                "evolution",
+                "wailmer",
+                "wailord"
+            ],
+            [
+                "wailmer",
+                "action",
+                "without rare candies",
+                "now holder of rare candy"
+            ]
+        ]
+    ],
+    "34": [
+        [
+            [
+                "the route",
+                "coverage",
+                "uncovered",
+                "covered"
+            ],
+            [
+                "route",
+                "appearance",
+                "uncovered",
+                "covered"
+            ],
+            [
+                "route",
+                "coverage",
+                "uncovered",
+                "covered"
+            ],
+            [
+                "you",
+                "location",
+                "further out",
+                "in"
+            ]
+        ],
+        [
+            [
+                "game character",
+                "location",
+                "out",
+                "hidden"
+            ],
+            [
+                "pistol",
+                "location",
+                "hidden",
+                "out"
+            ],
+            [
+                "pistol",
+                "availability",
+                "in inventory",
+                "equipped"
+            ],
+            [
+                "you",
+                "location",
+                "in open",
+                "in hiding spot"
+            ]
+        ],
+        [
+            [
+                "you",
+                "focus",
+                "pulling out pistol",
+                "investigating"
+            ],
+            [
+                "routes",
+                "knowledge",
+                "uninvestigated",
+                "investigated"
+            ]
+        ],
+        [
+            [
+                "bomb",
+                "skill",
+                "absent",
+                "planted"
+            ],
+            [
+                "you",
+                "focus",
+                "investigating routes",
+                "waiting"
+            ]
+        ],
+        [
+            [
+                "bomb",
+                "skill",
+                "active",
+                "deactivated"
+            ],
+            [
+                "you",
+                "location",
+                "in hiding spot",
+                "now at bomb"
+            ],
+            [
+                "you",
+                "focus",
+                "hiding",
+                "defusing"
+            ]
+        ]
+    ],
+    "35": [
+        [
+            [
+                "paintbrush",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "wood",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "wood",
+                "texture",
+                "smooth",
+                "tacky"
+            ],
+            [
+                "paint",
+                "moisture",
+                "wet",
+                "dry"
+            ],
+            [
+                "paint",
+                "location",
+                "in can",
+                "on wood"
+            ],
+            [
+                "oil based paint",
+                "ownership",
+                "owned by art store",
+                "bought by you"
+            ],
+            [
+                "paint brush",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "drop clothq",
+                "availability",
+                "absent",
+                "present"
+            ],
+            [
+                "paint base",
+                "knowledge",
+                "unknown",
+                "confirmed to be oil"
+            ],
+            [
+                "bare wood",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "floor",
+                "coverage",
+                "uncovered",
+                "covered"
+            ]
+        ],
+        [
+            [
+                "paintbrush",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "paintbrush",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "paintbrush",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "wood",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "wood",
+                "color",
+                "brown",
+                "white"
+            ],
+            [
+                "wood",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "paint",
+                "size",
+                "clumped",
+                "spread evenly"
+            ],
+            [
+                "coat",
+                "location",
+                "in tin",
+                "on wood"
+            ],
+            [
+                "caulking compound",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "paint direction",
+                "direction",
+                "unknown",
+                "downward"
+            ],
+            [
+                "paint thickness",
+                "thickness",
+                "uneven",
+                "thin and even"
+            ],
+            [
+                "caulking gun",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "brush",
+                "color",
+                "black",
+                "colored"
+            ],
+            [
+                "brush",
+                "orientation",
+                "horizontal",
+                "moving vertically"
+            ],
+            [
+                "tin",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "the coating of paint",
+                "thickness",
+                "thinner",
+                "thicker"
+            ],
+            [
+                "wood",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "wood",
+                "texture",
+                "smooth",
+                "sticky"
+            ],
+            [
+                "paint",
+                "texture",
+                "bubbly",
+                "smooth"
+            ],
+            [
+                "bubbles",
+                "location",
+                "present",
+                "absent"
+            ],
+            [
+                "coat",
+                "location",
+                "in tin",
+                "on wood"
+            ],
+            [
+                "degree of care",
+                "magnitude",
+                "medium",
+                "high"
+            ],
+            [
+                "paint bubbles",
+                "location",
+                "present",
+                "removed"
+            ],
+            [
+                "drips",
+                "coverage",
+                "on wood",
+                "rubbed even"
+            ],
+            [
+                "drips",
+                "location",
+                "present",
+                "removed"
+            ],
+            [
+                "pools",
+                "location",
+                "present",
+                "removed"
+            ],
+            [
+                "tin",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "paintbrush",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "paintbrush",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "paintbrush",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "wood",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "paint",
+                "awareness",
+                "sloppy",
+                "precise, careful"
+            ],
+            [
+                "precision",
+                "skill",
+                "absent",
+                "present"
+            ]
+        ],
+        [
+            [
+                "paint",
+                "moisture",
+                "wet",
+                "dry"
+            ],
+            [
+                "linseed oil",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "drop cloth",
+                "location",
+                "present",
+                "removed"
+            ]
+        ]
+    ],
+    "36": [
+        [
+            [
+                "ingredients",
+                "composition",
+                "stratified",
+                "thoroughly mixed"
+            ],
+            [
+                "ingredients",
+                "organization",
+                "separate",
+                "mixed together"
+            ],
+            [
+                "ingredients",
+                "location",
+                "in containers",
+                "in bowl"
+            ],
+            [
+                "salt",
+                "complexity",
+                "plain",
+                "mixed with spice"
+            ],
+            [
+                "salt",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "black pepper",
+                "location",
+                "missing",
+                "present"
+            ],
+            [
+                "measuring cup",
+                "location",
+                "missing",
+                "present"
+            ],
+            [
+                "dry mustard",
+                "location",
+                "missing",
+                "present"
+            ],
+            [
+                "spoon",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "bowl",
+                "fullness",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "ingredients",
+                "location",
+                "in bowl",
+                "in container"
+            ],
+            [
+                "ingredients",
+                "composition",
+                "unmixed",
+                "mixed"
+            ],
+            [
+                "air-tight container",
+                "fullness",
+                "empty",
+                "full"
+            ],
+            [
+                "air-tight container",
+                "location",
+                "in cupboard",
+                "on counter"
+            ],
+            [
+                "air-tight container",
+                "location",
+                "missing",
+                "present"
+            ],
+            [
+                "ingredient mixture",
+                "location",
+                "in bowl",
+                "in container"
+            ],
+            [
+                "mixture",
+                "location",
+                "in bowl",
+                "in air tight container"
+            ],
+            [
+                "container cover",
+                "strength",
+                "loose",
+                "tight"
+            ],
+            [
+                "spoon",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "bowl",
+                "fullness",
+                "full",
+                "empty"
+            ],
+            [
+                "cover",
+                "location",
+                "on table",
+                "on container"
+            ],
+            [
+                "lid",
+                "accessibility",
+                "off container",
+                "on container"
+            ]
+        ],
+        [
+            [
+                "ingredients",
+                "taste",
+                "untasted",
+                "tasted"
+            ],
+            [
+                "ingredients",
+                "location",
+                "in container",
+                "on food"
+            ],
+            [
+                "sandwiches",
+                "flavor",
+                "plain",
+                "flavorful"
+            ],
+            [
+                "sandwiches",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "salads",
+                "flavor",
+                "bland",
+                "seasoned"
+            ],
+            [
+                "soups",
+                "flavor",
+                "standard",
+                "seasoned"
+            ],
+            [
+                "dips",
+                "flavor",
+                "basic",
+                "tasty"
+            ],
+            [
+                "dips",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "mixture",
+                "location",
+                "in container",
+                "on food"
+            ],
+            [
+                "salad dressings",
+                "location",
+                "absent",
+                "present"
+            ],
+            [
+                "food",
+                "seasoning",
+                "bland",
+                "tasty"
+            ]
+        ]
+    ]
+}

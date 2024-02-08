@@ -1,0 +1,1115 @@
+{
+    "37": [
+        [
+            [
+                "weapon",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "equipment",
+                "organization",
+                "scattered",
+                "organized"
+            ],
+            [
+                "equipment",
+                "equipment",
+                "unorganized",
+                "laid in pattern"
+            ],
+            [
+                "rucksack",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "vehicle",
+                "location",
+                "in garage",
+                "in forest"
+            ],
+            [
+                "webbing",
+                "location",
+                "in vehicle",
+                "on ground"
+            ],
+            [
+                "surface",
+                "fullness",
+                "empty of equipment",
+                "full of equipment"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on rucksaks"
+            ],
+            [
+                "rucksack",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "rucksack",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on rucksack"
+            ]
+        ],
+        [
+            [
+                "camouflage",
+                "location",
+                "elsewhere",
+                "on helmet"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on helmet"
+            ],
+            [
+                "helmet",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ],
+            [
+                "helmet",
+                "visibility",
+                "visible",
+                "invisible"
+            ]
+        ],
+        [
+            [
+                "webbing",
+                "attention",
+                "carelessly placed",
+                "carefully placed"
+            ],
+            [
+                "webbing",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "leaves",
+                "location",
+                "absent",
+                "on webbing"
+            ]
+        ],
+        [
+            [
+                "weapon",
+                "attention",
+                "carelessly disguised",
+                "carefully disguised"
+            ],
+            [
+                "weapon",
+                "location",
+                "absent",
+                "on weapon"
+            ],
+            [
+                "weapon",
+                "decoration",
+                "bare",
+                "camouflaged"
+            ]
+        ],
+        [
+            [
+                "camouflage net",
+                "coverage",
+                "off vehicle",
+                "over vehicle"
+            ],
+            [
+                "vehicle camouflage net",
+                "location",
+                "in box",
+                "on vehicle"
+            ],
+            [
+                "vehicle",
+                "visibility",
+                "visible",
+                "invisible"
+            ],
+            [
+                "vehicle",
+                "vehicle",
+                "uncovered",
+                "netted with camouflage"
+            ]
+        ]
+    ],
+    "38": [
+        [
+            [
+                "oil",
+                "location",
+                "in bike",
+                "in can"
+            ],
+            [
+                "bung",
+                "location",
+                "on bike",
+                "removed from bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "attached",
+                "disattached"
+            ],
+            [
+                "bung",
+                "volume",
+                "full",
+                "empty"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "closed",
+                "open"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "fuller",
+                "emptier"
+            ],
+            [
+                "oil",
+                "location",
+                "in oil tank",
+                "in can"
+            ],
+            [
+                "oil cap",
+                "location",
+                "on oil tank",
+                "removed from tank"
+            ]
+        ],
+        [
+            [
+                "oil filter",
+                "location",
+                "inside oil tank",
+                "outside oil tank"
+            ]
+        ],
+        [
+            [
+                "bung",
+                "location",
+                "away from bike",
+                "on bike"
+            ],
+            [
+                "bung",
+                "composition",
+                "loose",
+                "attached"
+            ],
+            [
+                "bung",
+                "position",
+                "removed",
+                "back on"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "oil tank",
+                "volume",
+                "empty",
+                "fuller"
+            ],
+            [
+                "oil",
+                "location",
+                "in bottle",
+                "in tank"
+            ]
+        ],
+        [
+            [
+                "oil tank",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "oil",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "old oil",
+                "location",
+                "in can",
+                "in jug"
+            ],
+            [
+                "funnel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "jug",
+                "volume",
+                "empty",
+                "full"
+            ]
+        ]
+    ],
+    "39": [
+        [
+            [
+                "tape",
+                "length",
+                "rolled",
+                "unrolled"
+            ],
+            [
+                "tape",
+                "length",
+                "whole",
+                "cut"
+            ],
+            [
+                "duct tape",
+                "location",
+                "on roll",
+                "in pieces"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "longer",
+                "shorter"
+            ],
+            [
+                "tape",
+                "size",
+                "on roll",
+                "cut off"
+            ],
+            [
+                "duct table",
+                "knowledge",
+                "unmeasured",
+                "measured"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "shape",
+                "elongated",
+                "folded"
+            ],
+            [
+                "tape",
+                "shape",
+                "long",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "larger",
+                "smalle"
+            ],
+            [
+                "tape",
+                "shape",
+                "elongated",
+                "folded"
+            ],
+            [
+                "tape",
+                "texture",
+                "sticky",
+                "smooth"
+            ],
+            [
+                "tape",
+                "shape",
+                "straight",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "tape",
+                "length",
+                "shorter",
+                "longer"
+            ],
+            [
+                "tape",
+                "composition",
+                "separate pieces",
+                "one piece"
+            ],
+            [
+                "ends",
+                "organization",
+                "seperate",
+                "touching"
+            ],
+            [
+                "tape ends",
+                "form",
+                "bare",
+                "joined together"
+            ]
+        ],
+        []
+    ],
+    "40": [
+        [
+            [
+                "plant",
+                "location",
+                "in garden",
+                "in hand"
+            ],
+            [
+                "plant",
+                "cost",
+                "owned by garden center",
+                "purchased from garden center"
+            ],
+            [
+                "money",
+                "location",
+                "in purse",
+                "in cash register"
+            ],
+            [
+                "money",
+                "value",
+                "more",
+                "less"
+            ],
+            [
+                "hands",
+                "weight",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "location",
+                "at nursery",
+                "in possession"
+            ],
+            [
+                "money",
+                "location",
+                "in possession",
+                "in center's possesion"
+            ],
+            [
+                "money",
+                "amount",
+                "greater",
+                "less"
+            ],
+            [
+                "hands",
+                "location",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "plant",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "soil",
+                "location",
+                "in bag",
+                "in container"
+            ],
+            [
+                "money",
+                "location",
+                "in purse",
+                "in cash register"
+            ],
+            [
+                "money",
+                "amount",
+                "more",
+                "less"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "weight",
+                "lighter",
+                "heavier"
+            ],
+            [
+                "plant",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "plant",
+                "location",
+                "in hand",
+                "in container"
+            ],
+            [
+                "shovel",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "shovel",
+                "location",
+                "on ground",
+                "in hand"
+            ],
+            [
+                "fir",
+                "location",
+                "outside planter",
+                "inside planter"
+            ]
+        ],
+        [
+            [
+                "plant",
+                "watered",
+                "dry",
+                "wet"
+            ],
+            [
+                "plant",
+                "contentment",
+                "thirsty",
+                "fed"
+            ],
+            [
+                "water",
+                "location",
+                "in hose",
+                "on plant"
+            ],
+            [
+                "water",
+                "knob",
+                "off",
+                "on"
+            ],
+            [
+                "fir",
+                "wetness",
+                "dry",
+                "watered"
+            ]
+        ],
+        [
+            [
+                "containers",
+                "contents",
+                "with dirt",
+                "with dirt and plant"
+            ],
+            [
+                "plant",
+                "volume",
+                "fuller",
+                "emptier"
+            ],
+            [
+                "buds",
+                "location",
+                "on plant",
+                "in new containers"
+            ]
+        ]
+    ],
+    "41": [
+        [
+            [
+                "area",
+                "knowledge",
+                "unselected",
+                "selected"
+            ]
+        ],
+        [
+            [
+                "sticks",
+                "organization",
+                "scattered",
+                "bundled"
+            ],
+            [
+                "twigs",
+                "availability",
+                "all over place",
+                "collected"
+            ],
+            [
+                "bundle",
+                "organization",
+                "loose",
+                "gathered"
+            ]
+        ],
+        [
+            [
+                "sticks",
+                "location",
+                "bunched up",
+                "in formation"
+            ],
+            [
+                "sticks",
+                "organization",
+                "bundled",
+                "stacked"
+            ]
+        ],
+        [
+            [
+                "fairy house frame",
+                "composition",
+                "stand-alone",
+                "fortified"
+            ],
+            [
+                "walls",
+                "location",
+                "down",
+                "up"
+            ]
+        ],
+        [
+            [
+                "sticks",
+                "tightness",
+                "untied",
+                "tired with bark"
+            ]
+        ],
+        [
+            [
+                "fairy house",
+                "composition",
+                "bare",
+                "decorated"
+            ],
+            [
+                "walls",
+                "location",
+                "bare",
+                "decorated"
+            ]
+        ]
+    ],
+    "42": [
+        [
+            [
+                "flour and salt",
+                "location",
+                "in separate packages",
+                "in bowl"
+            ],
+            [
+                "bowl",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "mixing bowl",
+                "volume",
+                "empty",
+                "holding flour and salt"
+            ],
+            [
+                "mixing bowl",
+                "weight",
+                "light",
+                "slightly heavier"
+            ],
+            [
+                "ingredients",
+                "composition",
+                "separatee",
+                "mixed"
+            ]
+        ],
+        [
+            [
+                "mixture",
+                "wetness",
+                "dry",
+                "wetter"
+            ],
+            [
+                "dry and wet ingredients",
+                "composition",
+                "separated",
+                "blended"
+            ],
+            [
+                "oil",
+                "location",
+                "in cabinet",
+                "in bowl"
+            ],
+            [
+                "oil",
+                "composition",
+                "separate",
+                "mixed with flour"
+            ]
+        ],
+        [
+            [
+                "mixture",
+                "location",
+                "in bowl",
+                "on baking sheet"
+            ],
+            [
+                "pastry",
+                "location",
+                "in bowl",
+                "on wax paper"
+            ],
+            [
+                "bowl",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "wax paper",
+                "area",
+                "on roll",
+                "covering tray"
+            ]
+        ],
+        [
+            [
+                "mixture",
+                "location",
+                "put in fridge",
+                "removed from fridge"
+            ],
+            [
+                "mixture",
+                "temperature",
+                "warmer",
+                "cooler"
+            ],
+            [
+                "pastry",
+                "location",
+                "in refrigerator",
+                "on counter"
+            ],
+            [
+                "pastry",
+                "temperature",
+                "cold",
+                "warm"
+            ],
+            [
+                "dough",
+                "temperature",
+                "hot",
+                "cool"
+            ],
+            [
+                "fridge light",
+                "electric conductivity",
+                "off",
+                "on"
+            ],
+            [
+                "fridge door",
+                "openness",
+                "open",
+                "closed"
+            ]
+        ],
+        [
+            [
+                "mixture",
+                "size",
+                "larger",
+                "smaller"
+            ],
+            [
+                "pastry",
+                "location",
+                "in mound on table",
+                "in pan"
+            ],
+            [
+                "pie dish",
+                "volume",
+                "empty",
+                "covered in pastry"
+            ],
+            [
+                "pie dish",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "pie dish",
+                "cleanness",
+                "clean",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "pastry",
+                "texture",
+                "smooth",
+                "rigid"
+            ],
+            [
+                "edges",
+                "texture",
+                "smoother",
+                "bumpy"
+            ],
+            [
+                "edge",
+                "shape",
+                "uneven",
+                "shaped"
+            ],
+            [
+                "fork",
+                "location",
+                "in drawer",
+                "in hand"
+            ]
+        ]
+    ],
+    "43": [
+        [
+            [
+                "plant",
+                "cost",
+                "for sale at nursery",
+                "purchased from nursery"
+            ]
+        ],
+        [
+            [
+                "container",
+                "location",
+                "in cabinet",
+                "on countertop"
+            ]
+        ],
+        [
+            [
+                "continer",
+                "volume",
+                "empty",
+                "fuller"
+            ],
+            [
+                "containter",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "water",
+                "location",
+                "outside bowl",
+                "inside bowl"
+            ],
+            [
+                "bowl",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "bowl",
+                "container",
+                "empty",
+                "full"
+            ]
+        ],
+        [
+            [
+                "fairy moss",
+                "wetness",
+                "dry",
+                "wetter"
+            ],
+            [
+                "fairy moss",
+                "position",
+                "outside of bowl",
+                "inside of bowl"
+            ],
+            [
+                "bowl contents",
+                "composition",
+                "just water",
+                "now mixed with fairy moss"
+            ]
+        ],
+        [
+            [
+                "container",
+                "location",
+                "on countertop",
+                "on table"
+            ],
+            [
+                "bowl",
+                "position",
+                "in unsuitable position",
+                "in suitable position"
+            ]
+        ],
+        [
+            [
+                "moss",
+                "size",
+                "larger",
+                "smaller"
+            ],
+            [
+                "fairy moss",
+                "shape",
+                "mess",
+                "pruned"
+            ]
+        ]
+    ],
+    "44": [
+        [
+            [
+                "chocolate",
+                "cost",
+                "in store",
+                "purchased for use"
+            ],
+            [
+                "molds, mug, chocolate",
+                "location",
+                "in cabinet",
+                "on countertop"
+            ],
+            [
+                "ingredients",
+                "location",
+                "all over kitchen",
+                "on table"
+            ]
+        ],
+        [
+            [
+                "chocolate",
+                "texture",
+                "solid",
+                "liquid"
+            ],
+            [
+                "chocolate",
+                "temperature",
+                "colder",
+                "warmer"
+            ],
+            [
+                "microwave",
+                "power",
+                "off",
+                "on"
+            ],
+            [
+                "chocolate bars",
+                "location",
+                "packaged",
+                "out of package"
+            ],
+            [
+                "spoon",
+                "cleanness",
+                "clean",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "chocolate",
+                "texture",
+                "in pot",
+                "in molds"
+            ],
+            [
+                "molds",
+                "container",
+                "empty",
+                "fuller"
+            ],
+            [
+                "molds",
+                "fullness",
+                "empty",
+                "full"
+            ],
+            [
+                "molds",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "molds",
+                "temperature",
+                "cool",
+                "warm"
+            ],
+            [
+                "molds",
+                "weight",
+                "light",
+                "heavier"
+            ]
+        ],
+        [
+            [
+                "chocolate",
+                "texture",
+                "liquid",
+                "frozen"
+            ],
+            [
+                "chocolate",
+                "hardness",
+                "liquid",
+                "solid"
+            ],
+            [
+                "chocolate",
+                "temperature",
+                "warmer",
+                "colder"
+            ],
+            [
+                "chocolate",
+                "ease of release",
+                "hard to release from molds",
+                "easy to release from molds"
+            ],
+            [
+                "molds",
+                "temperature",
+                "warm",
+                "cool"
+            ]
+        ],
+        [
+            [
+                "chocolate",
+                "texture",
+                "in molds",
+                "on plate"
+            ],
+            [
+                "chocolate",
+                "shape",
+                "liquid",
+                "heart shaped"
+            ],
+            [
+                "molds",
+                "fullness",
+                "full",
+                "empty"
+            ],
+            [
+                "molds",
+                "weight",
+                "heavier",
+                "lighter"
+            ]
+        ],
+        [
+            [
+                "chocolate",
+                "texture",
+                "in pile",
+                "in box"
+            ]
+        ]
+    ]
+}

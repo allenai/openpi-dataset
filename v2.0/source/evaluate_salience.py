@@ -3,8 +3,17 @@ from scipy.stats import pearsonr
 from scipy.stats import spearmanr
 import numpy as np
 import matplotlib.pyplot as plt
+import argparse
 
-with open("../data/dev-data-reformatted-v4_votes_score_salience_1-20.json") as f_gold, open("../data/dev-data-reformatted-v4_votes_salience_1-20_human2.json") as f_gold2, open("../data/dev-data-reformatted-v4_pred-salience.json") as f_pred:
+parser = argparse.ArgumentParser()
+parser.add_argument('--model', default='gpt-3.5-turbo', type=str, help='Model name.')
+
+args = parser.parse_args()
+
+#predict_file = "../data/dev-data-reformatted-v4_pred-salience.json"
+predict_file = f"../data/dev-data-reformatted-v4_pred-salience-{args.model}.json"
+
+with open("../data/dev-data-reformatted-v4_votes_score_salience_1-20.json") as f_gold, open("../data/dev-data-reformatted-v4_votes_salience_1-20_human2.json") as f_gold2, open(predict_file) as f_pred:
     gold = json.load(f_gold)
     gold2 = json.load(f_gold2)
     pred = json.load(f_pred)
@@ -100,5 +109,10 @@ with open("../data/dev-data-reformatted-v4_votes_score_salience_1-20.json") as f
         pearsonrs_g_s.append(corr_g_s)
         pearsonrs_g_s_local.append(corr_g_s_local)
 
-print(pearsonrs_g_s_local)
-print(np.mean(pearsonrs_g_s_local))
+print("===Human===")
+print("global", np.mean(pearsonrs_g_g2))
+print("local", np.mean(pearsonrs_g_g2_local))
+
+print(f"==={args.model}===")
+print("global", np.mean(pearsonrs_g_p))
+print("local", np.mean(pearsonrs_g_p_local))

@@ -1,0 +1,209 @@
+{
+    "46": [
+        [
+            [
+                "waste basket",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "rooms",
+                "messiness",
+                "messy",
+                "clean"
+            ],
+            [
+                "trash",
+                "location",
+                "on floor",
+                "in waste baskets"
+            ],
+            [
+                "straw items",
+                "location",
+                "around house",
+                "in waste basket"
+            ],
+            [
+                "items",
+                "location",
+                "on ground",
+                "in place"
+            ],
+            [
+                "items",
+                "messiness",
+                "disorganized",
+                "organized"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "messiness",
+                "dusty",
+                "clean"
+            ],
+            [
+                "house",
+                "cleanness",
+                "dusty",
+                "dusted"
+            ],
+            [
+                "surfaces",
+                "cleanness",
+                "dusty",
+                "cleaner"
+            ],
+            [
+                "dust",
+                "location",
+                "on furniture",
+                "cleaned up"
+            ]
+        ],
+        [
+            [
+                "waste basket",
+                "container",
+                "full",
+                "empty"
+            ],
+            [
+                "trash cans",
+                "container",
+                "full",
+                "empty"
+            ],
+            [
+                "trash",
+                "location",
+                "in waste baskets",
+                "in trash bag"
+            ],
+            [
+                "trash bag",
+                "container",
+                "empty",
+                "full"
+            ],
+            [
+                "trash bag",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "trash bag",
+                "shape",
+                "flat",
+                "rounder"
+            ]
+        ],
+        [
+            [
+                "surfaces",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "surfaces",
+                "wetness",
+                "dry",
+                "wet"
+            ],
+            [
+                "spray cleaner",
+                "location",
+                "inside bottle",
+                "on windows"
+            ]
+        ],
+        [
+            [
+                "throw rugs and inside door mats",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "throw rugs",
+                "cleanness",
+                "dirty",
+                "shaken and cleaned"
+            ],
+            [
+                "mats",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "dust",
+                "location",
+                "on mats",
+                "outside"
+            ]
+        ],
+        [
+            [
+                "house",
+                "cleanness",
+                "dirty",
+                "clean"
+            ]
+        ]
+    ],
+    "47": [
+        [
+            [
+                "gems",
+                "availability",
+                "unacquired",
+                "acquired"
+            ]
+        ],
+        [
+            [
+                "stuff",
+                "location",
+                "in store",
+                "in home"
+            ]
+        ],
+        [
+            [
+                "screens",
+                "location",
+                "in store",
+                "in home"
+            ]
+        ],
+        [
+            [
+                "master bedroom",
+                "availability",
+                "unmade",
+                "created"
+            ],
+            [
+                "kids room",
+                "availability",
+                "unmade",
+                "created"
+            ]
+        ],
+        [
+            [
+                "outside area",
+                "availability",
+                "unmade",
+                "created"
+            ]
+        ],
+        []
+    ]
+}

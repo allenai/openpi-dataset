@@ -1,0 +1,720 @@
+{
+    "1": [
+        [
+            [
+                "the blackboard eraser | eraser",
+                "possession | ownership",
+                "not owned by me before but now it does after\n  - location of money was in wallet",
+                "at store register"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "eraser shelf at the store",
+                "fullness",
+                "full",
+                "one short"
+            ],
+            [
+                "bank account",
+                "fullness",
+                "high",
+                "lower"
+            ],
+            [
+                "money",
+                "location",
+                "in wallet",
+                "at store register"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "placement",
+                "loose in glovebox",
+                "attached to car door"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "glovebox",
+                "location",
+                "in car",
+                "in garage"
+            ],
+            [
+                "glove box",
+                "fullness",
+                "full",
+                "one item missing"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "condition",
+                "new",
+                "used"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the trunk",
+                "in glovebox"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "movement",
+                "still",
+                "moving"
+            ],
+            [
+                "windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "inside windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "hands",
+                "activity",
+                "idle",
+                "rubbing"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "movement",
+                "still",
+                "moving"
+            ],
+            [
+                "hands",
+                "activity",
+                "hing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room.\n  The room\n  Room washing room\n  Glass\n  room\nThe room\nthe room\n  room\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom roomom roomo bottles\nroom roomom roomom room\nroom room\nroom roomom roomom roomom roomom roomoms\nroom roomx\nroom roomamongrinkleapartheatheapertwokeaposea roomomes roomomearrangeous containers.\n   container\n  roomcketap\n  *\n ...\n  roomcketap\ncontainerseveraseat the containerseatapcabstraetaplaceapaleapleaveapleather containerian containeran unknownes)",
+                "None"
+            ]
+        ]
+    ],
+    "2": [
+        [
+            [
+                "ingredients",
+                "composition | consistency",
+                "separate",
+                "combined"
+            ],
+            [
+                "ingredients",
+                "location",
+                "in bowls",
+                "in mouths"
+            ],
+            [
+                "mixing bowl",
+                "volume",
+                "full",
+                "emptied"
+            ],
+            [
+                "mixing bowl",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "mixing bowl",
+                "location",
+                "in cupboard",
+                "in sink"
+            ],
+            [
+                "spoon",
+                "location",
+                "hed system\n  system\n  system\n  system\n  system\n  system\n  system\n  system\n iced system\n iced system\n iced\n iced\n iced\n iced\n iced\n iced\n iced\n iced\n iced\n iced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\niced\ntheirred glasses\n10000\nglasses\nGlasses\na glasses\n\\\n iced\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\n\n\n\n\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\nglasses\n   brightrink a glasses\n\n\n\n\n\n\n\n\n\n\n\n\n 2 containers)",
+                "None"
+            ],
+            [
+                "carob",
+                "mixed",
+                "hing glasses\n   container)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "ingredients",
+                "composition | consistency",
+                "hing glasses\ncontainereaseatheaparthe glasses\n   brushes)",
+                "None"
+            ],
+            [
+                "ingredients",
+                "shape",
+                "hing glasses\n   brings)",
+                "None"
+            ],
+            [
+                "dough | dough pieces",
+                "size | shape",
+                "hing glasses\n   briefromovear glasses)",
+                "None"
+            ],
+            [
+                "mixture",
+                "location",
+                "hing glasses\n   briefdishaleasphereas)",
+                "None"
+            ],
+            [
+                "mixture",
+                "number",
+                "hing glasses\n   briefat heated)",
+                "None"
+            ],
+            [
+                "mixture",
+                "density",
+                "hing glasses.\n   briefutureat the mixletlesetendresidontogetheratrayieldes)",
+                "None"
+            ],
+            [
+                "hand",
+                "fullness",
+                "hing glasses\n   containerousetwocketatheat hisapsetapractat)",
+                "None"
+            ],
+            [
+                "hand",
+                "stickiness",
+                "hingr\n   at)",
+                "None"
+            ],
+            [
+                "bowl",
+                "weight",
+                "henceat)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "balls",
+                "location",
+                "heraprafterat)",
+                "None"
+            ],
+            [
+                "balls",
+                "temperature",
+                "hingalfledishopil\n(drat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe drinkats...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThise glassaples\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(cageaglets\n\n\n\n\n\n\n\n\n\n\n\n\n   atow subkeapulseat\n[t the drinkp the...\ntheat theat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nandrewaledatapractapulngelsightapractapractalkreallyungusieapract\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(etcat\n(\n(\n(n\n(\n(\n(\n(\n(\n(\n*llenspectiveesquealtsellingaplacesalingatalldeathleavealyslawnakfficatleapletealzealighal\n(\n(\n(\n(\nJun)",
+                "None"
+            ],
+            [
+                "plate",
+                "location",
+                "allegalightleatheratwealwarealftileat....eitheratoneatasteat\n   at\nSometimesal\nThis\n(\n{ndressal\nCoffiledalbeastleatlevelarduringalongleal)",
+                "None"
+            ],
+            [
+                "plate",
+                "container",
+                "after\n   opften\n    ppulsleapract\n(\n(\n\\\n\\\n(\n\\iets\n\\\n\\\n\\\n\\\n\\pperalvingalveryal\n\u200dat\n\tgiveal\n3atuealightsleapilsiesalbs\n(\n(\n1st\n19leapractownz\n\\\n\\\n\\\nIcelectleapursleaplacleaplolea levelildleaplacealtestapeapwneratuesat theatleapragealseat\nsleapractampreadat\nrs\n\\\\sleapragsleapractleatleat\nleat\nL\nleapleapractjosealtdormayepleapleapleapract\ns\ns\nsoldompeatograngewsarevenat\ns\nsensealunchsour\n'\nearal\nol\ns\nsurea\nsoulversimearcketsunesedsuresalaysleapunctionleatubeatleatissueat_teatributeatwinreasterunearppingrivleaplexrepidypeanounwnreflendingripleafempreatrolbotturtraysleapraisealkropthershrsleaplanslleat\ns\ns\nE-risthealthheaterucks\nT\nKs\ns\ns\ns\ns\nBeyndrunint\ns\nsleaperweraldreamrepubrels\ns\nsouddifferentapsilesans'rmoreatimesars'sineat\ns\ns)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "carob fruit balls",
+                "readiness",
+                "aringayeproidsopraisprevelsurchsriprealtunealseatheathealisthealinesalustsreealifealivesalistersleavesaliesealslevleaureaternsermsonsyleaversraphsleawnsiningslealslealeawnsramealsleamsleawnsleawnslealekssslealealea\ns\nsentsssssencealssulars\ns\ns\ns\ns\ns\ns\ns\ns\ns\ns\ns\ns\ns\nsss\nssss\ns\ns\nssssss\ns\n\n\n\n\ns\ns\n\n\n\n\n\n\ns\ns\ns\ns\ns\n\n\n\n\n\n\n\ns\ns\ns\ns\ns\n\n\n\n\n\n\n\n\n\n\n\ns\n\n\n\n\n\n\n\n\n\nssss\ns\nsssssss\ns\ns\ns\ns\n\n\n\n\n\n\n\ns\n\n\n\n\n\n\n\n\n\n\n\n\ns\ns\n\n\n\ns\n\n\n\ns\n\n\n\n\n\n\n\n\ns\ns\ns\ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,\n\n,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)",
+                "None"
+            ],
+            [
+                "carob fruit balls",
+                "location",
+                ",\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,,,,,,,,\n,\n,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,\n\n\n\n\n\n\n\n\n\n,,,,,,\n\n\n\n\n\n\n\n\n\n,,,,\n\n\n\n\n\n\n\n\n\n\n\n\n\n,\n,,,\n\n\n\n\n\n\n\n,\n\n\n\n\n,\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,,,,,\n\n,,)",
+                "None"
+            ],
+            [
+                "carob fruit balls",
+                "hardness",
+                "None",
+                "None"
+            ]
+        ]
+    ],
+    "3": [
+        [
+            [
+                "cookies | biscuits",
+                "location",
+                "on plate",
+                "in container"
+            ],
+            [
+                "the cookies",
+                "placement",
+                "scattered around the tray",
+                "stacked neatly inside the container"
+            ],
+            [
+                "container",
+                "volume | fullness",
+                "big",
+                "small"
+            ],
+            [
+                "container",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "container",
+                "cleanness",
+                "container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container was container.\ncontainer was container\ncontainer was container\ncontainer was container\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer?\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainerian containerina bottapartilleryes\ncontainera containerain containerator containerater containerater containerater containerater containeransetap\ncontainer\ncontaineran objectliveap\ncontaineras well filledr container...\ncontaineraseparatorseverage containeranimalreadyathe containeranlageaplaceaplan containeran unknownleather containeran itemals\n   brushaprecilids\n\\emplateansetwokeaposevenclosedr containeranymixleaves)",
+                "None"
+            ],
+            [
+                "tray",
+                "weight",
+                "her glasses.\n   briefreshapexthe glasses.\nglasses)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "cookies | biscuits",
+                "location",
+                "hinglasses.\n   briefutureat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntheirneither will bever\n(a)\nThe drinko\n\n\n\n\n\n\n\n\n\n\n\n\n[drys glasses.)",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "composition",
+                "a lidletapulseat\n   ftieaglasselsphereat hisath\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(a glassatowil\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe glassat the...\nthe glassat the bott0wnarm\n\n\n\n\n\n(\n(\n(\n\n\n\n(andressatogetherat\n(\n(\n(\n(\n(\n(\n(etcapracketat\n(\n(\n(\n(\n(\n\n\n\n\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(lidleavingighalfllenspectiveesquees...sesquealedatalkleastleatleatleat\n    at\nCJewarealdealingatageat\n(snduringatleatleatleatleatleatleakleatleatleatwealwarealbeatleatleatleatellingayungoldrageal\nSometimesalngleat\n(\n{givingalysleatleatleatleatlevels\n\n\n\n\n\n\n\n\nThis\n(\n(\n(\n(\n\\\n\\\nThe\n(\n\\\n(\n\\\n\\\n\\\n\\\n\\\n(\n(\n*werat\n(\n(\n\n\n\\\n(\n3at\n(5at\n(sleapulsesasy\n(\n14ll\n(19leapul\n\\\n(\n\\\n(\n\\lsreadleaplacesa \u200dal\na lemalaysellingownurbsleapractueatwinildleat\nafterat\n\\\\leapract\nsellingampiledt\n()",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "organization | position",
+                "apractslevelsleatalks\n(\n(\n(\n(s s\n(\n(\nearepleapracts s\n\n\n\norm\nLsopleapracts (saleconomleat....\n#leapractroll andappractributeatubeat\nram\nictureapea rangearailuresarailsueswsleapractissueleap.leat [leat...omeat...\nsalea aperpperastweenatrolunear\nBrun\nrag)",
+                "None"
+            ],
+            [
+                "aluminum foil",
+                "placement",
+                "afopaneflopeatalkrayepaperwerap.olversjamesa aboodleaft\nT_\nE-type<\nsoulleap\ns\ns\ns\n\n\nGraceat\nRoundom\nP\nDs\ns\nristimevelary)",
+                "None"
+            ],
+            [
+                "freezer paper",
+                "location",
+                "rm)",
+                "None"
+            ],
+            [
+                "freezer paper",
+                "cleanness",
+                "'s\n\u2019\n'\n' and)",
+                "None"
+            ],
+            [
+                "freezer paper",
+                "size",
+                "None",
+                "None"
+            ],
+            [
+                "baking paper",
+                "cleanness",
+                "None",
+                "None"
+            ],
+            [
+                "foil",
+                "cleanness",
+                "None",
+                "None"
+            ]
+        ],
+        [
+            [
+                "cookies | biscuits",
+                "location",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "flexibility",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "temperature",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "texture",
+                "None",
+                "None"
+            ],
+            [
+                "the bowl",
+                "placement",
+                "None",
+                "None"
+            ],
+            [
+                "freezer",
+                "volume",
+                "None",
+                "None"
+            ]
+        ],
+        [
+            [
+                "the cookies and biscuits",
+                "placement",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "flexibility",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "temperature",
+                "None",
+                "None"
+            ],
+            [
+                "cookies | biscuits",
+                "texture",
+                "None",
+                "None"
+            ],
+            [
+                "the aluminum foil",
+                "movement",
+                "None",
+                "None"
+            ],
+            [
+                "freezer",
+                "volume",
+                "None",
+                "None"
+            ]
+        ]
+    ],
+    "4": [
+        [
+            [
+                "pipe cleaner | pipe cleaners",
+                "position | shape",
+                "straight",
+                "bent at middle"
+            ],
+            [
+                "pipe cleaner | pipe cleaners",
+                "location",
+                "on table",
+                "attached to eye"
+            ]
+        ],
+        [
+            [
+                "pipe cleaner | pipe cleaners",
+                "position | shape",
+                "straight",
+                "bent at middle"
+            ],
+            [
+                "pipe cleaner | pipe cleaners",
+                "location",
+                "on table",
+                "in hand"
+            ]
+        ],
+        [
+            [
+                "tip of pipe cleaner",
+                "shape",
+                "held\nLocation:\nthe cupboard\n 20\n  The cupboard\nThe cupboard\ncupboard\n 2\nCupon the cupboard\n2\n2\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard board\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboardroom\nboard\nboard room\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboard\nboardard boardards\nboardatheapartheap\nboardar bottapleave glasses\nboarder bottap\nboarda glasses\nboardatbever basketas\nboardatheatall containers\n   brands\n\\n\n  waterareas wellbeverageaseas)",
+                "None"
+            ],
+            [
+                "your fingers",
+                "location",
+                "hese containers\n   containerseparatorem\n  containeres)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "pipe cleaner | pipe cleaners",
+                "position | shape",
+                "hoseasideasphereaplicationalongrubodyoures\n   brushalfresheseas the glassetwofruitatheapraised glasses)",
+                "None"
+            ],
+            [
+                "pipe cleaner | pipe cleaners",
+                "location",
+                "hteaplicationalcoffruites\n   briefes.)",
+                "None"
+            ],
+            [
+                "the torso",
+                "width",
+                "hencexthe glasses\n   briefes)",
+                "None"
+            ],
+            [
+                "the torso",
+                "weight",
+                "henceletvesetapractlesso\n   briefutureat the glasses)",
+                "None"
+            ]
+        ]
+    ],
+    "5": [
+        [
+            [
+                "the webbing | the yarn",
+                "composition",
+                "not there",
+                "now it exists"
+            ]
+        ],
+        [
+            [
+                "the webbing | the yarn",
+                "shape",
+                "folded over itself",
+                "unfolded but still connected at edges"
+            ]
+        ],
+        [
+            [
+                "the webbing | the yarn",
+                "width",
+                "three inches wide",
+                "six inches wide"
+            ],
+            [
+                "the ends",
+                "connection",
+                "separate",
+                "joined together"
+            ]
+        ],
+        [
+            [
+                "the hat",
+                "weight",
+                "hing glasses\na glasses\nthe glasses\nglasses\n 3 glasses\n  the glasses\n 1\n  Glasses\nGlasses\n 4 glasses\nThe glasses\n1.\n1.\nglasses\n   brought bottles\nglasses\n 1 glasses\n1.\n\\begin{container\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncontainer\ncontainer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncontainer\n\n\n\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontainer\ncontaineralready\ncontainer\ncontainer\ncontainer\ncontainer\ncontaineranimalongred container\ncontainer\ncontainer\ncontainer\ncontainerian container\ncontaineran objectliveapartheapulseas wellcome used\ncontaineranlagearrangea container\ncontaineranymixletapropcketapale glasses.\ncontaineran entityansetwokeaplaceaseveragelets.)",
+                "None"
+            ],
+            [
+                "the piece of yarn",
+                "shape",
+                "hing glassn\n   briefreshapedrampostoveat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...\n[c\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(\n(\n(\n(\n(and thisatogetherat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(\n(and andafter willagealing hasalfllidleaveasevenalightelsusiealsdextgrappperatweal\nInsidealleglidslawnleatheral\nSleepaltsellingatall\n(\n(\nWealzeal\nThis)",
+                "None"
+            ]
+        ]
+    ],
+    "6": [
+        [
+            [
+                "gun | weapon",
+                "location",
+                "in player's hands",
+                "not anymore"
+            ],
+            [
+                "you",
+                "knowledge",
+                "unknown",
+                "known now"
+            ]
+        ],
+        [
+            [
+                "you",
+                "shape",
+                "normal",
+                "rectangular"
+            ]
+        ],
+        [
+            [
+                "you",
+                "knowledge",
+                "unknown",
+                "known now"
+            ]
+        ],
+        [
+            [
+                "gun | weapon",
+                "location",
+                "in player's hands",
+                "not anymore"
+            ],
+            [
+                "you",
+                "knowledge",
+                "unknown",
+                "known now"
+            ]
+        ]
+    ],
+    "7": [
+        [
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "organization | power",
+                "unplugged from wall",
+                "plugged into wall"
+            ],
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "connection",
+                "disconnected",
+                "connected"
+            ],
+            [
+                "plug",
+                "volume",
+                "low",
+                "high"
+            ]
+        ],
+        [
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "power | connection",
+                "off",
+                "on"
+            ],
+            [
+                "tv's hdmi input",
+                "container",
+                "hingred\ncontainer\n\\container\n  Container\nContainer\n  Container\n  Container\n  Container\n  Container\n  Container\ncontainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContainer\nContaineranimalreadyatheapartillery\nContainera container\nContaineran container\nContaineran animalsoil\nContaineran container\n   container\nContaineran objectlive fruitat the containeran container\nContaineran containeran containeran containeran containeran containeranaleap\ncontaineran containeranlageaplaceaseaside containeran containerancelagean entityansetwokeaplaneanese containers\ncontaineran appleaneseversevenamongr containeraneseas jars glassets)",
+                "None"
+            ],
+            [
+                "the hdmi",
+                "power",
+                "her glasses.\n   briefes\nglasses)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "power | connection",
+                "hydishapedis\n   briefat the cupasteraidifferenteitherar a glasses)",
+                "None"
+            ],
+            [
+                "wii's av composite output",
+                "container",
+                "herapractat heated glassapulseat\n   at)",
+                "None"
+            ],
+            [
+                "cord",
+                "power",
+                "havingr waterare usedk\n   at the glasses)",
+                "None"
+            ],
+            [
+                "wii",
+                "connection",
+                "henceat\n   trayields)",
+                "None"
+            ],
+            [
+                "the cord",
+                "power",
+                "heraprafterat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntheirrequels...\n(\nThe drinkapending the glassapleteeightatapolooilcapplesetaplaces glassapulsus\n\n\n\n\n\nlidriftatombletapractapractileapractapractapantryat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   alcocketatow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(a glassat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(\n(\n(\n(\n(\n(andrewaledalsphereledressat\n\n\n\n\n\n\n\n\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(\n(t...es...esquextogetheratleavealingllenslawnalfleatheraltsieaght\n(glassat\n(\n(\n(\n(\n(\n(\n(\n(\na 3atleighleatleatleasealwarealzeatwealdeatallayellingarrangeat\n    ur\nS\n*nd)",
+                "None"
+            ]
+        ],
+        [
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "organization | power",
+                "after{\nJon\nCoffleletalkreadalysell\n    yousak\n\\\n\\\n\\\n\\\n\\\n\\\n\\\n(n\n(\n\\\n\n\\\n\n(\n5leastleat\n(\n(\n(\n(\n(\n(4ll\n1stoglepracts\n(\nThis\n(\nIcelectleaseleapul\n\"lsleatleafficlevelleasewsormovealsonurbeardreamleatueatuesalaysleaseleaseleat....s\n\\\\leaseal\nsaleatleatleatleatleatleatleadryel)",
+                "None"
+            ],
+            [
+                "hdmi cord | hdmi converter cable | the hdmi cord",
+                "attachment",
+                "leakleaslevalevellearseyepleaplopeatjosearngownleatubelewarmsoldleatoneargealoulampleatrollear\nLoplalea)",
+                "None"
+            ],
+            [
+                "cord",
+                "power",
+                "leakleyewildresmaleatlexleasesescopeatsleatogramgrowleatleatwinleatleaseesatuneatleatleatleatleafraglegoversmolevoczlealefemolleeklealeawealoubslealealealealealealealealeaodsurealealealealealeedrolealealebylelealealealealealevalealealealeavelealealealealealeeslealealeyelevelevelealealealeylealealealealealealealealealealealealelevelevelevelealealealeveleesleveleleleleleleleleleleleauleveleveleleslesleleleleleleleleleleveleveleveleveleveleveleveleveleveleveleslesleleleleleleleleenslelelelelelelelevelelelelelelelelelesleleleleleleleleveleleslesleslesleslesleslesleyslesles\nssssssyss\ns\nsssssssssssssssosssssssysssssssssssssssssssssssssssss\nssssssssssssssssssssssssssssssss\ns\ns\nsssssssssssssssssssssssssssssssssssssssssssssssssssssss\nssss\nsssssss\nss\ns\ns\ns\n\n\n\n\n\n\n\n\ns)",
+                "None"
+            ],
+            [
+                "converter",
+                "attachment",
+                "sssssssssss\ns\nssssssssss\ns\n\n\ns\ns\ns\nssssssssssssssss\nssssss\ns\ns\ns\ns\nss\nsssssssssssss\nssss\nsssssssssss\nsssssssssss\nssssss\ns\nss\ns\ns\nsss\ns\ns\n\ns\ns\n\n\n\n\n\n\n\n\n\n\n\nsens\ns\nsss\n\n\n\n\n\n\n\n\n\ns\nssss\ns\ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ns\n\n\n\n\n\n\n\ns\ns\ns)",
+                "None"
+            ],
+            [
+                "tv",
+                "power",
+                "en\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ns\n\n\n\n\n\n\n\ns\ns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,,,,,)",
+                "None"
+            ],
+            [
+                "tv",
+                "attachment",
+                ",,,,)",
+                "None"
+            ]
+        ]
+    ]
+}

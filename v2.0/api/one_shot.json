@@ -1,0 +1,132 @@
+{
+    "id": "193",
+    "goal": "Make a Ginger and Fred (Non Alcoholic Drink)",
+    "steps": [
+        "Pour the two juices into a single container with a lid.",
+        "Shake the juices together.",
+        "Pour into glasses and top with the choice of ginger beverage.",
+        "Serve."
+    ],
+    "gold_step_entities_attributes": {
+        "step1": {
+            "giner juice": [
+                [
+                    "location",
+                    "unknown",
+                    "in container"
+                ]
+            ],
+            "fred juice": [
+                [
+                    "location",
+                    "unknown",
+                    "in container"
+                ]
+            ],
+            "mixed juice": [
+                [
+                    "location",
+                    "nonexistent",
+                    "in container"
+                ]
+            ],
+            "container": [
+                [
+                    "volume",
+                    "empty",
+                    "full"
+                ],
+                [
+                    "cleanness",
+                    "clean",
+                    "dirty"
+                ],
+                [
+                    "weight",
+                    "lighter",
+                    "heavier"
+                ],
+                [
+                    "wetness",
+                    "dry",
+                    "wet"
+                ]
+            ]
+        },
+        "step2": {
+            "mixed juice": [
+                [
+                    "composition",
+                    "separated",
+                    "mixed together"
+                ],
+                [
+                    "color",
+                    "bicolor",
+                    "uniform"
+                ]
+            ],
+            "container": [
+                [
+                    "location",
+                    "on table",
+                    "in hand"
+                ]
+            ]
+        },
+        "step3": {
+            "mixed juice": [
+                [
+                    "location",
+                    "in container",
+                    "in glasses"
+                ]
+            ],
+            "ginger beverage": [
+                [
+                    "location",
+                    "unknown",
+                    "in glasses"
+                ]
+            ],
+            "container": [
+                [
+                    "volume",
+                    "full",
+                    "empty"
+                ]
+            ],
+            "glasses": [
+                [
+                    "volume",
+                    "empty",
+                    "full"
+                ],
+                [
+                    "wetness",
+                    "dry",
+                    "wet with juice"
+                ],
+                [
+                    "location",
+                    "unknown",
+                    "on table"
+                ]
+            ]
+        },
+        "step4": {
+            "glasses": [
+                [
+                    "location",
+                    "on table",
+                    "in person's hand"
+                ],
+                [
+                    "volume",
+                    "full",
+                    "empty"
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "1": [
+        [
+            [
+                "the blackboard eraser | eraser",
+                "possession | ownership",
+                "not owned by me before but now it does after\n  - location of money was in wallet",
+                "at store register"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "eraser shelf at the store",
+                "fullness",
+                "full",
+                "one short"
+            ],
+            [
+                "bank account",
+                "fullness",
+                "high",
+                "lower"
+            ],
+            [
+                "money",
+                "location",
+                "in wallet",
+                "at store register"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "placement",
+                "loose in glovebox",
+                "attached to car door"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "glovebox",
+                "location",
+                "in car",
+                "in garage"
+            ],
+            [
+                "glove box",
+                "fullness",
+                "full",
+                "one item missing"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "condition",
+                "new",
+                "used"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the trunk",
+                "in glovebox"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "movement",
+                "still",
+                "moving"
+            ],
+            [
+                "windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "inside windshield",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "hands",
+                "activity",
+                "idle",
+                "rubbing"
+            ]
+        ],
+        [
+            [
+                "the blackboard eraser | eraser",
+                "location",
+                "in the glovebox",
+                "in trunk"
+            ],
+            [
+                "the blackboard eraser | eraser",
+                "movement",
+                "still",
+                "moving"
+            ],
+            [
+                "hands",
+                "activity",
+                "hing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room washing room.\n  The room\n  Room washing room\n  Glass\n  room\nThe room\nthe room\n  room\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom\nroom roomom roomo bottles\nroom roomom roomom room\nroom room\nroom roomom roomom roomom roomom roomoms\nroom roomx\nroom roomamongrinkleapartheatheapertwokeaposea roomomes roomomearrangeous containers.\n   container\n  roomcketap\n  *\n ...\n  roomcketap\ncontainerseveraseat the containerseatapcabstraetaplaceapaleapleaveapleather containerian containeran unknownes)",
+                "None"
+            ]
+        ]
+    ]
+}

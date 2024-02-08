@@ -1,0 +1,189 @@
+{
+    "15": [
+        [
+            [
+                "vulpix",
+                "step",
+                "unhad",
+                "had"
+            ],
+            [
+                "vulpix",
+                "availability",
+                "in wild",
+                "caught"
+            ],
+            [
+                "vulpix",
+                "ownership",
+                "owned",
+                "traded"
+            ]
+        ],
+        [
+            [
+                "fire or ice stone",
+                "step",
+                "unfound",
+                "found"
+            ],
+            [
+                "fire stone",
+                "availability",
+                "on ground",
+                "in inventory"
+            ]
+        ],
+        [
+            [
+                "stone",
+                "choice",
+                "unchosen",
+                "selected"
+            ],
+            [
+                "the stone",
+                "knowledge",
+                "unselected",
+                "selected"
+            ],
+            [
+                "bag",
+                "step",
+                "unselected",
+                "selected"
+            ]
+        ],
+        []
+    ],
+    "16": [
+        [
+            [
+                "lemon",
+                "size",
+                "whole",
+                "cut"
+            ],
+            [
+                "lemon",
+                "moisture",
+                "dry",
+                "juicy"
+            ],
+            [
+                "juice",
+                "location",
+                "in lemon",
+                "in bowl"
+            ],
+            [
+                "cutting board",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "cutting board",
+                "moisture",
+                "dry",
+                "wet"
+            ],
+            [
+                "knife",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "knife",
+                "moisture",
+                "dry",
+                "wet"
+            ]
+        ],
+        [
+            [
+                "lemon",
+                "moisture",
+                "plain smelling",
+                "strong smelling"
+            ],
+            [
+                "lemon",
+                "size",
+                "whole",
+                "halved"
+            ],
+            [
+                "lemon",
+                "weight",
+                "heavier",
+                "lighter"
+            ],
+            [
+                "juice",
+                "location",
+                "inside lemon",
+                "in bowl"
+            ]
+        ],
+        [
+            [
+                "faucets",
+                "dryness",
+                "dry",
+                "wet"
+            ],
+            [
+                "faucets",
+                "odor",
+                "normal smelling",
+                "lemony fresh"
+            ],
+            [
+                "faucets",
+                "wetness",
+                "dry",
+                "wet with juice"
+            ],
+            [
+                "lemon",
+                "size",
+                "whole",
+                "halved"
+            ],
+            [
+                "juice",
+                "location",
+                "in lemon",
+                "on faucet"
+            ]
+        ],
+        [
+            [
+                "faucets",
+                "cleanness",
+                "dirty",
+                "clean"
+            ],
+            [
+                "faucets",
+                "appearance",
+                "stained",
+                "sparkling"
+            ],
+            [
+                "lemon juice",
+                "location",
+                "on faucet",
+                "in sink"
+            ],
+            [
+                "water",
+                "location",
+                "in faucet",
+                "in sink"
+            ]
+        ]
+    ]
+}

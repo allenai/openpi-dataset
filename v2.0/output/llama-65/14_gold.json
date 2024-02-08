@@ -1,0 +1,59 @@
+{
+    "15": [
+        [
+            [
+                "vulpix",
+                "step",
+                "unhad",
+                "had"
+            ],
+            [
+                "vulpix",
+                "availability",
+                "in wild",
+                "caught"
+            ],
+            [
+                "vulpix",
+                "ownership",
+                "owned",
+                "traded"
+            ]
+        ],
+        [
+            [
+                "fire or ice stone",
+                "step",
+                "unfound",
+                "found"
+            ],
+            [
+                "fire stone",
+                "availability",
+                "on ground",
+                "in inventory"
+            ]
+        ],
+        [
+            [
+                "stone",
+                "choice",
+                "unchosen",
+                "selected"
+            ],
+            [
+                "the stone",
+                "knowledge",
+                "unselected",
+                "selected"
+            ],
+            [
+                "bag",
+                "step",
+                "unselected",
+                "selected"
+            ]
+        ],
+        []
+    ]
+}

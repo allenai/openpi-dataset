@@ -1,0 +1,192 @@
+{
+  "1": {
+    "states": {
+      "0": {
+        "step": "Mix all of the ingredients together.",
+        "entities": {
+          "ingredients": [
+            {
+              "attribute": "location",
+              "before": "unknown",
+              "after": "mixed together"
+            }
+          ],
+          "mixing bowl": [
+            {
+              "attribute": "content",
+              "before": "empty",
+              "after": "filled with mixed ingredients"
+            }
+          ]
+        }
+      },
+      "1": {
+        "step": "Roll into small balls.",
+        "entities": {
+          "mixed ingredients": [
+            {
+              "attribute": "shape",
+              "before": "unknown",
+              "after": "ball-shaped"
+            }
+          ],
+          "rolling surface": [
+            {
+              "attribute": "cleanliness",
+              "before": "clean",
+              "after": "dirty"
+            },
+            {
+              "attribute": "wetness",
+              "before": "dry",
+              "after": "wet"
+            }
+          ]
+        }
+      },
+      "2": {
+        "step": "Place in the freezer for half an hour.",
+        "entities": {
+          "mixed ingredients": [
+            {
+              "attribute": "location",
+              "before": "ball-shaped",
+              "after": "in freezer"
+            }
+          ],
+          "freezer": [
+            {
+              "attribute": "temperature",
+              "before": "unknown",
+              "after": "cold"
+            }
+          ]
+        }
+      },
+      "3": {
+        "step": "Serve.",
+        "entities": {
+          "mixed ingredients": [
+            {
+              "attribute": "location",
+              "before": "in freezer",
+              "after": "on plate"
+            }
+          ],
+          "plate": [
+            {
+              "attribute": "cleanliness",
+              "before": "clean",
+              "after": "dirty"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "2": {
+    "states": {
+      "0": {
+        "step": "Come up with an idea.",
+        "entities": {
+          "idea": [
+            {
+              "attribute": "existence",
+              "before": "unknown",
+              "after": "existent"
+            }
+          ]
+        }
+      },
+      "1": {
+        "step": "Shoot the video using a phone or camera.",
+        "entities": {
+          "video": [
+            {
+              "attribute": "existence",
+              "before": "nonexistent",
+              "after": "existent"
+            },
+            {
+              "attribute": "quality",
+              "before": "unknown",
+              "after": "high"
+            }
+          ],
+          "phone": [
+            {
+              "attribute": "existence",
+              "before": "unknown",
+              "after": "existent"
+            },
+            {
+              "attribute": "brand",
+              "before": "unknown",
+              "after": "unknown"
+            }
+          ],
+          "camera": [
+            {
+              "attribute": "existence",
+              "before": "unknown",
+              "after": "nonexistent"
+            }
+          ]
+        }
+      },
+      "2": {
+        "step": "Edit the video using some software.",
+        "entities": {
+          "video": [
+            {
+              "attribute": "edit quality",
+              "before": "raw",
+              "after": "polished"
+            },
+            {
+              "attribute": "length",
+              "before": "unknown",
+              "after": "unchanged"
+            }
+          ],
+          "software": [
+            {
+              "attribute": "existence",
+              "before": "nonexistent",
+              "after": "existent"
+            },
+            {
+              "attribute": "compatibility",
+              "before": "unknown",
+              "after": "compatible with video"
+            }
+          ]
+        }
+      },
+      "3": {
+        "step": "Upload the finished video to YouTube.",
+        "entities": {
+          "video": [
+            {
+              "attribute": "location",
+              "before": "unknown",
+              "after": "on computer"
+            },
+            {
+              "attribute": "upload status",
+              "before": "private",
+              "after": "public"
+            }
+          ],
+          "YouTube": [
+            {
+              "attribute": "availability",
+              "before": "unknown",
+              "after": "available"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

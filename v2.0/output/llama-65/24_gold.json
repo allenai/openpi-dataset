@@ -1,0 +1,289 @@
+{
+    "24": [
+        [
+            [
+                "smoothie",
+                "organization",
+                "seperate",
+                "combined"
+            ],
+            [
+                "blender",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "blender",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "blender",
+                "blender",
+                "empty",
+                "filled with yogurt, bananas, sorbet"
+            ],
+            [
+                "blender",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "sorber",
+                "location",
+                "in tub",
+                "in blender"
+            ],
+            [
+                "yogurt",
+                "location",
+                "in tub",
+                "in blender"
+            ],
+            [
+                "ingredients",
+                "composition",
+                "separate",
+                "mixed/blended"
+            ],
+            [
+                "banana",
+                "location",
+                "in peel",
+                "in blender"
+            ],
+            [
+                "fruit",
+                "temperature",
+                "45 degrees",
+                "32 degrees"
+            ]
+        ],
+        [
+            [
+                "smoothie",
+                "texture",
+                "chunky",
+                "smooth"
+            ],
+            [
+                "blender",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "blender",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "blender",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "blender",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "items",
+                "composition",
+                "whole",
+                "mixed"
+            ]
+        ],
+        [
+            [
+                "rum",
+                "location",
+                "in bottle",
+                "in blender"
+            ],
+            [
+                "rum",
+                "composition",
+                "separate",
+                "mixed with ingredients"
+            ],
+            [
+                "blender",
+                "electric conductivity",
+                "turned off",
+                "turned on"
+            ],
+            [
+                "bottle",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "bottle",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "liquid",
+                "composition",
+                "non-alcoholic",
+                "alcoholic"
+            ]
+        ],
+        [
+            [
+                "smoothie",
+                "smoothie",
+                "in blender",
+                "in glasses"
+            ],
+            [
+                "smoothie",
+                "location",
+                "in blender",
+                "in glass"
+            ],
+            [
+                "blender",
+                "weight",
+                "heavy",
+                "light"
+            ],
+            [
+                "blender",
+                "volume",
+                "full",
+                "empty"
+            ],
+            [
+                "glasses",
+                "volume",
+                "empty",
+                "full"
+            ],
+            [
+                "glasses",
+                "temperature",
+                "warm",
+                "chilled"
+            ],
+            [
+                "glasses",
+                "weight",
+                "light",
+                "heavy"
+            ],
+            [
+                "glasses",
+                "cleanness",
+                "clean",
+                "dirty"
+            ],
+            [
+                "glasses",
+                "moisture",
+                "dry",
+                "wet"
+            ]
+        ],
+        [
+            [
+                "strawberry",
+                "location",
+                "inside refrigerator",
+                "on glass"
+            ],
+            [
+                "glasses",
+                "appearance",
+                "plain",
+                "garnished"
+            ],
+            [
+                "glass",
+                "decoration",
+                "bare rimmed",
+                "decorated/garnished"
+            ]
+        ]
+    ],
+    "25": [
+        [
+            [
+                "suitable paper for pinwheels",
+                "choice",
+                "unselected",
+                "selected"
+            ],
+            [
+                "paper",
+                "knowledge",
+                "unselected",
+                "selected"
+            ]
+        ],
+        [
+            [
+                "pinwheels",
+                "availability",
+                "unmade",
+                "made"
+            ],
+            [
+                "pinwheels",
+                "orientation",
+                "loose",
+                "attached"
+            ],
+            [
+                "paper",
+                "shape",
+                "flat",
+                "folded"
+            ]
+        ],
+        [
+            [
+                "wreath base",
+                "step",
+                "unknown",
+                "chosen"
+            ]
+        ],
+        [
+            [
+                "ribbon",
+                "location",
+                "on spool",
+                "on wreath base"
+            ],
+            [
+                "ribbon",
+                "organization",
+                "loose",
+                "attached"
+            ],
+            [
+                "twine",
+                "location",
+                "on spool",
+                "on wreath base"
+            ],
+            [
+                "twine",
+                "organization",
+                "loose",
+                "attached"
+            ]
+        ],
+        []
+    ]
+}
