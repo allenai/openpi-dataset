@@ -14,11 +14,11 @@ import re
 random.seed(299)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--key', default='harry_ccbft', type=str, help='The name of the OpenAI API key file.')
+parser.add_argument('--key', default='harry_ccb', type=str, help='The name of the OpenAI API key file.')
 parser.add_argument('--input', required=True, type=str, help='Path to the input file.')
 parser.add_argument('--output', required=True, type=str, help='Path to the output file.')
-parser.add_argument('--gs', action="store_true", help='Whether to do global salience prediction.')
-parser.add_argument('--ls', action="store_true", help='Whether to do local salience prediction.')
+parser.add_argument('--no_gs', action="store_true", help='Whether not to do global salience prediction.')
+parser.add_argument('--no_ls', action="store_true", help='Whether not to do local salience prediction.')
 
 args = parser.parse_args()
 openai.api_key = open(f'../../_private/{args.key}.key').read()
@@ -87,7 +87,7 @@ def build_fewshot():
 #     return gen_text
 
 @backoff.on_exception(backoff.expo, (openai.error.RateLimitError, openai.error.APIError, openai.error.Timeout, openai.error.ServiceUnavailableError, openai.error.APIConnectionError))
-def run_chatgpt(prompt, model="gpt-3.5-turbo", temperature=0):
+def run_chatgpt(prompt, model="gpt-4", temperature=0):
     ret = openai.ChatCompletion.create(
         model=model,
         messages=prompt
@@ -174,17 +174,17 @@ if __name__ == "__main__":
         #print(step_states)
         #raise SystemExit
 
-        if args.gs or args.ls:
+        if not args.no_gs or not args.no_ls:
             all_entities = [[ent for ent in s["entities"].keys()] for s in step_states.values()]
             all_entities = [item for sublist in all_entities for item in sublist]
             all_entities = list(set(all_entities))
             print(all_entities)
 
-        if args.gs:
+        if not args.no_gs:
             global_output = predict_global_salience(goal, steps, all_entities)
             print(global_output)
             out_dict[id]["global_salience"] = global_output.copy()
-        if args.ls:
+        if not args.no_ls:
             local_output = predict_local_salience(goal, steps, all_entities)
             #print(local_output)
             out_dict[id]["local_salience"] = local_output.copy()

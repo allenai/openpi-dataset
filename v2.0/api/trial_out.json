@@ -6,16 +6,21 @@
         "entities": {
           "ingredients": [
             {
+              "attribute": "state",
+              "before": "separated",
+              "after": "mixed"
+            },
+            {
               "attribute": "location",
               "before": "unknown",
-              "after": "mixed together"
+              "after": "in bowl"
             }
           ],
-          "mixing bowl": [
+          "bowl": [
             {
-              "attribute": "content",
+              "attribute": "volume",
               "before": "empty",
-              "after": "filled with mixed ingredients"
+              "after": "full"
             }
           ]
         }
@@ -23,23 +28,16 @@
       "1": {
         "step": "Roll into small balls.",
         "entities": {
-          "mixed ingredients": [
+          "carob mixture": [
             {
               "attribute": "shape",
-              "before": "unknown",
-              "after": "ball-shaped"
-            }
-          ],
-          "rolling surface": [
-            {
-              "attribute": "cleanliness",
-              "before": "clean",
-              "after": "dirty"
+              "before": "formless",
+              "after": "round balls"
             },
             {
-              "attribute": "wetness",
-              "before": "dry",
-              "after": "wet"
+              "attribute": "quantity",
+              "before": "one batch",
+              "after": "multiple balls"
             }
           ]
         }
@@ -47,18 +45,23 @@
       "2": {
         "step": "Place in the freezer for half an hour.",
         "entities": {
-          "mixed ingredients": [
+          "carob balls": [
             {
               "attribute": "location",
-              "before": "ball-shaped",
+              "before": "on table",
               "after": "in freezer"
+            },
+            {
+              "attribute": "temperature",
+              "before": "room temperature",
+              "after": "frozen"
             }
           ],
           "freezer": [
             {
-              "attribute": "temperature",
+              "attribute": "volume",
               "before": "unknown",
-              "after": "cold"
+              "after": "less space"
             }
           ]
         }
@@ -66,23 +69,153 @@
       "3": {
         "step": "Serve.",
         "entities": {
-          "mixed ingredients": [
+          "carob balls": [
             {
               "attribute": "location",
               "before": "in freezer",
-              "after": "on plate"
-            }
-          ],
-          "plate": [
-            {
-              "attribute": "cleanliness",
-              "before": "clean",
-              "after": "dirty"
+              "after": "on serving plate"
             }
           ]
         }
       }
-    }
+    },
+    "global_salience": [
+      {
+        "entity": "ingredients",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Ingredients are critical because without them, you cannot make the carob fruit balls."
+      },
+      {
+        "entity": "carob mixture",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - The carob mixture is critical as it forms the base of the recipe, without it, there are no carob fruit balls."
+      },
+      {
+        "entity": "carob balls",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Carob balls are the final product of the recipe, underscoring their utmost importance in the context of the instructions."
+      },
+      {
+        "entity": "freezer",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - A freezer is essential to harden the balls but if not available, a fridge or other cool place could possibly substitute."
+      },
+      {
+        "entity": "bowl",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - A bowl is very important for mixing the ingredients but in its absence, other kitchen utensils or containers could be used."
+      }
+    ],
+    "local_salience": [
+      [
+        {
+          "entity": "ingredients",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The ingredients are essential for this step, as they are needed to be mixed together to make the carob fruit balls."
+        },
+        {
+          "entity": "carob mixture",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The carob mixture is essential in this step since it's a part of the ingredients that need to be mixed together."
+        },
+        {
+          "entity": "bowl",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - A bowl is important to contain and mix all the ingredients together, but if unavailable, other containers could possibly be used."
+        },
+        {
+          "entity": "carob balls",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2 - Carob balls are the end product, and although they're related they are not required in the step of mixing ingredients together."
+        },
+        {
+          "entity": "freezer",
+          "local_salience_pred": 1,
+          "local_salience_explanation": "1 - The freezer isn't needed in this specific step of mixing ingredients together."
+        }
+      ],
+      [
+        {
+          "entity": "ingredients",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - Ingredients are essential for preparing the carob fruit balls, hence they score the highest."
+        },
+        {
+          "entity": "carob mixture",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The carob mixture is absolutely required to shape and roll into small balls."
+        },
+        {
+          "entity": "carob balls",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Carob balls are the final product, and so they are necessary for determining the success of the process. However, you can't actually create them without the carob mixture and the other ingredients."
+        },
+        {
+          "entity": "bowl",
+          "local_salience_pred": 3,
+          "local_salience_explanation": "3 - A bowl would be useful to hold the mixture during the process, but one could potentially manage without it."
+        },
+        {
+          "entity": "freezer",
+          "local_salience_pred": 1,
+          "local_salience_explanation": "1 - A freezer might be used to help the balls set more quickly, but it's not directly necessary for the actual process of rolling the balls."
+        }
+      ],
+      [
+        {
+          "entity": "freezer",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The freezer is essential for this step, as you are required to place the balls in it."
+        },
+        {
+          "entity": "carob mixture",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The carob mixture is extremely important because without it, you wouldn't be able to make the balls that need to be placed in the freezer."
+        },
+        {
+          "entity": "carob balls",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The carob balls are absolutely essential as they are the main component to be placed in the freezer in the mentioned step."
+        },
+        {
+          "entity": "bowl",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2 - A bowl could be useful for holding the carob mixture before it's shaped and placed in the freezer, but it's not directly mentioned or critical to this step."
+        },
+        {
+          "entity": "ingredients",
+          "local_salience_pred": 1,
+          "local_salience_explanation": "1 - Although ingredients are important, they aren't directly relevant to this specific step, which only involves placing something in the freezer."
+        }
+      ],
+      [
+        {
+          "entity": "carob balls",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5. The carob balls are the main object to serve in this step, so they are of prime importance."
+        },
+        {
+          "entity": "carob mixture",
+          "local_salience_pred": 3,
+          "local_salience_explanation": "3. At serving time, the carob mixture should have been formed into balls already, but these are what will be served so they have some importance."
+        },
+        {
+          "entity": "freezer",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2. Depending on whether the Carob Fruit Balls need to be served chilled or not, the freezer might have some importance."
+        },
+        {
+          "entity": "bowl",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2. A bowl could be used to hold the carob fruit balls while serving, but it's not strictly necessary as any serving dish could be used."
+        },
+        {
+          "entity": "ingredients",
+          "local_salience_pred": 1,
+          "local_salience_explanation": "1. The ingredients are already used up by this stage, so they are not important for serving."
+        }
+      ]
+    ]
   },
   "2": {
     "states": {
@@ -92,8 +225,8 @@
           "idea": [
             {
               "attribute": "existence",
-              "before": "unknown",
-              "after": "existent"
+              "before": "nonexistent",
+              "after": "exists"
             }
           ]
         }
@@ -101,35 +234,18 @@
       "1": {
         "step": "Shoot the video using a phone or camera.",
         "entities": {
-          "video": [
+          "video raw footage": [
             {
               "attribute": "existence",
               "before": "nonexistent",
-              "after": "existent"
-            },
-            {
-              "attribute": "quality",
-              "before": "unknown",
-              "after": "high"
+              "after": "exists"
             }
           ],
-          "phone": [
+          "phone or camera": [
             {
-              "attribute": "existence",
-              "before": "unknown",
-              "after": "existent"
-            },
-            {
-              "attribute": "brand",
-              "before": "unknown",
-              "after": "unknown"
-            }
-          ],
-          "camera": [
-            {
-              "attribute": "existence",
-              "before": "unknown",
-              "after": "nonexistent"
+              "attribute": "battery",
+              "before": "full",
+              "after": "depleted"
             }
           ]
         }
@@ -137,28 +253,25 @@
       "2": {
         "step": "Edit the video using some software.",
         "entities": {
-          "video": [
+          "raw video footage": [
             {
-              "attribute": "edit quality",
-              "before": "raw",
-              "after": "polished"
-            },
-            {
-              "attribute": "length",
-              "before": "unknown",
-              "after": "unchanged"
+              "attribute": "state",
+              "before": "unprocessed",
+              "after": "processed"
             }
           ],
-          "software": [
+          "edited video": [
             {
               "attribute": "existence",
               "before": "nonexistent",
-              "after": "existent"
-            },
+              "after": "exists"
+            }
+          ],
+          "editing software": [
             {
-              "attribute": "compatibility",
-              "before": "unknown",
-              "after": "compatible with video"
+              "attribute": "usage",
+              "before": "idle",
+              "after": "used"
             }
           ]
         }
@@ -166,27 +279,209 @@
       "3": {
         "step": "Upload the finished video to YouTube.",
         "entities": {
-          "video": [
+          "edited video": [
             {
               "attribute": "location",
-              "before": "unknown",
-              "after": "on computer"
-            },
-            {
-              "attribute": "upload status",
-              "before": "private",
-              "after": "public"
+              "before": "on local storage",
+              "after": "on YouTube"
             }
           ],
           "YouTube": [
             {
-              "attribute": "availability",
-              "before": "unknown",
-              "after": "available"
+              "attribute": "video count",
+              "before": "N number",
+              "after": "N+1 number"
             }
           ]
         }
       }
-    }
+    },
+    "global_salience": [
+      {
+        "entity": "edited video",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - An edited video is crucial as it is the final product that will be uploaded to YouTube."
+      },
+      {
+        "entity": "idea",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - Having an idea is the most crucial element as it sets the foundation for the video content to be created."
+      },
+      {
+        "entity": "YouTube",
+        "global_salience_pred": 5,
+        "global_salience_explanation": "5 - YouTube is crucial as it is the platform where the final edited video is going to be uploaded and viewed."
+      },
+      {
+        "entity": "raw video footage",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Raw video footage is very important because without it, there would be nothing to edit and upload to YouTube."
+      },
+      {
+        "entity": "editing software",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Editing software is necessary to polish the raw footage into the final video product for uploading."
+      },
+      {
+        "entity": "phone or camera",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - A phone or a camera is essential as they are used to capture the raw video footage."
+      },
+      {
+        "entity": "video raw footage",
+        "global_salience_pred": 4,
+        "global_salience_explanation": "4 - Video raw footage is very substantial, since it is the basic material which will be edited into the final video for upload."
+      }
+    ],
+    "local_salience": [
+      [
+        {
+          "entity": "edited video",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - An edited video is crucial because without it, you will not be able to complete the step of uploading a video on YouTube."
+        },
+        {
+          "entity": "idea",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - Having an idea is essential for this step, as without it, there will be no basis or direction for your video."
+        },
+        {
+          "entity": "raw video footage",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Raw video footage is important, but it needs to be edited and processed before it can be uploaded on YouTube."
+        },
+        {
+          "entity": "editing software",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Editing software is important for finishing the video prior to upload but it does not directly correlate with the ideation process."
+        },
+        {
+          "entity": "video raw footage",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Video raw footage is important as it's the foundation of the final product, but it needs to be edited before upload."
+        },
+        {
+          "entity": "phone or camera",
+          "local_salience_pred": 3,
+          "local_salience_explanation": "3 - A phone or camera is needed to record the raw footage, but it's not directly important to the ideation step."
+        },
+        {
+          "entity": "YouTube",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2 - While YouTube is where the video will be uploaded, its direct importance to the ideation process is limited."
+        }
+      ],
+      [
+        {
+          "entity": "edited video",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5, The edited video is essential because it is the final product that will be uploaded to YouTube."
+        },
+        {
+          "entity": "raw video footage",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5, Raw video footage is of utmost importance as it serves as the basic content which will be edited to form the final video."
+        },
+        {
+          "entity": "phone or camera",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5, A phone or camera is crucial since they are the tools used to shoot the video."
+        },
+        {
+          "entity": "video raw footage",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5, Video raw footage is essential because it is what will be edited and refined to create the final video for upload."
+        },
+        {
+          "entity": "editing software",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4, An editing software is important for refining the raw footage but not mandatory as the raw video could potentially be uploaded directly."
+        },
+        {
+          "entity": "idea",
+          "local_salience_pred": 3,
+          "local_salience_explanation": "3, An idea is important for the content of the video but technically not required to physically shoot the video."
+        },
+        {
+          "entity": "YouTube",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2, YouTube is not necessary for the specifics of this step which involves shooting the video, but it will be critical for the overall process of uploading."
+        }
+      ],
+      [
+        {
+          "entity": "edited video",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - An edited video is a crucial requirement to complete this step as without it, there's nothing to upload."
+        },
+        {
+          "entity": "raw video footage",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - Raw video footage is essential for you to edit and create the final video to upload on YouTube."
+        },
+        {
+          "entity": "editing software",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - Editing software is a must-have tool to edit your raw footage and create a final video for upload."
+        },
+        {
+          "entity": "YouTube",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - YouTube is the platform where the video is to be uploaded, thus making it essential for this process."
+        },
+        {
+          "entity": "video raw footage",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - Video raw footage is essentially the base material that you would be working with to create your final edited video. Without it, there would be no content to edit and upload."
+        },
+        {
+          "entity": "phone or camera",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - While a phone or camera is instrumental to capture raw footage, in cases where the video is based on screen recording or using third party content, it may not be necessary."
+        },
+        {
+          "entity": "idea",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - An idea is important to shape what you want to create, however, the lack of an idea doesn't prevent you from editing or uploading a video."
+        }
+      ],
+      [
+        {
+          "entity": "edited video",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - The edited video is absolutely essential for this step as you cannot upload a video to YouTube without an actual video file."
+        },
+        {
+          "entity": "YouTube",
+          "local_salience_pred": 5,
+          "local_salience_explanation": "5 - YouTube is the platform where the video is being uploaded, it's the critical endpoint of this step."
+        },
+        {
+          "entity": "raw video footage",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Raw video footage is important as it forms the basis of the edited video, but it itself isn't directly uploaded to YouTube."
+        },
+        {
+          "entity": "video raw footage",
+          "local_salience_pred": 4,
+          "local_salience_explanation": "4 - Raw video footage is crucial as it is the unprocessed source of your video, although it doesn't get uploaded directly in this step."
+        },
+        {
+          "entity": "editing software",
+          "local_salience_pred": 3,
+          "local_salience_explanation": "3 - An editing software is used to create the finished video from raw footage, but it's not directly involved in the uploading process."
+        },
+        {
+          "entity": "phone or camera",
+          "local_salience_pred": 2,
+          "local_salience_explanation": "2 - A phone or camera is used to film original footage but is not necessarily involved in the uploading process in this step."
+        },
+        {
+          "entity": "idea",
+          "local_salience_pred": 1,
+          "local_salience_explanation": "1 - An idea is important for creating content, but it does not play a direct role in the specific step of uploading the video to YouTube."
+        }
+      ]
+    ]
   }
 }
