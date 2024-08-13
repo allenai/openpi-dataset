@@ -29,7 +29,10 @@ Output:
 4. The predicted local entity salience of each step
 
 ## Dataset
-The all-in-one OpenPI2.0 dev set is `data/dev-data-reformatted-v4_pred-salience-gpt-4-1106-preview.json`. 
+The all-in-one OpenPI2.0 dev data are:
+- [Training set](data/train-data-reformatted-v4_pred-salience-gpt-4.json)
+- [Development set](data/dev-data-reformatted-v4_pred-salience-gpt-4.json)
+- [Testing set](data/test-data-reformatted-v4_pred-salience-gpt-4.json)
 
 ### Canonicalization
 The resulting data file with entity and attribute clusters is `data/dev-data-reformatted-v4.json` for the development set. Those for the train and test sets are coming soon.
