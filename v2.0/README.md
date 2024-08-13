@@ -61,12 +61,22 @@ To evaluate the salience labels by correlation:
 ## Citation
 If you find our work helpful, please cite
 ```
-@misc{zhang2023openpi20,
-      title={OpenPI2.0: An Improved Dataset for Entity Tracking in Texts}, 
-      author={Li Zhang and Hainiu Xu and Abhinav Kommula and Niket Tandon and Chris Callison-Burch},
-      year={2023},
-      eprint={2305.14603},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{zhang-etal-2024-openpi2,
+    title = "{O}pen{PI}2.0: An Improved Dataset for Entity Tracking in Texts",
+    author = "Zhang, Li  and
+      Xu, Hainiu  and
+      Kommula, Abhinav  and
+      Callison-Burch, Chris  and
+      Tandon, Niket",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-long.10",
+    pages = "166--178",
+    abstract = "Much texts describe a changing world (e.g., procedures, stories, newswires), and understanding them requires tracking how entities change. An earlier dataset, OpenPI, provided crowdsourced annotations of entity state changes in text. However, a major limitation was that those annotations were free-form and did not identify salient changes, hampering model evaluation. To overcome these limitations, we present an improved dataset, OpenPI2.0, where entities and attributes are fully canonicalized and additional entity salience annotations are added. On our fairer evaluation setting, we find that current state-of-the-art language models are far from competent. We also show that using state changes of salient entities as a chain-of-thought prompt, downstream performance is improved on tasks such as question answering and classical planning, outperforming the setting involving all related entities indiscriminately. We offer OpenPI2.0 for the continued development of models that can understand the dynamics of entities in text.",
 }
 ```
